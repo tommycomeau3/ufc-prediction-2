@@ -1,0 +1,126 @@
+# UFC Prediction ML System Configuration
+
+# Data paths
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  features_data: "data/features"
+  models: "models"
+  
+# Data collection settings
+scraping:
+  base_url: "http://ufcstats.com"
+  rate_limit_delay: 2  # seconds between requests
+  timeout: 30  # request timeout in seconds
+  retry_attempts: 3
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  
+# Data preprocessing settings
+preprocessing:
+  missing_value_strategy: "fill_zero"  # options: fill_zero, drop, forward_fill
+  normalize_numeric: true
+  date_format: "%Y-%m-%d"
+  
+# Feature engineering settings
+features:
+  # Basic features
+  include_basic_stats: true
+  include_record: true
+  include_finish_types: true  # KO, TKO, Submission counts
+  
+  # Advanced features
+  include_striking_stats: true
+  include_takedown_stats: true
+  include_recent_form: true
+  recent_form_window: 5  # number of recent fights to consider
+  
+  # Head-to-head features
+  include_physical_stats: true  # height, reach, age differences
+  include_advantage_metrics: true  # comparing fighter stats
+  
+  # Derived features
+  include_streaks: true  # win/loss streaks
+  include_fight_frequency: true
+  include_avg_fight_duration: true
+  
+# Model settings
+models:
+  # Train/test split
+  test_size: 0.2
+  random_state: 42
+  use_time_based_split: true  # split by fight date instead of random
+  
+  # Cross-validation
+  cv_folds: 5
+  
+  # Hyperparameter tuning
+  tune_hyperparameters: true
+  n_iter: 50  # for RandomizedSearchCV
+  
+  # Models to train
+  random_forest:
+    enabled: true
+    n_estimators: [100, 200, 500]
+    max_depth: [10, 20, 30, None]
+    min_samples_split: [2, 5, 10]
+    min_samples_leaf: [1, 2, 4]
+    
+  gradient_boosting:
+    enabled: true
+    n_estimators: [100, 200, 300]
+    learning_rate: [0.01, 0.1, 0.2]
+    max_depth: [3, 5, 7]
+    
+  logistic_regression:
+    enabled: true
+    C: [0.001, 0.01, 0.1, 1, 10, 100]
+    penalty: ["l1", "l2"]
+    solver: ["liblinear", "saga"]
+    
+  svm:
+    enabled: false  # Can be slow with large datasets
+    C: [0.1, 1, 10, 100]
+    kernel: ["rbf", "linear"]
+    gamma: ["scale", "auto"]
+    
+  xgboost:
+    enabled: true
+    n_estimators: [100, 200, 300]
+    max_depth: [3, 5, 7]
+    learning_rate: [0.01, 0.1, 0.2]
+    subsample: [0.8, 1.0]
+    
+  lightgbm:
+    enabled: true
+    n_estimators: [100, 200, 300]
+    max_depth: [3, 5, 7]
+    learning_rate: [0.01, 0.1, 0.2]
+    num_leaves: [31, 50, 100]
+
+# Evaluation settings
+evaluation:
+  metrics:
+    - accuracy
+    - precision
+    - recall
+    - f1_score
+    - roc_auc
+    
+  save_plots: true
+  plots_path: "plots"
+  
+  # Feature importance
+  show_feature_importance: true
+  top_n_features: 20
+  
+# Output settings
+output:
+  save_models: true
+  save_predictions: true
+  predictions_file: "data/predictions.csv"
+  
+# Logging
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  log_file: "logs/ufc_prediction.log"
+

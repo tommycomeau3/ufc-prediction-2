@@ -1,0 +1,133 @@
+{
+  "url": "http://ufcstats.com/fighter-details/275aca31f61ba28c",
+  "stats": {
+    "name": "Islam Makhachev",
+    "record": "28-1-0",
+    "wins": 28,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Oct 27, 1991",
+    "strikes_landed_per_min": 2.45,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.45,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.56,
+    "takedown_defense": 0.91,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jack Della Maddalena",
+      "result": "win",
+      "date": "Nov. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Renato Moicano",
+      "result": "win",
+      "date": "Jan. 18, 2025",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Dustin Poirier",
+      "result": "win",
+      "date": "Jun. 01, 2024",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Alexander Volkanovski",
+      "result": "win",
+      "date": "Oct. 21, 2023",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Alexander Volkanovski",
+      "result": "win",
+      "date": "Feb. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Oliveira",
+      "result": "win",
+      "date": "Oct. 22, 2022",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "King Green",
+      "result": "win",
+      "date": "Feb. 26, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Dan Hooker",
+      "result": "win",
+      "date": "Oct. 30, 2021",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Thiago Moises",
+      "result": "win",
+      "date": "Jul. 17, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Drew Dober",
+      "result": "win",
+      "date": "Mar. 06, 2021",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Davi Ramos",
+      "result": "win",
+      "date": "Sep. 07, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Arman Tsarukyan",
+      "result": "win",
+      "date": "Apr. 20, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kajan Johnson",
+      "result": "win",
+      "date": "Jul. 28, 2018",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Gleison Tibau",
+      "result": "win",
+      "date": "Jan. 20, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Nik Lentz",
+      "result": "win",
+      "date": "Feb. 11, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Wade",
+      "result": "win",
+      "date": "Sep. 17, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Adriano Martins",
+      "result": "loss",
+      "date": "Oct. 03, 2015",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Leo Kuntz",
+      "result": "win",
+      "date": "May. 23, 2015",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}
