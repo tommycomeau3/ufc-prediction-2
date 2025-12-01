@@ -71,20 +71,29 @@ class UFCScraper:
         Returns:
             Response object or None if request failed
         """
+        # Try the request multiple times (based on retry_attempts)
         for attempt in range(self.retry_attempts):
             try:
+                # To avoid being blocked, we need to wait for the rate limit delay
                 time.sleep(self.rate_limit_delay)
+                # Send the request (includes session, agent, and timeout)
                 response = self.session.get(url, timeout=self.timeout)
+                # Raise an exception if the request failed
                 response.raise_for_status()
+                # Return the response
                 return response
+            # This exception is raised if the request failed
             except requests.exceptions.RequestException as e:
+                # Log the error
                 logger.warning(f"Request failed (attempt {attempt + 1}/{self.retry_attempts}): {e}")
+                # If this is the last attempt, log the error and return None
                 if attempt == self.retry_attempts - 1:
                     logger.error(f"Failed to fetch {url} after {self.retry_attempts} attempts")
                     return None
+                # Otherwise, wait for the rate limit delay multiplied by the attempt number (give server some time to recover)
                 time.sleep(self.rate_limit_delay * (attempt + 1))
         return None
-    
+    # Takes in a BeautifulSoup object of the fighter page and returns a dictionary of the fighter's statistics
     def _parse_fighter_stats(self, soup: BeautifulSoup) -> Dict:
         """Parse fighter statistics from fighter detail page.
         
@@ -94,29 +103,38 @@ class UFCScraper:
         Returns:
             Dictionary containing fighter statistics
         """
+        # Initialize an empty dictionary to hold parsed statistics
         stats = {}
-        
+        # Try to parse the statistics
         try:
-            # Extract fighter name
+            # Find the first span with the class 'b-content__title-highlight' and extract the text
             name_elem = soup.find('span', class_='b-content__title-highlight')
+            # If the name element is found, add the name to the statistics dictionary (get_text(strip=True) removes whitespace)
             if name_elem:
                 stats['name'] = name_elem.get_text(strip=True)
             
-            # Extract record (W-L-D)
+            # Find the span with the class 'b-content__title-record' and extract the text
             record_elem = soup.find('span', class_='b-content__title-record')
+            # If the record element is found, add the record to the statistics dictionary (get_text(strip=True) removes whitespace)
             if record_elem:
                 record_text = record_elem.get_text(strip=True)
+                # Remove the 'Record: ' prefix from the record text
                 stats['record'] = record_text.replace('Record: ', '')
+                # Parse the record text into wins, losses, and draws
                 # Parse W-L-D
                 if '-' in stats['record']:
+                    # Split the record text into wins, losses, and draws
                     parts = stats['record'].split('-')
+                    # If there are at least 2 parts, add the wins, losses, and draws to the statistics dictionary
                     if len(parts) >= 2:
+                        # Add the wins to the statistics dictionary
                         stats['wins'] = int(parts[0].strip())
                         stats['losses'] = int(parts[1].strip())
                         stats['draws'] = int(parts[2].strip()) if len(parts) > 2 else 0
             
-            # Extract physical stats
+            # Finds the FIRST div with the class 'b-list__info-box' and extracts the text of the list items
             stats_table = soup.find('div', class_='b-list__info-box')
+            # If the stats table is found, extract the text of the list items
             if stats_table:
                 items = stats_table.find_all('li', class_='b-list__box-list-item')
                 for item in items:
