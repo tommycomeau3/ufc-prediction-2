@@ -136,48 +136,68 @@ class UFCScraper:
             stats_table = soup.find('div', class_='b-list__info-box')
             # If the stats table is found, extract the text of the list items
             if stats_table:
+                # Find all list items with the class 'b-list__box-list-item'
                 items = stats_table.find_all('li', class_='b-list__box-list-item')
+                # Go through each soup object and extract the text
                 for item in items:
+                   # Get the text of the list item and remove whitespace
                     text = item.get_text(strip=True)
+                    # If the text contains 'Height:', add the height to the statistics dictionary
                     if 'Height:' in text:
                         stats['height'] = text.replace('Height:', '').strip()
+                    # If the text contains 'Weight:', add the weight to the statistics dictionary
                     elif 'Weight:' in text:
                         stats['weight'] = text.replace('Weight:', '').strip()
+                    # If the text contains 'Reach:', add the reach to the statistics dictionary
                     elif 'Reach:' in text:
                         stats['reach'] = text.replace('Reach:', '').strip()
+                    # If the text contains 'STANCE:', add the stance to the statistics dictionary
                     elif 'STANCE:' in text:
                         stats['stance'] = text.replace('STANCE:', '').strip()
+                    # If the text contains 'DOB:', add the date of birth to the statistics dictionary
                     elif 'DOB:' in text:
                         stats['dob'] = text.replace('DOB:', '').strip()
             
-            # Extract career statistics
+            # Finds all divs with the class 'b-list__info-box-left' and extracts the text of the list items
             career_stats = soup.find_all('div', class_='b-list__info-box-left')
+            # Go through each stat box and extract the text of the list items
             for stat_box in career_stats:
+                
                 items = stat_box.find_all('li', class_='b-list__box-list-item')
                 for item in items:
+                    # Get the text of the list item and remove whitespace
                     text = item.get_text(strip=True)
+                    # If the text contains 'SLpM:', add the strikes landed per minute to the statistics dictionary
                     if 'SLpM:' in text:
                         stats['strikes_landed_per_min'] = self._extract_number(text)
+                    # If the text contains 'Str. Acc.:', add the striking accuracy to the statistics dictionary
                     elif 'Str. Acc.:' in text:
                         stats['striking_accuracy'] = self._extract_number(text.replace('%', ''))
+                    # If the text contains 'SApM:', add the strikes absorbed per minute to the statistics dictionary
                     elif 'SApM:' in text:
                         stats['strikes_absorbed_per_min'] = self._extract_number(text)
+                    # If the text contains 'Str. Def.:', add the striking defense to the statistics dictionary
                     elif 'Str. Def:' in text:
                         stats['striking_defense'] = self._extract_number(text.replace('%', ''))
+                    # If the text contains 'TD Avg.:', add the takedown average to the statistics dictionary
                     elif 'TD Avg.:' in text:
                         stats['takedown_average'] = self._extract_number(text)
+                    # If the text contains 'TD Acc.:', add the takedown accuracy to the statistics dictionary
                     elif 'TD Acc.:' in text:
                         stats['takedown_accuracy'] = self._extract_number(text.replace('%', ''))
+                    # If the text contains 'TD Def.:', add the takedown defense to the statistics dictionary
                     elif 'TD Def.:' in text:
                         stats['takedown_defense'] = self._extract_number(text.replace('%', ''))
+                    # If the text contains 'Sub. Avg.:', add the submission average to the statistics dictionary
                     elif 'Sub. Avg.:' in text:
                         stats['submission_average'] = self._extract_number(text)
-            
+        # If an error occurs, log the error
         except Exception as e:
             logger.error(f"Error parsing fighter stats: {e}")
-        
+        # Return the statistics dictionary
         return stats
     
+    # Takes a string and returns a float if the string is a number otherwise returns None
     def _extract_number(self, text: str) -> Optional[float]:
         """Extract numeric value from text string.
         
@@ -190,8 +210,10 @@ class UFCScraper:
         try:
             # Remove common non-numeric characters except decimal point and minus
             cleaned = ''.join(c for c in text if c.isdigit() or c == '.' or c == '-')
+            # If the cleaned string is not empty it returns a float of the string
             if cleaned:
                 return float(cleaned)
+        # If something goes wrong, return None
         except (ValueError, AttributeError):
             pass
         return None
@@ -205,83 +227,106 @@ class UFCScraper:
         Returns:
             List of dictionaries containing fight information
         """
+        # Initialize an empty list to hold the fight information
         fights = []
         
         try:
-            # Find fight history table
+            # Find the first table with class 'b-fight-details__table'
             fight_table = soup.find('table', class_='b-fight-details__table')
+            # Return an empty list if fight table does not exist
             if not fight_table:
                 return fights
-            
+            # Finds the tbody of the fight table and finds all trs with the class 'b-fight-details__table-row'
             rows = fight_table.find('tbody').find_all('tr', class_='b-fight-details__table-row')
-            
+            # Go through each row in rows and extract the fight information
             for row in rows:
+                # Initialize an empty dictionary to hold the fight information
                 fight = {}
                 
-                # Get all table cells in order
+                # Find all td with the class 'b-fight-details__table-col'
                 cells = row.find_all('td', class_='b-fight-details__table-col')
                 
-                # Extract opponent name (usually in first cell with links)
+                # Finds all a with the class 'b-link' and extracts the text
                 opponent_links = row.find_all('a', class_='b-link')
+                # If there are at least 2 opponent links, add the second link's text to the fight dictionary
                 if len(opponent_links) >= 2:
                     fight['opponent'] = opponent_links[1].get_text(strip=True)
                 
                 # Extract result (Win/Loss/Draw/NC) - first p tag with result class
                 result_elems = row.find_all('p', class_='b-fight-details__table-text')
+                # If the result elements are found, add the result to the fight dictionary
                 if result_elems:
                     # First element is usually the result (Win/Loss)
                     result_text = result_elems[0].get_text(strip=True)
+                    # Add the result to the fight dictionary and convert to lowercase
                     fight['result'] = result_text.lower() if result_text else 'N/A'
                 
                 # Parse each cell to extract method, round, date, etc.
                 for cell in cells:
+                    # Extract the text of the cell and remove whitespace
                     cell_text = cell.get_text(strip=True)
                     
                     # Look for date in the cell (dates contain month abbreviations)
                     month_abbrevs = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 
                                     'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+                    # Checks if any of the month abbreviations are in the cell text
                     if any(month in cell_text for month in month_abbrevs):
-                        # Date found - extract it from the p tags in this cell
+                        # Find all p tags with the class 'b-fight-details__table-text'
                         date_p_tags = cell.find_all('p', class_='b-fight-details__table-text')
+                        
+                        # Go through each p tag and extract the text
                         for p_tag in date_p_tags:
+                            # Get the text of the p tag and remove whitespace
                             p_text = p_tag.get_text(strip=True)
+                            # Checks if any of the month abbreviations are in the p text
                             if any(month in p_text for month in month_abbrevs):
+                                # Add the date to the fight dictionary
                                 fight['date'] = p_text
                                 break
                     
-                    # Look for method in cell (method cells contain method types)
+                    # Find all p tags with the class 'b-fight-details__table-text'
                     p_tags = cell.find_all('p', class_='b-fight-details__table-text')
+                    # Make sure there are at least 2 p tags
                     if len(p_tags) >= 2:
-                        # Check if this looks like a method cell (has method abbreviation and description)
+                        # Strips whitespace and converts to uppercase
                         first_p = p_tags[0].get_text(strip=True).upper()
+                        # Strips whitespace
                         second_p = p_tags[1].get_text(strip=True)
                         
-                        # Method indicators
+                        # Check for method
                         if first_p in ['KO/TKO', 'SUB', 'DEC', 'DQ', 'NC']:
+                            # If the first p tag is a submission, add the method to the fight dictionary
                             if first_p == 'SUB':
                                 fight['method'] = f"Submission ({second_p})" if second_p else "Submission"
+                            # If the first p tag is a decision, add the method to the fight dictionary
                             elif first_p == 'DEC':
                                 fight['method'] = f"Decision ({second_p})" if second_p else "Decision"
+                            # If the first p tag is a KO/TKO, add the method to the fight dictionary
                             elif first_p in ['KO/TKO']:
                                 fight['method'] = f"{first_p} ({second_p})" if second_p else first_p
+                            # If the first p tag is a DQ, add the method to the fight dictionary
                             else:
                                 fight['method'] = first_p if second_p == '' else f"{first_p} ({second_p})"
                     
-                    # Look for round information
+                    # Checks if the cell text contains 'Round' or 'Rd'
                     if 'Round' in cell_text or 'Rd' in cell_text:
+                        # Save the cell text to the round text
                         round_text = cell_text
+                        # Extract the number from the round text
                         round_num = self._extract_number(round_text)
+                        # If the round number is found, add it to the fight dictionary
                         if round_num:
                             fight['round'] = int(round_num)
                 
-                # Set defaults if not found
+                # If the date is not found, add 'N/A' to the fight dictionary
                 if 'date' not in fight:
                     fight['date'] = 'N/A'
+                # If the method is not found, add 'N/A' to the fight dictionary
                 if 'method' not in fight:
                     fight['method'] = 'N/A'
-                
+                # Add the fight dictionary to the list of fights
                 fights.append(fight)
-                
+        # If an error occurs, log the error and print the traceback
         except Exception as e:
             logger.error(f"Error parsing fight history: {e}")
             import traceback
