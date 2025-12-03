@@ -334,6 +334,7 @@ class UFCScraper:
         
         return fights
     
+    # Take in a fighter's URL and return a BeautifulSoup object of the fighter's page
     def get_fighter_page_url(self, fighter_url: str) -> Optional[BeautifulSoup]:
         """Fetch and parse a fighter's detail page.
         
@@ -343,11 +344,15 @@ class UFCScraper:
         Returns:
             BeautifulSoup object or None if failed
         """
+        # Make a request to the fighter's URL (calls _make_request)
         response = self._make_request(fighter_url)
+        # If the response is successful, return a BeautifulSoup object of the content
         if response:
+            # Return a BeautifulSoup object of the content
             return BeautifulSoup(response.content, 'lxml')
         return None
     
+    # Take in a fighter's URL and return a dictionary of the fighter's data
     def scrape_fighter(self, fighter_url: str) -> Optional[Dict]:
         """Scrape complete fighter data including stats and fight history.
         
@@ -357,15 +362,20 @@ class UFCScraper:
         Returns:
             Dictionary containing all fighter data or None if failed
         """
+        # Print the fighter's URL
         logger.info(f"Scraping fighter: {fighter_url}")
-        
+        # Getting the BeautifulSoup object of the fighter's page
         soup = self.get_fighter_page_url(fighter_url)
         if not soup:
             return None
         
+        # Creating a dictionary of the fighter's data
         fighter_data = {
+            # Add the fighter's URL to the dictionary
             'url': fighter_url,
+            # Add the fighter's statistics to the dictionary
             'stats': self._parse_fighter_stats(soup),
+            # Add the fighter's fight history to the dictionary
             'fight_history': self._parse_fight_history(soup)
         }
         
