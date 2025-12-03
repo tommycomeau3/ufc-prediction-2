@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/8677e67a75d65b8e",
+  "stats": {
+    "name": "Baergeng Jieleyisi",
+    "record": "18-7-0",
+    "wins": 18,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Nov 24, 1995",
+    "strikes_landed_per_min": 1.61,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.62,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.38,
+    "takedown_defense": 0.78,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Sebastian Szalay",
+      "result": "loss",
+      "date": "May. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "SuYoung You",
+      "result": "loss",
+      "date": "Nov. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tokitaka Nakanishi",
+      "result": "win",
+      "date": "Aug. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Li Yunfeng",
+      "result": "win",
+      "date": "May. 19, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Shuya Kamikubo",
+      "result": "loss",
+      "date": "May. 28, 2023",
+      "method": "N/A"
+    }
+  ]
+}

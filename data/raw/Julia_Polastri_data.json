@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/abb68e3c7ca128f2",
+  "stats": {
+    "name": "Julia Polastri",
+    "record": "14-5-0",
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 2\"",
+    "weight": "115 lbs.",
+    "reach": "64\"",
+    "stance": "Orthodox",
+    "dob": "Mar 05, 1998",
+    "strikes_landed_per_min": 6.4,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.4,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.8,
+    "takedown_defense": 0.6,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Karolina Kowalkiewicz",
+      "result": "win",
+      "date": "Oct. 11, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Loopy Godinez",
+      "result": "loss",
+      "date": "Mar. 29, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cory McKenna",
+      "result": "win",
+      "date": "Oct. 12, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josefine Knutsson",
+      "result": "loss",
+      "date": "Jun. 15, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Patricia Alujas",
+      "result": "win",
+      "date": "Sep. 12, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jasmine Jasudavicius",
+      "result": "loss",
+      "date": "Sep. 14, 2021",
+      "method": "N/A"
+    }
+  ]
+}

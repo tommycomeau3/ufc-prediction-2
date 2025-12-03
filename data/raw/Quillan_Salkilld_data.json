@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/17734443a833cdf7",
+  "stats": {
+    "name": "Quillan Salkilld",
+    "record": "10-1-0",
+    "wins": 10,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "155 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Dec 28, 1999",
+    "strikes_landed_per_min": 5.49,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.5,
+    "striking_defense": 0.43,
+    "takedown_average": null,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Nasrat Haqparast",
+      "result": "win",
+      "date": "Oct. 25, 2025",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Yanal Ashmouz",
+      "result": "win",
+      "date": "Jun. 07, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anshul Jubli",
+      "result": "win",
+      "date": "Feb. 08, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Gauge Young",
+      "result": "win",
+      "date": "Sep. 03, 2024",
+      "method": "N/A"
+    }
+  ]
+}

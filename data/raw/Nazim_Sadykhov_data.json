@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/ff62013d2fce6d13",
+  "stats": {
+    "name": "Nazim Sadykhov",
+    "record": "11-1-1",
+    "wins": 11,
+    "losses": 1,
+    "draws": 1,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Southpaw",
+    "dob": "May 16, 1994",
+    "strikes_landed_per_min": 5.55,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.89,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.55,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Fares Ziam",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nikolas Motta",
+      "result": "win",
+      "date": "Jun. 21, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ismael Bonfim",
+      "result": "win",
+      "date": "Feb. 15, 2025",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Viacheslav Borshchev",
+      "result": "draw",
+      "date": "Nov. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Terrance McKinney",
+      "result": "win",
+      "date": "Jul. 15, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Evan Elder",
+      "result": "win",
+      "date": "Feb. 18, 2023",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Ahmad Hassanzada",
+      "result": "win",
+      "date": "Aug. 16, 2022",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

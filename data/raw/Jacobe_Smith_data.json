@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/85497ffd934ecf7e",
+  "stats": {
+    "name": "Jacobe Smith",
+    "record": "11-0-0",
+    "wins": 11,
+    "losses": 0,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "72\"",
+    "stance": "Southpaw",
+    "dob": "Jan 17, 1996",
+    "strikes_landed_per_min": 6.21,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.86,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.9,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Niko Price",
+      "result": "win",
+      "date": "Jun. 28, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Preston Parsons",
+      "result": "win",
+      "date": "Jan. 11, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Christien Savoie",
+      "result": "win",
+      "date": "Oct. 01, 2024",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

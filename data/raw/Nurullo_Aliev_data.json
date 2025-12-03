@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/ca28cdf526d6b6e9",
+  "stats": {
+    "name": "Nurullo Aliev",
+    "record": "11-0-0",
+    "wins": 11,
+    "losses": 0,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Dec 08, 2000",
+    "strikes_landed_per_min": 2.72,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.63,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.43,
+    "takedown_defense": 0.8,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Shem Rock",
+      "result": "win",
+      "date": "Nov. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joe Solecki",
+      "result": "win",
+      "date": "Jan. 11, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rafael Alves",
+      "result": "win",
+      "date": "Feb. 25, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Wick",
+      "result": "win",
+      "date": "Sep. 20, 2022",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

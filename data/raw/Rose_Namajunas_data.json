@@ -1,0 +1,139 @@
+{
+  "url": "http://ufcstats.com/fighter-details/47b63240018d5d86",
+  "stats": {
+    "name": "Rose Namajunas",
+    "record": "15-7-0",
+    "wins": 15,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 5\"",
+    "weight": "125 lbs.",
+    "reach": "65\"",
+    "stance": "Orthodox",
+    "dob": "Jun 29, 1992",
+    "strikes_landed_per_min": 3.6,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.38,
+    "striking_defense": 0.63,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.62,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Alexa Grasso",
+      "result": "next",
+      "date": "Jan. 24, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Miranda Maverick",
+      "result": "win",
+      "date": "Jun. 14, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Erin Blanchfield",
+      "result": "loss",
+      "date": "Nov. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tracy Cortez",
+      "result": "win",
+      "date": "Jul. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amanda Ribas",
+      "result": "win",
+      "date": "Mar. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Manon Fiorot",
+      "result": "loss",
+      "date": "Sep. 02, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carla Esparza",
+      "result": "loss",
+      "date": "May. 07, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zhang Weili",
+      "result": "win",
+      "date": "Nov. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zhang Weili",
+      "result": "win",
+      "date": "Apr. 24, 2021",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Jessica Andrade",
+      "result": "win",
+      "date": "Jul. 11, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jessica Andrade",
+      "result": "loss",
+      "date": "May. 11, 2019",
+      "method": "KO/TKO (Slam)"
+    },
+    {
+      "opponent": "Joanna Jedrzejczyk",
+      "result": "win",
+      "date": "Apr. 07, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joanna Jedrzejczyk",
+      "result": "win",
+      "date": "Nov. 04, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Michelle Waterson-Gomez",
+      "result": "win",
+      "date": "Apr. 15, 2017",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Karolina Kowalkiewicz",
+      "result": "loss",
+      "date": "Jul. 30, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tecia Pennington",
+      "result": "win",
+      "date": "Apr. 16, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paige VanZant",
+      "result": "win",
+      "date": "Dec. 10, 2015",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Angela Hill",
+      "result": "win",
+      "date": "Oct. 03, 2015",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Carla Esparza",
+      "result": "loss",
+      "date": "Dec. 12, 2014",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b1f21ce050035d58",
+  "stats": {
+    "name": "Andre Lima",
+    "record": "11-0-0",
+    "wins": 11,
+    "losses": 0,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Feb 04, 1999",
+    "strikes_landed_per_min": 4.06,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.49,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.75,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Daniel Barez",
+      "result": "win",
+      "date": "Mar. 15, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Felipe dos Santos",
+      "result": "win",
+      "date": "Sep. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mitch Raposo",
+      "result": "win",
+      "date": "Jun. 01, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Igor Severino",
+      "result": "win",
+      "date": "Mar. 23, 2024",
+      "method": "DQ"
+    },
+    {
+      "opponent": "Rickson Zenidim",
+      "result": "win",
+      "date": "Oct. 10, 2023",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e4a47b07044ddd72",
+  "stats": {
+    "name": "Ignacio Bahamondes",
+    "record": "17-6-0",
+    "wins": 17,
+    "losses": 6,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "155 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Aug 27, 1997",
+    "strikes_landed_per_min": 6.55,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.33,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rafael Fiziev",
+      "result": "loss",
+      "date": "Jun. 21, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jalin Turner",
+      "result": "win",
+      "date": "Mar. 08, 2025",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Manuel Torres",
+      "result": "win",
+      "date": "Sep. 14, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Christos Giagos",
+      "result": "win",
+      "date": "Apr. 06, 2024",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Ludovit Klein",
+      "result": "loss",
+      "date": "Aug. 05, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Trey Ogden",
+      "result": "win",
+      "date": "Apr. 08, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rongzhu",
+      "result": "win",
+      "date": "Feb. 26, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Roosevelt Roberts",
+      "result": "win",
+      "date": "Aug. 21, 2021",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "John Makdessi",
+      "result": "loss",
+      "date": "Apr. 10, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Edson Gomez",
+      "result": "win",
+      "date": "Nov. 04, 2020",
+      "method": "KO/TKO (Kick)"
+    }
+  ]
+}

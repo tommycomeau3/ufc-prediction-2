@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a9e260472d321361",
+  "stats": {
+    "name": "Jasmine Jasudavicius",
+    "record": "14-4-0",
+    "wins": 14,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Mar 01, 1989",
+    "strikes_landed_per_min": 3.7,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.71,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.44,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Manon Fiorot",
+      "result": "loss",
+      "date": "Oct. 18, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jessica Andrade",
+      "result": "win",
+      "date": "May. 10, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Mayra Bueno Silva",
+      "result": "win",
+      "date": "Feb. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ariane da Silva",
+      "result": "win",
+      "date": "Nov. 02, 2024",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Fatima Kline",
+      "result": "win",
+      "date": "Jul. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Priscila Cachoeira",
+      "result": "win",
+      "date": "Jan. 20, 2024",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Tracy Cortez",
+      "result": "loss",
+      "date": "Sep. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Miranda Maverick",
+      "result": "win",
+      "date": "Jun. 10, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gabriella Fernandes",
+      "result": "win",
+      "date": "Feb. 25, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Natalia Silva",
+      "result": "loss",
+      "date": "Jun. 18, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kay Hansen",
+      "result": "win",
+      "date": "Jan. 22, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julia Polastri",
+      "result": "win",
+      "date": "Sep. 14, 2021",
+      "method": "N/A"
+    }
+  ]
+}

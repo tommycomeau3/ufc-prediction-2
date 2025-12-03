@@ -1,0 +1,287 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d1941565abf50b16",
+  "stats": {
+    "name": "Jim Miller",
+    "record": "38-19-0 (1 NC)",
+    "wins": 38,
+    "losses": 19
+  },
+  "fight_history": [
+    {
+      "opponent": "Chase Hooper",
+      "result": "loss",
+      "date": "Apr. 12, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Damon Jackson",
+      "result": "win",
+      "date": "Nov. 16, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "King Green",
+      "result": "loss",
+      "date": "Apr. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gabriel Benitez",
+      "result": "win",
+      "date": "Jan. 13, 2024",
+      "method": "Submission (Neck Crank)"
+    },
+    {
+      "opponent": "Jesse Butler",
+      "result": "win",
+      "date": "Jun. 03, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Alexander Hernandez",
+      "result": "loss",
+      "date": "Feb. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Donald Cerrone",
+      "result": "win",
+      "date": "Jul. 02, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Nikolas Motta",
+      "result": "win",
+      "date": "Feb. 19, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Erick Gonzalez",
+      "result": "win",
+      "date": "Oct. 16, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Joe Solecki",
+      "result": "loss",
+      "date": "Apr. 10, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vinc Pichel",
+      "result": "loss",
+      "date": "Aug. 15, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Roosevelt Roberts",
+      "result": "win",
+      "date": "Jun. 20, 2020",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Scott Holtzman",
+      "result": "loss",
+      "date": "Feb. 15, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Clay Guida",
+      "result": "win",
+      "date": "Aug. 03, 2019",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Jason Gonzalez",
+      "result": "win",
+      "date": "Apr. 27, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Charles Oliveira",
+      "result": "loss",
+      "date": "Dec. 15, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Alex White",
+      "result": "win",
+      "date": "Sep. 08, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Dan Hooker",
+      "result": "loss",
+      "date": "Apr. 21, 2018",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Francisco Trinaldo",
+      "result": "loss",
+      "date": "Oct. 28, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anthony Pettis",
+      "result": "loss",
+      "date": "Jul. 08, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dustin Poirier",
+      "result": "loss",
+      "date": "Feb. 11, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Thiago Alves",
+      "result": "win",
+      "date": "Nov. 12, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joe Lauzon",
+      "result": "win",
+      "date": "Aug. 27, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Takanori Gomi",
+      "result": "win",
+      "date": "Jul. 09, 2016",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Diego Sanchez",
+      "result": "loss",
+      "date": "Mar. 05, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michael Chiesa",
+      "result": "loss",
+      "date": "Dec. 10, 2015",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Danny Castillo",
+      "result": "win",
+      "date": "Jul. 25, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Beneil Dariush",
+      "result": "loss",
+      "date": "Apr. 18, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Donald Cerrone",
+      "result": "loss",
+      "date": "Jul. 16, 2014",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Yancy Medeiros",
+      "result": "win",
+      "date": "Apr. 26, 2014",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Fabricio Camoes",
+      "result": "win",
+      "date": "Dec. 28, 2013",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Pat Healy",
+      "result": "nc",
+      "date": "Apr. 27, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joe Lauzon",
+      "result": "win",
+      "date": "Dec. 29, 2012",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nate Diaz",
+      "result": "loss",
+      "date": "May. 05, 2012",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Melvin Guillard",
+      "result": "win",
+      "date": "Jan. 20, 2012",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Benson Henderson",
+      "result": "loss",
+      "date": "Aug. 14, 2011",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kamal Shalorus",
+      "result": "win",
+      "date": "Mar. 19, 2011",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Charles Oliveira",
+      "result": "win",
+      "date": "Dec. 11, 2010",
+      "method": "Submission (Kneebar)"
+    },
+    {
+      "opponent": "Gleison Tibau",
+      "result": "win",
+      "date": "UFC Fight Night: Marquardt vs Palhares",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mark Bocek",
+      "result": "win",
+      "date": "Mar. 27, 2010",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Duane Ludwig",
+      "result": "win",
+      "date": "Jan. 02, 2010",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Steve Lopez",
+      "result": "win",
+      "date": "Sep. 19, 2009",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Mac Danzig",
+      "result": "win",
+      "date": "Jul. 11, 2009",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gray Maynard",
+      "result": "loss",
+      "date": "Mar. 07, 2009",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Matt Wiman",
+      "result": "win",
+      "date": "Dec. 10, 2008",
+      "method": "N/A"
+    },
+    {
+      "opponent": "David Baron",
+      "result": "win",
+      "date": "Oct. 18, 2008",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

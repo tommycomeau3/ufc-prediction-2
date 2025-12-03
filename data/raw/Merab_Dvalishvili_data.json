@@ -1,0 +1,127 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c03520b5c88ed6b4",
+  "stats": {
+    "name": "Merab Dvalishvili",
+    "record": "21-4-0",
+    "wins": 21,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Jan 10, 1991",
+    "strikes_landed_per_min": 4.33,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.55,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.37,
+    "takedown_defense": 0.82,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Petr Yan",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cory Sandhagen",
+      "result": "win",
+      "date": "Oct. 04, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean O'Malley",
+      "result": "win",
+      "date": "Jun. 07, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Umar Nurmagomedov",
+      "result": "win",
+      "date": "Jan. 18, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean O'Malley",
+      "result": "win",
+      "date": "Sep. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Henry Cejudo",
+      "result": "win",
+      "date": "Feb. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Petr Yan",
+      "result": "win",
+      "date": "Mar. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jose Aldo",
+      "result": "win",
+      "date": "Aug. 20, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marlon Moraes",
+      "result": "win",
+      "date": "Sep. 25, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Cody Stamann",
+      "result": "win",
+      "date": "May. 01, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "John Dodson",
+      "result": "win",
+      "date": "Aug. 15, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gustavo Lopez",
+      "result": "win",
+      "date": "Jun. 13, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Casey Kenney",
+      "result": "win",
+      "date": "Feb. 15, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brad Katona",
+      "result": "win",
+      "date": "May. 04, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Terrion Ware",
+      "result": "win",
+      "date": "Sep. 15, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ricky Simon",
+      "result": "loss",
+      "date": "Apr. 21, 2018",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Frankie Saenz",
+      "result": "loss",
+      "date": "Dec. 09, 2017",
+      "method": "N/A"
+    }
+  ]
+}

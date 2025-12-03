@@ -1,0 +1,65 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7d420039bbfe7c1a",
+  "stats": {
+    "name": "Aoriqileng",
+    "record": "26-12-0 (1 NC)",
+    "wins": 26,
+    "losses": 12
+  },
+  "fight_history": [
+    {
+      "opponent": "Cody Gibson",
+      "result": "win",
+      "date": "Oct. 18, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Raul Rosas Jr.",
+      "result": "loss",
+      "date": "Sep. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daniel Marcos",
+      "result": "nc",
+      "date": "Feb. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Johnny Munoz",
+      "result": "win",
+      "date": "Oct. 07, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aiemann Zahabi",
+      "result": "loss",
+      "date": "Jun. 10, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jay Perrin",
+      "result": "win",
+      "date": "Aug. 20, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cameron Else",
+      "result": "win",
+      "date": "Apr. 23, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Cody Durden",
+      "result": "loss",
+      "date": "Nov. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jeff Molina",
+      "result": "loss",
+      "date": "Apr. 24, 2021",
+      "method": "N/A"
+    }
+  ]
+}

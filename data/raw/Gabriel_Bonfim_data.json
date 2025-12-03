@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/01641ba5df0c69b0",
+  "stats": {
+    "name": "Gabriel Bonfim",
+    "record": "19-1-0",
+    "wins": 19,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "170 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Aug 20, 1997",
+    "strikes_landed_per_min": 4.61,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.68,
+    "striking_defense": 0.63,
+    "takedown_average": null,
+    "takedown_accuracy": 0.55,
+    "takedown_defense": 0.76,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Randy Brown",
+      "result": "win",
+      "date": "Nov. 08, 2025",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Stephen Thompson",
+      "result": "win",
+      "date": "Jul. 12, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Khaos Williams",
+      "result": "win",
+      "date": "Feb. 15, 2025",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Ange Loosa",
+      "result": "win",
+      "date": "Jul. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nicolas Dalby",
+      "result": "loss",
+      "date": "Nov. 04, 2023",
+      "method": "KO/TKO (Knees)"
+    },
+    {
+      "opponent": "Trevin Giles",
+      "result": "win",
+      "date": "Jul. 29, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Mounir Lazzez",
+      "result": "win",
+      "date": "Jan. 21, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Trey Waters",
+      "result": "win",
+      "date": "Sep. 06, 2022",
+      "method": "Submission (Von Flue Choke)"
+    }
+  ]
+}

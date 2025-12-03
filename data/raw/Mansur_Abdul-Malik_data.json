@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/841695e02c99a521",
+  "stats": {
+    "name": "Mansur Abdul-Malik",
+    "record": "8-0-1",
+    "wins": 8,
+    "losses": 0,
+    "draws": 1,
+    "height": "6' 2\"",
+    "weight": "185 lbs.",
+    "reach": "80\"",
+    "stance": "Orthodox",
+    "dob": "Oct 07, 1997",
+    "strikes_landed_per_min": 4.27,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.49,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.82,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Antonio Trocoli",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody Brundage",
+      "result": "draw",
+      "date": "Jun. 14, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nick Klein",
+      "result": "win",
+      "date": "Feb. 22, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Dusko Todorovic",
+      "result": "win",
+      "date": "Nov. 09, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Wes Schultz",
+      "result": "win",
+      "date": "Aug. 13, 2024",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

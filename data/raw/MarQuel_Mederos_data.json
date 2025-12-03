@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e2be0c1a9b886d92",
+  "stats": {
+    "name": "MarQuel Mederos",
+    "record": "11-1-0",
+    "wins": 11,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Nov 30, 1996",
+    "strikes_landed_per_min": 4.84,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.99,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.83,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Mark Choinski",
+      "result": "win",
+      "date": "Jun. 07, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Austin Hubbard",
+      "result": "win",
+      "date": "Mar. 29, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Landon Quinones",
+      "result": "win",
+      "date": "Feb. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Issa Isakov",
+      "result": "win",
+      "date": "Oct. 10, 2023",
+      "method": "KO/TKO (Knee)"
+    }
+  ]
+}

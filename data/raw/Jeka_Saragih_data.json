@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/57186c150c645200",
+  "stats": {
+    "name": "Jeka Saragih",
+    "record": "14-5-0",
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Jan 01, 1995",
+    "strikes_landed_per_min": 2.75,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.82,
+    "striking_defense": 0.4,
+    "takedown_average": null,
+    "takedown_accuracy": 0.8,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "JooSang Yoo",
+      "result": "loss",
+      "date": "Jun. 07, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Westin Wilson",
+      "result": "loss",
+      "date": "Jun. 15, 2024",
+      "method": "Submission (Triangle Armbar)"
+    },
+    {
+      "opponent": "Lucas Alexander",
+      "result": "win",
+      "date": "Nov. 18, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Anshul Jubli",
+      "result": "loss",
+      "date": "Feb. 04, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "WonBin Ki",
+      "result": "win",
+      "date": "Oct. 23, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Pawan Maan",
+      "result": "win",
+      "date": "Jun. 09, 2022",
+      "method": "KO/TKO (Spinning Back Fist)"
+    }
+  ]
+}

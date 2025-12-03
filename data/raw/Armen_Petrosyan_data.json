@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/369ea36e450ae62a",
+  "stats": {
+    "name": "Armen Petrosyan",
+    "record": "9-5-0",
+    "wins": 9,
+    "losses": 5,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "185 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Nov 03, 1990",
+    "strikes_landed_per_min": 5.84,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.31,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.41,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Brunno Ferreira",
+      "result": "loss",
+      "date": "Mar. 08, 2025",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Shara Magomedov",
+      "result": "loss",
+      "date": "Oct. 26, 2024",
+      "method": "KO/TKO (Spinning Back Fist)"
+    },
+    {
+      "opponent": "Rodolfo Vieira",
+      "result": "loss",
+      "date": "Feb. 10, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Christian Leroy Duncan",
+      "result": "win",
+      "date": "Jun. 17, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "AJ Dobson",
+      "result": "win",
+      "date": "Oct. 22, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Caio Borralho",
+      "result": "loss",
+      "date": "Jul. 09, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gregory Rodrigues",
+      "result": "win",
+      "date": "Feb. 26, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kaloyan Kolev",
+      "result": "win",
+      "date": "Oct. 19, 2021",
+      "method": "KO/TKO (Kick)"
+    }
+  ]
+}

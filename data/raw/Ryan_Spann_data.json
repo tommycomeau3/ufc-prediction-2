@@ -1,0 +1,127 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a67f5afa8d6a1b80",
+  "stats": {
+    "name": "Ryan Spann",
+    "record": "23-11-0",
+    "wins": 23,
+    "losses": 11,
+    "draws": 0,
+    "height": "6' 5\"",
+    "weight": "205 lbs.",
+    "reach": "79\"",
+    "stance": "Orthodox",
+    "dob": "Aug 24, 1991",
+    "strikes_landed_per_min": 3.19,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.14,
+    "striking_defense": 0.43,
+    "takedown_average": null,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.52,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Lukasz Brzeski",
+      "result": "win",
+      "date": "Jul. 19, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Waldo Cortes Acosta",
+      "result": "loss",
+      "date": "Mar. 15, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ovince Saint Preux",
+      "result": "win",
+      "date": "Oct. 05, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Bogdan Guskov",
+      "result": "loss",
+      "date": "Apr. 27, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Anthony Smith",
+      "result": "loss",
+      "date": "Aug. 26, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nikita Krylov",
+      "result": "loss",
+      "date": "Mar. 11, 2023",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Dominick Reyes",
+      "result": "win",
+      "date": "Nov. 12, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ion Cutelaba",
+      "result": "win",
+      "date": "May. 14, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Anthony Smith",
+      "result": "loss",
+      "date": "Sep. 18, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Misha Cirkunov",
+      "result": "win",
+      "date": "Mar. 13, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Johnny Walker",
+      "result": "loss",
+      "date": "Sep. 19, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Sam Alvey",
+      "result": "win",
+      "date": "May. 09, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Devin Clark",
+      "result": "win",
+      "date": "Oct. 12, 2019",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Rogerio Nogueira",
+      "result": "win",
+      "date": "May. 11, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Luis Henrique",
+      "result": "win",
+      "date": "UFC Fight Night: Marreta vs. Anders",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Emiliano Sordi",
+      "result": "win",
+      "date": "Jun. 19, 2018",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Karl Roberson",
+      "result": "loss",
+      "date": "Jul. 25, 2017",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

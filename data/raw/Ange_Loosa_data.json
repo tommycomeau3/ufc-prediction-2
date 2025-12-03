@@ -1,0 +1,53 @@
+{
+  "url": "http://ufcstats.com/fighter-details/1497e735d9f2560a",
+  "stats": {
+    "name": "Ange Loosa",
+    "record": "10-5-0 (1 NC)",
+    "wins": 10,
+    "losses": 5
+  },
+  "fight_history": [
+    {
+      "opponent": "Phil Rowe",
+      "result": "loss",
+      "date": "Jun. 14, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Gabriel Bonfim",
+      "result": "loss",
+      "date": "Jul. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bryan Battle",
+      "result": "nc",
+      "date": "Mar. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rhys McKee",
+      "result": "win",
+      "date": "Sep. 02, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "AJ Fletcher",
+      "result": "win",
+      "date": "Aug. 20, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mounir Lazzez",
+      "result": "loss",
+      "date": "Apr. 16, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jack Della Maddalena",
+      "result": "loss",
+      "date": "Sep. 14, 2021",
+      "method": "N/A"
+    }
+  ]
+}

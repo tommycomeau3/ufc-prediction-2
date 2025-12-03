@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/396fe87b84ac2e1c",
+  "stats": {
+    "name": "Lerone Murphy",
+    "record": "17-0-1",
+    "wins": 17,
+    "losses": 0,
+    "draws": 1,
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Jul 22, 1991",
+    "strikes_landed_per_min": 4.48,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.51,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.54,
+    "takedown_defense": 0.51,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Aaron Pico",
+      "result": "win",
+      "date": "Aug. 16, 2025",
+      "method": "KO/TKO (Spinning Back Elbow)"
+    },
+    {
+      "opponent": "Josh Emmett",
+      "result": "win",
+      "date": "Apr. 05, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dan Ige",
+      "result": "win",
+      "date": "Oct. 26, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Edson Barboza",
+      "result": "win",
+      "date": "May. 18, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Culibao",
+      "result": "win",
+      "date": "Jul. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gabriel Santos",
+      "result": "win",
+      "date": "Mar. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Makwan Amirkhani",
+      "result": "win",
+      "date": "Oct. 30, 2021",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Douglas Silva de Andrade",
+      "result": "win",
+      "date": "Jan. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ricardo Ramos",
+      "result": "win",
+      "date": "Jul. 15, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Zubaira Tukhugov",
+      "result": "draw",
+      "date": "Sep. 07, 2019",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6fd953151d981979",
+  "stats": {
+    "name": "JJ Aldrich",
+    "record": "14-7-0",
+    "wins": 14,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 5\"",
+    "weight": "125 lbs.",
+    "reach": "67\"",
+    "stance": "Southpaw",
+    "dob": "Sep 29, 1992",
+    "strikes_landed_per_min": 3.96,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.32,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.26,
+    "takedown_defense": 0.67,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Andrea Lee",
+      "result": "win",
+      "date": "Mar. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Veronica Hardy",
+      "result": "loss",
+      "date": "May. 11, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Montana De La Rosa",
+      "result": "win",
+      "date": "Oct. 07, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Liang Na",
+      "result": "win",
+      "date": "Aug. 26, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Ariane da Silva",
+      "result": "loss",
+      "date": "Mar. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Erin Blanchfield",
+      "result": "loss",
+      "date": "Jun. 04, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Gillian Robertson",
+      "result": "win",
+      "date": "Mar. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vanessa Demopoulos",
+      "result": "win",
+      "date": "Aug. 28, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cortney Casey",
+      "result": "win",
+      "date": "Mar. 13, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sabina Mazo",
+      "result": "loss",
+      "date": "Jan. 18, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lauren Mueller",
+      "result": "win",
+      "date": "Oct. 12, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Maycee Barber",
+      "result": "loss",
+      "date": "Mar. 23, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Polyana Viana",
+      "result": "win",
+      "date": "Aug. 04, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Danielle Taylor",
+      "result": "win",
+      "date": "Jan. 14, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chan-Mi Jeon",
+      "result": "win",
+      "date": "Jun. 10, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Juliana Lima",
+      "result": "loss",
+      "date": "Dec. 09, 2016",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "url": "http://ufcstats.com/fighter-details/beecb672a279223e",
+  "stats": {
+    "name": "Amanda Ribas",
+    "record": "13-7-0",
+    "wins": 13,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 4\"",
+    "weight": "115 lbs.",
+    "reach": "66\"",
+    "stance": "Orthodox",
+    "dob": "Aug 26, 1993",
+    "strikes_landed_per_min": 4.26,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.29,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.52,
+    "takedown_defense": 0.82,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Tabatha Ricci",
+      "result": "loss",
+      "date": "Jul. 26, 2025",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Mackenzie Dern",
+      "result": "loss",
+      "date": "Jan. 11, 2025",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Rose Namajunas",
+      "result": "loss",
+      "date": "Mar. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Luana Pinheiro",
+      "result": "win",
+      "date": "Nov. 18, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Maycee Barber",
+      "result": "loss",
+      "date": "Jun. 24, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Viviane Araujo",
+      "result": "win",
+      "date": "Mar. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Katlyn Cerminara",
+      "result": "loss",
+      "date": "May. 14, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Virna Jandiroba",
+      "result": "win",
+      "date": "Oct. 30, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marina Rodriguez",
+      "result": "loss",
+      "date": "Jan. 23, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Paige VanZant",
+      "result": "win",
+      "date": "Jul. 11, 2020",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Randa Markos",
+      "result": "win",
+      "date": "Mar. 14, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mackenzie Dern",
+      "result": "win",
+      "date": "Oct. 12, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Emily Whitmire",
+      "result": "win",
+      "date": "Jun. 29, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

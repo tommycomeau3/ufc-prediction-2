@@ -1,0 +1,145 @@
+{
+  "url": "http://ufcstats.com/fighter-details/05339613bf8e9808",
+  "stats": {
+    "name": "Rob Font",
+    "record": "22-9-0",
+    "wins": 22,
+    "losses": 9,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jun 25, 1987",
+    "strikes_landed_per_min": 5.36,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.7,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.43,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "David Martinez",
+      "result": "loss",
+      "date": "Sep. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jean Matsumoto",
+      "result": "win",
+      "date": "Feb. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kyler Phillips",
+      "result": "win",
+      "date": "Oct. 19, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Deiveson Figueiredo",
+      "result": "loss",
+      "date": "Dec. 02, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cory Sandhagen",
+      "result": "loss",
+      "date": "Aug. 05, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Adrian Yanez",
+      "result": "win",
+      "date": "Apr. 08, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Marlon Vera",
+      "result": "loss",
+      "date": "Apr. 30, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jose Aldo",
+      "result": "loss",
+      "date": "Dec. 04, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody Garbrandt",
+      "result": "win",
+      "date": "May. 22, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marlon Moraes",
+      "result": "win",
+      "date": "Dec. 19, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ricky Simon",
+      "result": "win",
+      "date": "Dec. 07, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sergio Pettis",
+      "result": "win",
+      "date": "Dec. 15, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Raphael Assuncao",
+      "result": "loss",
+      "date": "Jul. 07, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Thomas Almeida",
+      "result": "win",
+      "date": "Jan. 20, 2018",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Pedro Munhoz",
+      "result": "loss",
+      "date": "Oct. 28, 2017",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Douglas Silva de Andrade",
+      "result": "win",
+      "date": "Jul. 08, 2017",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Matt Schnell",
+      "result": "win",
+      "date": "Dec. 03, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "John Lineker",
+      "result": "loss",
+      "date": "May. 14, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joey Gomez",
+      "result": "win",
+      "date": "Jan. 17, 2016",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "George Roop",
+      "result": "win",
+      "date": "Jul. 05, 2014",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

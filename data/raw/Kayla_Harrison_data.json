@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/1af1170ed937cba7",
+  "stats": {
+    "name": "Kayla Harrison",
+    "record": "19-1-0",
+    "wins": 19,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "66\"",
+    "stance": "Southpaw",
+    "dob": "Jul 02, 1990",
+    "strikes_landed_per_min": 4.29,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.1,
+    "striking_defense": 0.66,
+    "takedown_average": null,
+    "takedown_accuracy": 0.37,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Amanda Nunes",
+      "result": "next",
+      "date": "Jan. 24, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julianna Pena",
+      "result": "win",
+      "date": "Jun. 07, 2025",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Ketlen Vieira",
+      "result": "win",
+      "date": "Oct. 05, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Holly Holm",
+      "result": "win",
+      "date": "Apr. 13, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

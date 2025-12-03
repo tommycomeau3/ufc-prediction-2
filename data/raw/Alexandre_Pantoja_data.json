@@ -1,0 +1,133 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a0f0004aadf10b71",
+  "stats": {
+    "name": "Alexandre Pantoja",
+    "record": "30-5-0",
+    "wins": 30,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 5\"",
+    "weight": "125 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Apr 16, 1990",
+    "strikes_landed_per_min": 4.36,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.88,
+    "striking_defense": 0.49,
+    "takedown_average": null,
+    "takedown_accuracy": 0.47,
+    "takedown_defense": 0.69,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Joshua Van",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kai Kara-France",
+      "result": "win",
+      "date": "Jun. 28, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Kai Asakura",
+      "result": "win",
+      "date": "Dec. 07, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Steve Erceg",
+      "result": "win",
+      "date": "May. 04, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brandon Royval",
+      "result": "win",
+      "date": "Dec. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brandon Moreno",
+      "result": "win",
+      "date": "Jul. 08, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Perez",
+      "result": "win",
+      "date": "Jul. 30, 2022",
+      "method": "Submission (Neck Crank)"
+    },
+    {
+      "opponent": "Brandon Royval",
+      "result": "win",
+      "date": "Aug. 21, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Manel Kape",
+      "result": "win",
+      "date": "Feb. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Askar Askarov",
+      "result": "loss",
+      "date": "Jul. 18, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Matt Schnell",
+      "result": "win",
+      "date": "Dec. 21, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Deiveson Figueiredo",
+      "result": "loss",
+      "date": "Jul. 27, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Wilson Reis",
+      "result": "win",
+      "date": "Apr. 13, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Yuta Sasaki",
+      "result": "win",
+      "date": "Nov. 17, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Brandon Moreno",
+      "result": "win",
+      "date": "May. 19, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dustin Ortiz",
+      "result": "loss",
+      "date": "Jan. 20, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Neil Seery",
+      "result": "win",
+      "date": "Jul. 16, 2017",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Eric Shelton",
+      "result": "win",
+      "date": "Jan. 28, 2017",
+      "method": "N/A"
+    }
+  ]
+}

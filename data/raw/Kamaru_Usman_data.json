@@ -1,0 +1,139 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f1b2aa7853d1ed6e",
+  "stats": {
+    "name": "Kamaru Usman",
+    "record": "21-4-0",
+    "wins": 21,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "170 lbs.",
+    "reach": "76\"",
+    "stance": "Switch",
+    "dob": "May 11, 1987",
+    "strikes_landed_per_min": 4.16,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.67,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.44,
+    "takedown_defense": 0.89,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Joaquin Buckley",
+      "result": "win",
+      "date": "Jun. 14, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Khamzat Chimaev",
+      "result": "loss",
+      "date": "Oct. 21, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Leon Edwards",
+      "result": "loss",
+      "date": "Mar. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Leon Edwards",
+      "result": "loss",
+      "date": "Aug. 20, 2022",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Colby Covington",
+      "result": "win",
+      "date": "Nov. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jorge Masvidal",
+      "result": "win",
+      "date": "Apr. 24, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Gilbert Burns",
+      "result": "win",
+      "date": "Feb. 13, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jorge Masvidal",
+      "result": "win",
+      "date": "Jul. 11, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Colby Covington",
+      "result": "win",
+      "date": "Dec. 14, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Tyron Woodley",
+      "result": "win",
+      "date": "Mar. 02, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rafael Dos Anjos",
+      "result": "win",
+      "date": "Nov. 30, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Demian Maia",
+      "result": "win",
+      "date": "May. 19, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Emil Meek",
+      "result": "win",
+      "date": "Jan. 14, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sergio Moraes",
+      "result": "win",
+      "date": "Sep. 16, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Sean Strickland",
+      "result": "win",
+      "date": "Apr. 08, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Warlley Alves",
+      "result": "win",
+      "date": "Nov. 19, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexander Yakovlev",
+      "result": "win",
+      "date": "Jul. 23, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Leon Edwards",
+      "result": "win",
+      "date": "Dec. 19, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hayder Hassan",
+      "result": "win",
+      "date": "Jul. 12, 2015",
+      "method": "Submission (Arm Triangle)"
+    }
+  ]
+}

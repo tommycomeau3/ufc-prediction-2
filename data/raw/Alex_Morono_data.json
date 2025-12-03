@@ -1,0 +1,149 @@
+{
+  "url": "http://ufcstats.com/fighter-details/cdb96af67d096b1e",
+  "stats": {
+    "name": "Alex Morono",
+    "record": "24-12-0 (1 NC)",
+    "wins": 24,
+    "losses": 12
+  },
+  "fight_history": [
+    {
+      "opponent": "Carlos Leal",
+      "result": "loss",
+      "date": "Mar. 08, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Daniel Rodriguez",
+      "result": "loss",
+      "date": "Oct. 12, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Niko Price",
+      "result": "loss",
+      "date": "Jun. 01, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Court McGee",
+      "result": "win",
+      "date": "Apr. 06, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joaquin Buckley",
+      "result": "loss",
+      "date": "Oct. 07, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tim Means",
+      "result": "win",
+      "date": "May. 13, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Santiago Ponzinibbio",
+      "result": "loss",
+      "date": "Dec. 10, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Matthew Semelsberger",
+      "result": "win",
+      "date": "Jul. 30, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mickey Gall",
+      "result": "win",
+      "date": "Dec. 04, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "David Zawada",
+      "result": "win",
+      "date": "Sep. 04, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Donald Cerrone",
+      "result": "win",
+      "date": "May. 08, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Anthony Pettis",
+      "result": "loss",
+      "date": "Dec. 19, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rhys McKee",
+      "result": "win",
+      "date": "Nov. 14, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Khaos Williams",
+      "result": "loss",
+      "date": "Feb. 08, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Max Griffin",
+      "result": "win",
+      "date": "Oct. 12, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zak Ottow",
+      "result": "win",
+      "date": "Mar. 09, 2019",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Song Kenan",
+      "result": "win",
+      "date": "Nov. 24, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jordan Mein",
+      "result": "loss",
+      "date": "Jul. 28, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joshua Burkman",
+      "result": "win",
+      "date": "Feb. 18, 2018",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Keita Nakamura",
+      "result": "loss",
+      "date": "Sep. 22, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Niko Price",
+      "result": "nc",
+      "date": "Feb. 04, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "James Moontasri",
+      "result": "win",
+      "date": "Dec. 17, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kyle Noke",
+      "result": "win",
+      "date": "Jan. 02, 2016",
+      "method": "N/A"
+    }
+  ]
+}

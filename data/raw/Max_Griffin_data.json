@@ -1,0 +1,133 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b0d6a1d8ac3d563d",
+  "stats": {
+    "name": "Max Griffin",
+    "record": "20-12-0",
+    "wins": 20,
+    "losses": 12,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "dob": "Nov 29, 1985",
+    "strikes_landed_per_min": 3.76,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.7,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.7,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Chris Curtis",
+      "result": "loss",
+      "date": "Jul. 12, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michael Chiesa",
+      "result": "loss",
+      "date": "Dec. 07, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jeremiah Wells",
+      "result": "win",
+      "date": "Feb. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michael Morales",
+      "result": "loss",
+      "date": "Jul. 01, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tim Means",
+      "result": "win",
+      "date": "Oct. 29, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Neil Magny",
+      "result": "loss",
+      "date": "Mar. 26, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carlos Condit",
+      "result": "win",
+      "date": "Jul. 10, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Song Kenan",
+      "result": "win",
+      "date": "Mar. 20, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ramiz Brahimaj",
+      "result": "win",
+      "date": "Nov. 07, 2020",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Alex Oliveira",
+      "result": "loss",
+      "date": "Mar. 07, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Morono",
+      "result": "loss",
+      "date": "Oct. 12, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zelim Imadaev",
+      "result": "win",
+      "date": "Apr. 13, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Thiago Alves",
+      "result": "loss",
+      "date": "Feb. 02, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Curtis Millender",
+      "result": "loss",
+      "date": "Jul. 07, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mike Perry",
+      "result": "win",
+      "date": "Feb. 24, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Elizeu Zaleski dos Santos",
+      "result": "loss",
+      "date": "Oct. 28, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Erick Montano",
+      "result": "win",
+      "date": "Nov. 05, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Colby Covington",
+      "result": "loss",
+      "date": "Aug. 20, 2016",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

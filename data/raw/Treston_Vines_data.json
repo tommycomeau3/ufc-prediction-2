@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/563a1d42bb0e3cef",
+  "stats": {
+    "name": "Tre'ston Vines",
+    "record": "10-4-0",
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "185 lbs.",
+    "reach": "79\"",
+    "stance": "Orthodox",
+    "dob": "Jun 18, 1996",
+    "strikes_landed_per_min": 0.0,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.56,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ateba Gautier",
+      "result": "loss",
+      "date": "Oct. 04, 2025",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

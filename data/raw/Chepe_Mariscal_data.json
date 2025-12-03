@@ -1,0 +1,47 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e0c6edcb5b5d0b90",
+  "stats": {
+    "name": "Chepe Mariscal",
+    "record": "18-7-0 (1 NC)",
+    "wins": 18,
+    "losses": 7
+  },
+  "fight_history": [
+    {
+      "opponent": "Pat Sabatini",
+      "result": "loss",
+      "date": "Nov. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ricardo Ramos",
+      "result": "win",
+      "date": "Mar. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Damon Jackson",
+      "result": "win",
+      "date": "Aug. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Morgan Charriere",
+      "result": "win",
+      "date": "Apr. 06, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jack Jenkins",
+      "result": "win",
+      "date": "Sep. 09, 2023",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Trevor Peek",
+      "result": "win",
+      "date": "Jun. 24, 2023",
+      "method": "N/A"
+    }
+  ]
+}

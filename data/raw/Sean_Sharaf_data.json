@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0f3a990526c5e706",
+  "stats": {
+    "name": "Sean Sharaf",
+    "record": "4-1-0",
+    "wins": 4,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "252 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "Jul 11, 1993",
+    "strikes_landed_per_min": 7.31,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 9.79,
+    "striking_defense": 0.44,
+    "takedown_average": null,
+    "takedown_accuracy": 0.12,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Steven Asplund",
+      "result": "next",
+      "date": "Dec. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Junior Tafa",
+      "result": "loss",
+      "date": "Oct. 12, 2024",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

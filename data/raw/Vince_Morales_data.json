@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/37098a6e6c27fb66",
+  "stats": {
+    "name": "Vince Morales",
+    "record": "16-10-0",
+    "wins": 16,
+    "losses": 10,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Nov 12, 1990",
+    "strikes_landed_per_min": 3.57,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.0,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.58,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Raul Rosas Jr.",
+      "result": "loss",
+      "date": "Mar. 29, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Elijah Smith",
+      "result": "loss",
+      "date": "Feb. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Taylor Lapilus",
+      "result": "loss",
+      "date": "Sep. 28, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Miles Johns",
+      "result": "loss",
+      "date": "Nov. 19, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jonathan Martinez",
+      "result": "loss",
+      "date": "May. 21, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Louis Smolka",
+      "result": "win",
+      "date": "Dec. 04, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Drako Rodriguez",
+      "result": "win",
+      "date": "Aug. 07, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Gutierrez",
+      "result": "loss",
+      "date": "May. 30, 2020",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Benito Lopez",
+      "result": "loss",
+      "date": "Jul. 13, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aiemann Zahabi",
+      "result": "win",
+      "date": "May. 04, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Song Yadong",
+      "result": "loss",
+      "date": "Nov. 24, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Domingo Pilarte",
+      "result": "loss",
+      "date": "Jul. 17, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

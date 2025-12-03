@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6a311920edd73c85",
+  "stats": {
+    "name": "Max Gimenis",
+    "record": "6-2-0",
+    "wins": 6,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "256 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Apr 14, 1993",
+    "strikes_landed_per_min": 3.21,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 9.64,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Josh Hokit",
+      "result": "loss",
+      "date": "Nov. 08, 2025",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

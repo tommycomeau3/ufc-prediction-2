@@ -1,0 +1,107 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c21f26bbde777573",
+  "stats": {
+    "name": "Johnny Walker",
+    "record": "22-9-0 (1 NC)",
+    "wins": 22,
+    "losses": 9
+  },
+  "fight_history": [
+    {
+      "opponent": "Zhang Mingyang",
+      "result": "win",
+      "date": "Aug. 23, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Volkan Oezdemir",
+      "result": "loss",
+      "date": "Jun. 22, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Magomed Ankalaev",
+      "result": "loss",
+      "date": "Jan. 13, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Magomed Ankalaev",
+      "result": "nc",
+      "date": "Oct. 21, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anthony Smith",
+      "result": "win",
+      "date": "May. 13, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paul Craig",
+      "result": "win",
+      "date": "Jan. 21, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ion Cutelaba",
+      "result": "win",
+      "date": "Sep. 10, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jamahal Hill",
+      "result": "loss",
+      "date": "Feb. 19, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Thiago Santos",
+      "result": "loss",
+      "date": "Oct. 02, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ryan Spann",
+      "result": "win",
+      "date": "Sep. 19, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Nikita Krylov",
+      "result": "loss",
+      "date": "Mar. 14, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Corey Anderson",
+      "result": "loss",
+      "date": "Nov. 02, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Misha Cirkunov",
+      "result": "win",
+      "date": "Mar. 02, 2019",
+      "method": "KO/TKO (Flying Knee)"
+    },
+    {
+      "opponent": "Justin Ledet",
+      "result": "win",
+      "date": "Feb. 02, 2019",
+      "method": "KO/TKO (Spinning Back Fist)"
+    },
+    {
+      "opponent": "Khalil Rountree Jr.",
+      "result": "win",
+      "date": "Nov. 17, 2018",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Henrique da Silva",
+      "result": "win",
+      "date": "Aug. 11, 2018",
+      "method": "N/A"
+    }
+  ]
+}

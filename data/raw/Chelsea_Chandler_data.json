@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/af9efbfd63d39734",
+  "stats": {
+    "name": "Chelsea Chandler",
+    "record": "6-4-0",
+    "wins": 6,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Southpaw",
+    "dob": "Nov 23, 1990",
+    "strikes_landed_per_min": 3.55,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.44,
+    "striking_defense": 0.4,
+    "takedown_average": null,
+    "takedown_accuracy": 0.6,
+    "takedown_defense": 0.28,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Joselyne Edwards",
+      "result": "loss",
+      "date": "Apr. 26, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Yana Santos",
+      "result": "loss",
+      "date": "Aug. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josiane Nunes",
+      "result": "win",
+      "date": "Mar. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Norma Dumont",
+      "result": "loss",
+      "date": "Jul. 15, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julija Stoliarenko",
+      "result": "win",
+      "date": "Oct. 01, 2022",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

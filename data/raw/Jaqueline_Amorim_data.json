@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/bc7d1ad49fcb2d08",
+  "stats": {
+    "name": "Jaqueline Amorim",
+    "record": "10-2-0",
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "115 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Jun 24, 1995",
+    "strikes_landed_per_min": 2.43,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.16,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Mizuki",
+      "result": "loss",
+      "date": "Oct. 25, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Polyana Viana",
+      "result": "win",
+      "date": "Apr. 26, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Vanessa Demopoulos",
+      "result": "win",
+      "date": "Sep. 07, 2024",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Cory McKenna",
+      "result": "win",
+      "date": "Mar. 16, 2024",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Montserrat Conejo Ruiz",
+      "result": "win",
+      "date": "Aug. 12, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Sam Hughes",
+      "result": "loss",
+      "date": "Apr. 08, 2023",
+      "method": "N/A"
+    }
+  ]
+}

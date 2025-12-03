@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f7be1db194e03d7e",
+  "stats": {
+    "name": "Pedro Falcao",
+    "record": "16-5-0",
+    "wins": 16,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "66\"",
+    "stance": "Orthodox",
+    "dob": "Jul 30, 1992",
+    "strikes_landed_per_min": 3.21,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.39,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Victor Henry",
+      "result": "loss",
+      "date": "Apr. 05, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Victor Hugo",
+      "result": "loss",
+      "date": "Apr. 06, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "James Barnes",
+      "result": "win",
+      "date": "Oct. 19, 2021",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

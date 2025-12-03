@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6e743a33d56bdaa4",
+  "stats": {
+    "name": "Payton Talbott",
+    "record": "10-1-0",
+    "wins": 10,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "135 lbs.",
+    "reach": "70\"",
+    "stance": "Switch",
+    "dob": "Sep 09, 1998",
+    "strikes_landed_per_min": 6.05,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.26,
+    "striking_defense": 0.46,
+    "takedown_average": null,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.76,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Henry Cejudo",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Felipe Lima",
+      "result": "win",
+      "date": "Jun. 28, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Raoni Barcelos",
+      "result": "loss",
+      "date": "Jan. 18, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yanis Ghemmouri",
+      "result": "win",
+      "date": "Jun. 29, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Cameron Saaiman",
+      "result": "win",
+      "date": "Mar. 23, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Nick Aguirre",
+      "result": "win",
+      "date": "Nov. 18, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Reyes Cortez Jr.",
+      "result": "win",
+      "date": "Aug. 08, 2023",
+      "method": "N/A"
+    }
+  ]
+}

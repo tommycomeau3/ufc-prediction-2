@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6902fcf0610dd303",
+  "stats": {
+    "name": "Jakub Wiklacz",
+    "record": "17-3-2",
+    "wins": 17,
+    "losses": 3,
+    "draws": 2,
+    "height": "5' 10\"",
+    "weight": "135 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Sep 10, 1996",
+    "strikes_landed_per_min": 3.07,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.47,
+    "striking_defense": 0.36,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.28,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Patchy Mix",
+      "result": "win",
+      "date": "Oct. 04, 2025",
+      "method": "N/A"
+    }
+  ]
+}

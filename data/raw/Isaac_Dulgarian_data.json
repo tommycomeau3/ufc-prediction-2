@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a57cb948c4c70a47",
+  "stats": {
+    "name": "Isaac Dulgarian",
+    "record": "7-2-0",
+    "wins": 7,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jul 04, 1996",
+    "strikes_landed_per_min": 2.99,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.65,
+    "striking_defense": 0.4,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Yadier del Valle",
+      "result": "loss",
+      "date": "Nov. 01, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Brendon Marotte",
+      "result": "win",
+      "date": "Sep. 07, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Christian Rodriguez",
+      "result": "loss",
+      "date": "Mar. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Francis Marshall",
+      "result": "win",
+      "date": "Aug. 12, 2023",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

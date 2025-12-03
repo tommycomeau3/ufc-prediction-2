@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4bdedbdeedff7d1d",
+  "stats": {
+    "name": "Bolaji Oki",
+    "record": "10-3-0",
+    "wins": 10,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Nov 15, 1995",
+    "strikes_landed_per_min": 6.59,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.15,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.6,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Mason Jones",
+      "result": "loss",
+      "date": "Sep. 06, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Michael Aswell Jr.",
+      "result": "win",
+      "date": "May. 31, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Duncan",
+      "result": "loss",
+      "date": "Sep. 28, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Timmy Cuamba",
+      "result": "win",
+      "date": "Feb. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dylan Salvador",
+      "result": "win",
+      "date": "Aug. 29, 2023",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

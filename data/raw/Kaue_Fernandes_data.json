@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/ec13c393d029297d",
+  "stats": {
+    "name": "Kaue Fernandes",
+    "record": "11-2-0",
+    "wins": 11,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Mar 17, 1995",
+    "strikes_landed_per_min": 4.28,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.42,
+    "striking_defense": 0.62,
+    "takedown_average": null,
+    "takedown_accuracy": 0.1,
+    "takedown_defense": 0.76,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Harry Hardwick",
+      "result": "win",
+      "date": "Sep. 06, 2025",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Guram Kutateladze",
+      "result": "win",
+      "date": "Mar. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mohammad Yahya",
+      "result": "win",
+      "date": "Aug. 03, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Marc Diakiese",
+      "result": "loss",
+      "date": "Nov. 04, 2023",
+      "method": "N/A"
+    }
+  ]
+}

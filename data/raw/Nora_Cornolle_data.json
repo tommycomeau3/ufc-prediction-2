@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f2b3f4ef3f780168",
+  "stats": {
+    "name": "Nora Cornolle",
+    "record": "9-3-0",
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Dec 06, 1989",
+    "strikes_landed_per_min": 2.75,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.98,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.11,
+    "takedown_defense": 0.47,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Karol Rosa",
+      "result": "loss",
+      "date": "Aug. 02, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hailey Cowan",
+      "result": "win",
+      "date": "Apr. 12, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jacqueline Cavalcanti",
+      "result": "loss",
+      "date": "Sep. 28, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Melissa Mullins",
+      "result": "win",
+      "date": "Apr. 06, 2024",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Joselyne Edwards",
+      "result": "win",
+      "date": "Sep. 02, 2023",
+      "method": "N/A"
+    }
+  ]
+}

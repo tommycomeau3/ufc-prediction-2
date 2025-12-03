@@ -1,0 +1,133 @@
+{
+  "url": "http://ufcstats.com/fighter-details/8adcbd525fab8d9b",
+  "stats": {
+    "name": "Elizeu Zaleski dos Santos",
+    "record": "25-10-1",
+    "wins": 25,
+    "losses": 10,
+    "draws": 1,
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Dec 11, 1986",
+    "strikes_landed_per_min": 4.16,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.56,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.2,
+    "takedown_defense": 0.67,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Neil Magny",
+      "result": "loss",
+      "date": "Aug. 02, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Chidi Njokuani",
+      "result": "loss",
+      "date": "Mar. 15, 2025",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Zachary Scroggin",
+      "result": "win",
+      "date": "Nov. 09, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Randy Brown",
+      "result": "loss",
+      "date": "Jun. 01, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rinat Fakhretdinov",
+      "result": "draw",
+      "date": "Nov. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Abubakar Nurmagomedov",
+      "result": "win",
+      "date": "Jun. 03, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Benoit Saint Denis",
+      "result": "win",
+      "date": "Oct. 30, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Muslim Salikhov",
+      "result": "loss",
+      "date": "Jul. 11, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aleksei Kunchenko",
+      "result": "win",
+      "date": "Mar. 14, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Li Jingliang",
+      "result": "loss",
+      "date": "Aug. 31, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Curtis Millender",
+      "result": "win",
+      "date": "Mar. 09, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Luigi Vendramini",
+      "result": "win",
+      "date": "UFC Fight Night: Marreta vs. Anders",
+      "method": "KO/TKO (Flying Knee)"
+    },
+    {
+      "opponent": "Sean Strickland",
+      "result": "win",
+      "date": "May. 12, 2018",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Max Griffin",
+      "result": "win",
+      "date": "Oct. 28, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lyman Good",
+      "result": "win",
+      "date": "Jul. 22, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Keita Nakamura",
+      "result": "win",
+      "date": "Oct. 01, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Omari Akhmedov",
+      "result": "win",
+      "date": "Apr. 16, 2016",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Nicolas Dalby",
+      "result": "loss",
+      "date": "May. 30, 2015",
+      "method": "N/A"
+    }
+  ]
+}

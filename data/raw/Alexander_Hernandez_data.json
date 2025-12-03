@@ -1,0 +1,127 @@
+{
+  "url": "http://ufcstats.com/fighter-details/262a7d06203657e6",
+  "stats": {
+    "name": "Alexander Hernandez",
+    "record": "18-8-0",
+    "wins": 18,
+    "losses": 8,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Oct 01, 1992",
+    "strikes_landed_per_min": 4.31,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.5,
+    "striking_defense": 0.59,
+    "takedown_average": null,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.73,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Diego Ferreira",
+      "result": "win",
+      "date": "Sep. 13, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Chase Hooper",
+      "result": "win",
+      "date": "Aug. 16, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Kurt Holobaugh",
+      "result": "win",
+      "date": "Mar. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Austin Hubbard",
+      "result": "win",
+      "date": "Oct. 05, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Damon Jackson",
+      "result": "loss",
+      "date": "Apr. 06, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bill Algeo",
+      "result": "loss",
+      "date": "Oct. 07, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jim Miller",
+      "result": "win",
+      "date": "Feb. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Billy Quarantillo",
+      "result": "loss",
+      "date": "Dec. 10, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Renato Moicano",
+      "result": "loss",
+      "date": "Feb. 12, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Mike Breeden",
+      "result": "win",
+      "date": "Oct. 02, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Thiago Moises",
+      "result": "loss",
+      "date": "Feb. 27, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Gruetzemacher",
+      "result": "win",
+      "date": "Oct. 31, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Drew Dober",
+      "result": "loss",
+      "date": "May. 13, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Francisco Trinaldo",
+      "result": "win",
+      "date": "Jul. 20, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Donald Cerrone",
+      "result": "loss",
+      "date": "Jan. 19, 2019",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Olivier Aubin-Mercier",
+      "result": "win",
+      "date": "Jul. 28, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Beneil Dariush",
+      "result": "win",
+      "date": "Mar. 03, 2018",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

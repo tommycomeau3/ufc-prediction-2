@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0abcf6bc47191219",
+  "stats": {
+    "name": "Bruno Lopes",
+    "record": "14-2-0",
+    "wins": 14,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "205 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Apr 24, 1993",
+    "strikes_landed_per_min": 2.81,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.38,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Dustin Jacoby",
+      "result": "loss",
+      "date": "May. 31, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Magomed Gadzhiyasulov",
+      "result": "win",
+      "date": "Jan. 11, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mikheil Sazhiniani",
+      "result": "win",
+      "date": "Aug. 13, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Brendson Ribeiro",
+      "result": "loss",
+      "date": "Sep. 05, 2023",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

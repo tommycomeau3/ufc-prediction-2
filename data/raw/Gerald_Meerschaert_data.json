@@ -1,0 +1,175 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6ac9bc2953c47345",
+  "stats": {
+    "name": "Gerald Meerschaert",
+    "record": "37-21-0",
+    "wins": 37,
+    "losses": 21,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "185 lbs.",
+    "reach": "77\"",
+    "stance": "Southpaw",
+    "dob": "Dec 18, 1987",
+    "strikes_landed_per_min": 3.01,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.52,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.42,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kyle Daukaus",
+      "result": "loss",
+      "date": "Nov. 15, 2025",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Michal Oleksiejczuk",
+      "result": "loss",
+      "date": "Aug. 16, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Brad Tavares",
+      "result": "loss",
+      "date": "Apr. 05, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Reinier de Ridder",
+      "result": "loss",
+      "date": "Nov. 09, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Edmen Shahbazyan",
+      "result": "win",
+      "date": "Aug. 24, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Bryan Barberena",
+      "result": "win",
+      "date": "Mar. 16, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Andre Petroski",
+      "result": "loss",
+      "date": "Aug. 19, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joe Pyfer",
+      "result": "loss",
+      "date": "Apr. 08, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Bruno Silva",
+      "result": "win",
+      "date": "Aug. 13, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Krzysztof Jotko",
+      "result": "loss",
+      "date": "Apr. 30, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dustin Stoltzfus",
+      "result": "win",
+      "date": "Dec. 18, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Makhmud Muradov",
+      "result": "win",
+      "date": "Aug. 28, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Bartosz Fabinski",
+      "result": "win",
+      "date": "Apr. 17, 2021",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Khamzat Chimaev",
+      "result": "loss",
+      "date": "Sep. 19, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ian Heinisch",
+      "result": "loss",
+      "date": "Jun. 06, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Deron Winn",
+      "result": "win",
+      "date": "Mar. 07, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Eryk Anders",
+      "result": "loss",
+      "date": "Oct. 12, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Trevin Giles",
+      "result": "win",
+      "date": "Aug. 03, 2019",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Kevin Holland",
+      "result": "loss",
+      "date": "Mar. 30, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jack Hermansson",
+      "result": "loss",
+      "date": "Dec. 15, 2018",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Oskar Piechota",
+      "result": "win",
+      "date": "Jul. 06, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Eric Spicely",
+      "result": "win",
+      "date": "Dec. 01, 2017",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Thiago Santos",
+      "result": "loss",
+      "date": "Jul. 08, 2017",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ryan Janes",
+      "result": "win",
+      "date": "Feb. 19, 2017",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Joseph Gigliotti",
+      "result": "win",
+      "date": "Dec. 09, 2016",
+      "method": "Submission (Anaconda Choke)"
+    }
+  ]
+}

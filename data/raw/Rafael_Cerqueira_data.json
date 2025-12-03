@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/09a4447655fd4b7b",
+  "stats": {
+    "name": "Rafael Cerqueira",
+    "record": "11-4-0",
+    "wins": 11,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "205 lbs.",
+    "reach": "76\"",
+    "stance": "Southpaw",
+    "dob": "Mar 15, 1990",
+    "strikes_landed_per_min": 1.56,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.05,
+    "striking_defense": 0.36,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.36,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Abdul Rakhman Yakhyaev",
+      "result": "loss",
+      "date": "Nov. 22, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Julius Walker",
+      "result": "loss",
+      "date": "Aug. 09, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Modestas Bukauskas",
+      "result": "loss",
+      "date": "Feb. 22, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ibo Aslan",
+      "result": "loss",
+      "date": "Oct. 26, 2024",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

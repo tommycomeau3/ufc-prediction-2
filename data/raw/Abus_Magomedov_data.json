@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/36b8f265bcd1b7a4",
+  "stats": {
+    "name": "Abus Magomedov",
+    "record": "28-7-1",
+    "wins": 28,
+    "losses": 7,
+    "draws": 1,
+    "height": "6' 2\"",
+    "weight": "185 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Sep 02, 1990",
+    "strikes_landed_per_min": 3.07,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.43,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.59,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Joe Pyfer",
+      "result": "loss",
+      "date": "Oct. 04, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Michel Pereira",
+      "result": "win",
+      "date": "Apr. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brunno Ferreira",
+      "result": "win",
+      "date": "Oct. 26, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Warlley Alves",
+      "result": "win",
+      "date": "May. 18, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Caio Borralho",
+      "result": "loss",
+      "date": "Nov. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean Strickland",
+      "result": "loss",
+      "date": "Jul. 01, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Dustin Stoltzfus",
+      "result": "win",
+      "date": "Sep. 03, 2022",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

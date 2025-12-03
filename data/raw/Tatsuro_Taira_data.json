@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4461d7e47375a895",
+  "stats": {
+    "name": "Tatsuro Taira",
+    "record": "17-1-0",
+    "wins": 17,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Jan 27, 2000",
+    "strikes_landed_per_min": 2.87,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.54,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.48,
+    "takedown_defense": 0.45,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Brandon Moreno",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "HyunSung Park",
+      "result": "win",
+      "date": "Aug. 02, 2025",
+      "method": "Submission (Neck Crank)"
+    },
+    {
+      "opponent": "Brandon Royval",
+      "result": "loss",
+      "date": "Oct. 12, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Perez",
+      "result": "win",
+      "date": "Jun. 15, 2024",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Carlos Hernandez",
+      "result": "win",
+      "date": "Dec. 09, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Edgar Chairez",
+      "result": "win",
+      "date": "Jul. 08, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jesus Aguilar",
+      "result": "win",
+      "date": "Feb. 04, 2023",
+      "method": "Submission (Triangle Armbar)"
+    },
+    {
+      "opponent": "CJ Vergara",
+      "result": "win",
+      "date": "Oct. 15, 2022",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Carlos Candelario",
+      "result": "win",
+      "date": "May. 14, 2022",
+      "method": "N/A"
+    }
+  ]
+}

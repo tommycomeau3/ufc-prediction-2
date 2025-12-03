@@ -1,0 +1,163 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a845f0735bc67405",
+  "stats": {
+    "name": "Jake Matthews",
+    "record": "22-8-0",
+    "wins": 22,
+    "losses": 8,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Aug 19, 1994",
+    "strikes_landed_per_min": 3.34,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.62,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.64,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Neil Magny",
+      "result": "loss",
+      "date": "Sep. 27, 2025",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Chidi Njokuani",
+      "result": "win",
+      "date": "Jul. 12, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Francisco Prado",
+      "result": "win",
+      "date": "Feb. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Phil Rowe",
+      "result": "win",
+      "date": "Jun. 01, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michael Morales",
+      "result": "loss",
+      "date": "Nov. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Darrius Flowers",
+      "result": "win",
+      "date": "Jul. 29, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Matthew Semelsberger",
+      "result": "loss",
+      "date": "Dec. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Fialho",
+      "result": "win",
+      "date": "Jun. 11, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Sean Brady",
+      "result": "loss",
+      "date": "Mar. 06, 2021",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Diego Sanchez",
+      "result": "win",
+      "date": "Sep. 26, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Emil Meek",
+      "result": "win",
+      "date": "Feb. 22, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rostem Akman",
+      "result": "win",
+      "date": "Oct. 05, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anthony Rocco Martin",
+      "result": "loss",
+      "date": "Dec. 01, 2018",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Shinsho Anzai",
+      "result": "win",
+      "date": "Jun. 23, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Li Jingliang",
+      "result": "win",
+      "date": "Feb. 10, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bojan Velickovic",
+      "result": "win",
+      "date": "Nov. 18, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andrew Holbrook",
+      "result": "loss",
+      "date": "Nov. 26, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kevin Lee",
+      "result": "loss",
+      "date": "Jul. 08, 2016",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Johnny Case",
+      "result": "win",
+      "date": "Mar. 19, 2016",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Akbarh Arreola",
+      "result": "win",
+      "date": "Nov. 14, 2015",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "James Vick",
+      "result": "loss",
+      "date": "May. 09, 2015",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Vagner Rocha",
+      "result": "win",
+      "date": "Nov. 07, 2014",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Dashon Johnson",
+      "result": "win",
+      "date": "UFC Fight Night: Te Huna vs Marquardt",
+      "method": "Submission (Triangle Choke)"
+    }
+  ]
+}

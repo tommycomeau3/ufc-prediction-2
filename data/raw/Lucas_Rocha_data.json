@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e0d3d9b564f95635",
+  "stats": {
+    "name": "Lucas Rocha",
+    "record": "18-2-0",
+    "wins": 18,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "125 lbs.",
+    "reach": "64\"",
+    "stance": "Orthodox",
+    "dob": "Aug 12, 2000",
+    "strikes_landed_per_min": 5.09,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.67,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.75,
+    "takedown_defense": 0.76,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Stewart Nicoll",
+      "result": "win",
+      "date": "Oct. 11, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Clayton Carpenter",
+      "result": "loss",
+      "date": "Oct. 12, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Davi Bittencourt",
+      "result": "win",
+      "date": "Oct. 10, 2023",
+      "method": "KO/TKO (Knee)"
+    }
+  ]
+}

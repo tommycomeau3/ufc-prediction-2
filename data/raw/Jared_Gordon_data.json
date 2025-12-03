@@ -1,0 +1,113 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7026eca45f65377b",
+  "stats": {
+    "name": "Jared Gordon",
+    "record": "21-8-0 (1 NC)",
+    "wins": 21,
+    "losses": 8
+  },
+  "fight_history": [
+    {
+      "opponent": "Rafa Garcia",
+      "result": "loss",
+      "date": "Sep. 13, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Thiago Moises",
+      "result": "win",
+      "date": "May. 17, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Nasrat Haqparast",
+      "result": "loss",
+      "date": "Jun. 22, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mark Madsen",
+      "result": "win",
+      "date": "Nov. 11, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "King Green",
+      "result": "nc",
+      "date": "Apr. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paddy Pimblett",
+      "result": "loss",
+      "date": "Dec. 10, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Leonardo Santos",
+      "result": "win",
+      "date": "Aug. 20, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Grant Dawson",
+      "result": "loss",
+      "date": "Apr. 30, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Joe Solecki",
+      "result": "win",
+      "date": "Oct. 02, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Danny Chavez",
+      "result": "win",
+      "date": "Feb. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Fishgold",
+      "result": "win",
+      "date": "Jul. 15, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Oliveira",
+      "result": "loss",
+      "date": "Nov. 16, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dan Moret",
+      "result": "win",
+      "date": "Jun. 29, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joaquim Silva",
+      "result": "loss",
+      "date": "Dec. 15, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Diego Ferreira",
+      "result": "loss",
+      "date": "Feb. 18, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Hacran Dias",
+      "result": "win",
+      "date": "Oct. 28, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michel Quinones",
+      "result": "win",
+      "date": "Jun. 25, 2017",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7cbf7c78d3b34218",
+  "stats": {
+    "name": "Drakkar Klose",
+    "record": "16-3-1",
+    "wins": 16,
+    "losses": 3,
+    "draws": 1,
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Mar 09, 1988",
+    "strikes_landed_per_min": 4.25,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.65,
+    "striking_defense": 0.49,
+    "takedown_average": null,
+    "takedown_accuracy": 0.26,
+    "takedown_defense": 0.69,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Edson Barboza",
+      "result": "win",
+      "date": "Aug. 16, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joel Alvarez",
+      "result": "loss",
+      "date": "Dec. 14, 2024",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Joaquim Silva",
+      "result": "win",
+      "date": "May. 04, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joe Solecki",
+      "result": "win",
+      "date": "Dec. 02, 2023",
+      "method": "KO/TKO (Slam)"
+    },
+    {
+      "opponent": "Rafa Garcia",
+      "result": "win",
+      "date": "Jul. 30, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brandon Jenkins",
+      "result": "win",
+      "date": "Apr. 16, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Beneil Dariush",
+      "result": "loss",
+      "date": "Mar. 07, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Christos Giagos",
+      "result": "win",
+      "date": "Aug. 17, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "King Green",
+      "result": "win",
+      "date": "Dec. 15, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lando Vannata",
+      "result": "win",
+      "date": "Jul. 07, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "David Teymur",
+      "result": "loss",
+      "date": "Dec. 02, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marc Diakiese",
+      "result": "win",
+      "date": "Jul. 07, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Devin Powell",
+      "result": "win",
+      "date": "Jan. 15, 2017",
+      "method": "N/A"
+    }
+  ]
+}

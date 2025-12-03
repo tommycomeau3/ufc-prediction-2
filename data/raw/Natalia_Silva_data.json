@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/262d32ebda89efc4",
+  "stats": {
+    "name": "Natalia Silva",
+    "record": "19-5-1",
+    "wins": 19,
+    "losses": 5,
+    "draws": 1,
+    "height": "5' 4\"",
+    "weight": "125 lbs.",
+    "reach": "65\"",
+    "stance": "Southpaw",
+    "dob": "Feb 03, 1997",
+    "strikes_landed_per_min": 5.04,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.46,
+    "striking_defense": 0.65,
+    "takedown_average": null,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.92,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Alexa Grasso",
+      "result": "win",
+      "date": "May. 10, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jessica Andrade",
+      "result": "win",
+      "date": "Sep. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Viviane Araujo",
+      "result": "win",
+      "date": "Feb. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andrea Lee",
+      "result": "win",
+      "date": "Aug. 19, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Victoria Leonardo",
+      "result": "win",
+      "date": "May. 20, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Tereza Bleda",
+      "result": "win",
+      "date": "Nov. 19, 2022",
+      "method": "KO/TKO (Spinning Back Kick)"
+    },
+    {
+      "opponent": "Jasmine Jasudavicius",
+      "result": "win",
+      "date": "Jun. 18, 2022",
+      "method": "N/A"
+    }
+  ]
+}

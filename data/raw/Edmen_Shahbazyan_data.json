@@ -1,0 +1,115 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4144798612ef96e5",
+  "stats": {
+    "name": "Edmen Shahbazyan",
+    "record": "16-5-0",
+    "wins": 16,
+    "losses": 5,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "185 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Nov 20, 1997",
+    "strikes_landed_per_min": 3.8,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.6,
+    "striking_defense": 0.49,
+    "takedown_average": null,
+    "takedown_accuracy": 0.37,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Andre Muniz",
+      "result": "win",
+      "date": "Oct. 04, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Andre Petroski",
+      "result": "win",
+      "date": "Jun. 14, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dylan Budka",
+      "result": "win",
+      "date": "Feb. 15, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Gerald Meerschaert",
+      "result": "loss",
+      "date": "Aug. 24, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "AJ Dobson",
+      "result": "win",
+      "date": "Mar. 23, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Anthony Hernandez",
+      "result": "loss",
+      "date": "May. 20, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Dalcha Lungiambula",
+      "result": "win",
+      "date": "Dec. 10, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Nassourdine Imavov",
+      "result": "loss",
+      "date": "Nov. 06, 2021",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Jack Hermansson",
+      "result": "loss",
+      "date": "May. 22, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Derek Brunson",
+      "result": "loss",
+      "date": "Aug. 01, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Brad Tavares",
+      "result": "win",
+      "date": "Nov. 02, 2019",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Jack Marshman",
+      "result": "win",
+      "date": "Jul. 06, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Charles Byrd",
+      "result": "win",
+      "date": "Mar. 02, 2019",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Darren Stewart",
+      "result": "win",
+      "date": "Nov. 30, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Antonio Jones",
+      "result": "win",
+      "date": "Jul. 17, 2018",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

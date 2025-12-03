@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/18d01f7f8338ae72",
+  "stats": {
+    "name": "Vinicius Oliveira",
+    "record": "23-3-0",
+    "wins": 23,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "135 lbs.",
+    "reach": "70\"",
+    "stance": "Switch",
+    "dob": "Nov 30, 1995",
+    "strikes_landed_per_min": 5.28,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.89,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.8,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kyler Phillips",
+      "result": "win",
+      "date": "Jul. 19, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Said Nurmagomedov",
+      "result": "win",
+      "date": "Feb. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ricky Simon",
+      "result": "win",
+      "date": "Jun. 29, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Benardo Sopaj",
+      "result": "win",
+      "date": "Mar. 02, 2024",
+      "method": "KO/TKO (Flying Knee)"
+    },
+    {
+      "opponent": "Victor Madrigal",
+      "result": "win",
+      "date": "Sep. 26, 2023",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

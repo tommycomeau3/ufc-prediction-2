@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f2900678e98f6d6a",
+  "stats": {
+    "name": "Ronaldo Rodriguez",
+    "record": "17-3-0",
+    "wins": 17,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "125 lbs.",
+    "reach": "65\"",
+    "stance": "Orthodox",
+    "dob": "May 07, 1999",
+    "strikes_landed_per_min": 2.71,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.8,
+    "striking_defense": 0.44,
+    "takedown_average": null,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.64,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kevin Borjas",
+      "result": "loss",
+      "date": "Mar. 29, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ode Osbourne",
+      "result": "win",
+      "date": "Sep. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Denys Bondar",
+      "result": "win",
+      "date": "Feb. 24, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jerome Rivera",
+      "result": "loss",
+      "date": "Aug. 04, 2020",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0be6776db31d98ec",
+  "stats": {
+    "name": "Mitch Raposo",
+    "record": "10-3-0",
+    "wins": 10,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 5\"",
+    "weight": "125 lbs.",
+    "reach": "64\"",
+    "stance": "Switch",
+    "dob": "Oct 16, 1998",
+    "strikes_landed_per_min": 1.73,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.65,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.37,
+    "takedown_defense": 0.61,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Azat Maksum",
+      "result": "win",
+      "date": "Oct. 25, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sumudaerji",
+      "result": "loss",
+      "date": "Apr. 12, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Lima",
+      "result": "loss",
+      "date": "Jun. 01, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jake Hadley",
+      "result": "loss",
+      "date": "Oct. 12, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

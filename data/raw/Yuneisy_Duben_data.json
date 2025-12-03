@@ -1,0 +1,23 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c3d2b9bcb4cead6b",
+  "stats": {
+    "name": "Yuneisy Duben",
+    "record": "6-1-0 (1 NC)",
+    "wins": 6,
+    "losses": 1
+  },
+  "fight_history": [
+    {
+      "opponent": "Carli Judice",
+      "result": "loss",
+      "date": "Mar. 15, 2025",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Shannon Clark",
+      "result": "win",
+      "date": "Sep. 03, 2024",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

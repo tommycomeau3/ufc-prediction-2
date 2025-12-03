@@ -1,0 +1,115 @@
+{
+  "url": "http://ufcstats.com/fighter-details/99bd51917728c25d",
+  "stats": {
+    "name": "Grant Dawson",
+    "record": "23-2-1",
+    "wins": 23,
+    "losses": 2,
+    "draws": 1,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Switch",
+    "dob": "Feb 20, 1994",
+    "strikes_landed_per_min": 3.2,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.11,
+    "striking_defense": 0.44,
+    "takedown_average": null,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.57,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Manuel Torres",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Diego Ferreira",
+      "result": "win",
+      "date": "Jan. 18, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rafa Garcia",
+      "result": "win",
+      "date": "Oct. 12, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Joe Solecki",
+      "result": "win",
+      "date": "Jun. 01, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "King Green",
+      "result": "loss",
+      "date": "Oct. 07, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Damir Ismagulov",
+      "result": "win",
+      "date": "Jul. 01, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mark Madsen",
+      "result": "win",
+      "date": "Nov. 05, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jared Gordon",
+      "result": "win",
+      "date": "Apr. 30, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Ricky Glenn",
+      "result": "draw",
+      "date": "Oct. 23, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Leonardo Santos",
+      "result": "win",
+      "date": "Mar. 20, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Nad Narimani",
+      "result": "win",
+      "date": "Jul. 18, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Darrick Minner",
+      "result": "win",
+      "date": "Feb. 29, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Michael Trizano",
+      "result": "win",
+      "date": "May. 18, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Julian Erosa",
+      "result": "win",
+      "date": "Mar. 09, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Adrian Diaz",
+      "result": "win",
+      "date": "Aug. 15, 2017",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

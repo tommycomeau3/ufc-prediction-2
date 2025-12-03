@@ -1,0 +1,53 @@
+{
+  "url": "http://ufcstats.com/fighter-details/cfc3e7bb44685289",
+  "stats": {
+    "name": "Trey Ogden",
+    "record": "18-7-0 (1 NC)",
+    "wins": 18,
+    "losses": 7
+  },
+  "fight_history": [
+    {
+      "opponent": "Thiago Moises",
+      "result": "loss",
+      "date": "Jan. 11, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Loik Radzhabov",
+      "result": "win",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kurt Holobaugh",
+      "result": "win",
+      "date": "Mar. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nikolas Motta",
+      "result": "nc",
+      "date": "Nov. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ignacio Bahamondes",
+      "result": "loss",
+      "date": "Apr. 08, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daniel Zellhuber",
+      "result": "win",
+      "date": "Sep. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jordan Leavitt",
+      "result": "loss",
+      "date": "Apr. 16, 2022",
+      "method": "N/A"
+    }
+  ]
+}

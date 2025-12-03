@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/8173f134396cb971",
+  "stats": {
+    "name": "Cortavious Romious",
+    "record": "9-4-0",
+    "wins": 9,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 4\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Southpaw",
+    "dob": "Jan 06, 1994",
+    "strikes_landed_per_min": 1.91,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.46,
+    "striking_defense": 0.39,
+    "takedown_average": null,
+    "takedown_accuracy": 0.66,
+    "takedown_defense": 0.64,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "ChangHo Lee",
+      "result": "loss",
+      "date": "Apr. 05, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Gaston Bolanos",
+      "result": "loss",
+      "date": "Nov. 09, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michael Imperato",
+      "result": "win",
+      "date": "Aug. 20, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ramon Taveras",
+      "result": "loss",
+      "date": "Oct. 10, 2023",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

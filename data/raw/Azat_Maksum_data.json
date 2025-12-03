@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7f1bf0c255ec8756",
+  "stats": {
+    "name": "Azat Maksum",
+    "record": "15-3-0",
+    "wins": 15,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Feb 02, 1995",
+    "strikes_landed_per_min": 2.75,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.25,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.31,
+    "takedown_defense": 0.85,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Mitch Raposo",
+      "result": "loss",
+      "date": "Oct. 25, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tagir Ulanbekov",
+      "result": "loss",
+      "date": "Jun. 21, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Johnson",
+      "result": "loss",
+      "date": "Feb. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tyson Nam",
+      "result": "win",
+      "date": "Jul. 15, 2023",
+      "method": "N/A"
+    }
+  ]
+}

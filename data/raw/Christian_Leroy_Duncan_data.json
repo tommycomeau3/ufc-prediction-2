@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a93f94c923c3a9cb",
+  "stats": {
+    "name": "Christian Leroy Duncan",
+    "record": "13-2-0",
+    "wins": 13,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "185 lbs.",
+    "reach": "79\"",
+    "stance": "Switch",
+    "dob": "Jul 24, 1995",
+    "strikes_landed_per_min": 4.6,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.97,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.2,
+    "takedown_defense": 0.69,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Marco Tulio",
+      "result": "win",
+      "date": "Nov. 08, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Eryk Anders",
+      "result": "win",
+      "date": "Aug. 09, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Andrey Pulyaev",
+      "result": "win",
+      "date": "Mar. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gregory Rodrigues",
+      "result": "loss",
+      "date": "Jul. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Claudio Ribeiro",
+      "result": "win",
+      "date": "Mar. 02, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Denis Tiuliulin",
+      "result": "win",
+      "date": "Nov. 18, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Armen Petrosyan",
+      "result": "loss",
+      "date": "Jun. 17, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dusko Todorovic",
+      "result": "win",
+      "date": "Mar. 18, 2023",
+      "method": "KO/TKO"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/19f8a2f6eecd92ac",
+  "stats": {
+    "name": "Puja Tomar",
+    "record": "9-5-0",
+    "wins": 9,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 4\"",
+    "weight": "115 lbs.",
+    "reach": "59\"",
+    "stance": "Southpaw",
+    "dob": "Dec 05, 1993",
+    "strikes_landed_per_min": 5.61,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.82,
+    "striking_defense": 0.46,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Shauna Bannon",
+      "result": "loss",
+      "date": "Mar. 22, 2025",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Rayanne dos Santos",
+      "result": "win",
+      "date": "Jun. 08, 2024",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/2c5f5749569eef66",
+  "stats": {
+    "name": "Tainara Lisboa",
+    "record": "7-4-0",
+    "wins": 7,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Mar 02, 1991",
+    "strikes_landed_per_min": 2.01,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.88,
+    "striking_defense": 0.45,
+    "takedown_average": null,
+    "takedown_accuracy": 0.31,
+    "takedown_defense": 0.53,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Melissa Croden",
+      "result": "loss",
+      "date": "Oct. 18, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Luana Santos",
+      "result": "loss",
+      "date": "May. 17, 2025",
+      "method": "Submission (Keylock)"
+    },
+    {
+      "opponent": "Ravena Oliveira",
+      "result": "win",
+      "date": "Oct. 14, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jessica-Rose Clark",
+      "result": "win",
+      "date": "May. 13, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

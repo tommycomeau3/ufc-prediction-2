@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/fbb60f24af5d5a02",
+  "stats": {
+    "name": "Torrez Finney",
+    "record": "11-0-0",
+    "wins": 11,
+    "losses": 0,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "185 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Oct 24, 1998",
+    "strikes_landed_per_min": 1.77,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.74,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.6,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Robert Valentin",
+      "result": "win",
+      "date": "Apr. 05, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Abdellah Er-Ramy",
+      "result": "win",
+      "date": "Oct. 01, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Cam Rowston",
+      "result": "win",
+      "date": "Aug. 20, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yuri Panferov",
+      "result": "win",
+      "date": "Oct. 10, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

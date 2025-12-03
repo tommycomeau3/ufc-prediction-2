@@ -1,0 +1,163 @@
+{
+  "url": "http://ufcstats.com/fighter-details/193b9d1858bc4df3",
+  "stats": {
+    "name": "Dan Hooker",
+    "record": "24-13-0",
+    "wins": 24,
+    "losses": 13,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "155 lbs.",
+    "reach": "75\"",
+    "stance": "Switch",
+    "dob": "Feb 13, 1990",
+    "strikes_landed_per_min": 4.89,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.73,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.77,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Arman Tsarukyan",
+      "result": "loss",
+      "date": "Nov. 22, 2025",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Mateusz Gamrot",
+      "result": "win",
+      "date": "Aug. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jalin Turner",
+      "result": "win",
+      "date": "Jul. 08, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Claudio Puelles",
+      "result": "win",
+      "date": "Nov. 12, 2022",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Arnold Allen",
+      "result": "loss",
+      "date": "Mar. 19, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Islam Makhachev",
+      "result": "loss",
+      "date": "Oct. 30, 2021",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Nasrat Haqparast",
+      "result": "win",
+      "date": "Sep. 25, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michael Chandler",
+      "result": "loss",
+      "date": "Jan. 23, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dustin Poirier",
+      "result": "loss",
+      "date": "Jun. 27, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paul Felder",
+      "result": "win",
+      "date": "Feb. 22, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Al Iaquinta",
+      "result": "win",
+      "date": "Oct. 05, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "James Vick",
+      "result": "win",
+      "date": "Jul. 20, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Edson Barboza",
+      "result": "loss",
+      "date": "Dec. 15, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Gilbert Burns",
+      "result": "win",
+      "date": "Jul. 07, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jim Miller",
+      "result": "win",
+      "date": "Apr. 21, 2018",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Marc Diakiese",
+      "result": "win",
+      "date": "Dec. 30, 2017",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Ross Pearson",
+      "result": "win",
+      "date": "Jun. 10, 2017",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Jason Knight",
+      "result": "loss",
+      "date": "Nov. 26, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mark Eddiva",
+      "result": "win",
+      "date": "Mar. 19, 2016",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Yair Rodriguez",
+      "result": "loss",
+      "date": "Oct. 03, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hatsu Hioki",
+      "result": "win",
+      "date": "May. 09, 2015",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Maximo Blanco",
+      "result": "loss",
+      "date": "Sep. 20, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ian Entwistle",
+      "result": "win",
+      "date": "UFC Fight Night: Te Huna vs Marquardt",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

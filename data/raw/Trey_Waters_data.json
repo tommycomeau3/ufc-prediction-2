@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/31dbfbe4e7a6727c",
+  "stats": {
+    "name": "Trey Waters",
+    "record": "9-2-0",
+    "wins": 9,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 5\"",
+    "weight": "170 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "Feb 21, 1995",
+    "strikes_landed_per_min": 6.39,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.83,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.85,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Sam Patterson",
+      "result": "loss",
+      "date": "Sep. 06, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Billy Ray Goff",
+      "result": "win",
+      "date": "May. 11, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Quinlan",
+      "result": "win",
+      "date": "Apr. 29, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gabriel Bonfim",
+      "result": "loss",
+      "date": "Sep. 06, 2022",
+      "method": "Submission (Von Flue Choke)"
+    }
+  ]
+}

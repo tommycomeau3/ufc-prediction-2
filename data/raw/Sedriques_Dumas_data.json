@@ -1,0 +1,65 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4e6738062d469256",
+  "stats": {
+    "name": "Sedriques Dumas",
+    "record": "10-4-0 (1 NC)",
+    "wins": 10,
+    "losses": 4
+  },
+  "fight_history": [
+    {
+      "opponent": "Donte Johnson",
+      "result": "loss",
+      "date": "Nov. 01, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Zach Reese",
+      "result": "nc",
+      "date": "Sep. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michal Oleksiejczuk",
+      "result": "loss",
+      "date": "Apr. 12, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Denis Tiuliulin",
+      "result": "win",
+      "date": "Aug. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nursulton Ruziboev",
+      "result": "loss",
+      "date": "Mar. 30, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Abu Azaitar",
+      "result": "win",
+      "date": "Oct. 21, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody Brundage",
+      "result": "win",
+      "date": "Jun. 24, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Fremd",
+      "result": "loss",
+      "date": "Mar. 11, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Matej Penaz",
+      "result": "win",
+      "date": "Aug. 30, 2022",
+      "method": "Submission (Guillotine Choke)"
+    }
+  ]
+}

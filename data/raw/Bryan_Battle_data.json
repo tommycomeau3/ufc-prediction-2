@@ -1,0 +1,65 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f626118b6da0e020",
+  "stats": {
+    "name": "Bryan Battle",
+    "record": "13-2-0 (1 NC)",
+    "wins": 13,
+    "losses": 2
+  },
+  "fight_history": [
+    {
+      "opponent": "Randy Brown",
+      "result": "win",
+      "date": "Dec. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kevin Jousset",
+      "result": "win",
+      "date": "Sep. 28, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ange Loosa",
+      "result": "nc",
+      "date": "Mar. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "AJ Fletcher",
+      "result": "win",
+      "date": "Sep. 23, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Gabe Green",
+      "result": "win",
+      "date": "May. 13, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Rinat Fakhretdinov",
+      "result": "loss",
+      "date": "Dec. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Takashi Sato",
+      "result": "win",
+      "date": "Aug. 06, 2022",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Tresean Gore",
+      "result": "win",
+      "date": "Feb. 05, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gilbert Urbina",
+      "result": "win",
+      "date": "Aug. 28, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

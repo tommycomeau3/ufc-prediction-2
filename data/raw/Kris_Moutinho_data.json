@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/9c27f3217891f3f0",
+  "stats": {
+    "name": "Kris Moutinho",
+    "record": "14-7-0",
+    "wins": 14,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Southpaw",
+    "dob": "Aug 09, 1992",
+    "strikes_landed_per_min": 4.51,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 14.68,
+    "striking_defense": 0.29,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Malcolm Wellmaker",
+      "result": "loss",
+      "date": "Jun. 14, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Guido Cannetti",
+      "result": "loss",
+      "date": "Mar. 12, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Sean O'Malley",
+      "result": "loss",
+      "date": "Jul. 10, 2021",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

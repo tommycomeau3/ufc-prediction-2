@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a54660deb6a8489c",
+  "stats": {
+    "name": "Muin Gafurov",
+    "record": "20-6-0",
+    "wins": 20,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "May 17, 1996",
+    "strikes_landed_per_min": 2.89,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.21,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.26,
+    "takedown_defense": 0.7,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rinya Nakamura",
+      "result": "win",
+      "date": "Jan. 18, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kyung Ho Kang",
+      "result": "win",
+      "date": "Jun. 22, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Said Nurmagomedov",
+      "result": "loss",
+      "date": "Oct. 21, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "John Castaneda",
+      "result": "loss",
+      "date": "Jun. 03, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chad Anheliger",
+      "result": "loss",
+      "date": "Sep. 07, 2021",
+      "method": "N/A"
+    }
+  ]
+}

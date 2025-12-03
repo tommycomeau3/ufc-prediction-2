@@ -1,0 +1,133 @@
+{
+  "url": "http://ufcstats.com/fighter-details/1338e2c7480bdf9e",
+  "stats": {
+    "name": "Israel Adesanya",
+    "record": "24-5-0",
+    "wins": 24,
+    "losses": 5,
+    "draws": 0,
+    "height": "6' 4\"",
+    "weight": "185 lbs.",
+    "reach": "80\"",
+    "stance": "Switch",
+    "dob": "Jul 22, 1989",
+    "strikes_landed_per_min": 4.02,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.2,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.11,
+    "takedown_defense": 0.76,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Nassourdine Imavov",
+      "result": "loss",
+      "date": "Feb. 01, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dricus Du Plessis",
+      "result": "loss",
+      "date": "Aug. 17, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Sean Strickland",
+      "result": "loss",
+      "date": "Sep. 09, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Pereira",
+      "result": "win",
+      "date": "Apr. 08, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Alex Pereira",
+      "result": "loss",
+      "date": "Nov. 12, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jared Cannonier",
+      "result": "win",
+      "date": "Jul. 02, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Robert Whittaker",
+      "result": "win",
+      "date": "Feb. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marvin Vettori",
+      "result": "win",
+      "date": "Jun. 12, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jan Blachowicz",
+      "result": "loss",
+      "date": "Mar. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paulo Costa",
+      "result": "win",
+      "date": "Sep. 26, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Yoel Romero",
+      "result": "win",
+      "date": "Mar. 07, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Robert Whittaker",
+      "result": "win",
+      "date": "Oct. 05, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Kelvin Gastelum",
+      "result": "win",
+      "date": "Apr. 13, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anderson Silva",
+      "result": "win",
+      "date": "Feb. 09, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Derek Brunson",
+      "result": "win",
+      "date": "Nov. 03, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Brad Tavares",
+      "result": "win",
+      "date": "Jul. 06, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marvin Vettori",
+      "result": "win",
+      "date": "Apr. 14, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rob Wilkinson",
+      "result": "win",
+      "date": "Feb. 10, 2018",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

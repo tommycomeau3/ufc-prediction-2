@@ -1,0 +1,173 @@
+{
+  "url": "http://ufcstats.com/fighter-details/519e4fe37ce9ff75",
+  "stats": {
+    "name": "Drew Dober",
+    "record": "28-15-0 (1 NC)",
+    "wins": 28,
+    "losses": 15
+  },
+  "fight_history": [
+    {
+      "opponent": "Kyle Prepolec",
+      "result": "win",
+      "date": "Oct. 18, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Manuel Torres",
+      "result": "loss",
+      "date": "Mar. 29, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jean Silva",
+      "result": "loss",
+      "date": "Jul. 13, 2024",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Renato Moicano",
+      "result": "loss",
+      "date": "Feb. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ricky Glenn",
+      "result": "win",
+      "date": "Oct. 07, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Matt Frevola",
+      "result": "loss",
+      "date": "May. 06, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "King Green",
+      "result": "win",
+      "date": "Dec. 17, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Rafael Alves",
+      "result": "win",
+      "date": "Jul. 30, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Terrance McKinney",
+      "result": "win",
+      "date": "Mar. 12, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Brad Riddell",
+      "result": "loss",
+      "date": "Jun. 12, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Islam Makhachev",
+      "result": "loss",
+      "date": "Mar. 06, 2021",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Alexander Hernandez",
+      "result": "win",
+      "date": "May. 13, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Nasrat Haqparast",
+      "result": "win",
+      "date": "Jan. 18, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Marco Polo Reyes",
+      "result": "win",
+      "date": "Jun. 29, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Beneil Dariush",
+      "result": "loss",
+      "date": "Mar. 09, 2019",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Jon Tuck",
+      "result": "win",
+      "date": "Aug. 25, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Frank Camacho",
+      "result": "win",
+      "date": "Jan. 27, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joshua Burkman",
+      "result": "win",
+      "date": "Jul. 29, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Olivier Aubin-Mercier",
+      "result": "loss",
+      "date": "Dec. 10, 2016",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jason Gonzalez",
+      "result": "win",
+      "date": "Sep. 10, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Scott Holtzman",
+      "result": "win",
+      "date": "Jan. 02, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Efrain Escudero",
+      "result": "loss",
+      "date": "Jun. 13, 2015",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Leandro Silva",
+      "result": "nc",
+      "date": "Mar. 21, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jamie Varner",
+      "result": "win",
+      "date": "Dec. 13, 2014",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Nick Hein",
+      "result": "loss",
+      "date": "May. 31, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean Spencer",
+      "result": "loss",
+      "date": "Nov. 30, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lumumba Sayers",
+      "result": "win",
+      "date": "Oct. 03, 2008",
+      "method": "KO/TKO"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/ae7fe94f117f98cf",
+  "stats": {
+    "name": "Joaquim Silva",
+    "record": "14-6-0",
+    "wins": 14,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Southpaw",
+    "dob": "Feb 05, 1989",
+    "strikes_landed_per_min": 3.43,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.17,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.7,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Claudio Puelles",
+      "result": "win",
+      "date": "Sep. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Drakkar Klose",
+      "result": "loss",
+      "date": "May. 04, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Clay Guida",
+      "result": "win",
+      "date": "Dec. 02, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Arman Tsarukyan",
+      "result": "loss",
+      "date": "Jun. 17, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jesse Ronson",
+      "result": "win",
+      "date": "Oct. 01, 2022",
+      "method": "KO/TKO (Flying Knee)"
+    },
+    {
+      "opponent": "Ricky Glenn",
+      "result": "loss",
+      "date": "UFC Fight Night: Jung vs. Ige",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Nasrat Haqparast",
+      "result": "loss",
+      "date": "Aug. 03, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jared Gordon",
+      "result": "win",
+      "date": "Dec. 15, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Vinc Pichel",
+      "result": "loss",
+      "date": "Jan. 27, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Reza Madadi",
+      "result": "win",
+      "date": "May. 28, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andrew Holbrook",
+      "result": "win",
+      "date": "Jul. 08, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Nazareno Malegarie",
+      "result": "win",
+      "date": "Sep. 05, 2015",
+      "method": "N/A"
+    }
+  ]
+}

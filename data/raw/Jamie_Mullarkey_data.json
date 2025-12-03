@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/af9f42e6894047fc",
+  "stats": {
+    "name": "Jamie Mullarkey",
+    "record": "18-8-0",
+    "wins": 18,
+    "losses": 8,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "155 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Aug 17, 1994",
+    "strikes_landed_per_min": 4.2,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.34,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.29,
+    "takedown_defense": 0.78,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rolando Bedoya",
+      "result": "win",
+      "date": "Sep. 27, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mauricio Ruffy",
+      "result": "loss",
+      "date": "May. 04, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Nasrat Haqparast",
+      "result": "loss",
+      "date": "Dec. 09, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "John Makdessi",
+      "result": "win",
+      "date": "Sep. 09, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Muhammad Naimov",
+      "result": "loss",
+      "date": "Jun. 03, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Francisco Prado",
+      "result": "win",
+      "date": "Feb. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michael Johnson",
+      "result": "win",
+      "date": "Jul. 09, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jalin Turner",
+      "result": "loss",
+      "date": "Mar. 05, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Devonte Smith",
+      "result": "win",
+      "date": "Oct. 02, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Khama Worthy",
+      "result": "win",
+      "date": "Mar. 27, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Fares Ziam",
+      "result": "loss",
+      "date": "Oct. 17, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brad Riddell",
+      "result": "loss",
+      "date": "Oct. 05, 2019",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/12ebd7d157e91701",
+  "stats": {
+    "name": "Bruno Silva",
+    "record": "23-13-0",
+    "wins": 23,
+    "losses": 13,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "185 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Jul 13, 1989",
+    "strikes_landed_per_min": 3.86,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.35,
+    "striking_defense": 0.41,
+    "takedown_average": null,
+    "takedown_accuracy": 0.22,
+    "takedown_defense": 0.74,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Marc-Andre Barriault",
+      "result": "loss",
+      "date": "May. 10, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Ismail Naurdiev",
+      "result": "loss",
+      "date": "Oct. 26, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Weidman",
+      "result": "loss",
+      "date": "Mar. 30, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shara Magomedov",
+      "result": "loss",
+      "date": "Oct. 21, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brendan Allen",
+      "result": "loss",
+      "date": "Jun. 24, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Brad Tavares",
+      "result": "win",
+      "date": "Apr. 22, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Gerald Meerschaert",
+      "result": "loss",
+      "date": "Aug. 13, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Alex Pereira",
+      "result": "loss",
+      "date": "Mar. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jordan Wright",
+      "result": "win",
+      "date": "Dec. 11, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Andrew Sanchez",
+      "result": "win",
+      "date": "Oct. 16, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Wellington Turman",
+      "result": "win",
+      "date": "UFC Fight Night: Jung vs. Ige",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

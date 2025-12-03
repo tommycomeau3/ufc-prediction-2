@@ -1,0 +1,89 @@
+{
+  "url": "http://ufcstats.com/fighter-details/787bb1f087ccff8a",
+  "stats": {
+    "name": "Ciryl Gane",
+    "record": "13-2-0 (1 NC)",
+    "wins": 13,
+    "losses": 2
+  },
+  "fight_history": [
+    {
+      "opponent": "Tom Aspinall",
+      "result": "nc",
+      "date": "Oct. 25, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexander Volkov",
+      "result": "win",
+      "date": "Dec. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Serghei Spivac",
+      "result": "win",
+      "date": "Sep. 02, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jon Jones",
+      "result": "loss",
+      "date": "Mar. 04, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Tai Tuivasa",
+      "result": "win",
+      "date": "Sep. 03, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Francis Ngannou",
+      "result": "loss",
+      "date": "Jan. 22, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Derrick Lewis",
+      "result": "win",
+      "date": "Aug. 07, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alexander Volkov",
+      "result": "win",
+      "date": "Jun. 26, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jairzinho Rozenstruik",
+      "result": "win",
+      "date": "Feb. 27, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Junior Dos Santos",
+      "result": "win",
+      "date": "Dec. 12, 2020",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Tanner Boser",
+      "result": "win",
+      "date": "Dec. 21, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Don'Tale Mayes",
+      "result": "win",
+      "date": "Oct. 26, 2019",
+      "method": "Submission (Heel Hook)"
+    },
+    {
+      "opponent": "Raphael Pessoa",
+      "result": "win",
+      "date": "Aug. 10, 2019",
+      "method": "Submission (Arm Triangle)"
+    }
+  ]
+}

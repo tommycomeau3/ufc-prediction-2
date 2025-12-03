@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/242d36d241b43c12",
+  "stats": {
+    "name": "Kron Gracie",
+    "record": "5-3-0",
+    "wins": 5,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Jul 11, 1988",
+    "strikes_landed_per_min": 2.95,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.73,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Bryce Mitchell",
+      "result": "loss",
+      "date": "Dec. 07, 2024",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Charles Jourdain",
+      "result": "loss",
+      "date": "May. 06, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cub Swanson",
+      "result": "loss",
+      "date": "Oct. 12, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Caceres",
+      "result": "win",
+      "date": "Feb. 17, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

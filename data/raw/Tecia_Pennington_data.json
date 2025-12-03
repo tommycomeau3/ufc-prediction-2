@@ -1,0 +1,139 @@
+{
+  "url": "http://ufcstats.com/fighter-details/31ef8b67e13495b3",
+  "stats": {
+    "name": "Tecia Pennington",
+    "record": "15-8-0",
+    "wins": 15,
+    "losses": 8,
+    "draws": 0,
+    "height": "5' 1\"",
+    "weight": "115 lbs.",
+    "reach": "60\"",
+    "stance": "Orthodox",
+    "dob": "Aug 16, 1989",
+    "strikes_landed_per_min": 4.73,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.48,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.14,
+    "takedown_defense": 0.62,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Denise Gomes",
+      "result": "loss",
+      "date": "Nov. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Luana Pinheiro",
+      "result": "win",
+      "date": "May. 17, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carla Esparza",
+      "result": "win",
+      "date": "Oct. 05, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tabatha Ricci",
+      "result": "loss",
+      "date": "May. 11, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mackenzie Dern",
+      "result": "loss",
+      "date": "Apr. 09, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Angela Hill",
+      "result": "win",
+      "date": "Aug. 07, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sam Hughes",
+      "result": "win",
+      "date": "Dec. 12, 2020",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Brianna Fortino",
+      "result": "win",
+      "date": "Jun. 20, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marina Rodriguez",
+      "result": "loss",
+      "date": "Aug. 10, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zhang Weili",
+      "result": "loss",
+      "date": "Mar. 02, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joanna Jedrzejczyk",
+      "result": "loss",
+      "date": "Jul. 28, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jessica Andrade",
+      "result": "loss",
+      "date": "Feb. 24, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michelle Waterson-Gomez",
+      "result": "win",
+      "date": "Dec. 02, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Juliana Lima",
+      "result": "win",
+      "date": "Jul. 07, 2017",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Bec Rawlings",
+      "result": "win",
+      "date": "Feb. 04, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rose Namajunas",
+      "result": "loss",
+      "date": "Apr. 16, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jocelyn Jones-Lybarger",
+      "result": "win",
+      "date": "Dec. 12, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Angela Hill",
+      "result": "win",
+      "date": "Jun. 13, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Angela Magana",
+      "result": "win",
+      "date": "Dec. 12, 2014",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b1b0729d27936f2f",
+  "stats": {
+    "name": "Belal Muhammad",
+    "record": "24-5-0 (1 NC)",
+    "wins": 24,
+    "losses": 5
+  },
+  "fight_history": [
+    {
+      "opponent": "Ian Machado Garry",
+      "result": "loss",
+      "date": "Nov. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jack Della Maddalena",
+      "result": "loss",
+      "date": "May. 10, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Leon Edwards",
+      "result": "win",
+      "date": "Jul. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gilbert Burns",
+      "result": "win",
+      "date": "May. 06, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean Brady",
+      "result": "win",
+      "date": "Oct. 22, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Vicente Luque",
+      "result": "win",
+      "date": "Apr. 16, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Stephen Thompson",
+      "result": "win",
+      "date": "Dec. 18, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Demian Maia",
+      "result": "win",
+      "date": "Jun. 12, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Leon Edwards",
+      "result": "nc",
+      "date": "Mar. 13, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dhiego Lima",
+      "result": "win",
+      "date": "Feb. 13, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lyman Good",
+      "result": "win",
+      "date": "Jun. 20, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Takashi Sato",
+      "result": "win",
+      "date": "Sep. 07, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Curtis Millender",
+      "result": "win",
+      "date": "Apr. 13, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Geoff Neal",
+      "result": "loss",
+      "date": "Jan. 19, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chance Rencountre",
+      "result": "win",
+      "date": "Jun. 01, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tim Means",
+      "result": "win",
+      "date": "Nov. 18, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jordan Mein",
+      "result": "win",
+      "date": "Jul. 08, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Randy Brown",
+      "result": "win",
+      "date": "Feb. 11, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vicente Luque",
+      "result": "loss",
+      "date": "Nov. 12, 2016",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Augusto Montano",
+      "result": "win",
+      "date": "Sep. 17, 2016",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alan Jouban",
+      "result": "loss",
+      "date": "Jul. 07, 2016",
+      "method": "N/A"
+    }
+  ]
+}

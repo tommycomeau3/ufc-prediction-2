@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/41e83a89929d1327",
+  "stats": {
+    "name": "Jailton Almeida",
+    "record": "22-4-0",
+    "wins": 22,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "237 lbs.",
+    "reach": "79\"",
+    "stance": "Orthodox",
+    "dob": "Jun 26, 1991",
+    "strikes_landed_per_min": 2.25,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.02,
+    "striking_defense": 0.35,
+    "takedown_average": null,
+    "takedown_accuracy": 0.62,
+    "takedown_defense": 0.6,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Alexander Volkov",
+      "result": "loss",
+      "date": "Oct. 25, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Serghei Spivac",
+      "result": "win",
+      "date": "Jan. 18, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alexandr Romanov",
+      "result": "win",
+      "date": "Jun. 01, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Curtis Blaydes",
+      "result": "loss",
+      "date": "Mar. 09, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Derrick Lewis",
+      "result": "win",
+      "date": "Nov. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jairzinho Rozenstruik",
+      "result": "win",
+      "date": "May. 13, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Shamil Abdurakhimov",
+      "result": "win",
+      "date": "Jan. 21, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Anton Turkalj",
+      "result": "win",
+      "date": "Sep. 10, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Parker Porter",
+      "result": "win",
+      "date": "May. 21, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Danilo Marques",
+      "result": "win",
+      "date": "Feb. 05, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Nasrudin Nasrudinov",
+      "result": "win",
+      "date": "Sep. 14, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

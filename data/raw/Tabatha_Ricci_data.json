@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d25240135aee03e5",
+  "stats": {
+    "name": "Tabatha Ricci",
+    "record": "12-3-0",
+    "wins": 12,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 1\"",
+    "weight": "115 lbs.",
+    "reach": "61\"",
+    "stance": "Orthodox",
+    "dob": "Feb 21, 1995",
+    "strikes_landed_per_min": 4.18,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.19,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.37,
+    "takedown_defense": 0.78,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Amanda Ribas",
+      "result": "win",
+      "date": "Jul. 26, 2025",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Yan Xiaonan",
+      "result": "loss",
+      "date": "Nov. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Angela Hill",
+      "result": "win",
+      "date": "Aug. 24, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tecia Pennington",
+      "result": "win",
+      "date": "May. 11, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Loopy Godinez",
+      "result": "loss",
+      "date": "Nov. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gillian Robertson",
+      "result": "win",
+      "date": "Jun. 24, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jessica Penne",
+      "result": "win",
+      "date": "Mar. 04, 2023",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Polyana Viana",
+      "result": "win",
+      "date": "May. 21, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Maria Oliveira",
+      "result": "win",
+      "date": "Oct. 23, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Manon Fiorot",
+      "result": "loss",
+      "date": "Jun. 05, 2021",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

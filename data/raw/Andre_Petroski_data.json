@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/5f61780fe5e9b6d0",
+  "stats": {
+    "name": "Andre Petroski",
+    "record": "13-6-0",
+    "wins": 13,
+    "losses": 6,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "185 lbs.",
+    "reach": "73\"",
+    "stance": "Switch",
+    "dob": "Jun 12, 1991",
+    "strikes_landed_per_min": 2.81,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.79,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.51,
+    "takedown_defense": 0.86,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Cam Rowston",
+      "result": "loss",
+      "date": "Sep. 27, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Edmen Shahbazyan",
+      "result": "loss",
+      "date": "Jun. 14, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rodolfo Vieira",
+      "result": "win",
+      "date": "Feb. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dylan Budka",
+      "result": "win",
+      "date": "Sep. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Fremd",
+      "result": "win",
+      "date": "Jul. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jacob Malkoun",
+      "result": "loss",
+      "date": "Mar. 30, 2024",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Michel Pereira",
+      "result": "loss",
+      "date": "Oct. 14, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Gerald Meerschaert",
+      "result": "win",
+      "date": "Aug. 19, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Wellington Turman",
+      "result": "win",
+      "date": "Nov. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nick Maximov",
+      "result": "win",
+      "date": "May. 14, 2022",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Hu Yaozong",
+      "result": "win",
+      "date": "Oct. 30, 2021",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Micheal Gillmore",
+      "result": "win",
+      "date": "Aug. 28, 2021",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

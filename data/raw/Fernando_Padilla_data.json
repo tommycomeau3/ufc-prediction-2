@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d2f43cfaf8ca3560",
+  "stats": {
+    "name": "Fernando Padilla",
+    "record": "16-6-0",
+    "wins": 16,
+    "losses": 6,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "145 lbs.",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "dob": "Dec 15, 1996",
+    "strikes_landed_per_min": 6.07,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.74,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Sean Woodson",
+      "result": "loss",
+      "date": "Dec. 14, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Luis Pajuelo",
+      "result": "win",
+      "date": "Mar. 23, 2024",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Kyle Nelson",
+      "result": "loss",
+      "date": "Sep. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julian Erosa",
+      "result": "win",
+      "date": "Apr. 29, 2023",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

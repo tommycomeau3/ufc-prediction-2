@@ -1,0 +1,103 @@
+{
+  "url": "http://ufcstats.com/fighter-details/9560ff14eb3129f7",
+  "stats": {
+    "name": "Giga Chikadze",
+    "record": "15-5-0",
+    "wins": 15,
+    "losses": 5,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "145 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Aug 25, 1988",
+    "strikes_landed_per_min": 3.82,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.48,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.65,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kevin Vallejos",
+      "result": "next",
+      "date": "Dec. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "David Onama",
+      "result": "loss",
+      "date": "Apr. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Arnold Allen",
+      "result": "loss",
+      "date": "Jul. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Caceres",
+      "result": "win",
+      "date": "Aug. 26, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Calvin Kattar",
+      "result": "loss",
+      "date": "Jan. 15, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Edson Barboza",
+      "result": "win",
+      "date": "Aug. 28, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Cub Swanson",
+      "result": "win",
+      "date": "May. 01, 2021",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Jamey Simmons",
+      "result": "win",
+      "date": "Nov. 07, 2020",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Omar Morales",
+      "result": "win",
+      "date": "Oct. 10, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Irwin Rivera",
+      "result": "win",
+      "date": "May. 16, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jamall Emmers",
+      "result": "win",
+      "date": "Mar. 07, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brandon Davis",
+      "result": "win",
+      "date": "Sep. 28, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Austin Springer",
+      "result": "loss",
+      "date": "Jun. 19, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

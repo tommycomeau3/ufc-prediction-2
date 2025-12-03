@@ -1,0 +1,35 @@
+{
+  "url": "http://ufcstats.com/fighter-details/5cdf5339728f580d",
+  "stats": {
+    "name": "Felipe dos Santos",
+    "record": "8-3-0 (1 NC)",
+    "wins": 8,
+    "losses": 3
+  },
+  "fight_history": [
+    {
+      "opponent": "Lone'er Kavanagh",
+      "result": "loss",
+      "date": "Mar. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Lima",
+      "result": "loss",
+      "date": "Sep. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Victor Altamirano",
+      "result": "win",
+      "date": "Feb. 24, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Manel Kape",
+      "result": "loss",
+      "date": "Sep. 09, 2023",
+      "method": "N/A"
+    }
+  ]
+}

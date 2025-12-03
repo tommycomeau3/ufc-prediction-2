@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f29a6350c69f4a33",
+  "stats": {
+    "name": "Miranda Maverick",
+    "record": "17-6-0",
+    "wins": 17,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "125 lbs.",
+    "reach": "65\"",
+    "stance": "Southpaw",
+    "dob": "Jul 01, 1997",
+    "strikes_landed_per_min": 3.22,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.25,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.45,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rose Namajunas",
+      "result": "loss",
+      "date": "Jun. 14, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jamey-Lyn Horth",
+      "result": "win",
+      "date": "Dec. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dione Barbosa",
+      "result": "win",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andrea Lee",
+      "result": "win",
+      "date": "Feb. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Priscila Cachoeira",
+      "result": "win",
+      "date": "Jul. 29, 2023",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Jasmine Jasudavicius",
+      "result": "loss",
+      "date": "Jun. 10, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shanna Young",
+      "result": "win",
+      "date": "Nov. 05, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sabina Mazo",
+      "result": "win",
+      "date": "Mar. 12, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Erin Blanchfield",
+      "result": "loss",
+      "date": "Dec. 11, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Maycee Barber",
+      "result": "loss",
+      "date": "Jul. 24, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gillian Robertson",
+      "result": "win",
+      "date": "Mar. 27, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Liana Jojua",
+      "result": "win",
+      "date": "Oct. 24, 2020",
+      "method": "KO/TKO"
+    }
+  ]
+}

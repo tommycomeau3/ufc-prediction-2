@@ -1,0 +1,143 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6bd02119599741a4",
+  "stats": {
+    "name": "Pedro Munhoz",
+    "record": "20-10-0 (2 NC)",
+    "wins": 20,
+    "losses": 10
+  },
+  "fight_history": [
+    {
+      "opponent": "Aiemann Zahabi",
+      "result": "loss",
+      "date": "Nov. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kyler Phillips",
+      "result": "loss",
+      "date": "Mar. 09, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marlon Vera",
+      "result": "loss",
+      "date": "Aug. 19, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Gutierrez",
+      "result": "win",
+      "date": "Apr. 15, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean O'Malley",
+      "result": "nc",
+      "date": "Jul. 02, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dominick Cruz",
+      "result": "loss",
+      "date": "Dec. 11, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jose Aldo",
+      "result": "loss",
+      "date": "Aug. 07, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jimmie Rivera",
+      "result": "win",
+      "date": "Feb. 27, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Frankie Edgar",
+      "result": "loss",
+      "date": "Aug. 22, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aljamain Sterling",
+      "result": "loss",
+      "date": "Jun. 08, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody Garbrandt",
+      "result": "win",
+      "date": "Mar. 02, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Bryan Caraway",
+      "result": "win",
+      "date": "Nov. 30, 2018",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Brett Johns",
+      "result": "win",
+      "date": "Aug. 04, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "John Dodson",
+      "result": "loss",
+      "date": "Mar. 03, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rob Font",
+      "result": "win",
+      "date": "Oct. 28, 2017",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Damian Stasiak",
+      "result": "win",
+      "date": "May. 28, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Justin Scoggins",
+      "result": "win",
+      "date": "Nov. 19, 2016",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Russell Doane",
+      "result": "win",
+      "date": "Jul. 07, 2016",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Jimmie Rivera",
+      "result": "loss",
+      "date": "Nov. 07, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jerrod Sanders",
+      "result": "nc",
+      "date": "Oct. 04, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Matt Hobar",
+      "result": "win",
+      "date": "May. 31, 2014",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Raphael Assuncao",
+      "result": "loss",
+      "date": "Feb. 22, 2014",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url": "http://ufcstats.com/fighter-details/3329d692aea4dc28",
+  "stats": {
+    "name": "Hamdy Abdelwahab",
+    "record": "7-1-0 (1 NC)",
+    "wins": 7,
+    "losses": 1
+  },
+  "fight_history": [
+    {
+      "opponent": "Chris Barnett",
+      "result": "win",
+      "date": "Oct. 25, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mohammed Usman",
+      "result": "loss",
+      "date": "Jun. 21, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jamal Pogues",
+      "result": "win",
+      "date": "Feb. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Don'Tale Mayes",
+      "result": "nc",
+      "date": "Jul. 30, 2022",
+      "method": "N/A"
+    }
+  ]
+}

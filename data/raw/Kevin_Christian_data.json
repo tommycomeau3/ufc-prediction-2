@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7e9b36a9847db116",
+  "stats": {
+    "name": "Kevin Christian",
+    "record": "9-3-0",
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 7\"",
+    "weight": "205 lbs.",
+    "reach": "80\"",
+    "stance": "Orthodox",
+    "dob": "Jan 21, 1995",
+    "strikes_landed_per_min": 1.64,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.65,
+    "striking_defense": 0.44,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Billy Elekana",
+      "result": "loss",
+      "date": "Nov. 01, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Francesco Mazzeo",
+      "result": "win",
+      "date": "Sep. 24, 2024",
+      "method": "Submission (Triangle Armbar)"
+    }
+  ]
+}

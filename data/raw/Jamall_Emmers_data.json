@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e00a3dee329a51f7",
+  "stats": {
+    "name": "Jamall Emmers",
+    "record": "22-8-0",
+    "wins": 22,
+    "losses": 8,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "145 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Jul 24, 1989",
+    "strikes_landed_per_min": 5.1,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.92,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.53,
+    "takedown_defense": 0.81,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Hyder Amil",
+      "result": "win",
+      "date": "Nov. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gabriel Miranda",
+      "result": "win",
+      "date": "Mar. 29, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Nate Landwehr",
+      "result": "loss",
+      "date": "Mar. 30, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dennis Buzukja",
+      "result": "win",
+      "date": "Nov. 11, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jack Jenkins",
+      "result": "loss",
+      "date": "Jun. 24, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Khusein Askhabov",
+      "result": "win",
+      "date": "Feb. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Pat Sabatini",
+      "result": "loss",
+      "date": "Aug. 28, 2021",
+      "method": "Submission (Heel Hook)"
+    },
+    {
+      "opponent": "Vince Cachero",
+      "result": "win",
+      "date": "Aug. 01, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Giga Chikadze",
+      "result": "loss",
+      "date": "Mar. 07, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julian Erosa",
+      "result": "loss",
+      "date": "Jun. 26, 2018",
+      "method": "KO/TKO (Kick)"
+    }
+  ]
+}

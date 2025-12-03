@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/de594b35c45c2e9a",
+  "stats": {
+    "name": "Eduarda Moura",
+    "record": "12-1-0",
+    "wins": 12,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "125 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Feb 28, 1994",
+    "strikes_landed_per_min": 3.04,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.47,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.37,
+    "takedown_defense": 0.8,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Lauren Murphy",
+      "result": "win",
+      "date": "Jul. 12, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Veronica Hardy",
+      "result": "win",
+      "date": "Nov. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Denise Gomes",
+      "result": "loss",
+      "date": "Jun. 08, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Montserrat Conejo Ruiz",
+      "result": "win",
+      "date": "Nov. 04, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Janaina Silva",
+      "result": "win",
+      "date": "Aug. 15, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

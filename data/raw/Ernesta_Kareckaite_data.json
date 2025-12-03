@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e4faa79383c9f214",
+  "stats": {
+    "name": "Ernesta Kareckaite",
+    "record": "6-1-1",
+    "wins": 6,
+    "losses": 1,
+    "draws": 1,
+    "height": "5' 9\"",
+    "weight": "125 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jul 05, 1998",
+    "strikes_landed_per_min": 7.38,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.09,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.66,
+    "takedown_defense": 0.82,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Nicolle Caliari",
+      "result": "win",
+      "date": "Jan. 11, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dione Barbosa",
+      "result": "loss",
+      "date": "May. 04, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carli Judice",
+      "result": "win",
+      "date": "Sep. 26, 2023",
+      "method": "N/A"
+    }
+  ]
+}

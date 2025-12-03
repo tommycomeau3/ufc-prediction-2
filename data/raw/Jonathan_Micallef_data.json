@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f782f953bfe7b5f2",
+  "stats": {
+    "name": "Jonathan Micallef",
+    "record": "8-1-0",
+    "wins": 8,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "170 lbs.",
+    "reach": "77\"",
+    "stance": "Southpaw",
+    "dob": "Mar 05, 1999",
+    "strikes_landed_per_min": 4.77,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.0,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kevin Jousset",
+      "result": "win",
+      "date": "Feb. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mohamed Ado",
+      "result": "win",
+      "date": "Oct. 15, 2024",
+      "method": "Submission (Triangle Choke)"
+    }
+  ]
+}

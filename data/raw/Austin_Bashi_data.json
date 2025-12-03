@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d3f89fa685bd8420",
+  "stats": {
+    "name": "Austin Bashi",
+    "record": "14-1-0",
+    "wins": 14,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Sep 29, 2001",
+    "strikes_landed_per_min": 1.75,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.34,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.62,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "John Yannis",
+      "result": "win",
+      "date": "Aug. 02, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Christian Rodriguez",
+      "result": "loss",
+      "date": "Jan. 11, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dorian Ramos",
+      "result": "win",
+      "date": "Sep. 03, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

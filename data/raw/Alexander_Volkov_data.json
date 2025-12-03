@@ -1,0 +1,133 @@
+{
+  "url": "http://ufcstats.com/fighter-details/279566840aa55bf2",
+  "stats": {
+    "name": "Alexander Volkov",
+    "record": "39-11-0",
+    "wins": 39,
+    "losses": 11,
+    "draws": 0,
+    "height": "6' 7\"",
+    "weight": "261 lbs.",
+    "reach": "80\"",
+    "stance": "Orthodox",
+    "dob": "Oct 24, 1988",
+    "strikes_landed_per_min": 4.78,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.86,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.66,
+    "takedown_defense": 0.68,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jailton Almeida",
+      "result": "win",
+      "date": "Oct. 25, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ciryl Gane",
+      "result": "loss",
+      "date": "Dec. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sergei Pavlovich",
+      "result": "win",
+      "date": "Jun. 22, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tai Tuivasa",
+      "result": "win",
+      "date": "Sep. 09, 2023",
+      "method": "Submission (Ezekiel Choke)"
+    },
+    {
+      "opponent": "Alexandr Romanov",
+      "result": "win",
+      "date": "Mar. 11, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jairzinho Rozenstruik",
+      "result": "win",
+      "date": "Jun. 04, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Tom Aspinall",
+      "result": "loss",
+      "date": "Mar. 19, 2022",
+      "method": "Submission (Straight Armbar)"
+    },
+    {
+      "opponent": "Marcin Tybura",
+      "result": "win",
+      "date": "Oct. 30, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ciryl Gane",
+      "result": "loss",
+      "date": "Jun. 26, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alistair Overeem",
+      "result": "win",
+      "date": "Feb. 06, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Walt Harris",
+      "result": "win",
+      "date": "Oct. 24, 2020",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Curtis Blaydes",
+      "result": "loss",
+      "date": "Jun. 20, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Greg Hardy",
+      "result": "win",
+      "date": "Nov. 09, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Derrick Lewis",
+      "result": "loss",
+      "date": "Oct. 06, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Fabricio Werdum",
+      "result": "win",
+      "date": "Mar. 17, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Stefan Struve",
+      "result": "win",
+      "date": "Sep. 02, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Roy Nelson",
+      "result": "win",
+      "date": "Apr. 15, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Timothy Johnson",
+      "result": "win",
+      "date": "Nov. 19, 2016",
+      "method": "N/A"
+    }
+  ]
+}

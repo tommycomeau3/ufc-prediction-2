@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/71171fc96445bf65",
+  "stats": {
+    "name": "Vitor Petrino",
+    "record": "13-2-0",
+    "wins": 13,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "265 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "Aug 28, 1997",
+    "strikes_landed_per_min": 2.75,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.48,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.51,
+    "takedown_defense": 0.79,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Thomas Petersen",
+      "result": "win",
+      "date": "Oct. 11, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Austen Lane",
+      "result": "win",
+      "date": "Jul. 12, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Dustin Jacoby",
+      "result": "loss",
+      "date": "Dec. 14, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Anthony Smith",
+      "result": "loss",
+      "date": "May. 04, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Tyson Pedro",
+      "result": "win",
+      "date": "Mar. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Modestas Bukauskas",
+      "result": "win",
+      "date": "Nov. 04, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Marcin Prachnio",
+      "result": "win",
+      "date": "Jul. 08, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Anton Turkalj",
+      "result": "win",
+      "date": "Mar. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rodolfo Bellato",
+      "result": "win",
+      "date": "Sep. 06, 2022",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

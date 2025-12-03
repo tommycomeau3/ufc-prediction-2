@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e1d40e8782d80bc2",
+  "stats": {
+    "name": "William Gomis",
+    "record": "15-3-0",
+    "wins": 15,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "145 lbs.",
+    "reach": "73\"",
+    "stance": "Southpaw",
+    "dob": "Jun 13, 1997",
+    "strikes_landed_per_min": 3.48,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.76,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.38,
+    "takedown_defense": 0.72,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Robert Ruchala",
+      "result": "win",
+      "date": "Sep. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hyder Amil",
+      "result": "loss",
+      "date": "Mar. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joanderson Brito",
+      "result": "win",
+      "date": "Sep. 28, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yanis Ghemmouri",
+      "result": "win",
+      "date": "Sep. 02, 2023",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Francis Marshall",
+      "result": "win",
+      "date": "Apr. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jarno Errens",
+      "result": "win",
+      "date": "Sep. 03, 2022",
+      "method": "N/A"
+    }
+  ]
+}

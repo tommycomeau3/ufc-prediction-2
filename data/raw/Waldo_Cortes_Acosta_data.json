@@ -1,0 +1,103 @@
+{
+  "url": "http://ufcstats.com/fighter-details/fc08099550072fe4",
+  "stats": {
+    "name": "Waldo Cortes Acosta",
+    "record": "16-2-0",
+    "wins": 16,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 4\"",
+    "weight": "260 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Oct 03, 1991",
+    "strikes_landed_per_min": 5.55,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.53,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.72,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Derrick Lewis",
+      "result": "next",
+      "date": "Jan. 24, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shamil Gaziev",
+      "result": "win",
+      "date": "Nov. 22, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ante Delija",
+      "result": "win",
+      "date": "Nov. 01, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Sergei Pavlovich",
+      "result": "loss",
+      "date": "Aug. 23, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Serghei Spivac",
+      "result": "win",
+      "date": "Jun. 07, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ryan Spann",
+      "result": "win",
+      "date": "Mar. 15, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Robelis Despaigne",
+      "result": "win",
+      "date": "May. 11, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andrei Arlovski",
+      "result": "win",
+      "date": "Jan. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lukasz Brzeski",
+      "result": "win",
+      "date": "Aug. 26, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Marcos Rogerio de Lima",
+      "result": "loss",
+      "date": "Apr. 29, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chase Sherman",
+      "result": "win",
+      "date": "Nov. 19, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jared Vanderaa",
+      "result": "win",
+      "date": "Oct. 29, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Danilo Suzart",
+      "result": "win",
+      "date": "Aug. 02, 2022",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

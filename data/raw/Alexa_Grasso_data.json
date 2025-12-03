@@ -1,0 +1,115 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e8b731feff72294b",
+  "stats": {
+    "name": "Alexa Grasso",
+    "record": "16-5-1",
+    "wins": 16,
+    "losses": 5,
+    "draws": 1,
+    "height": "5' 5\"",
+    "weight": "125 lbs.",
+    "reach": "66\"",
+    "stance": "Orthodox",
+    "dob": "Aug 09, 1993",
+    "strikes_landed_per_min": 4.11,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.73,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.54,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rose Namajunas",
+      "result": "next",
+      "date": "Jan. 24, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Natalia Silva",
+      "result": "loss",
+      "date": "May. 10, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Valentina Shevchenko",
+      "result": "loss",
+      "date": "Sep. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Valentina Shevchenko",
+      "result": "draw",
+      "date": "Sep. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Valentina Shevchenko",
+      "result": "win",
+      "date": "Mar. 04, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Viviane Araujo",
+      "result": "win",
+      "date": "Oct. 15, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joanne Wood",
+      "result": "win",
+      "date": "Mar. 26, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Maycee Barber",
+      "result": "win",
+      "date": "Feb. 13, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ji Yeon Kim",
+      "result": "win",
+      "date": "Aug. 29, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carla Esparza",
+      "result": "loss",
+      "date": "Sep. 21, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Karolina Kowalkiewicz",
+      "result": "win",
+      "date": "Jun. 08, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tatiana Suarez",
+      "result": "loss",
+      "date": "May. 19, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Randa Markos",
+      "result": "win",
+      "date": "Aug. 05, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Felice Herrig",
+      "result": "loss",
+      "date": "Feb. 04, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Heather Clark",
+      "result": "win",
+      "date": "Nov. 05, 2016",
+      "method": "N/A"
+    }
+  ]
+}

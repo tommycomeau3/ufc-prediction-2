@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4f3064faf17aa711",
+  "stats": {
+    "name": "Tamires Vidal",
+    "record": "7-4-0",
+    "wins": 7,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Jul 27, 1998",
+    "strikes_landed_per_min": 2.91,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.46,
+    "striking_defense": 0.49,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.35,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Joselyne Edwards",
+      "result": "loss",
+      "date": "Oct. 19, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Melissa Gatto",
+      "result": "loss",
+      "date": "May. 18, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Montse Rendon",
+      "result": "loss",
+      "date": "Sep. 23, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ramona Pascual",
+      "result": "win",
+      "date": "Nov. 05, 2022",
+      "method": "KO/TKO (Flying Knee)"
+    }
+  ]
+}

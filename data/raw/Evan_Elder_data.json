@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d9a56ecb6e94f02e",
+  "stats": {
+    "name": "Evan Elder",
+    "record": "10-2-0",
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Switch",
+    "dob": "Apr 11, 1997",
+    "strikes_landed_per_min": 5.66,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.94,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.15,
+    "takedown_defense": 0.4,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Gauge Young",
+      "result": "win",
+      "date": "Apr. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Darrius Flowers",
+      "result": "win",
+      "date": "Jul. 13, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Genaro Valdez",
+      "result": "win",
+      "date": "Jul. 15, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nazim Sadykhov",
+      "result": "loss",
+      "date": "Feb. 18, 2023",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Preston Parsons",
+      "result": "loss",
+      "date": "Apr. 23, 2022",
+      "method": "N/A"
+    }
+  ]
+}

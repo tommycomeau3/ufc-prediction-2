@@ -1,0 +1,145 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6d1bffff14897645",
+  "stats": {
+    "name": "Santiago Ponzinibbio",
+    "record": "31-9-0",
+    "wins": 31,
+    "losses": 9,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "170 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Sep 26, 1986",
+    "strikes_landed_per_min": 4.78,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.68,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.27,
+    "takedown_defense": 0.71,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Daniel Rodriguez",
+      "result": "loss",
+      "date": "May. 03, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Carlston Harris",
+      "result": "win",
+      "date": "Jan. 11, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Muslim Salikhov",
+      "result": "loss",
+      "date": "Jul. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kevin Holland",
+      "result": "loss",
+      "date": "Apr. 08, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Alex Morono",
+      "result": "win",
+      "date": "Dec. 10, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Michel Pereira",
+      "result": "loss",
+      "date": "May. 21, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Geoff Neal",
+      "result": "loss",
+      "date": "Dec. 11, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Miguel Baeza",
+      "result": "win",
+      "date": "Jun. 05, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Li Jingliang",
+      "result": "loss",
+      "date": "Jan. 16, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Neil Magny",
+      "result": "win",
+      "date": "Nov. 17, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mike Perry",
+      "result": "win",
+      "date": "Dec. 16, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gunnar Nelson",
+      "result": "win",
+      "date": "Jul. 16, 2017",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Nordine Taleb",
+      "result": "win",
+      "date": "Feb. 19, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zak Cummings",
+      "result": "win",
+      "date": "Aug. 06, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Court McGee",
+      "result": "win",
+      "date": "Apr. 16, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Andreas Stahl",
+      "result": "win",
+      "date": "Dec. 10, 2015",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Lorenz Larkin",
+      "result": "loss",
+      "date": "Jun. 27, 2015",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Sean Strickland",
+      "result": "win",
+      "date": "Feb. 22, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Wendell Oliveira Marques",
+      "result": "win",
+      "date": "Sep. 13, 2014",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ryan LaFlare",
+      "result": "loss",
+      "date": "Nov. 09, 2013",
+      "method": "N/A"
+    }
+  ]
+}

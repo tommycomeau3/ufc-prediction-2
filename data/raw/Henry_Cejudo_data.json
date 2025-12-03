@@ -1,0 +1,121 @@
+{
+  "url": "http://ufcstats.com/fighter-details/056c493bbd76a918",
+  "stats": {
+    "name": "Henry Cejudo",
+    "record": "16-5-0",
+    "wins": 16,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 4\"",
+    "weight": "135 lbs.",
+    "reach": "64\"",
+    "stance": "Orthodox",
+    "dob": "Feb 09, 1987",
+    "strikes_landed_per_min": 3.82,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.46,
+    "striking_defense": 0.59,
+    "takedown_average": null,
+    "takedown_accuracy": 0.31,
+    "takedown_defense": 0.76,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Payton Talbott",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Song Yadong",
+      "result": "loss",
+      "date": "Feb. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Merab Dvalishvili",
+      "result": "loss",
+      "date": "Feb. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aljamain Sterling",
+      "result": "loss",
+      "date": "May. 06, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dominick Cruz",
+      "result": "win",
+      "date": "May. 09, 2020",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Marlon Moraes",
+      "result": "win",
+      "date": "Jun. 08, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "TJ Dillashaw",
+      "result": "win",
+      "date": "Jan. 19, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Demetrious Johnson",
+      "result": "win",
+      "date": "Aug. 04, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sergio Pettis",
+      "result": "win",
+      "date": "Dec. 02, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Wilson Reis",
+      "result": "win",
+      "date": "Sep. 09, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Joseph Benavidez",
+      "result": "loss",
+      "date": "Dec. 03, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Demetrious Johnson",
+      "result": "loss",
+      "date": "Apr. 23, 2016",
+      "method": "KO/TKO (Knees)"
+    },
+    {
+      "opponent": "Jussier Formiga",
+      "result": "win",
+      "date": "Nov. 21, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chico Camus",
+      "result": "win",
+      "date": "Jun. 13, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Cariaso",
+      "result": "win",
+      "date": "Mar. 14, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dustin Kimura",
+      "result": "win",
+      "date": "Dec. 13, 2014",
+      "method": "N/A"
+    }
+  ]
+}

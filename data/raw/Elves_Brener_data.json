@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/48a9a128784d53d1",
+  "stats": {
+    "name": "Elves Brener",
+    "record": "16-6-0",
+    "wins": 16,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Sep 27, 1997",
+    "strikes_landed_per_min": 4.76,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.86,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.16,
+    "takedown_defense": 0.76,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Esteban Ribovics",
+      "result": "loss",
+      "date": "Aug. 02, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joel Alvarez",
+      "result": "loss",
+      "date": "Aug. 03, 2024",
+      "method": "KO/TKO (Knees)"
+    },
+    {
+      "opponent": "Myktybek Orolbai",
+      "result": "loss",
+      "date": "May. 04, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kaynan Kruschewsky",
+      "result": "win",
+      "date": "Nov. 04, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Guram Kutateladze",
+      "result": "win",
+      "date": "Jul. 01, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Zubaira Tukhugov",
+      "result": "win",
+      "date": "Feb. 11, 2023",
+      "method": "N/A"
+    }
+  ]
+}

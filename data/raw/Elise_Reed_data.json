@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/ac7c765882f2c68c",
+  "stats": {
+    "name": "Elise Reed",
+    "record": "8-5-0",
+    "wins": 8,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "115 lbs.",
+    "reach": "63\"",
+    "stance": "Orthodox",
+    "dob": "Dec 05, 1992",
+    "strikes_landed_per_min": 3.41,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.26,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.6,
+    "takedown_defense": 0.53,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Denise Gomes",
+      "result": "loss",
+      "date": "May. 17, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jessica Penne",
+      "result": "win",
+      "date": "Oct. 19, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Loopy Godinez",
+      "result": "loss",
+      "date": "Sep. 16, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jinh Yu Frey",
+      "result": "win",
+      "date": "Jun. 03, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Loma Lookboonmee",
+      "result": "loss",
+      "date": "Feb. 11, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Melissa Martinez",
+      "result": "win",
+      "date": "Sep. 10, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sam Hughes",
+      "result": "loss",
+      "date": "May. 21, 2022",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Cory McKenna",
+      "result": "win",
+      "date": "Mar. 19, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sijara Eubanks",
+      "result": "loss",
+      "date": "Jul. 24, 2021",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f264ba50b007f39e",
+  "stats": {
+    "name": "Victor Hugo",
+    "record": "25-5-0",
+    "wins": 25,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Nov 22, 1992",
+    "strikes_landed_per_min": 3.27,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.95,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.73,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Farid Basharat",
+      "result": "loss",
+      "date": "Oct. 26, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Pedro Falcao",
+      "result": "win",
+      "date": "Apr. 06, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Eduardo Torres Caut",
+      "result": "win",
+      "date": "Oct. 03, 2023",
+      "method": "Submission (Kneebar)"
+    }
+  ]
+}

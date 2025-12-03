@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d683f4870742b273",
+  "stats": {
+    "name": "Shi Ming",
+    "record": "17-6-0",
+    "wins": 17,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 2\"",
+    "weight": "115 lbs.",
+    "reach": "60\"",
+    "stance": "Orthodox",
+    "dob": "Nov 14, 1994",
+    "strikes_landed_per_min": 3.12,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.92,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.57,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Bruna Brasil",
+      "result": "loss",
+      "date": "Aug. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Feng Xiaocan",
+      "result": "win",
+      "date": "Nov. 23, 2024",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Dong Huaxiang",
+      "result": "win",
+      "date": "Aug. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "YeDam Seo",
+      "result": "win",
+      "date": "May. 18, 2024",
+      "method": "N/A"
+    }
+  ]
+}

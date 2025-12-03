@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/fd406a32a6fb3a29",
+  "stats": {
+    "name": "Chris Duncan",
+    "record": "14-2-0",
+    "wins": 14,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "May 10, 1993",
+    "strikes_landed_per_min": 4.64,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.53,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.42,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Terrance McKinney",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mateusz Rebecki",
+      "result": "win",
+      "date": "Aug. 02, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jordan Vucenic",
+      "result": "win",
+      "date": "Mar. 22, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Bolaji Oki",
+      "result": "win",
+      "date": "Sep. 28, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Manuel Torres",
+      "result": "loss",
+      "date": "Feb. 24, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Yanal Ashmouz",
+      "result": "win",
+      "date": "Jul. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Omar Morales",
+      "result": "win",
+      "date": "Mar. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charlie Campbell",
+      "result": "win",
+      "date": "Aug. 02, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Viacheslav Borshchev",
+      "result": "loss",
+      "date": "Oct. 12, 2021",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

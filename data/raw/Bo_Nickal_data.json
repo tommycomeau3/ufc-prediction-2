@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/35673bf5204524ee",
+  "stats": {
+    "name": "Bo Nickal",
+    "record": "8-1-0",
+    "wins": 8,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "185 lbs.",
+    "reach": "76\"",
+    "stance": "Southpaw",
+    "dob": "Jan 14, 1996",
+    "strikes_landed_per_min": 3.35,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.07,
+    "striking_defense": 0.59,
+    "takedown_average": null,
+    "takedown_accuracy": 0.55,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rodolfo Vieira",
+      "result": "win",
+      "date": "Nov. 15, 2025",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Reinier de Ridder",
+      "result": "loss",
+      "date": "May. 03, 2025",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Paul Craig",
+      "result": "win",
+      "date": "Nov. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody Brundage",
+      "result": "win",
+      "date": "Apr. 13, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Val Woodburn",
+      "result": "win",
+      "date": "Jul. 08, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jamie Pickett",
+      "result": "win",
+      "date": "Mar. 04, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Donovan Beard",
+      "result": "win",
+      "date": "Sep. 27, 2022",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Zachary Borrego",
+      "result": "win",
+      "date": "Aug. 09, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b7b84ccd221be298",
+  "stats": {
+    "name": "Nasrat Haqparast",
+    "record": "18-6-0",
+    "wins": 18,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Southpaw",
+    "dob": "Aug 22, 1995",
+    "strikes_landed_per_min": 6.36,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.0,
+    "striking_defense": 0.63,
+    "takedown_average": null,
+    "takedown_accuracy": 0.2,
+    "takedown_defense": 0.86,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Quillan Salkilld",
+      "result": "loss",
+      "date": "Oct. 25, 2025",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Esteban Ribovics",
+      "result": "win",
+      "date": "Mar. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jared Gordon",
+      "result": "win",
+      "date": "Jun. 22, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jamie Mullarkey",
+      "result": "win",
+      "date": "Dec. 09, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Landon Quinones",
+      "result": "win",
+      "date": "Sep. 09, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "John Makdessi",
+      "result": "win",
+      "date": "Sep. 03, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "King Green",
+      "result": "loss",
+      "date": "Feb. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dan Hooker",
+      "result": "loss",
+      "date": "Sep. 25, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rafa Garcia",
+      "result": "win",
+      "date": "Mar. 13, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexander Munoz",
+      "result": "win",
+      "date": "Aug. 08, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Drew Dober",
+      "result": "loss",
+      "date": "Jan. 18, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Joaquim Silva",
+      "result": "win",
+      "date": "Aug. 03, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Thibault Gouti",
+      "result": "win",
+      "date": "Oct. 27, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marc Diakiese",
+      "result": "win",
+      "date": "Jul. 22, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marcin Held",
+      "result": "loss",
+      "date": "Oct. 21, 2017",
+      "method": "N/A"
+    }
+  ]
+}

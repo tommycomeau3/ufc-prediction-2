@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4798e823ada58fe9",
+  "stats": {
+    "name": "Veronica Hardy",
+    "record": "10-5-1",
+    "wins": 10,
+    "losses": 5,
+    "draws": 1,
+    "height": "5' 4\"",
+    "weight": "125 lbs.",
+    "reach": "64\"",
+    "stance": "Southpaw",
+    "dob": "Oct 30, 1995",
+    "strikes_landed_per_min": 3.06,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.24,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.51,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Brogan Walker",
+      "result": "win",
+      "date": "Oct. 04, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Eduarda Moura",
+      "result": "loss",
+      "date": "Nov. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "JJ Aldrich",
+      "result": "win",
+      "date": "May. 11, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jamey-Lyn Horth",
+      "result": "win",
+      "date": "Dec. 02, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Juliana Miller",
+      "result": "win",
+      "date": "Mar. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bea Malecki",
+      "result": "loss",
+      "date": "Mar. 14, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Polyana Viana",
+      "result": "win",
+      "date": "Aug. 10, 2019",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Gillian Robertson",
+      "result": "loss",
+      "date": "Feb. 23, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Andrea Lee",
+      "result": "loss",
+      "date": "May. 19, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ashlee Evans-Smith",
+      "result": "loss",
+      "date": "Sep. 03, 2016",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

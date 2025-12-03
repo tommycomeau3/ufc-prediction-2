@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/53c10176e3bc7416",
+  "stats": {
+    "name": "Felipe Bunes",
+    "record": "14-8-0",
+    "wins": 14,
+    "losses": 8,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Oct 29, 1989",
+    "strikes_landed_per_min": 2.93,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.66,
+    "striking_defense": 0.44,
+    "takedown_average": null,
+    "takedown_accuracy": 0.22,
+    "takedown_defense": 0.4,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rafael Estevam",
+      "result": "loss",
+      "date": "Aug. 02, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jose Johnson",
+      "result": "win",
+      "date": "Jan. 11, 2025",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Joshua Van",
+      "result": "loss",
+      "date": "Jan. 13, 2024",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

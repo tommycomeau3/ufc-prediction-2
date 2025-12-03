@@ -1,0 +1,119 @@
+{
+  "url": "http://ufcstats.com/fighter-details/749f572d1d3161fb",
+  "stats": {
+    "name": "Khalil Rountree Jr.",
+    "record": "15-7-0 (1 NC)",
+    "wins": 15,
+    "losses": 7
+  },
+  "fight_history": [
+    {
+      "opponent": "Jiri Prochazka",
+      "result": "loss",
+      "date": "Oct. 04, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jamahal Hill",
+      "result": "win",
+      "date": "Jun. 21, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Pereira",
+      "result": "loss",
+      "date": "Oct. 05, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Anthony Smith",
+      "result": "win",
+      "date": "Dec. 09, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Chris Daukaus",
+      "result": "win",
+      "date": "Aug. 12, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dustin Jacoby",
+      "result": "win",
+      "date": "Oct. 29, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Karl Roberson",
+      "result": "win",
+      "date": "Mar. 12, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Modestas Bukauskas",
+      "result": "win",
+      "date": "Sep. 04, 2021",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Marcin Prachnio",
+      "result": "loss",
+      "date": "Jan. 23, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ion Cutelaba",
+      "result": "loss",
+      "date": "Sep. 28, 2019",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Eryk Anders",
+      "result": "win",
+      "date": "Apr. 13, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Johnny Walker",
+      "result": "loss",
+      "date": "Nov. 17, 2018",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Gokhan Saki",
+      "result": "win",
+      "date": "Jul. 07, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Michal Oleksiejczuk",
+      "result": "nc",
+      "date": "Dec. 30, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paul Craig",
+      "result": "win",
+      "date": "Jul. 16, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Daniel Jolly",
+      "result": "win",
+      "date": "Feb. 04, 2017",
+      "method": "KO/TKO (Knees)"
+    },
+    {
+      "opponent": "Tyson Pedro",
+      "result": "loss",
+      "date": "Nov. 26, 2016",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Andrew Sanchez",
+      "result": "loss",
+      "date": "Jul. 08, 2016",
+      "method": "N/A"
+    }
+  ]
+}

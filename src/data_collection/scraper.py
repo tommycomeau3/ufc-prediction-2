@@ -390,13 +390,208 @@ class UFCScraper:
         Returns:
             List of fighter URLs
         """
+        if event_url:
+            return self._extract_fighters_from_event(event_url)
+        else:
+            # Return empty list - use get_fighters_from_events() or get_fighters_from_rankings() instead
+            return []
+    
+    def get_event_urls(self, limit: Optional[int] = None) -> List[str]:
+        """Get list of event URLs from ufcstats.com events page.
+        
+        Args:
+            limit: Optional limit on number of events to retrieve
+            
+        Returns:
+            List of event URLs
+        """
+        event_urls = []
+        
+        try:
+            # Get the events page
+            events_page_url = f"{self.base_url}/statistics/events/completed?page=all"
+            soup = self.get_fighter_page_url(events_page_url)
+            
+            if not soup:
+                logger.error("Failed to fetch events page")
+                return event_urls
+            
+            # Find all event links - typically in a table with links to event details
+            event_links = soup.find_all('a', href=lambda href: href and '/event-details/' in href)
+            
+            for link in event_links:
+                event_url = urljoin(self.base_url, link.get('href'))
+                if event_url not in event_urls:
+                    event_urls.append(event_url)
+                    
+                if limit and len(event_urls) >= limit:
+                    break
+            
+            logger.info(f"Found {len(event_urls)} events")
+            
+        except Exception as e:
+            logger.error(f"Error getting event URLs: {e}")
+        
+        return event_urls
+    
+    def _extract_fighters_from_event(self, event_url: str) -> List[str]:
+        """Extract fighter URLs from a specific event page.
+        
+        Args:
+            event_url: URL to event page
+            
+        Returns:
+            List of fighter URLs found on the event page
+        """
         fighter_urls = []
         
-        # For now, return empty list - this would need to be implemented
-        # based on the structure of ufcstats.com fighter listing pages
-        # This could scrape from events, fighter rankings, or fighter list pages
+        try:
+            soup = self.get_fighter_page_url(event_url)
+            
+            if not soup:
+                logger.warning(f"Failed to fetch event page: {event_url}")
+                return fighter_urls
+            
+            # Find all fighter links on the event page
+            # Fighter links typically have '/fighter-details/' in the href
+            fighter_links = soup.find_all('a', href=lambda href: href and '/fighter-details/' in href)
+            
+            for link in fighter_links:
+                fighter_url = urljoin(self.base_url, link.get('href'))
+                if fighter_url not in fighter_urls:
+                    fighter_urls.append(fighter_url)
+            
+            logger.info(f"Extracted {len(fighter_urls)} fighter URLs from event")
+            
+        except Exception as e:
+            logger.error(f"Error extracting fighters from event {event_url}: {e}")
         
         return fighter_urls
+    
+    def get_fighters_from_events(self, num_events: Optional[int] = None) -> List[str]:
+        """Get fighter URLs from multiple events.
+        
+        Args:
+            num_events: Number of recent events to scrape (None for all)
+            
+        Returns:
+            List of unique fighter URLs
+        """
+        all_fighter_urls = set()
+        
+        logger.info(f"Getting fighter URLs from events (limit: {num_events})")
+        
+        # Get event URLs
+        event_urls = self.get_event_urls(limit=num_events)
+        
+        for i, event_url in enumerate(event_urls, 1):
+            logger.info(f"Processing event {i}/{len(event_urls)}: {event_url}")
+            fighter_urls = self._extract_fighters_from_event(event_url)
+            all_fighter_urls.update(fighter_urls)
+            
+            # Rate limiting between events
+            time.sleep(self.rate_limit_delay)
+        
+        unique_urls = list(all_fighter_urls)
+        logger.info(f"Total unique fighter URLs found: {len(unique_urls)}")
+        
+        return unique_urls
+    
+    def get_fighters_from_rankings(self) -> List[str]:
+        """Get fighter URLs from UFC rankings pages.
+        
+        Returns:
+            List of unique fighter URLs from rankings
+        """
+        fighter_urls = set()
+        
+        try:
+            # UFC rankings page structure - may need to be adjusted based on actual site structure
+            rankings_base_url = f"{self.base_url}/rankings"
+            
+            # Try to get rankings page
+            soup = self.get_fighter_page_url(rankings_base_url)
+            
+            if not soup:
+                logger.warning("Could not fetch rankings page")
+                return []
+            
+            # Find all fighter links in rankings
+            fighter_links = soup.find_all('a', href=lambda href: href and '/fighter-details/' in href)
+            
+            for link in fighter_links:
+                fighter_url = urljoin(self.base_url, link.get('href'))
+                fighter_urls.add(fighter_url)
+            
+            logger.info(f"Found {len(fighter_urls)} fighters from rankings")
+            
+        except Exception as e:
+            logger.error(f"Error getting fighters from rankings: {e}")
+        
+        return list(fighter_urls)
+    
+    def build_fighter_master_list(self, 
+                                  num_events: Optional[int] = 50,
+                                  include_rankings: bool = True,
+                                  save_path: Optional[str] = None) -> List[str]:
+        """Build a master list of fighter URLs from multiple sources.
+        
+        Args:
+            num_events: Number of recent events to scrape
+            include_rankings: Whether to include fighters from rankings
+            save_path: Optional path to save the master list (JSON file)
+            
+        Returns:
+            List of unique fighter URLs
+        """
+        all_fighter_urls = set()
+        
+        logger.info("Building master fighter list...")
+        
+        # Get fighters from events
+        logger.info("Step 1: Collecting fighter URLs from events...")
+        event_fighters = self.get_fighters_from_events(num_events=num_events)
+        all_fighter_urls.update(event_fighters)
+        logger.info(f"Found {len(event_fighters)} unique fighters from events")
+        
+        # Get fighters from rankings if requested
+        if include_rankings:
+            logger.info("Step 2: Collecting fighter URLs from rankings...")
+            rankings_fighters = self.get_fighters_from_rankings()
+            all_fighter_urls.update(rankings_fighters)
+            logger.info(f"Found {len(rankings_fighters)} unique fighters from rankings")
+        
+        master_list = list(all_fighter_urls)
+        logger.info(f"Master list contains {len(master_list)} unique fighter URLs")
+        
+        # Save master list if path provided
+        if save_path:
+            save_file = Path(save_path)
+            save_file.parent.mkdir(parents=True, exist_ok=True)
+            with open(save_file, 'w') as f:
+                json.dump(master_list, f, indent=2)
+            logger.info(f"Saved master list to {save_path}")
+        
+        return master_list
+    
+    def load_fighter_master_list(self, file_path: str) -> List[str]:
+        """Load a previously saved master list of fighter URLs.
+        
+        Args:
+            file_path: Path to JSON file containing fighter URLs
+            
+        Returns:
+            List of fighter URLs
+        """
+        try:
+            with open(file_path, 'r') as f:
+                return json.load(f)
+        except FileNotFoundError:
+            logger.error(f"Master list file not found: {file_path}")
+            return []
+        except Exception as e:
+            logger.error(f"Error loading master list: {e}")
+            return []
     
     def save_fighter_data(self, fighter_data: Dict, format: str = 'json') -> None:
         """Save fighter data to file.
@@ -456,34 +651,105 @@ class UFCScraper:
         # Logs a message saying the fighter data was saved
         logger.info(f"Saved fighter data for {fighter_name} to {filename if format == 'json' else stats_filename}")
     
+    def _get_already_scraped_fighters(self) -> set:
+        """Get set of fighter URLs that have already been scraped.
+        
+        Returns:
+            Set of fighter URLs that already have data files
+        """
+        scraped = set()
+        
+        try:
+            # Check for existing JSON files
+            json_files = list(self.raw_data_path.glob("*_data.json"))
+            for json_file in json_files:
+                try:
+                    with open(json_file, 'r') as f:
+                        data = json.load(f)
+                        if 'url' in data:
+                            scraped.add(data['url'])
+                except:
+                    pass
+        except Exception as e:
+            logger.warning(f"Error checking already scraped fighters: {e}")
+        
+        return scraped
+    
     # Takes in a list of fighter URLs and a save format and returns a list of dictionaries of the fighter's data
-    def scrape_multiple_fighters(self, fighter_urls: List[str], save_format: str = 'json') -> List[Dict]:
-        """Scrape data for multiple fighters.
+    def scrape_multiple_fighters(self, 
+                                 fighter_urls: List[str], 
+                                 save_format: str = 'json',
+                                 skip_existing: bool = True,
+                                 progress_file: Optional[str] = None) -> List[Dict]:
+        """Scrape data for multiple fighters with progress tracking and resume capability.
         
         Args:
             fighter_urls: List of fighter URLs to scrape
             save_format: Format to save data ('json' or 'csv')
+            skip_existing: If True, skip fighters that have already been scraped
+            progress_file: Optional path to save progress (JSON file with list of completed URLs)
             
         Returns:
             List of fighter data dictionaries
         """
         # Collects all the fighter data
         all_fighter_data = []
+        
+        # Get already scraped fighters if skip_existing is True
+        already_scraped = set()
+        if skip_existing:
+            already_scraped = self._get_already_scraped_fighters()
+            logger.info(f"Found {len(already_scraped)} already scraped fighters. Skipping...")
+        
+        # Load progress file if it exists
+        completed_urls = set()
+        if progress_file and Path(progress_file).exists():
+            try:
+                with open(progress_file, 'r') as f:
+                    completed_urls = set(json.load(f))
+                logger.info(f"Loaded {len(completed_urls)} completed URLs from progress file")
+            except Exception as e:
+                logger.warning(f"Error loading progress file: {e}")
+        
+        # Filter out already scraped URLs
+        urls_to_scrape = [url for url in fighter_urls 
+                         if url not in already_scraped and url not in completed_urls]
+        
+        logger.info(f"Scraping {len(urls_to_scrape)} fighters (skipping {len(fighter_urls) - len(urls_to_scrape)} already done)")
+        
         # Goes through each fighter URL and scrapes the data
-        for i, url in enumerate(fighter_urls, 1):
-            # Logs a message saying the fighter is being scraped
-            logger.info(f"Scraping fighter {i}/{len(fighter_urls)}")
-            # Scrapes the data for the fighter
-            fighter_data = self.scrape_fighter(url)
-            # If the fighter data is found, add it to the list of fighter data and save the data
-            if fighter_data:
-                # Adds the fighter data to the list of fighter data
-                all_fighter_data.append(fighter_data)
-                # Saves the fighter data to a file
-                self.save_fighter_data(fighter_data, format=save_format)
+        for i, url in enumerate(urls_to_scrape, 1):
+            try:
+                # Logs a message saying the fighter is being scraped
+                logger.info(f"Scraping fighter {i}/{len(urls_to_scrape)}: {url}")
+                # Scrapes the data for the fighter
+                fighter_data = self.scrape_fighter(url)
+                # If the fighter data is found, add it to the list of fighter data and save the data
+                if fighter_data:
+                    # Adds the fighter data to the list of fighter data
+                    all_fighter_data.append(fighter_data)
+                    # Saves the fighter data to a file
+                    self.save_fighter_data(fighter_data, format=save_format)
+                    # Mark as completed
+                    completed_urls.add(url)
+                else:
+                    logger.warning(f"Failed to scrape fighter: {url}")
+                
+                # Save progress periodically (every 10 fighters or at the end)
+                if progress_file and (i % 10 == 0 or i == len(urls_to_scrape)):
+                    try:
+                        with open(progress_file, 'w') as f:
+                            json.dump(list(completed_urls), f, indent=2)
+                    except Exception as e:
+                        logger.warning(f"Error saving progress: {e}")
+                
+            except Exception as e:
+                logger.error(f"Error scraping fighter {url}: {e}")
             
             # Rate limiting
             time.sleep(self.rate_limit_delay)
+        
+        logger.info(f"Completed scraping. Successfully scraped {len(all_fighter_data)} fighters")
         
         return all_fighter_data
 

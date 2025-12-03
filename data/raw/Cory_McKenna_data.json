@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/3351aa64aa83c4d9",
+  "stats": {
+    "name": "Cory McKenna",
+    "record": "8-4-0",
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "115 lbs.",
+    "reach": "58\"",
+    "stance": "Orthodox",
+    "dob": "Jul 11, 1999",
+    "strikes_landed_per_min": 2.94,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.68,
+    "striking_defense": 0.46,
+    "takedown_average": null,
+    "takedown_accuracy": 0.47,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Julia Polastri",
+      "result": "loss",
+      "date": "Oct. 12, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jaqueline Amorim",
+      "result": "loss",
+      "date": "Mar. 16, 2024",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Cheyanne Vlismas",
+      "result": "win",
+      "date": "Dec. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Miranda Granger",
+      "result": "win",
+      "date": "Aug. 06, 2022",
+      "method": "Submission (Von Flue Choke)"
+    },
+    {
+      "opponent": "Elise Reed",
+      "result": "loss",
+      "date": "Mar. 19, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kay Hansen",
+      "result": "win",
+      "date": "Nov. 14, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vanessa Demopoulos",
+      "result": "win",
+      "date": "Aug. 11, 2020",
+      "method": "N/A"
+    }
+  ]
+}

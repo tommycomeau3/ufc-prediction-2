@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/17cb6d8e8187f304",
+  "stats": {
+    "name": "Nyamjargal Tumendemberel",
+    "record": "9-1-0",
+    "wins": 9,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Mar 22, 1998",
+    "strikes_landed_per_min": 3.18,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.33,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.38,
+    "takedown_defense": 0.54,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Terrance Saeteurn",
+      "result": "win",
+      "date": "Aug. 22, 2025",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Carlos Hernandez",
+      "result": "loss",
+      "date": "Nov. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Peter Danesoe",
+      "result": "win",
+      "date": "Aug. 27, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Top Noi Kiwram",
+      "result": "win",
+      "date": "May. 27, 2023",
+      "method": "N/A"
+    }
+  ]
+}

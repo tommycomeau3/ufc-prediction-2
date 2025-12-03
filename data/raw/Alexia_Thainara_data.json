@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/545092d13c67aa49",
+  "stats": {
+    "name": "Alexia Thainara",
+    "record": "13-1-0",
+    "wins": 13,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 4\"",
+    "weight": "115 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Nov 20, 1995",
+    "strikes_landed_per_min": 4.52,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.46,
+    "striking_defense": 0.65,
+    "takedown_average": null,
+    "takedown_accuracy": 0.6,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Loma Lookboonmee",
+      "result": "win",
+      "date": "Sep. 27, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Molly McCann",
+      "result": "win",
+      "date": "Mar. 22, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Rose Conceicao",
+      "result": "win",
+      "date": "Sep. 24, 2024",
+      "method": "N/A"
+    }
+  ]
+}

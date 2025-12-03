@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/30cad5a751adcb48",
+  "stats": {
+    "name": "Alibi Idiris",
+    "record": "11-1-0",
+    "wins": 11,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "125 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Oct 22, 1994",
+    "strikes_landed_per_min": 3.47,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.6,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.6,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Joseph Morales",
+      "result": "loss",
+      "date": "Aug. 16, 2025",
+      "method": "Submission (Triangle Choke)"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/1a31ef98efce7a79",
+  "stats": {
+    "name": "Matheus Nicolau",
+    "record": "19-6-1",
+    "wins": 19,
+    "losses": 6,
+    "draws": 1,
+    "height": "5' 6\"",
+    "weight": "125 lbs.",
+    "reach": "66\"",
+    "stance": "Orthodox",
+    "dob": "Jan 06, 1993",
+    "strikes_landed_per_min": 3.31,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.98,
+    "striking_defense": 0.65,
+    "takedown_average": null,
+    "takedown_accuracy": 0.43,
+    "takedown_defense": 0.9,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Asu Almabayev",
+      "result": "loss",
+      "date": "Oct. 19, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Perez",
+      "result": "loss",
+      "date": "Apr. 27, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Brandon Royval",
+      "result": "loss",
+      "date": "Apr. 15, 2023",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Matt Schnell",
+      "result": "win",
+      "date": "Dec. 03, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "David Dvorak",
+      "result": "win",
+      "date": "Mar. 26, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tim Elliott",
+      "result": "win",
+      "date": "Oct. 09, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Manel Kape",
+      "result": "win",
+      "date": "Mar. 13, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dustin Ortiz",
+      "result": "loss",
+      "date": "Jul. 28, 2018",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Louis Smolka",
+      "result": "win",
+      "date": "Dec. 30, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "John Moraga",
+      "result": "win",
+      "date": "Jul. 08, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bruno Korea",
+      "result": "win",
+      "date": "Nov. 07, 2015",
+      "method": "Submission (Guillotine Choke)"
+    }
+  ]
+}

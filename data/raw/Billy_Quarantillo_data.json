@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/aa171d55d4b5208f",
+  "stats": {
+    "name": "Billy Quarantillo",
+    "record": "18-7-0",
+    "wins": 18,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Dec 08, 1988",
+    "strikes_landed_per_min": 7.44,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.83,
+    "striking_defense": 0.42,
+    "takedown_average": null,
+    "takedown_accuracy": 0.24,
+    "takedown_defense": 0.61,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Cub Swanson",
+      "result": "loss",
+      "date": "Dec. 14, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Youssef Zalal",
+      "result": "loss",
+      "date": "Mar. 23, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Damon Jackson",
+      "result": "win",
+      "date": "Aug. 05, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Edson Barboza",
+      "result": "loss",
+      "date": "Apr. 15, 2023",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Alexander Hernandez",
+      "result": "win",
+      "date": "Dec. 10, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Shane Burgos",
+      "result": "loss",
+      "date": "Nov. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gabriel Benitez",
+      "result": "win",
+      "date": "Jul. 17, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Gavin Tucker",
+      "result": "loss",
+      "date": "Dec. 12, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kyle Nelson",
+      "result": "win",
+      "date": "Sep. 12, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Spike Carlyle",
+      "result": "win",
+      "date": "May. 30, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jacob Kilburn",
+      "result": "win",
+      "date": "Dec. 07, 2019",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Kamuela Kirk",
+      "result": "win",
+      "date": "Jul. 23, 2019",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

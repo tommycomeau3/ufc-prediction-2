@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/2bd98ab77a8daa75",
+  "stats": {
+    "name": "Stewart Nicoll",
+    "record": "8-2-0",
+    "wins": 8,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 5\"",
+    "weight": "125 lbs.",
+    "reach": "65\"",
+    "stance": "Orthodox",
+    "dob": "Apr 11, 1996",
+    "strikes_landed_per_min": 3.0,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.69,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.14,
+    "takedown_defense": 0.25,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Lucas Rocha",
+      "result": "loss",
+      "date": "Oct. 11, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jesus Aguilar",
+      "result": "loss",
+      "date": "Aug. 17, 2024",
+      "method": "Submission (Guillotine Choke)"
+    }
+  ]
+}

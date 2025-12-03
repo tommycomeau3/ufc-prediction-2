@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4a6dff1b260bcf61",
+  "stats": {
+    "name": "Aleksandre Topuria",
+    "record": "7-1-0",
+    "wins": 7,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Jan 28, 1996",
+    "strikes_landed_per_min": 2.93,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.57,
+    "striking_defense": 0.68,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Bekzat Almakhan",
+      "result": "win",
+      "date": "Nov. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Colby Thicknesse",
+      "result": "win",
+      "date": "Feb. 08, 2025",
+      "method": "N/A"
+    }
+  ]
+}

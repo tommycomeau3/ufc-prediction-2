@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/1d2d98ddd05b38fb",
+  "stats": {
+    "name": "Axel Sola",
+    "record": "11-0-1",
+    "wins": 11,
+    "losses": 0,
+    "draws": 1,
+    "height": "6' 2\"",
+    "weight": "170 lbs.",
+    "reach": "74\"",
+    "stance": "Southpaw",
+    "dob": "Sep 17, 1997",
+    "strikes_landed_per_min": 3.74,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.74,
+    "striking_defense": 0.75,
+    "takedown_average": null,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rhys McKee",
+      "result": "win",
+      "date": "Sep. 06, 2025",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

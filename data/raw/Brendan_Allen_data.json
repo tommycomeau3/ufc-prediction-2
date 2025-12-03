@@ -1,0 +1,139 @@
+{
+  "url": "http://ufcstats.com/fighter-details/2f181c0467965b98",
+  "stats": {
+    "name": "Brendan Allen",
+    "record": "26-7-0",
+    "wins": 26,
+    "losses": 7,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "185 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Dec 28, 1995",
+    "strikes_landed_per_min": 3.59,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.62,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.42,
+    "takedown_defense": 0.56,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Reinier de Ridder",
+      "result": "win",
+      "date": "Oct. 18, 2025",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Marvin Vettori",
+      "result": "win",
+      "date": "Jul. 19, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anthony Hernandez",
+      "result": "loss",
+      "date": "Feb. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nassourdine Imavov",
+      "result": "loss",
+      "date": "Sep. 28, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Curtis",
+      "result": "win",
+      "date": "Apr. 06, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paul Craig",
+      "result": "win",
+      "date": "Nov. 18, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Bruno Silva",
+      "result": "win",
+      "date": "Jun. 24, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Andre Muniz",
+      "result": "win",
+      "date": "Feb. 25, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Krzysztof Jotko",
+      "result": "win",
+      "date": "Oct. 01, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jacob Malkoun",
+      "result": "win",
+      "date": "Jun. 11, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sam Alvey",
+      "result": "win",
+      "date": "Feb. 05, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Chris Curtis",
+      "result": "loss",
+      "date": "Dec. 04, 2021",
+      "method": "KO/TKO (Knees)"
+    },
+    {
+      "opponent": "Punahele Soriano",
+      "result": "win",
+      "date": "Jul. 24, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Karl Roberson",
+      "result": "win",
+      "date": "Apr. 24, 2021",
+      "method": "Submission (Ankle Lock)"
+    },
+    {
+      "opponent": "Sean Strickland",
+      "result": "loss",
+      "date": "Nov. 14, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Kyle Daukaus",
+      "result": "win",
+      "date": "Jun. 27, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tom Breese",
+      "result": "win",
+      "date": "Feb. 29, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Kevin Holland",
+      "result": "win",
+      "date": "Oct. 18, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Aaron Jeffery",
+      "result": "win",
+      "date": "Jul. 16, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

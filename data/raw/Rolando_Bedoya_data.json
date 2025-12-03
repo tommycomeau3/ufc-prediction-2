@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/40a456a25d52ee65",
+  "stats": {
+    "name": "Rolando Bedoya",
+    "record": "14-5-0",
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Jan 13, 1997",
+    "strikes_landed_per_min": 6.23,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.5,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jamie Mullarkey",
+      "result": "loss",
+      "date": "Sep. 27, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jai Herbert",
+      "result": "loss",
+      "date": "Aug. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Song Kenan",
+      "result": "loss",
+      "date": "Aug. 26, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Khaos Williams",
+      "result": "loss",
+      "date": "May. 06, 2023",
+      "method": "N/A"
+    }
+  ]
+}

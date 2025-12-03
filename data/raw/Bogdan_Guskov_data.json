@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/ef5dcb10d2bd4b0f",
+  "stats": {
+    "name": "Bogdan Guskov",
+    "record": "18-3-0",
+    "wins": 18,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "205 lbs.",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "dob": "Sep 12, 1992",
+    "strikes_landed_per_min": 4.17,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.3,
+    "striking_defense": 0.45,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.57,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jan Blachowicz",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nikita Krylov",
+      "result": "win",
+      "date": "Jul. 26, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Billy Elekana",
+      "result": "win",
+      "date": "Jan. 18, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Ryan Spann",
+      "result": "win",
+      "date": "Apr. 27, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Zac Pauga",
+      "result": "win",
+      "date": "Feb. 10, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Volkan Oezdemir",
+      "result": "loss",
+      "date": "Sep. 02, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

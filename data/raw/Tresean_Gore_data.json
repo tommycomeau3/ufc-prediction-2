@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/147e70aa6cc48cfc",
+  "stats": {
+    "name": "Tresean Gore",
+    "record": "6-4-0",
+    "wins": 6,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "185 lbs.",
+    "reach": "75\"",
+    "stance": "Switch",
+    "dob": "Jun 21, 1994",
+    "strikes_landed_per_min": 2.76,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.48,
+    "striking_defense": 0.4,
+    "takedown_average": null,
+    "takedown_accuracy": 0.75,
+    "takedown_defense": 0.88,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rodolfo Vieira",
+      "result": "loss",
+      "date": "Aug. 02, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marco Tulio",
+      "result": "loss",
+      "date": "Apr. 12, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Antonio Trocoli",
+      "result": "win",
+      "date": "Nov. 09, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Josh Fremd",
+      "result": "win",
+      "date": "Oct. 29, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Cody Brundage",
+      "result": "loss",
+      "date": "Jul. 09, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Bryan Battle",
+      "result": "loss",
+      "date": "Feb. 05, 2022",
+      "method": "N/A"
+    }
+  ]
+}

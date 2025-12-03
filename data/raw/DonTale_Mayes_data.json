@@ -1,0 +1,101 @@
+{
+  "url": "http://ufcstats.com/fighter-details/1a9480fc288e55d7",
+  "stats": {
+    "name": "Don'Tale Mayes",
+    "record": "11-9-0 (1 NC)",
+    "wins": 11,
+    "losses": 9
+  },
+  "fight_history": [
+    {
+      "opponent": "Thomas Petersen",
+      "result": "loss",
+      "date": "May. 03, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Valter Walker",
+      "result": "loss",
+      "date": "Feb. 15, 2025",
+      "method": "Submission (Heel Hook)"
+    },
+    {
+      "opponent": "Shamil Gaziev",
+      "result": "loss",
+      "date": "Aug. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Caio Machado",
+      "result": "win",
+      "date": "Apr. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rodrigo Nascimento",
+      "result": "loss",
+      "date": "Nov. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andrei Arlovski",
+      "result": "win",
+      "date": "Jun. 03, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Augusto Sakai",
+      "result": "loss",
+      "date": "Feb. 25, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hamdy Abdelwahab",
+      "result": "nc",
+      "date": "Jul. 30, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Parisian",
+      "result": "win",
+      "date": "Dec. 18, 2021",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Roque Martinez",
+      "result": "win",
+      "date": "Nov. 14, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rodrigo Nascimento",
+      "result": "loss",
+      "date": "May. 16, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Ciryl Gane",
+      "result": "loss",
+      "date": "Oct. 26, 2019",
+      "method": "Submission (Heel Hook)"
+    },
+    {
+      "opponent": "Ricardo Prasel",
+      "result": "win",
+      "date": "Jul. 16, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mitchell Sipe",
+      "result": "win",
+      "date": "Jul. 31, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Allen Crowder",
+      "result": "loss",
+      "date": "Aug. 29, 2017",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

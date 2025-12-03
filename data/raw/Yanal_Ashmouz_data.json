@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c739c2995a275314",
+  "stats": {
+    "name": "Yanal Ashmouz",
+    "record": "8-2-0",
+    "wins": 8,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Mar 31, 1995",
+    "strikes_landed_per_min": 2.88,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.78,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.38,
+    "takedown_defense": 0.64,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Quillan Salkilld",
+      "result": "loss",
+      "date": "Jun. 07, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Trevor Peek",
+      "result": "win",
+      "date": "Sep. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Duncan",
+      "result": "loss",
+      "date": "Jul. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sam Patterson",
+      "result": "win",
+      "date": "Mar. 18, 2023",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

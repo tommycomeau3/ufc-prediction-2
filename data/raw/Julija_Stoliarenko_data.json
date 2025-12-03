@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a78a87d8c2bbb1cb",
+  "stats": {
+    "name": "Julija Stoliarenko",
+    "record": "11-10-2",
+    "wins": 11,
+    "losses": 10,
+    "draws": 2,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "66\"",
+    "stance": "Orthodox",
+    "dob": "Apr 08, 1993",
+    "strikes_landed_per_min": 2.74,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.45,
+    "striking_defense": 0.46,
+    "takedown_average": null,
+    "takedown_accuracy": 0.2,
+    "takedown_defense": 0.54,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Gabriella Fernandes",
+      "result": "loss",
+      "date": "Aug. 09, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Luana Carolina",
+      "result": "loss",
+      "date": "Feb. 03, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Molly McCann",
+      "result": "win",
+      "date": "Jul. 22, 2023",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Chelsea Chandler",
+      "result": "loss",
+      "date": "Oct. 01, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jessica-Rose Clark",
+      "result": "win",
+      "date": "Jul. 02, 2022",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Alexis Davis",
+      "result": "loss",
+      "date": "Feb. 05, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julia Avila",
+      "result": "loss",
+      "date": "Jun. 26, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Yana Santos",
+      "result": "loss",
+      "date": "Aug. 08, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Leah Letson",
+      "result": "loss",
+      "date": "Nov. 30, 2018",
+      "method": "N/A"
+    }
+  ]
+}

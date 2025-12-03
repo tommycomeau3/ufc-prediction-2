@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7eaa5e31c2dd86aa",
+  "stats": {
+    "name": "Nick Klein",
+    "record": "6-3-0",
+    "wins": 6,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "185 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "Sep 08, 1995",
+    "strikes_landed_per_min": 2.51,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.41,
+    "striking_defense": 0.39,
+    "takedown_average": null,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Andrey Pulyaev",
+      "result": "loss",
+      "date": "Aug. 02, 2025",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Mansur Abdul-Malik",
+      "result": "loss",
+      "date": "Feb. 22, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Heraldo Souza",
+      "result": "win",
+      "date": "Oct. 15, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

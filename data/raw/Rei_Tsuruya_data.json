@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/2f43a3e82661fa99",
+  "stats": {
+    "name": "Rei Tsuruya",
+    "record": "10-1-0",
+    "wins": 10,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "125 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Jun 22, 2002",
+    "strikes_landed_per_min": 2.24,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.01,
+    "striking_defense": 0.42,
+    "takedown_average": null,
+    "takedown_accuracy": 0.37,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Joshua Van",
+      "result": "loss",
+      "date": "Mar. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carlos Hernandez",
+      "result": "win",
+      "date": "Jun. 29, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jiniushiyue",
+      "result": "win",
+      "date": "Feb. 03, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Mark Climaco",
+      "result": "win",
+      "date": "Aug. 27, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ronal Siahaan",
+      "result": "win",
+      "date": "May. 27, 2023",
+      "method": "Submission (Kimura)"
+    }
+  ]
+}

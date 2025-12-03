@@ -1,0 +1,35 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6d48a2df51749d91",
+  "stats": {
+    "name": "Antonio Trocoli",
+    "record": "12-5-0 (1 NC)",
+    "wins": 12,
+    "losses": 5
+  },
+  "fight_history": [
+    {
+      "opponent": "Mansur Abdul-Malik",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tresean Gore",
+      "result": "loss",
+      "date": "Nov. 09, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Shara Magomedov",
+      "result": "loss",
+      "date": "Jun. 22, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Kenneth Bergh",
+      "result": "nc",
+      "date": "Jul. 09, 2019",
+      "method": "N/A"
+    }
+  ]
+}

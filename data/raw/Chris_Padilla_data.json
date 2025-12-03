@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/06626b6287e1ae1e",
+  "stats": {
+    "name": "Chris Padilla",
+    "record": "17-6-0",
+    "wins": 17,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Sep 14, 1995",
+    "strikes_landed_per_min": 4.78,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.87,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ismael Bonfim",
+      "result": "win",
+      "date": "Nov. 08, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jai Herbert",
+      "result": "win",
+      "date": "Mar. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rongzhu",
+      "result": "win",
+      "date": "Sep. 07, 2024",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "James Llontop",
+      "result": "win",
+      "date": "Apr. 27, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "url": "http://ufcstats.com/fighter-details/327d5f279895110d",
+  "stats": {
+    "name": "Roman Dolidze",
+    "record": "15-4-0",
+    "wins": 15,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "185 lbs.",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "dob": "Jul 15, 1988",
+    "strikes_landed_per_min": 3.41,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.72,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.39,
+    "takedown_defense": 0.26,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Anthony Hernandez",
+      "result": "loss",
+      "date": "Aug. 09, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Marvin Vettori",
+      "result": "win",
+      "date": "Mar. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kevin Holland",
+      "result": "win",
+      "date": "Oct. 05, 2024",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Anthony Smith",
+      "result": "win",
+      "date": "Jun. 29, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nassourdine Imavov",
+      "result": "loss",
+      "date": "Feb. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marvin Vettori",
+      "result": "loss",
+      "date": "Mar. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jack Hermansson",
+      "result": "win",
+      "date": "Dec. 03, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Phil Hawes",
+      "result": "win",
+      "date": "Oct. 29, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Kyle Daukaus",
+      "result": "win",
+      "date": "Jun. 18, 2022",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Laureano Staropoli",
+      "result": "win",
+      "date": "Jun. 05, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Trevin Giles",
+      "result": "loss",
+      "date": "Mar. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "John Allan",
+      "result": "win",
+      "date": "Dec. 05, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Khadis Ibragimov",
+      "result": "win",
+      "date": "Jul. 18, 2020",
+      "method": "KO/TKO (Knee)"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c0ac37a4a1133da9",
+  "stats": {
+    "name": "Marcus McGhee",
+    "record": "10-2-0",
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "May 07, 1990",
+    "strikes_landed_per_min": 5.5,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.64,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.14,
+    "takedown_defense": 0.9,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Petr Yan",
+      "result": "loss",
+      "date": "Jul. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jonathan Martinez",
+      "result": "win",
+      "date": "Nov. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gaston Bolanos",
+      "result": "win",
+      "date": "Jan. 13, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "JP Buys",
+      "result": "win",
+      "date": "Aug. 12, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Journey Newson",
+      "result": "win",
+      "date": "Apr. 29, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

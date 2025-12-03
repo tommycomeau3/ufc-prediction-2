@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/450bcab0968562c4",
+  "stats": {
+    "name": "John Yannis",
+    "record": "9-4-0",
+    "wins": 9,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Jul 07, 1994",
+    "strikes_landed_per_min": 0.0,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 0.55,
+    "striking_defense": 0.71,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Austin Bashi",
+      "result": "loss",
+      "date": "Aug. 02, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

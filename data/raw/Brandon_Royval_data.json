@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6e15f63b6c2e2c15",
+  "stats": {
+    "name": "Brandon Royval",
+    "record": "17-8-0",
+    "wins": 17,
+    "losses": 8,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "125 lbs.",
+    "reach": "68\"",
+    "stance": "Southpaw",
+    "dob": "Aug 16, 1992",
+    "strikes_landed_per_min": 5.55,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.23,
+    "striking_defense": 0.43,
+    "takedown_average": null,
+    "takedown_accuracy": 0.75,
+    "takedown_defense": 0.45,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Manel Kape",
+      "result": "next",
+      "date": "Dec. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joshua Van",
+      "result": "loss",
+      "date": "Jun. 28, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tatsuro Taira",
+      "result": "win",
+      "date": "Oct. 12, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brandon Moreno",
+      "result": "win",
+      "date": "Feb. 24, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexandre Pantoja",
+      "result": "loss",
+      "date": "Dec. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Matheus Nicolau",
+      "result": "win",
+      "date": "Apr. 15, 2023",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Matt Schnell",
+      "result": "win",
+      "date": "May. 07, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Rogerio Bontorin",
+      "result": "win",
+      "date": "Jan. 15, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexandre Pantoja",
+      "result": "loss",
+      "date": "Aug. 21, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Brandon Moreno",
+      "result": "loss",
+      "date": "Nov. 21, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Kai Kara-France",
+      "result": "win",
+      "date": "Sep. 26, 2020",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Tim Elliott",
+      "result": "win",
+      "date": "May. 30, 2020",
+      "method": "Submission (Arm Triangle)"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/767755fd74662dbf",
+  "stats": {
+    "name": "Khamzat Chimaev",
+    "record": "15-0-0",
+    "wins": 15,
+    "losses": 0,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "185 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "May 01, 1994",
+    "strikes_landed_per_min": 4.04,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.32,
+    "striking_defense": 0.43,
+    "takedown_average": null,
+    "takedown_accuracy": 0.55,
+    "takedown_defense": 0.85,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Dricus Du Plessis",
+      "result": "win",
+      "date": "Aug. 16, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Robert Whittaker",
+      "result": "win",
+      "date": "Oct. 26, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Kamaru Usman",
+      "result": "win",
+      "date": "Oct. 21, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kevin Holland",
+      "result": "win",
+      "date": "Sep. 10, 2022",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Gilbert Burns",
+      "result": "win",
+      "date": "Apr. 09, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Li Jingliang",
+      "result": "win",
+      "date": "Oct. 30, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Gerald Meerschaert",
+      "result": "win",
+      "date": "Sep. 19, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Rhys McKee",
+      "result": "win",
+      "date": "Jul. 25, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "John Phillips",
+      "result": "win",
+      "date": "Jul. 15, 2020",
+      "method": "Submission (D'Arce Choke)"
+    }
+  ]
+}

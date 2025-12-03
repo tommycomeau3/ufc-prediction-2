@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/52b6bf4528130e86",
+  "stats": {
+    "name": "Shem Rock",
+    "record": "12-2-1",
+    "wins": 12,
+    "losses": 2,
+    "draws": 1,
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Southpaw",
+    "dob": "Nov 05, 1993",
+    "strikes_landed_per_min": 2.93,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.4,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.11,
+    "takedown_defense": 0.8,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Nurullo Aliev",
+      "result": "loss",
+      "date": "Nov. 22, 2025",
+      "method": "N/A"
+    }
+  ]
+}

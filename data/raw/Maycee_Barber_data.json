@@ -1,0 +1,103 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6a740daf1b279661",
+  "stats": {
+    "name": "Maycee Barber",
+    "record": "14-2-0",
+    "wins": 14,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 5\"",
+    "weight": "125 lbs.",
+    "reach": "65\"",
+    "stance": "Switch",
+    "dob": "May 18, 1998",
+    "strikes_landed_per_min": 4.7,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.9,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.43,
+    "takedown_defense": 0.53,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Karine Silva",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Katlyn Cerminara",
+      "result": "win",
+      "date": "Mar. 09, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amanda Ribas",
+      "result": "win",
+      "date": "Jun. 24, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Andrea Lee",
+      "result": "win",
+      "date": "Mar. 25, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jessica Eye",
+      "result": "win",
+      "date": "Jul. 02, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Montana De La Rosa",
+      "result": "win",
+      "date": "Apr. 23, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Miranda Maverick",
+      "result": "win",
+      "date": "Jul. 24, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexa Grasso",
+      "result": "loss",
+      "date": "Feb. 13, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Roxanne Modafferi",
+      "result": "loss",
+      "date": "Jan. 18, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gillian Robertson",
+      "result": "win",
+      "date": "Oct. 18, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "JJ Aldrich",
+      "result": "win",
+      "date": "Mar. 23, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Hannah Cifers",
+      "result": "win",
+      "date": "Nov. 10, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jamie Colleen",
+      "result": "win",
+      "date": "Jul. 17, 2018",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

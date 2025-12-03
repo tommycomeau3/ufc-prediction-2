@@ -1,0 +1,107 @@
+{
+  "url": "http://ufcstats.com/fighter-details/67c1d46f4ed16f9e",
+  "stats": {
+    "name": "Matt Schnell",
+    "record": "17-10-0 (1 NC)",
+    "wins": 17,
+    "losses": 10
+  },
+  "fight_history": [
+    {
+      "opponent": "Joseph Morales",
+      "result": "loss",
+      "date": "Nov. 08, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Jimmy Flick",
+      "result": "win",
+      "date": "Apr. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody Durden",
+      "result": "loss",
+      "date": "Sep. 07, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Steve Erceg",
+      "result": "loss",
+      "date": "Mar. 02, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Matheus Nicolau",
+      "result": "loss",
+      "date": "Dec. 03, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Sumudaerji",
+      "result": "win",
+      "date": "Jul. 16, 2022",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Brandon Royval",
+      "result": "loss",
+      "date": "May. 07, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Rogerio Bontorin",
+      "result": "nc",
+      "date": "May. 15, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tyson Nam",
+      "result": "win",
+      "date": "Jan. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexandre Pantoja",
+      "result": "loss",
+      "date": "Dec. 21, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jordan Espinosa",
+      "result": "win",
+      "date": "Aug. 03, 2019",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Louis Smolka",
+      "result": "win",
+      "date": "Mar. 09, 2019",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Naoki Inoue",
+      "result": "win",
+      "date": "Jun. 23, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marco Beltran",
+      "result": "win",
+      "date": "Oct. 07, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hector Sandoval",
+      "result": "loss",
+      "date": "Apr. 22, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Rob Font",
+      "result": "loss",
+      "date": "Dec. 03, 2016",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

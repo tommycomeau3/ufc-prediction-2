@@ -1,0 +1,131 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f1fac969a1d70b08",
+  "stats": {
+    "name": "Leon Edwards",
+    "record": "22-6-0 (1 NC)",
+    "wins": 22,
+    "losses": 6
+  },
+  "fight_history": [
+    {
+      "opponent": "Carlos Prates",
+      "result": "loss",
+      "date": "Nov. 15, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Sean Brady",
+      "result": "loss",
+      "date": "Mar. 22, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Belal Muhammad",
+      "result": "loss",
+      "date": "Jul. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Colby Covington",
+      "result": "win",
+      "date": "Dec. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kamaru Usman",
+      "result": "win",
+      "date": "Mar. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kamaru Usman",
+      "result": "win",
+      "date": "Aug. 20, 2022",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Nate Diaz",
+      "result": "win",
+      "date": "Jun. 12, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Belal Muhammad",
+      "result": "nc",
+      "date": "Mar. 13, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rafael Dos Anjos",
+      "result": "win",
+      "date": "Jul. 20, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gunnar Nelson",
+      "result": "win",
+      "date": "Mar. 16, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Donald Cerrone",
+      "result": "win",
+      "date": "Jun. 23, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Peter Sobotta",
+      "result": "win",
+      "date": "Mar. 17, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Bryan Barberena",
+      "result": "win",
+      "date": "Sep. 02, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vicente Luque",
+      "result": "win",
+      "date": "Mar. 18, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Albert Tumenov",
+      "result": "win",
+      "date": "Oct. 08, 2016",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Dominic Waters",
+      "result": "win",
+      "date": "May. 08, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kamaru Usman",
+      "result": "loss",
+      "date": "Dec. 19, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Pawel Pawlak",
+      "result": "win",
+      "date": "Jul. 18, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Seth Baczynski",
+      "result": "win",
+      "date": "Apr. 11, 2015",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Claudio Silva",
+      "result": "loss",
+      "date": "Nov. 08, 2014",
+      "method": "N/A"
+    }
+  ]
+}

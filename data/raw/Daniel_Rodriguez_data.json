@@ -1,0 +1,115 @@
+{
+  "url": "http://ufcstats.com/fighter-details/8a1f3b5c526cd6e6",
+  "stats": {
+    "name": "Daniel Rodriguez",
+    "record": "20-5-0",
+    "wins": 20,
+    "losses": 5,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "170 lbs.",
+    "reach": "74\"",
+    "stance": "Southpaw",
+    "dob": "Dec 31, 1986",
+    "strikes_landed_per_min": 7.2,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.4,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.64,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kevin Holland",
+      "result": "win",
+      "date": "Jul. 19, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Santiago Ponzinibbio",
+      "result": "win",
+      "date": "May. 03, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Alex Morono",
+      "result": "win",
+      "date": "Oct. 12, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kelvin Gastelum",
+      "result": "loss",
+      "date": "Jun. 22, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ian Machado Garry",
+      "result": "loss",
+      "date": "May. 13, 2023",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Neil Magny",
+      "result": "loss",
+      "date": "Nov. 05, 2022",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Li Jingliang",
+      "result": "win",
+      "date": "Sep. 10, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kevin Lee",
+      "result": "win",
+      "date": "Aug. 28, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Preston Parsons",
+      "result": "win",
+      "date": "Jul. 17, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Mike Perry",
+      "result": "win",
+      "date": "Apr. 10, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nicolas Dalby",
+      "result": "loss",
+      "date": "Nov. 21, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dwight Grant",
+      "result": "win",
+      "date": "Aug. 22, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Gabe Green",
+      "result": "win",
+      "date": "May. 30, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tim Means",
+      "result": "win",
+      "date": "Feb. 15, 2020",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Rico Farrington",
+      "result": "win",
+      "date": "Jul. 30, 2019",
+      "method": "N/A"
+    }
+  ]
+}

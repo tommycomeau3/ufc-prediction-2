@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c730a0be691dc081",
+  "stats": {
+    "name": "Jared Gooden",
+    "record": "23-10-0",
+    "wins": 23,
+    "losses": 10,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "170 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "Dec 05, 1993",
+    "strikes_landed_per_min": 4.4,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.74,
+    "striking_defense": 0.45,
+    "takedown_average": null,
+    "takedown_accuracy": 0.45,
+    "takedown_defense": 0.65,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Chidi Njokuani",
+      "result": "loss",
+      "date": "Oct. 12, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Wellington Turman",
+      "result": "win",
+      "date": "Dec. 02, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Carlston Harris",
+      "result": "loss",
+      "date": "Mar. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Randy Brown",
+      "result": "loss",
+      "date": "Oct. 09, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Niklas Stolze",
+      "result": "win",
+      "date": "Jul. 31, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Abubakar Nurmagomedov",
+      "result": "loss",
+      "date": "Mar. 27, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alan Jouban",
+      "result": "loss",
+      "date": "Nov. 21, 2020",
+      "method": "N/A"
+    }
+  ]
+}

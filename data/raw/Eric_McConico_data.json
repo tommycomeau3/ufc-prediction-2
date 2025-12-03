@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/9508cc6184cb2450",
+  "stats": {
+    "name": "Eric McConico",
+    "record": "10-4-1",
+    "wins": 10,
+    "losses": 4,
+    "draws": 1,
+    "height": "6' 0\"",
+    "weight": "185 lbs.",
+    "reach": "77\"",
+    "stance": "Southpaw",
+    "dob": "May 09, 1990",
+    "strikes_landed_per_min": 2.61,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.23,
+    "striking_defense": 0.46,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.64,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Baisangur Susurkaev",
+      "result": "loss",
+      "date": "Nov. 15, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Cody Brundage",
+      "result": "win",
+      "date": "Aug. 09, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nursulton Ruziboev",
+      "result": "loss",
+      "date": "Feb. 22, 2025",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

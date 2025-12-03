@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/aebaa8cec15b083d",
+  "stats": {
+    "name": "Kody Steele",
+    "record": "7-1-0",
+    "wins": 7,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Apr 21, 1995",
+    "strikes_landed_per_min": 4.44,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.17,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.14,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rongzhu",
+      "result": "loss",
+      "date": "Feb. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chasen Blair",
+      "result": "win",
+      "date": "Oct. 08, 2024",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

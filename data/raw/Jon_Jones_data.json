@@ -1,0 +1,155 @@
+{
+  "url": "http://ufcstats.com/fighter-details/07f72a2a7591b409",
+  "stats": {
+    "name": "Jon Jones",
+    "record": "28-1-0 (1 NC)",
+    "wins": 28,
+    "losses": 1
+  },
+  "fight_history": [
+    {
+      "opponent": "Stipe Miocic",
+      "result": "win",
+      "date": "Nov. 16, 2024",
+      "method": "KO/TKO (Spinning Back Kick)"
+    },
+    {
+      "opponent": "Ciryl Gane",
+      "result": "win",
+      "date": "Mar. 04, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Dominick Reyes",
+      "result": "win",
+      "date": "Feb. 08, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Thiago Santos",
+      "result": "win",
+      "date": "Jul. 06, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anthony Smith",
+      "result": "win",
+      "date": "Mar. 02, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexander Gustafsson",
+      "result": "win",
+      "date": "Dec. 29, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Daniel Cormier",
+      "result": "nc",
+      "date": "Jul. 29, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ovince Saint Preux",
+      "result": "win",
+      "date": "Apr. 23, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daniel Cormier",
+      "result": "win",
+      "date": "Jan. 03, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Glover Teixeira",
+      "result": "win",
+      "date": "Apr. 26, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexander Gustafsson",
+      "result": "win",
+      "date": "Sep. 21, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chael Sonnen",
+      "result": "win",
+      "date": "Apr. 27, 2013",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Vitor Belfort",
+      "result": "win",
+      "date": "Sep. 22, 2012",
+      "method": "Submission (Keylock)"
+    },
+    {
+      "opponent": "Rashad Evans",
+      "result": "win",
+      "date": "Apr. 21, 2012",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lyoto Machida",
+      "result": "win",
+      "date": "Dec. 10, 2011",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Quinton Jackson",
+      "result": "win",
+      "date": "Sep. 24, 2011",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Mauricio Rua",
+      "result": "win",
+      "date": "Mar. 19, 2011",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Ryan Bader",
+      "result": "win",
+      "date": "Feb. 05, 2011",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Vladimir Matyushenko",
+      "result": "win",
+      "date": "Aug. 01, 2010",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Brandon Vera",
+      "result": "win",
+      "date": "Mar. 21, 2010",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Matt Hamill",
+      "result": "loss",
+      "date": "Dec. 05, 2009",
+      "method": "DQ"
+    },
+    {
+      "opponent": "Jake O'Brien",
+      "result": "win",
+      "date": "Jul. 11, 2009",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Stephan Bonnar",
+      "result": "win",
+      "date": "Jan. 31, 2009",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Gusmao",
+      "result": "win",
+      "date": "Aug. 09, 2008",
+      "method": "N/A"
+    }
+  ]
+}

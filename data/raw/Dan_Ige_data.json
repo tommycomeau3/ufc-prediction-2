@@ -1,0 +1,151 @@
+{
+  "url": "http://ufcstats.com/fighter-details/82a5152216251682",
+  "stats": {
+    "name": "Dan Ige",
+    "record": "19-10-0",
+    "wins": 19,
+    "losses": 10,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Aug 06, 1991",
+    "strikes_landed_per_min": 3.64,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.56,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.56,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Patricio Freire",
+      "result": "loss",
+      "date": "Jul. 19, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean Woodson",
+      "result": "win",
+      "date": "Apr. 12, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Lerone Murphy",
+      "result": "loss",
+      "date": "Oct. 26, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Diego Lopes",
+      "result": "loss",
+      "date": "Jun. 29, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Fili",
+      "result": "win",
+      "date": "Feb. 10, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Bryce Mitchell",
+      "result": "loss",
+      "date": "Sep. 23, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nate Landwehr",
+      "result": "win",
+      "date": "Jun. 10, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Damon Jackson",
+      "result": "win",
+      "date": "Jan. 14, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Movsar Evloev",
+      "result": "loss",
+      "date": "Jun. 04, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Emmett",
+      "result": "loss",
+      "date": "Dec. 11, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chan Sung Jung",
+      "result": "loss",
+      "date": "UFC Fight Night: Jung vs. Ige",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gavin Tucker",
+      "result": "win",
+      "date": "Mar. 13, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Calvin Kattar",
+      "result": "loss",
+      "date": "Jul. 15, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Edson Barboza",
+      "result": "win",
+      "date": "May. 16, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mirsad Bektic",
+      "result": "win",
+      "date": "Feb. 08, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kevin Aguilar",
+      "result": "win",
+      "date": "Jun. 22, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Danny Henry",
+      "result": "win",
+      "date": "Mar. 16, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jordan Griffin",
+      "result": "win",
+      "date": "Dec. 15, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mike Santiago",
+      "result": "win",
+      "date": "Jun. 09, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Julio Arce",
+      "result": "loss",
+      "date": "Jan. 20, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Luis Gomez",
+      "result": "win",
+      "date": "Jul. 25, 2017",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c940b42df95bbd28",
+  "stats": {
+    "name": "Feng Xiaocan",
+    "record": "10-4-0",
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "115 lbs.",
+    "reach": "67\"",
+    "stance": "Southpaw",
+    "dob": "Oct 27, 2001",
+    "strikes_landed_per_min": 4.18,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.49,
+    "striking_defense": 0.68,
+    "takedown_average": null,
+    "takedown_accuracy": 0.1,
+    "takedown_defense": 0.63,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Arisa Matsuda",
+      "result": "loss",
+      "date": "May. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shi Ming",
+      "result": "loss",
+      "date": "Nov. 23, 2024",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Miki Motono",
+      "result": "win",
+      "date": "Aug. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kiran Singh",
+      "result": "win",
+      "date": "May. 18, 2024",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

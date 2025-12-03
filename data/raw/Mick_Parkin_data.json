@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0d5cc0170c1a7e71",
+  "stats": {
+    "name": "Mick Parkin",
+    "record": "10-1-0",
+    "wins": 10,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 4\"",
+    "weight": "265 lbs.",
+    "reach": "79\"",
+    "stance": "Orthodox",
+    "dob": "Oct 02, 1995",
+    "strikes_landed_per_min": 4.7,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.13,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.46,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Marcin Tybura",
+      "result": "loss",
+      "date": "Mar. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lukasz Brzeski",
+      "result": "win",
+      "date": "Jul. 27, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Mohammed Usman",
+      "result": "win",
+      "date": "Mar. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Caio Machado",
+      "result": "win",
+      "date": "Nov. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jamal Pogues",
+      "result": "win",
+      "date": "Jul. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Eduardo Neves",
+      "result": "win",
+      "date": "Aug. 23, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

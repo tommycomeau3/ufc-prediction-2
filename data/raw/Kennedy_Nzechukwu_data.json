@@ -1,0 +1,127 @@
+{
+  "url": "http://ufcstats.com/fighter-details/8667caa0451d245b",
+  "stats": {
+    "name": "Kennedy Nzechukwu",
+    "record": "14-6-0",
+    "wins": 14,
+    "losses": 6,
+    "draws": 0,
+    "height": "6' 5\"",
+    "weight": "236 lbs.",
+    "reach": "83\"",
+    "stance": "Southpaw",
+    "dob": "Jun 13, 1992",
+    "strikes_landed_per_min": 5.33,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.89,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.45,
+    "takedown_defense": 0.8,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Marcus Buchecha",
+      "result": "next",
+      "date": "Dec. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Valter Walker",
+      "result": "loss",
+      "date": "Jul. 12, 2025",
+      "method": "Submission (Heel Hook)"
+    },
+    {
+      "opponent": "Lukasz Brzeski",
+      "result": "win",
+      "date": "Dec. 07, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Chris Barnett",
+      "result": "win",
+      "date": "Oct. 26, 2024",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Ovince Saint Preux",
+      "result": "loss",
+      "date": "Mar. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dustin Jacoby",
+      "result": "loss",
+      "date": "Aug. 05, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Devin Clark",
+      "result": "win",
+      "date": "May. 06, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Ion Cutelaba",
+      "result": "win",
+      "date": "Nov. 19, 2022",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Karl Roberson",
+      "result": "win",
+      "date": "Jul. 09, 2022",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Nicolae Negumereanu",
+      "result": "loss",
+      "date": "Mar. 05, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Da Woon Jung",
+      "result": "loss",
+      "date": "Nov. 13, 2021",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Danilo Marques",
+      "result": "win",
+      "date": "Jun. 26, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Carlos Ulberg",
+      "result": "win",
+      "date": "Mar. 06, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Darko Stosic",
+      "result": "win",
+      "date": "Aug. 03, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paul Craig",
+      "result": "loss",
+      "date": "Mar. 30, 2019",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Dennis Bryant",
+      "result": "win",
+      "date": "Aug. 07, 2018",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Anton Berzin",
+      "result": "win",
+      "date": "Aug. 22, 2017",
+      "method": "N/A"
+    }
+  ]
+}

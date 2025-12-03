@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/07047eb7d17fb0a2",
+  "stats": {
+    "name": "Daria Zhelezniakova",
+    "record": "10-2-0",
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Jan 23, 1996",
+    "strikes_landed_per_min": 4.75,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.83,
+    "striking_defense": 0.68,
+    "takedown_average": null,
+    "takedown_accuracy": 0.1,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Melissa Mullins",
+      "result": "win",
+      "date": "Jun. 21, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ailin Perez",
+      "result": "loss",
+      "date": "Sep. 28, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Montse Rendon",
+      "result": "win",
+      "date": "Mar. 23, 2024",
+      "method": "N/A"
+    }
+  ]
+}

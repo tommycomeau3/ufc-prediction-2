@@ -1,0 +1,139 @@
+{
+  "url": "http://ufcstats.com/fighter-details/792be9a24df82ed6",
+  "stats": {
+    "name": "Brandon Moreno",
+    "record": "23-8-2",
+    "wins": 23,
+    "losses": 8,
+    "draws": 2,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Dec 07, 1993",
+    "strikes_landed_per_min": 3.96,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.62,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.44,
+    "takedown_defense": 0.64,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Tatsuro Taira",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Steve Erceg",
+      "result": "win",
+      "date": "Mar. 29, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amir Albazi",
+      "result": "win",
+      "date": "Nov. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brandon Royval",
+      "result": "loss",
+      "date": "Feb. 24, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexandre Pantoja",
+      "result": "loss",
+      "date": "Jul. 08, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Deiveson Figueiredo",
+      "result": "win",
+      "date": "Jan. 21, 2023",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Kai Kara-France",
+      "result": "win",
+      "date": "Jul. 30, 2022",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Deiveson Figueiredo",
+      "result": "loss",
+      "date": "Jan. 22, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Deiveson Figueiredo",
+      "result": "win",
+      "date": "Jun. 12, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Deiveson Figueiredo",
+      "result": "draw",
+      "date": "Dec. 12, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brandon Royval",
+      "result": "win",
+      "date": "Nov. 21, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jussier Formiga",
+      "result": "win",
+      "date": "Mar. 14, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kai Kara-France",
+      "result": "win",
+      "date": "Dec. 14, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Askar Askarov",
+      "result": "draw",
+      "date": "Sep. 21, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexandre Pantoja",
+      "result": "loss",
+      "date": "May. 19, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sergio Pettis",
+      "result": "loss",
+      "date": "Aug. 05, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dustin Ortiz",
+      "result": "win",
+      "date": "Apr. 22, 2017",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Ryan Benoit",
+      "result": "win",
+      "date": "Dec. 03, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Louis Smolka",
+      "result": "win",
+      "date": "Oct. 01, 2016",
+      "method": "Submission (Guillotine Choke)"
+    }
+  ]
+}

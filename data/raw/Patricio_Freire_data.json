@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/98a58c26c5b1ed17",
+  "stats": {
+    "name": "Patricio Freire",
+    "record": "37-8-0",
+    "wins": 37,
+    "losses": 8,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "145 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Jul 07, 1987",
+    "strikes_landed_per_min": 2.68,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.23,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.88,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Dan Ige",
+      "result": "win",
+      "date": "Jul. 19, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yair Rodriguez",
+      "result": "loss",
+      "date": "Apr. 12, 2025",
+      "method": "N/A"
+    }
+  ]
+}

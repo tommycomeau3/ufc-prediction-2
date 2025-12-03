@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/64b12fe31be7560c",
+  "stats": {
+    "name": "Eric Nolan",
+    "record": "8-4-0",
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "185 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Sep 13, 1997",
+    "strikes_landed_per_min": 3.14,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.13,
+    "striking_defense": 0.41,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.71,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Baisangur Susurkaev",
+      "result": "loss",
+      "date": "Aug. 16, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

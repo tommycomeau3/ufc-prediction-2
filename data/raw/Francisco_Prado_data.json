@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/3920d0cc288f9b0d",
+  "stats": {
+    "name": "Francisco Prado",
+    "record": "12-4-0",
+    "wins": 12,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Jun 16, 2002",
+    "strikes_landed_per_min": 4.09,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.95,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.19,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Nikolay Veretennikov",
+      "result": "loss",
+      "date": "Jul. 19, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jake Matthews",
+      "result": "loss",
+      "date": "Feb. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daniel Zellhuber",
+      "result": "loss",
+      "date": "Feb. 24, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ottman Azaitar",
+      "result": "win",
+      "date": "Jul. 15, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jamie Mullarkey",
+      "result": "loss",
+      "date": "Feb. 11, 2023",
+      "method": "N/A"
+    }
+  ]
+}

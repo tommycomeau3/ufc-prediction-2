@@ -1,0 +1,103 @@
+{
+  "url": "http://ufcstats.com/fighter-details/971246648e162f0d",
+  "stats": {
+    "name": "Chase Hooper",
+    "record": "16-4-1",
+    "wins": 16,
+    "losses": 4,
+    "draws": 1,
+    "height": "6' 1\"",
+    "weight": "155 lbs.",
+    "reach": "74\"",
+    "stance": "Southpaw",
+    "dob": "Sep 13, 1999",
+    "strikes_landed_per_min": 4.51,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.98,
+    "striking_defense": 0.39,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.55,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Alexander Hernandez",
+      "result": "loss",
+      "date": "Aug. 16, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jim Miller",
+      "result": "win",
+      "date": "Apr. 12, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Clay Guida",
+      "result": "win",
+      "date": "Dec. 07, 2024",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Viacheslav Borshchev",
+      "result": "win",
+      "date": "May. 11, 2024",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Jordan Leavitt",
+      "result": "win",
+      "date": "Nov. 18, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Nick Fiore",
+      "result": "win",
+      "date": "May. 20, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Steve Garcia",
+      "result": "loss",
+      "date": "Oct. 29, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Felipe Colares",
+      "result": "win",
+      "date": "May. 21, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Steven Peterson",
+      "result": "loss",
+      "date": "Jun. 12, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Peter Barrett",
+      "result": "win",
+      "date": "Dec. 12, 2020",
+      "method": "Submission (Heel Hook)"
+    },
+    {
+      "opponent": "Alex Caceres",
+      "result": "loss",
+      "date": "Jun. 06, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daniel Teymur",
+      "result": "win",
+      "date": "Dec. 14, 2019",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Canaan Kawaihae",
+      "result": "win",
+      "date": "Jul. 24, 2018",
+      "method": "N/A"
+    }
+  ]
+}

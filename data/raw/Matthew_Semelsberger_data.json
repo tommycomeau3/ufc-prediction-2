@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4aa58269d0664b5b",
+  "stats": {
+    "name": "Matthew Semelsberger",
+    "record": "11-8-0",
+    "wins": 11,
+    "losses": 8,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "170 lbs.",
+    "reach": "75\"",
+    "stance": "Switch",
+    "dob": "Nov 23, 1992",
+    "strikes_landed_per_min": 3.77,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.24,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.57,
+    "takedown_defense": 0.45,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Charles Radtke",
+      "result": "loss",
+      "date": "Nov. 09, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Preston Parsons",
+      "result": "loss",
+      "date": "Jan. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Uros Medic",
+      "result": "loss",
+      "date": "Jul. 29, 2023",
+      "method": "KO/TKO (Spinning Back Elbow)"
+    },
+    {
+      "opponent": "Jeremiah Wells",
+      "result": "loss",
+      "date": "Apr. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jake Matthews",
+      "result": "win",
+      "date": "Dec. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Morono",
+      "result": "loss",
+      "date": "Jul. 30, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "AJ Fletcher",
+      "result": "win",
+      "date": "Mar. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Martin Sano",
+      "result": "win",
+      "date": "Sep. 25, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Khaos Williams",
+      "result": "loss",
+      "date": "UFC Fight Night: Jung vs. Ige",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jason Witt",
+      "result": "win",
+      "date": "Mar. 13, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Carlton Minus",
+      "result": "win",
+      "date": "Aug. 22, 2020",
+      "method": "N/A"
+    }
+  ]
+}

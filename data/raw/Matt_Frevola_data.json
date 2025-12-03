@@ -1,0 +1,103 @@
+{
+  "url": "http://ufcstats.com/fighter-details/dccb63727f2f5f74",
+  "stats": {
+    "name": "Matt Frevola",
+    "record": "11-6-1",
+    "wins": 11,
+    "losses": 6,
+    "draws": 1,
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jun 11, 1990",
+    "strikes_landed_per_min": 3.3,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.76,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.4,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kyle Nelson",
+      "result": "loss",
+      "date": "Oct. 18, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Fares Ziam",
+      "result": "loss",
+      "date": "Sep. 28, 2024",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Benoit Saint Denis",
+      "result": "loss",
+      "date": "Nov. 11, 2023",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Drew Dober",
+      "result": "win",
+      "date": "May. 06, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ottman Azaitar",
+      "result": "win",
+      "date": "Nov. 12, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Genaro Valdez",
+      "result": "win",
+      "date": "Jan. 22, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Terrance McKinney",
+      "result": "loss",
+      "date": "Jun. 12, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Arman Tsarukyan",
+      "result": "loss",
+      "date": "Jan. 23, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Luis Pena",
+      "result": "win",
+      "date": "Oct. 12, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jalin Turner",
+      "result": "win",
+      "date": "Apr. 13, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lando Vannata",
+      "result": "draw",
+      "date": "Nov. 03, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marco Polo Reyes",
+      "result": "loss",
+      "date": "Jan. 14, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Luke Flores",
+      "result": "win",
+      "date": "Aug. 29, 2017",
+      "method": "Submission (Arm Triangle)"
+    }
+  ]
+}

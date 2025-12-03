@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/955da1675ad58a50",
+  "stats": {
+    "name": "Josh Hokit",
+    "record": "7-0-0",
+    "wins": 7,
+    "losses": 0,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "236 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Nov 12, 1997",
+    "strikes_landed_per_min": 5.12,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.42,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.46,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Max Gimenis",
+      "result": "win",
+      "date": "Nov. 08, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Guilherme Uriel",
+      "result": "win",
+      "date": "Aug. 19, 2025",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

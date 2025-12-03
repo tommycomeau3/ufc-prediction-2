@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/ed7d329d7c29428d",
+  "stats": {
+    "name": "Colby Thicknesse",
+    "record": "8-1-0",
+    "wins": 8,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Jun 23, 1999",
+    "strikes_landed_per_min": 3.33,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.8,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.9,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Josias Musasa",
+      "result": "win",
+      "date": "Sep. 27, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aleksandre Topuria",
+      "result": "loss",
+      "date": "Feb. 08, 2025",
+      "method": "N/A"
+    }
+  ]
+}

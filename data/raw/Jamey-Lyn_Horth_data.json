@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/5c637af9472ae7cc",
+  "stats": {
+    "name": "Jamey-Lyn Horth",
+    "record": "8-2-0",
+    "wins": 8,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "66\"",
+    "stance": "Orthodox",
+    "dob": "Mar 30, 1990",
+    "strikes_landed_per_min": 3.52,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.55,
+    "striking_defense": 0.62,
+    "takedown_average": null,
+    "takedown_accuracy": 0.42,
+    "takedown_defense": 0.76,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Tereza Bleda",
+      "result": "next",
+      "date": "Dec. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vanessa Demopoulos",
+      "result": "win",
+      "date": "Jun. 14, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Miranda Maverick",
+      "result": "loss",
+      "date": "Dec. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ivana Petrovic",
+      "result": "win",
+      "date": "Nov. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Veronica Hardy",
+      "result": "loss",
+      "date": "Dec. 02, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hailey Cowan",
+      "result": "win",
+      "date": "Apr. 29, 2023",
+      "method": "N/A"
+    }
+  ]
+}

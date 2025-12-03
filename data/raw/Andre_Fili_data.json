@@ -1,0 +1,161 @@
+{
+  "url": "http://ufcstats.com/fighter-details/8fd808923cffff82",
+  "stats": {
+    "name": "Andre Fili",
+    "record": "25-12-0 (1 NC)",
+    "wins": 25,
+    "losses": 12
+  },
+  "fight_history": [
+    {
+      "opponent": "Christian Rodriguez",
+      "result": "win",
+      "date": "Aug. 09, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Melquizael Costa",
+      "result": "loss",
+      "date": "Feb. 22, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Cub Swanson",
+      "result": "win",
+      "date": "Jun. 29, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dan Ige",
+      "result": "loss",
+      "date": "Feb. 10, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Lucas Almeida",
+      "result": "win",
+      "date": "Dec. 16, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Nathaniel Wood",
+      "result": "loss",
+      "date": "Jul. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bill Algeo",
+      "result": "win",
+      "date": "Sep. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joanderson Brito",
+      "result": "loss",
+      "date": "Apr. 30, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Daniel Pineda",
+      "result": "nc",
+      "date": "Jun. 26, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bryce Mitchell",
+      "result": "loss",
+      "date": "Oct. 31, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Jourdain",
+      "result": "win",
+      "date": "Jun. 13, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sodiq Yusuff",
+      "result": "loss",
+      "date": "Jan. 18, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sheymon Moraes",
+      "result": "win",
+      "date": "Jul. 13, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Myles Jury",
+      "result": "win",
+      "date": "Feb. 17, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michael Johnson",
+      "result": "loss",
+      "date": "Aug. 25, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dennis Bermudez",
+      "result": "win",
+      "date": "Jan. 27, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Artem Lobov",
+      "result": "win",
+      "date": "Oct. 21, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Calvin Kattar",
+      "result": "loss",
+      "date": "Jul. 29, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hacran Dias",
+      "result": "win",
+      "date": "Oct. 01, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yair Rodriguez",
+      "result": "loss",
+      "date": "Apr. 23, 2016",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Gabriel Benitez",
+      "result": "win",
+      "date": "Nov. 21, 2015",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Godofredo Pepey",
+      "result": "loss",
+      "date": "Mar. 21, 2015",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Felipe Arantes",
+      "result": "win",
+      "date": "Oct. 25, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Max Holloway",
+      "result": "loss",
+      "date": "Apr. 26, 2014",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Jeremy Larsen",
+      "result": "win",
+      "date": "Oct. 19, 2013",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

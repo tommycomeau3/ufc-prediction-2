@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/9d62c2d8ee151f08",
+  "stats": {
+    "name": "Karine Silva",
+    "record": "19-5-0",
+    "wins": 19,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 5\"",
+    "weight": "125 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Dec 02, 1993",
+    "strikes_landed_per_min": 2.73,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.89,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.47,
+    "takedown_defense": 0.11,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Maycee Barber",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dione Barbosa",
+      "result": "win",
+      "date": "Aug. 16, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Viviane Araujo",
+      "result": "loss",
+      "date": "Nov. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ariane da Silva",
+      "result": "win",
+      "date": "Apr. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Maryna Moroz",
+      "result": "win",
+      "date": "Aug. 19, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Ketlen Souza",
+      "result": "win",
+      "date": "Jun. 03, 2023",
+      "method": "Submission (Other - Lock)"
+    },
+    {
+      "opponent": "Poliana Botelho",
+      "result": "win",
+      "date": "Jun. 04, 2022",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Yan Qihui",
+      "result": "win",
+      "date": "Oct. 26, 2021",
+      "method": "Submission (Guillotine Choke)"
+    }
+  ]
+}

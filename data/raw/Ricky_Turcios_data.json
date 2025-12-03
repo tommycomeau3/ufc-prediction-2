@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/cd3d7e37ff2d679c",
+  "stats": {
+    "name": "Ricky Turcios",
+    "record": "13-5-0",
+    "wins": 13,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "135 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jun 05, 1993",
+    "strikes_landed_per_min": 4.73,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.72,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.2,
+    "takedown_defense": 0.44,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Benardo Sopaj",
+      "result": "loss",
+      "date": "Jan. 18, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Raul Rosas Jr.",
+      "result": "loss",
+      "date": "Jun. 08, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Kevin Natividad",
+      "result": "win",
+      "date": "Nov. 19, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aiemann Zahabi",
+      "result": "loss",
+      "date": "Jul. 09, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brady Hiestand",
+      "result": "win",
+      "date": "Aug. 28, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Boston Salmon",
+      "result": "loss",
+      "date": "Jul. 11, 2017",
+      "method": "N/A"
+    }
+  ]
+}

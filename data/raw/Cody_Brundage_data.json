@@ -1,0 +1,95 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f14f644d41ade29f",
+  "stats": {
+    "name": "Cody Brundage",
+    "record": "11-7-1 (1 NC)",
+    "wins": 11,
+    "losses": 7
+  },
+  "fight_history": [
+    {
+      "opponent": "Eric McConico",
+      "result": "loss",
+      "date": "Aug. 09, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mansur Abdul-Malik",
+      "result": "draw",
+      "date": "Jun. 14, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julian Marquez",
+      "result": "win",
+      "date": "Mar. 01, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Abdul Razak Alhassan",
+      "result": "nc",
+      "date": "Jul. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bo Nickal",
+      "result": "loss",
+      "date": "Apr. 13, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Zach Reese",
+      "result": "win",
+      "date": "Dec. 02, 2023",
+      "method": "KO/TKO (Slam)"
+    },
+    {
+      "opponent": "Jacob Malkoun",
+      "result": "win",
+      "date": "Sep. 23, 2023",
+      "method": "DQ"
+    },
+    {
+      "opponent": "Sedriques Dumas",
+      "result": "loss",
+      "date": "Jun. 24, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rodolfo Vieira",
+      "result": "loss",
+      "date": "Apr. 29, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Michal Oleksiejczuk",
+      "result": "loss",
+      "date": "Dec. 17, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Tresean Gore",
+      "result": "win",
+      "date": "Jul. 09, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dalcha Lungiambula",
+      "result": "win",
+      "date": "Mar. 12, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Nick Maximov",
+      "result": "loss",
+      "date": "Sep. 25, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "William Knight",
+      "result": "loss",
+      "date": "Sep. 01, 2020",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

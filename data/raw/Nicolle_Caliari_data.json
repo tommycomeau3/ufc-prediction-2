@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/fc0a4053eb8a3a59",
+  "stats": {
+    "name": "Nicolle Caliari",
+    "record": "8-4-0",
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "125 lbs.",
+    "reach": "62\"",
+    "stance": "Orthodox",
+    "dob": "Nov 04, 1996",
+    "strikes_landed_per_min": 3.46,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.01,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.24,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Carli Judice",
+      "result": "loss",
+      "date": "Jul. 19, 2025",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Ernesta Kareckaite",
+      "result": "loss",
+      "date": "Jan. 11, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Corinne Laframboise",
+      "result": "win",
+      "date": "Sep. 10, 2024",
+      "method": "Submission (Armbar)"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "url": "http://ufcstats.com/fighter-details/887961364be5ceb3",
+  "stats": {
+    "name": "King Green",
+    "record": "32-17-1 (1 NC)",
+    "wins": 32,
+    "losses": 17
+  },
+  "fight_history": [
+    {
+      "opponent": "Mauricio Ruffy",
+      "result": "loss",
+      "date": "Mar. 08, 2025",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Paddy Pimblett",
+      "result": "loss",
+      "date": "Jul. 27, 2024",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Jim Miller",
+      "result": "win",
+      "date": "Apr. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jalin Turner",
+      "result": "loss",
+      "date": "Dec. 02, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Grant Dawson",
+      "result": "win",
+      "date": "Oct. 07, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Tony Ferguson",
+      "result": "win",
+      "date": "Jul. 29, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Jared Gordon",
+      "result": "nc",
+      "date": "Apr. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Drew Dober",
+      "result": "loss",
+      "date": "Dec. 17, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Islam Makhachev",
+      "result": "loss",
+      "date": "Feb. 26, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Nasrat Haqparast",
+      "result": "win",
+      "date": "Feb. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Al Iaquinta",
+      "result": "win",
+      "date": "Nov. 06, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Rafael Fiziev",
+      "result": "loss",
+      "date": "Aug. 07, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Thiago Moises",
+      "result": "loss",
+      "date": "Oct. 31, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alan Patrick",
+      "result": "win",
+      "date": "Sep. 12, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lando Vannata",
+      "result": "win",
+      "date": "Aug. 01, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Clay Guida",
+      "result": "win",
+      "date": "Jun. 20, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Francisco Trinaldo",
+      "result": "loss",
+      "date": "Nov. 16, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Drakkar Klose",
+      "result": "loss",
+      "date": "Dec. 15, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Erik Koch",
+      "result": "win",
+      "date": "Jan. 27, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lando Vannata",
+      "result": "draw",
+      "date": "Oct. 07, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rashid Magomedov",
+      "result": "loss",
+      "date": "Apr. 15, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dustin Poirier",
+      "result": "loss",
+      "date": "Jun. 04, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Edson Barboza",
+      "result": "loss",
+      "date": "Nov. 22, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Thomson",
+      "result": "win",
+      "date": "Jul. 26, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Pat Healy",
+      "result": "win",
+      "date": "Dec. 14, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "James Krause",
+      "result": "win",
+      "date": "Nov. 06, 2013",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Jacob Volkmann",
+      "result": "win",
+      "date": "Feb. 02, 2013",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Matt Ricehouse",
+      "result": "win",
+      "date": "Aug. 18, 2012",
+      "method": "N/A"
+    },
+    {
+      "opponent": "James Terry",
+      "result": "win",
+      "date": "May. 19, 2012",
+      "method": "N/A"
+    },
+    {
+      "opponent": "James Reese",
+      "result": "win",
+      "date": "Nov. 18, 2011",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Charon Spain",
+      "result": "win",
+      "date": "Sep. 23, 2011",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Gesias Cavalcante",
+      "result": "loss",
+      "date": "Jul. 30, 2011",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dan Lauzon",
+      "result": "loss",
+      "date": "Jan. 24, 2009",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

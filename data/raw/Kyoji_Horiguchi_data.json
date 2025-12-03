@@ -1,0 +1,65 @@
+{
+  "url": "http://ufcstats.com/fighter-details/98aa60cf58071fd6",
+  "stats": {
+    "name": "Kyoji Horiguchi",
+    "record": "35-5-0 (1 NC)",
+    "wins": 35,
+    "losses": 5
+  },
+  "fight_history": [
+    {
+      "opponent": "Tagir Ulanbekov",
+      "result": "win",
+      "date": "Nov. 22, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Ali Bagautinov",
+      "result": "win",
+      "date": "Nov. 19, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Neil Seery",
+      "result": "win",
+      "date": "May. 08, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chico Camus",
+      "result": "win",
+      "date": "Sep. 26, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Demetrious Johnson",
+      "result": "loss",
+      "date": "Apr. 25, 2015",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Louis Gaudinot",
+      "result": "win",
+      "date": "Jan. 03, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jon Delos Reyes",
+      "result": "win",
+      "date": "Sep. 20, 2014",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Darrell Montague",
+      "result": "win",
+      "date": "May. 10, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dustin Pague",
+      "result": "win",
+      "date": "Oct. 19, 2013",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

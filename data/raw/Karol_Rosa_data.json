@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/351c4ec637380ad5",
+  "stats": {
+    "name": "Karol Rosa",
+    "record": "19-7-0",
+    "wins": 19,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 5\"",
+    "weight": "135 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Dec 30, 1994",
+    "strikes_landed_per_min": 5.88,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.59,
+    "striking_defense": 0.49,
+    "takedown_average": null,
+    "takedown_accuracy": 0.48,
+    "takedown_defense": 0.7,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Nora Cornolle",
+      "result": "win",
+      "date": "Aug. 02, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ailin Perez",
+      "result": "loss",
+      "date": "Jan. 18, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Pannie Kianzad",
+      "result": "win",
+      "date": "Aug. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Irene Aldana",
+      "result": "loss",
+      "date": "Dec. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yana Santos",
+      "result": "win",
+      "date": "Jul. 01, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Norma Dumont",
+      "result": "loss",
+      "date": "Apr. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lina Lansberg",
+      "result": "win",
+      "date": "Oct. 22, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sara McMann",
+      "result": "loss",
+      "date": "Mar. 26, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bethe Correia",
+      "result": "win",
+      "date": "Oct. 02, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joselyne Edwards",
+      "result": "win",
+      "date": "Feb. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vanessa Melo",
+      "result": "win",
+      "date": "Jul. 11, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lara Procopio",
+      "result": "win",
+      "date": "Aug. 31, 2019",
+      "method": "N/A"
+    }
+  ]
+}

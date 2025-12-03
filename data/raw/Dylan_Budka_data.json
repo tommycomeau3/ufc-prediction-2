@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a817e238b2747404",
+  "stats": {
+    "name": "Dylan Budka",
+    "record": "7-5-0",
+    "wins": 7,
+    "losses": 5,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "185 lbs.",
+    "reach": "75\"",
+    "stance": "Switch",
+    "dob": "Jan 14, 2000",
+    "strikes_landed_per_min": 1.06,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.8,
+    "striking_defense": 0.42,
+    "takedown_average": null,
+    "takedown_accuracy": 0.38,
+    "takedown_defense": 0.76,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Edmen Shahbazyan",
+      "result": "loss",
+      "date": "Feb. 15, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Andre Petroski",
+      "result": "loss",
+      "date": "Sep. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cesar Almeida",
+      "result": "loss",
+      "date": "Apr. 06, 2024",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Chad Hanekom",
+      "result": "win",
+      "date": "Sep. 05, 2023",
+      "method": "N/A"
+    }
+  ]
+}

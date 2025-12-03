@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/140567899d98978a",
+  "stats": {
+    "name": "Robelis Despaigne",
+    "record": "5-2-0",
+    "wins": 5,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 7\"",
+    "weight": "265 lbs.",
+    "reach": "84\"",
+    "stance": "Orthodox",
+    "dob": "Sep 09, 1988",
+    "strikes_landed_per_min": 2.11,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.54,
+    "striking_defense": 0.46,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Austen Lane",
+      "result": "loss",
+      "date": "Oct. 19, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Waldo Cortes Acosta",
+      "result": "loss",
+      "date": "May. 11, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Parisian",
+      "result": "win",
+      "date": "Mar. 09, 2024",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

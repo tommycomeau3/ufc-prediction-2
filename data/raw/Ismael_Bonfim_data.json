@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/eb393afdbe3293d5",
+  "stats": {
+    "name": "Ismael Bonfim",
+    "record": "20-6-0",
+    "wins": 20,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Dec 28, 1995",
+    "strikes_landed_per_min": 5.51,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.71,
+    "striking_defense": 0.65,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.76,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Chris Padilla",
+      "result": "loss",
+      "date": "Nov. 08, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Nazim Sadykhov",
+      "result": "loss",
+      "date": "Feb. 15, 2025",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Vinc Pichel",
+      "result": "win",
+      "date": "May. 04, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Benoit Saint Denis",
+      "result": "loss",
+      "date": "Jul. 01, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Terrance McKinney",
+      "result": "win",
+      "date": "Jan. 21, 2023",
+      "method": "KO/TKO (Flying Knee)"
+    },
+    {
+      "opponent": "Nariman Abbasov",
+      "result": "win",
+      "date": "Sep. 06, 2022",
+      "method": "N/A"
+    }
+  ]
+}

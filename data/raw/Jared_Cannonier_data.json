@@ -1,0 +1,145 @@
+{
+  "url": "http://ufcstats.com/fighter-details/13a0275fa13c4d26",
+  "stats": {
+    "name": "Jared Cannonier",
+    "record": "18-9-0",
+    "wins": 18,
+    "losses": 9,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "185 lbs.",
+    "reach": "77\"",
+    "stance": "Switch",
+    "dob": "Mar 16, 1984",
+    "strikes_landed_per_min": 4.42,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.35,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.64,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Michael Page",
+      "result": "loss",
+      "date": "Aug. 16, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gregory Rodrigues",
+      "result": "win",
+      "date": "Feb. 15, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Caio Borralho",
+      "result": "loss",
+      "date": "Aug. 24, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nassourdine Imavov",
+      "result": "loss",
+      "date": "Jun. 08, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Marvin Vettori",
+      "result": "win",
+      "date": "Jun. 17, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean Strickland",
+      "result": "win",
+      "date": "Dec. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Israel Adesanya",
+      "result": "loss",
+      "date": "Jul. 02, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Derek Brunson",
+      "result": "win",
+      "date": "Feb. 12, 2022",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Kelvin Gastelum",
+      "result": "win",
+      "date": "Aug. 21, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Robert Whittaker",
+      "result": "loss",
+      "date": "Oct. 24, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jack Hermansson",
+      "result": "win",
+      "date": "Sep. 28, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Anderson Silva",
+      "result": "win",
+      "date": "May. 11, 2019",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "David Branch",
+      "result": "win",
+      "date": "Nov. 03, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Dominick Reyes",
+      "result": "loss",
+      "date": "May. 19, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jan Blachowicz",
+      "result": "loss",
+      "date": "Dec. 16, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nick Roehrick",
+      "result": "win",
+      "date": "Jul. 07, 2017",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Glover Teixeira",
+      "result": "loss",
+      "date": "Feb. 11, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ion Cutelaba",
+      "result": "win",
+      "date": "Dec. 03, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cyril Asker",
+      "result": "win",
+      "date": "Apr. 10, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Shawn Jordan",
+      "result": "loss",
+      "date": "Jan. 03, 2015",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

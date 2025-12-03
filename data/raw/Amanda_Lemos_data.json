@@ -1,0 +1,115 @@
+{
+  "url": "http://ufcstats.com/fighter-details/3df5493bb279226f",
+  "stats": {
+    "name": "Amanda Lemos",
+    "record": "15-5-1",
+    "wins": 15,
+    "losses": 5,
+    "draws": 1,
+    "height": "5' 4\"",
+    "weight": "115 lbs.",
+    "reach": "65\"",
+    "stance": "Southpaw",
+    "dob": "May 22, 1987",
+    "strikes_landed_per_min": 2.75,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.24,
+    "striking_defense": 0.45,
+    "takedown_average": null,
+    "takedown_accuracy": 0.62,
+    "takedown_defense": 0.64,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Gillian Robertson",
+      "result": "next",
+      "date": "Dec. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tatiana Suarez",
+      "result": "loss",
+      "date": "Sep. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Iasmin Lucindo",
+      "result": "win",
+      "date": "Mar. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Virna Jandiroba",
+      "result": "loss",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Mackenzie Dern",
+      "result": "win",
+      "date": "Feb. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zhang Weili",
+      "result": "loss",
+      "date": "Aug. 19, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marina Rodriguez",
+      "result": "win",
+      "date": "Nov. 05, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Michelle Waterson-Gomez",
+      "result": "win",
+      "date": "Jul. 16, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Jessica Andrade",
+      "result": "loss",
+      "date": "Apr. 23, 2022",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Angela Hill",
+      "result": "win",
+      "date": "Dec. 18, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Montserrat Conejo Ruiz",
+      "result": "win",
+      "date": "Jul. 17, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Livinha Souza",
+      "result": "win",
+      "date": "Mar. 06, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mizuki",
+      "result": "win",
+      "date": "Aug. 22, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Miranda Granger",
+      "result": "win",
+      "date": "Dec. 21, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Leslie Smith",
+      "result": "loss",
+      "date": "Jul. 16, 2017",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

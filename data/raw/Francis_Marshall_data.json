@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/5d495dec23d7c68e",
+  "stats": {
+    "name": "Francis Marshall",
+    "record": "8-3-0",
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Mar 03, 1999",
+    "strikes_landed_per_min": 3.46,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.1,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.44,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Mairon Santos",
+      "result": "loss",
+      "date": "Mar. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dennis Buzukja",
+      "result": "win",
+      "date": "Aug. 24, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Isaac Dulgarian",
+      "result": "loss",
+      "date": "Aug. 12, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "William Gomis",
+      "result": "loss",
+      "date": "Apr. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marcelo Rojo",
+      "result": "win",
+      "date": "Dec. 03, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Connor Matthews",
+      "result": "win",
+      "date": "Aug. 02, 2022",
+      "method": "N/A"
+    }
+  ]
+}

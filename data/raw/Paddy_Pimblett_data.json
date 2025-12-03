@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7826923b47f8d72a",
+  "stats": {
+    "name": "Paddy Pimblett",
+    "record": "23-3-0",
+    "wins": 23,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Jan 03, 1995",
+    "strikes_landed_per_min": 5.19,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.14,
+    "striking_defense": 0.42,
+    "takedown_average": null,
+    "takedown_accuracy": 0.28,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Justin Gaethje",
+      "result": "next",
+      "date": "Jan. 24, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michael Chandler",
+      "result": "win",
+      "date": "Apr. 12, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "King Green",
+      "result": "win",
+      "date": "Jul. 27, 2024",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Tony Ferguson",
+      "result": "win",
+      "date": "Dec. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jared Gordon",
+      "result": "win",
+      "date": "Dec. 10, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jordan Leavitt",
+      "result": "win",
+      "date": "Jul. 23, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Kazula Vargas",
+      "result": "win",
+      "date": "Mar. 19, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Luigi Vendramini",
+      "result": "win",
+      "date": "Sep. 04, 2021",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

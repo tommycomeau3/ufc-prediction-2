@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/886264a0c9f4ea5e",
+  "stats": {
+    "name": "Andre Muniz",
+    "record": "24-8-0",
+    "wins": 24,
+    "losses": 8,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "185 lbs.",
+    "reach": "78\"",
+    "stance": "Southpaw",
+    "dob": "Feb 17, 1990",
+    "strikes_landed_per_min": 2.08,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.46,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.48,
+    "takedown_defense": 0.35,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Edmen Shahbazyan",
+      "result": "loss",
+      "date": "Oct. 04, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Ikram Aliskerov",
+      "result": "loss",
+      "date": "Apr. 26, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "JunYong Park",
+      "result": "win",
+      "date": "Dec. 09, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paul Craig",
+      "result": "loss",
+      "date": "Jul. 22, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Brendan Allen",
+      "result": "loss",
+      "date": "Feb. 25, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Uriah Hall",
+      "result": "win",
+      "date": "Jul. 02, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Eryk Anders",
+      "result": "win",
+      "date": "Dec. 11, 2021",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Jacare Souza",
+      "result": "win",
+      "date": "May. 15, 2021",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Bartosz Fabinski",
+      "result": "win",
+      "date": "Sep. 05, 2020",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Antonio Arroyo",
+      "result": "win",
+      "date": "Nov. 16, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Taylor Johnson",
+      "result": "win",
+      "date": "Aug. 06, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Bruno Assis",
+      "result": "win",
+      "date": "Aug. 11, 2018",
+      "method": "N/A"
+    }
+  ]
+}

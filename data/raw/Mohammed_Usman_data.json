@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/da7f113b5ea39c43",
+  "stats": {
+    "name": "Mohammed Usman",
+    "record": "12-4-0",
+    "wins": 12,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "239 lbs.",
+    "reach": "79\"",
+    "stance": "Orthodox",
+    "dob": "Apr 01, 1989",
+    "strikes_landed_per_min": 3.85,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.27,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.14,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Hamdy Abdelwahab",
+      "result": "win",
+      "date": "Jun. 21, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Thomas Petersen",
+      "result": "loss",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mick Parkin",
+      "result": "loss",
+      "date": "Mar. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jake Collier",
+      "result": "win",
+      "date": "Sep. 23, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Junior Tafa",
+      "result": "win",
+      "date": "Apr. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zac Pauga",
+      "result": "win",
+      "date": "Aug. 06, 2022",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

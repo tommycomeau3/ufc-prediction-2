@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/681399317dbf4701",
+  "stats": {
+    "name": "Uros Medic",
+    "record": "12-3-0",
+    "wins": 12,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "170 lbs.",
+    "reach": "71\"",
+    "stance": "Southpaw",
+    "dob": "Apr 25, 1993",
+    "strikes_landed_per_min": 5.53,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.46,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.55,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Muslim Salikhov",
+      "result": "win",
+      "date": "Nov. 08, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Gilbert Urbina",
+      "result": "win",
+      "date": "Aug. 09, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Punahele Soriano",
+      "result": "loss",
+      "date": "Jan. 11, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Tim Means",
+      "result": "win",
+      "date": "Apr. 27, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Myktybek Orolbai",
+      "result": "loss",
+      "date": "Nov. 18, 2023",
+      "method": "Submission (Neck Crank)"
+    },
+    {
+      "opponent": "Matthew Semelsberger",
+      "result": "win",
+      "date": "Jul. 29, 2023",
+      "method": "KO/TKO (Spinning Back Elbow)"
+    },
+    {
+      "opponent": "Omar Morales",
+      "result": "win",
+      "date": "May. 21, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jalin Turner",
+      "result": "loss",
+      "date": "Sep. 25, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Aalon Cruz",
+      "result": "win",
+      "date": "Mar. 06, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Mikey Gonzalez",
+      "result": "win",
+      "date": "Aug. 04, 2020",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/28d421729451c8ca",
+  "stats": {
+    "name": "Carlos Leal",
+    "record": "22-7-0",
+    "wins": 22,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "May 04, 1994",
+    "strikes_landed_per_min": 9.57,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.61,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.9,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Muslim Salikhov",
+      "result": "loss",
+      "date": "Jul. 26, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Alex Morono",
+      "result": "win",
+      "date": "Mar. 08, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Rinat Fakhretdinov",
+      "result": "loss",
+      "date": "Oct. 26, 2024",
+      "method": "N/A"
+    }
+  ]
+}

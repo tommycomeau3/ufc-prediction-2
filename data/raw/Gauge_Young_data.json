@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b2a78df161bd67f9",
+  "stats": {
+    "name": "Gauge Young",
+    "record": "10-3-0",
+    "wins": 10,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Jul 14, 2000",
+    "strikes_landed_per_min": 5.71,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.82,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.71,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Maheshate",
+      "result": "win",
+      "date": "Aug. 23, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Evan Elder",
+      "result": "loss",
+      "date": "Apr. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Quillan Salkilld",
+      "result": "loss",
+      "date": "Sep. 03, 2024",
+      "method": "N/A"
+    }
+  ]
+}

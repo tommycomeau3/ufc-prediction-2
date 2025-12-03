@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7674b836ce0698a0",
+  "stats": {
+    "name": "Yousri Belgaroui",
+    "record": "9-3-0",
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 5\"",
+    "weight": "185 lbs.",
+    "reach": "79\"",
+    "stance": "Orthodox",
+    "dob": "Jun 02, 1992",
+    "strikes_landed_per_min": 5.82,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.52,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.1,
+    "takedown_defense": 0.68,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Azamat Bekoev",
+      "result": "win",
+      "date": "Oct. 18, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Taiga Iwasaki",
+      "result": "win",
+      "date": "Sep. 10, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Marco Tulio",
+      "result": "loss",
+      "date": "Aug. 29, 2023",
+      "method": "N/A"
+    }
+  ]
+}

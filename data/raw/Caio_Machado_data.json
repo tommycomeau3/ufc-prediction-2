@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/89839250eb25c9c1",
+  "stats": {
+    "name": "Caio Machado",
+    "record": "8-4-1",
+    "wins": 8,
+    "losses": 4,
+    "draws": 1,
+    "height": "6' 4\"",
+    "weight": "250 lbs.",
+    "reach": "78\"",
+    "stance": "Southpaw",
+    "dob": "Jul 20, 1994",
+    "strikes_landed_per_min": 5.82,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.87,
+    "striking_defense": 0.63,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.82,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Brendson Ribeiro",
+      "result": "loss",
+      "date": "Nov. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Don'Tale Mayes",
+      "result": "loss",
+      "date": "Apr. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mick Parkin",
+      "result": "loss",
+      "date": "Nov. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kevin Szaflarski",
+      "result": "win",
+      "date": "Aug. 08, 2023",
+      "method": "N/A"
+    }
+  ]
+}

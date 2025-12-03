@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/feedf3053472fe56",
+  "stats": {
+    "name": "Charles Radtke",
+    "record": "11-5-0",
+    "wins": 11,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "170 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Jul 09, 1990",
+    "strikes_landed_per_min": 2.8,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.63,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Daniel Frunza",
+      "result": "win",
+      "date": "Nov. 01, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Mike Malott",
+      "result": "loss",
+      "date": "May. 10, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Matthew Semelsberger",
+      "result": "win",
+      "date": "Nov. 09, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Carlos Prates",
+      "result": "loss",
+      "date": "Jun. 08, 2024",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Gilbert Urbina",
+      "result": "win",
+      "date": "Feb. 03, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Blood Diamond",
+      "result": "win",
+      "date": "Sep. 09, 2023",
+      "method": "N/A"
+    }
+  ]
+}

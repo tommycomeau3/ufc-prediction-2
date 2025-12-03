@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/07a74004d964c7f4",
+  "stats": {
+    "name": "Billy Elekana",
+    "record": "9-2-0",
+    "wins": 9,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "205 lbs.",
+    "reach": "77\"",
+    "stance": "Southpaw",
+    "dob": "May 28, 1995",
+    "strikes_landed_per_min": 2.66,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.28,
+    "striking_defense": 0.46,
+    "takedown_average": null,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kevin Christian",
+      "result": "win",
+      "date": "Nov. 01, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Ibo Aslan",
+      "result": "win",
+      "date": "Jul. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bogdan Guskov",
+      "result": "loss",
+      "date": "Jan. 18, 2025",
+      "method": "Submission (Guillotine Choke)"
+    }
+  ]
+}
