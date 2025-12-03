@@ -405,38 +405,58 @@ class UFCScraper:
             fighter_data: Dictionary containing fighter data
             format: Output format ('json' or 'csv')
         """
+        # If the scraper failed or the stats are not found, log a warning and return
         if not fighter_data or 'stats' not in fighter_data:
             logger.warning("No valid fighter data to save")
             return
-        
+        # Gets the stats dictionary (otherwise it returns an empty dictionary) and gets the name of the fighter (otherwise it returns 'unknown')
         fighter_name = fighter_data.get('stats', {}).get('name', 'unknown')
+        # Gets rid of any non-alphanumeric characters
         safe_name = "".join(c for c in fighter_name if c.isalnum() or c in (' ', '-', '_')).strip()
+        # Replaces any spaces with underscores
         safe_name = safe_name.replace(' ', '_')
         
+        # If the format is json, save the data to a json file
         if format == 'json':
+            # Builds the filepath for the json file
             filename = self.raw_data_path / f"{safe_name}_data.json"
+            # Open the file and write the data to it
             with open(filename, 'w') as f:
+                # Converts the dictionary to a JSON string and writes it to the file
                 json.dump(fighter_data, f, indent=2)
+        # If the format is csv, save the data to a csv file
         elif format == 'csv':
-            # Save stats as CSV
+            # Constructs the filepath for the stats csv file
             stats_filename = self.raw_data_path / f"{safe_name}_stats.csv"
+            # If the stats are found, save them to a csv file
             if fighter_data.get('stats'):
+                # Open the csv file in write mode and don't add a newline and give me a file object f
                 with open(stats_filename, 'w', newline='') as f:
+                    # Creates a dictionary writer object that writes the stats to the csv file and uses the keys of the stats dictionary
                     writer = csv.DictWriter(f, fieldnames=fighter_data['stats'].keys())
+                    # Writes the headers to the csv file
                     writer.writeheader()
+                    # Writes the stats to the csv file
                     writer.writerow(fighter_data['stats'])
             
             # Save fight history as separate CSV
             if fighter_data.get('fight_history'):
+                # Constructs the filepath for the fight history csv file
                 history_filename = self.raw_data_path / f"{safe_name}_fights.csv"
+                # Open the csv file in write mode and don't add a newline and give me a file object f
                 with open(history_filename, 'w', newline='') as f:
+                    # Checks if the fight history is found
                     if fighter_data['fight_history']:
+                        # Creates a dictionary writer object that writes the fight history to the csv file and uses the keys of the fight history dictionary
                         writer = csv.DictWriter(f, fieldnames=fighter_data['fight_history'][0].keys())
+                        # Writes the headers to the csv file
                         writer.writeheader()
+                        # Writes the fight history to the csv file
                         writer.writerows(fighter_data['fight_history'])
-        
+        # Logs a message saying the fighter data was saved
         logger.info(f"Saved fighter data for {fighter_name} to {filename if format == 'json' else stats_filename}")
     
+    # Takes in a list of fighter URLs and a save format and returns a list of dictionaries of the fighter's data
     def scrape_multiple_fighters(self, fighter_urls: List[str], save_format: str = 'json') -> List[Dict]:
         """Scrape data for multiple fighters.
         
@@ -447,14 +467,19 @@ class UFCScraper:
         Returns:
             List of fighter data dictionaries
         """
+        # Collects all the fighter data
         all_fighter_data = []
-        
+        # Goes through each fighter URL and scrapes the data
         for i, url in enumerate(fighter_urls, 1):
+            # Logs a message saying the fighter is being scraped
             logger.info(f"Scraping fighter {i}/{len(fighter_urls)}")
+            # Scrapes the data for the fighter
             fighter_data = self.scrape_fighter(url)
-            
+            # If the fighter data is found, add it to the list of fighter data and save the data
             if fighter_data:
+                # Adds the fighter data to the list of fighter data
                 all_fighter_data.append(fighter_data)
+                # Saves the fighter data to a file
                 self.save_fighter_data(fighter_data, format=save_format)
             
             # Rate limiting
@@ -465,6 +490,7 @@ class UFCScraper:
 
 def main():
     """Example usage of the UFC scraper."""
+   # Initializes the scraper
     scraper = UFCScraper()
     
     # Example: Scrape a specific fighter
@@ -473,9 +499,10 @@ def main():
     # if fighter_data:
     #     scraper.save_fighter_data(fighter_data)
     
+    # Logs a message saying the scraper was initialized
     logger.info("UFC Scraper initialized. Use scraper.scrape_fighter(url) to scrape fighter data.")
 
-
+# If the file is run directly, run the main function
 if __name__ == "__main__":
     main()
 
