@@ -22,7 +22,7 @@ def main():
     parser.add_argument(
         '--build-list',
         action='store_true',
-        help='Build master list of fighter URLs from events and rankings'
+        help='Build master list of fighter URLs from events'
     )
     parser.add_argument(
         '--num-events',
@@ -75,7 +75,6 @@ def main():
         
         master_list = scraper.build_fighter_master_list(
             num_events=args.num_events,
-            include_rankings=True,
             save_path=args.master_list
         )
         

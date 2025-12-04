@@ -393,7 +393,7 @@ class UFCScraper:
         if event_url:
             return self._extract_fighters_from_event(event_url)
         else:
-            # Return empty list - use get_fighters_from_events() or get_fighters_from_rankings() instead
+            # Return empty list - use get_fighters_from_events() instead
             return []
     
     def get_event_urls(self, limit: Optional[int] = None) -> List[str]:
@@ -497,48 +497,13 @@ class UFCScraper:
         
         return unique_urls
     
-    def get_fighters_from_rankings(self) -> List[str]:
-        """Get fighter URLs from UFC rankings pages.
-        
-        Returns:
-            List of unique fighter URLs from rankings
-        """
-        fighter_urls = set()
-        
-        try:
-            # UFC rankings page structure - may need to be adjusted based on actual site structure
-            rankings_base_url = f"{self.base_url}/rankings"
-            
-            # Try to get rankings page
-            soup = self.get_fighter_page_url(rankings_base_url)
-            
-            if not soup:
-                logger.warning("Could not fetch rankings page")
-                return []
-            
-            # Find all fighter links in rankings
-            fighter_links = soup.find_all('a', href=lambda href: href and '/fighter-details/' in href)
-            
-            for link in fighter_links:
-                fighter_url = urljoin(self.base_url, link.get('href'))
-                fighter_urls.add(fighter_url)
-            
-            logger.info(f"Found {len(fighter_urls)} fighters from rankings")
-            
-        except Exception as e:
-            logger.error(f"Error getting fighters from rankings: {e}")
-        
-        return list(fighter_urls)
-    
     def build_fighter_master_list(self, 
                                   num_events: Optional[int] = 50,
-                                  include_rankings: bool = True,
                                   save_path: Optional[str] = None) -> List[str]:
-        """Build a master list of fighter URLs from multiple sources.
+        """Build a master list of fighter URLs from events.
         
         Args:
             num_events: Number of recent events to scrape
-            include_rankings: Whether to include fighters from rankings
             save_path: Optional path to save the master list (JSON file)
             
         Returns:
@@ -549,17 +514,10 @@ class UFCScraper:
         logger.info("Building master fighter list...")
         
         # Get fighters from events
-        logger.info("Step 1: Collecting fighter URLs from events...")
+        logger.info("Collecting fighter URLs from events...")
         event_fighters = self.get_fighters_from_events(num_events=num_events)
         all_fighter_urls.update(event_fighters)
         logger.info(f"Found {len(event_fighters)} unique fighters from events")
-        
-        # Get fighters from rankings if requested
-        if include_rankings:
-            logger.info("Step 2: Collecting fighter URLs from rankings...")
-            rankings_fighters = self.get_fighters_from_rankings()
-            all_fighter_urls.update(rankings_fighters)
-            logger.info(f"Found {len(rankings_fighters)} unique fighters from rankings")
         
         master_list = list(all_fighter_urls)
         logger.info(f"Master list contains {len(master_list)} unique fighter URLs")

@@ -6,7 +6,7 @@ This guide explains how to scrape data for multiple UFC fighters at once.
 
 ### Step 1: Build Master Fighter List
 
-First, build a master list of fighter URLs from events and rankings:
+First, build a master list of fighter URLs from events:
 
 ```bash
 python scrape_all_fighters.py --build-list --num-events 50
@@ -14,7 +14,6 @@ python scrape_all_fighters.py --build-list --num-events 50
 
 This will:
 - Scrape fighter URLs from the 50 most recent UFC events
-- Include fighters from UFC rankings pages
 - Save the master list to `data/raw/fighter_master_list.json`
 
 ### Step 2: Scrape All Fighters
@@ -82,7 +81,6 @@ scraper = UFCScraper()
 # Build master list from 50 events
 master_list = scraper.build_fighter_master_list(
     num_events=50,
-    include_rankings=True,
     save_path='data/raw/fighter_master_list.json'
 )
 
@@ -115,12 +113,6 @@ fighter_data = scraper.scrape_multiple_fighters(
 fighter_urls = scraper.get_fighters_from_events(num_events=10)
 ```
 
-### Get Fighters from Rankings Only
-
-```python
-# Get fighters from rankings
-fighter_urls = scraper.get_fighters_from_rankings()
-```
 
 ## Important Notes
 
@@ -143,7 +135,7 @@ fighter_urls = scraper.get_fighters_from_rankings()
 ## Troubleshooting
 
 **Problem**: Master list is empty
-- **Solution**: Check if ufcstats.com structure has changed. The event/rankings page structure may need to be updated in the scraper code.
+- **Solution**: Check if ufcstats.com structure has changed. The event page structure may need to be updated in the scraper code.
 
 **Problem**: Scraping stops partway through
 - **Solution**: Just run the command again. It will automatically resume from where it left off.
