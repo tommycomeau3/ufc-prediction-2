@@ -396,6 +396,7 @@ class UFCScraper:
             # Return empty list - use get_fighters_from_events() instead
             return []
     
+    # Caller can specify a limit on the number of events to retrieve
     def get_event_urls(self, limit: Optional[int] = None) -> List[str]:
         """Get list of event URLs from ufcstats.com events page.
         
@@ -405,13 +406,16 @@ class UFCScraper:
         Returns:
             List of event URLs
         """
+        # Array to hold the event URLs
         event_urls = []
         
+        
         try:
-            # Get the events page
+            # Builds the URL for the events page
             events_page_url = f"{self.base_url}/statistics/events/completed?page=all"
+            # Gets the BeautifulSoup object of the events page
             soup = self.get_fighter_page_url(events_page_url)
-            
+            # If the BeautifulSoup object is not found, log an error and return the empty array
             if not soup:
                 logger.error("Failed to fetch events page")
                 return event_urls
@@ -419,21 +423,26 @@ class UFCScraper:
             # Find all event links - typically in a table with links to event details
             event_links = soup.find_all('a', href=lambda href: href and '/event-details/' in href)
             
+            # Go through each event link and extract the event URL
             for link in event_links:
+                # Convert the relative URL to an absolute URL
                 event_url = urljoin(self.base_url, link.get('href'))
+                # If the event URL is not in the array, add it to the array
                 if event_url not in event_urls:
                     event_urls.append(event_url)
-                    
+                # If the limit is specified and the number of event URLs is greater than or equal to the limit, break the loop
                 if limit and len(event_urls) >= limit:
                     break
-            
+            # Logs the number of events found
             logger.info(f"Found {len(event_urls)} events")
-            
+        # If an error ocurrs log an error and return the empty array
         except Exception as e:
             logger.error(f"Error getting event URLs: {e}")
         
+        # Returns the array of event URLs
         return event_urls
     
+    # Returns a list of fighter URLs from a specific event page
     def _extract_fighters_from_event(self, event_url: str) -> List[str]:
         """Extract fighter URLs from a specific event page.
         
@@ -443,31 +452,35 @@ class UFCScraper:
         Returns:
             List of fighter URLs found on the event page
         """
+        # Array to hold the fighter URLs
         fighter_urls = []
         
         try:
+            # Gets the BeautifulSoup object of the event page
             soup = self.get_fighter_page_url(event_url)
-            
+            # If the BeautifulSoup object is not found, log a warning and return the empty array
             if not soup:
                 logger.warning(f"Failed to fetch event page: {event_url}")
                 return fighter_urls
             
-            # Find all fighter links on the event page
-            # Fighter links typically have '/fighter-details/' in the href
+            # Finds all a tags with the href attribute that contains '/fighter-details/'
             fighter_links = soup.find_all('a', href=lambda href: href and '/fighter-details/' in href)
-            
+            # Go through each fighter link and extract the fighter URL
             for link in fighter_links:
+                # Turns the relative URL into an absolute URL
                 fighter_url = urljoin(self.base_url, link.get('href'))
+                # If the fighter URL is not in the array, add it to the array
                 if fighter_url not in fighter_urls:
                     fighter_urls.append(fighter_url)
-            
+            # Prints the number of fighter URLs found
             logger.info(f"Extracted {len(fighter_urls)} fighter URLs from event")
-            
+        # If an error ocurrs, logs an error
         except Exception as e:
             logger.error(f"Error extracting fighters from event {event_url}: {e}")
         
         return fighter_urls
     
+    # User can specify a limit on the number of events to scrape, returns a list of unique fighter URLs
     def get_fighters_from_events(self, num_events: Optional[int] = None) -> List[str]:
         """Get fighter URLs from multiple events.
         
@@ -477,13 +490,16 @@ class UFCScraper:
         Returns:
             List of unique fighter URLs
         """
+        # Holds unique fighter URLs
         all_fighter_urls = set()
         
+        # Logs the number of events to scrape
         logger.info(f"Getting fighter URLs from events (limit: {num_events})")
         
-        # Get event URLs
+        # Get event URLs from the get_event_urls method
         event_urls = self.get_event_urls(limit=num_events)
         
+        # Loops through each event URL and extracts the fighter URLs (starts at 1)
         for i, event_url in enumerate(event_urls, 1):
             logger.info(f"Processing event {i}/{len(event_urls)}: {event_url}")
             fighter_urls = self._extract_fighters_from_event(event_url)
