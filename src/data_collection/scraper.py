@@ -501,18 +501,24 @@ class UFCScraper:
         
         # Loops through each event URL and extracts the fighter URLs (starts at 1)
         for i, event_url in enumerate(event_urls, 1):
+            # Logs the event number and URL
             logger.info(f"Processing event {i}/{len(event_urls)}: {event_url}")
+            # Extracts the fighter URLs from the event URL
             fighter_urls = self._extract_fighters_from_event(event_url)
+            # Adds the fighter_urls to the all_fighter_urls set
             all_fighter_urls.update(fighter_urls)
             
             # Rate limiting between events
             time.sleep(self.rate_limit_delay)
         
+        # Converts the all_fighter_urls set to a list
         unique_urls = list(all_fighter_urls)
+        # Logs the total number of unique fighter URLs found
         logger.info(f"Total unique fighter URLs found: {len(unique_urls)}")
         
         return unique_urls
     
+    # Can specify a limit on the numer of events to scrape and where to save the master list
     def build_fighter_master_list(self, 
                                   num_events: Optional[int] = 50,
                                   save_path: Optional[str] = None) -> List[str]:
@@ -525,25 +531,35 @@ class UFCScraper:
         Returns:
             List of unique fighter URLs
         """
+        # Holds unique fighter URLs
         all_fighter_urls = set()
-        
+        # Logs a message saying the master fighter list is being built
         logger.info("Building master fighter list...")
         
-        # Get fighters from events
+        # Logs a message saying the fighter URLs are being collected from events
         logger.info("Collecting fighter URLs from events...")
+        # Get fighters from events from the get_fighters_from_events method
         event_fighters = self.get_fighters_from_events(num_events=num_events)
+        # Updates the all_fighter_urls set with the event_fighters
         all_fighter_urls.update(event_fighters)
+        # Logs the number of unique fighters found from events
         logger.info(f"Found {len(event_fighters)} unique fighters from events")
-        
+        #Creats a list of all the unique fighter URLs
         master_list = list(all_fighter_urls)
+        # Logs the number of unique fighter URLs in the master list
         logger.info(f"Master list contains {len(master_list)} unique fighter URLs")
         
         # Save master list if path provided
         if save_path:
+            # Converts the save path to a Path object
             save_file = Path(save_path)
+            # Ensures the save path exists
             save_file.parent.mkdir(parents=True, exist_ok=True)
+            # Opens or creates the file
             with open(save_file, 'w') as f:
+                # Writes the master list to the file in json format
                 json.dump(master_list, f, indent=2)
+            # Logs a message saying the master list was saved
             logger.info(f"Saved master list to {save_path}")
         
         return master_list
@@ -558,12 +574,19 @@ class UFCScraper:
             List of fighter URLs
         """
         try:
+            # Opens the file in read mode
             with open(file_path, 'r') as f:
+                # Returns the file contents as a list of fighter URLs
                 return json.load(f)
+        # If the file is not found
         except FileNotFoundError:
+            # Logs a message saying the master list file was not found
             logger.error(f"Master list file not found: {file_path}")
+            # Returns an empty list
             return []
+        # If an error occurs
         except Exception as e:
+            # Logs an error and returns an empty list
             logger.error(f"Error loading master list: {e}")
             return []
     
