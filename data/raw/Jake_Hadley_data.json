@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/60a42bf82447c919",
+  "stats": {
+    "name": "Jake Hadley",
+    "record": "11-4-0",
+    "wins": 11,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Aug 03, 1996",
+    "strikes_landed_per_min": 3.8,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.16,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.11,
+    "takedown_defense": 0.54,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Cameron Smotherman",
+      "result": "loss",
+      "date": "Oct. 19, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Caolan Loughran",
+      "result": "win",
+      "date": "Jul. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Johnson",
+      "result": "loss",
+      "date": "May. 11, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody Durden",
+      "result": "loss",
+      "date": "Aug. 05, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Malcolm Gordon",
+      "result": "win",
+      "date": "Mar. 18, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Carlos Candelario",
+      "result": "win",
+      "date": "Nov. 05, 2022",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Allan Nascimento",
+      "result": "loss",
+      "date": "May. 14, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mitch Raposo",
+      "result": "win",
+      "date": "Oct. 12, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

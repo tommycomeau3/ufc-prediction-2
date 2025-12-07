@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/8bd4200561c77a62",
+  "stats": {
+    "name": "Ketlen Souza",
+    "record": "15-6-0",
+    "wins": 15,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "115 lbs.",
+    "reach": "63\"",
+    "stance": "Orthodox",
+    "dob": "Aug 18, 1994",
+    "strikes_landed_per_min": 4.56,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.4,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.14,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Piera Rodriguez",
+      "result": "loss",
+      "date": "Aug. 02, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Angela Hill",
+      "result": "loss",
+      "date": "Feb. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yazmin Jauregui",
+      "result": "win",
+      "date": "Sep. 14, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Marnic Mann",
+      "result": "win",
+      "date": "Apr. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Karine Silva",
+      "result": "loss",
+      "date": "Jun. 03, 2023",
+      "method": "Submission (Other - Lock)"
+    }
+  ]
+}

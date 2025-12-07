@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/583ee11abddfc581",
+  "stats": {
+    "name": "Nate Landwehr",
+    "record": "18-7-0",
+    "wins": 18,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Jun 06, 1988",
+    "strikes_landed_per_min": 5.63,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.83,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.71,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Morgan Charriere",
+      "result": "loss",
+      "date": "Jul. 12, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dooho Choi",
+      "result": "loss",
+      "date": "Dec. 07, 2024",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Jamall Emmers",
+      "result": "win",
+      "date": "Mar. 30, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dan Ige",
+      "result": "loss",
+      "date": "Jun. 10, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Austin Lingo",
+      "result": "win",
+      "date": "Mar. 25, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "David Onama",
+      "result": "win",
+      "date": "Aug. 13, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ludovit Klein",
+      "result": "win",
+      "date": "Oct. 16, 2021",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Julian Erosa",
+      "result": "loss",
+      "date": "Feb. 20, 2021",
+      "method": "KO/TKO (Flying Knee)"
+    },
+    {
+      "opponent": "Darren Elkins",
+      "result": "win",
+      "date": "May. 16, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Herbert Burns",
+      "result": "loss",
+      "date": "Jan. 25, 2020",
+      "method": "KO/TKO (Knee)"
+    }
+  ]
+}

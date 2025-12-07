@@ -1,0 +1,121 @@
+{
+  "url": "http://ufcstats.com/fighter-details/fba03cd6cc28dc41",
+  "stats": {
+    "name": "Josh Emmett",
+    "record": "19-6-0",
+    "wins": 19,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Mar 04, 1985",
+    "strikes_landed_per_min": 3.72,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.43,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.37,
+    "takedown_defense": 0.43,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Youssef Zalal",
+      "result": "loss",
+      "date": "Oct. 04, 2025",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Lerone Murphy",
+      "result": "loss",
+      "date": "Apr. 05, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bryce Mitchell",
+      "result": "win",
+      "date": "Dec. 16, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ilia Topuria",
+      "result": "loss",
+      "date": "Jun. 24, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yair Rodriguez",
+      "result": "loss",
+      "date": "Feb. 11, 2023",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Calvin Kattar",
+      "result": "win",
+      "date": "Jun. 18, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dan Ige",
+      "result": "win",
+      "date": "Dec. 11, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shane Burgos",
+      "result": "win",
+      "date": "Jun. 20, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mirsad Bektic",
+      "result": "win",
+      "date": "Jul. 13, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Michael Johnson",
+      "result": "win",
+      "date": "Mar. 30, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jeremy Stephens",
+      "result": "loss",
+      "date": "Feb. 24, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ricardo Lamas",
+      "result": "win",
+      "date": "Dec. 16, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Felipe Arantes",
+      "result": "win",
+      "date": "Oct. 21, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Desmond Green",
+      "result": "loss",
+      "date": "Apr. 08, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Scott Holtzman",
+      "result": "win",
+      "date": "Dec. 17, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jon Tuck",
+      "result": "win",
+      "date": "May. 08, 2016",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/07f959e6596307bb",
+  "stats": {
+    "name": "Carlos Vera",
+    "record": "12-4-0",
+    "wins": 12,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Nov 05, 1987",
+    "strikes_landed_per_min": 1.53,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.79,
+    "striking_defense": 0.49,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.25,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Josias Musasa",
+      "result": "win",
+      "date": "Mar. 15, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Rinya Nakamura",
+      "result": "loss",
+      "date": "Feb. 17, 2024",
+      "method": "N/A"
+    }
+  ]
+}

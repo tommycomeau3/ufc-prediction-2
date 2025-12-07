@@ -1,0 +1,53 @@
+{
+  "url": "http://ufcstats.com/fighter-details/eb8d8c2a95cfccb8",
+  "stats": {
+    "name": "Victor Henry",
+    "record": "25-7-0 (1 NC)",
+    "wins": 25,
+    "losses": 7
+  },
+  "fight_history": [
+    {
+      "opponent": "Pedro Falcao",
+      "result": "win",
+      "date": "Apr. 05, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Jourdain",
+      "result": "loss",
+      "date": "Nov. 02, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Rani Yahya",
+      "result": "win",
+      "date": "Apr. 27, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Javid Basharat",
+      "result": "nc",
+      "date": "Oct. 21, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tony Gravely",
+      "result": "win",
+      "date": "Mar. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Raphael Assuncao",
+      "result": "loss",
+      "date": "Oct. 15, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Raoni Barcelos",
+      "result": "win",
+      "date": "Jan. 22, 2022",
+      "method": "N/A"
+    }
+  ]
+}

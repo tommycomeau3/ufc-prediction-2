@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/710f0f8c5d5c9d41",
+  "stats": {
+    "name": "Lucas Almeida",
+    "record": "15-5-0",
+    "wins": 15,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jan 31, 1991",
+    "strikes_landed_per_min": 4.94,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.36,
+    "striking_defense": 0.44,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.53,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Michael Aswell Jr.",
+      "result": "loss",
+      "date": "Oct. 11, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Danny Silva",
+      "result": "loss",
+      "date": "Mar. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Timmy Cuamba",
+      "result": "win",
+      "date": "Jun. 15, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Fili",
+      "result": "loss",
+      "date": "Dec. 16, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Pat Sabatini",
+      "result": "loss",
+      "date": "Jun. 17, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Michael Trizano",
+      "result": "win",
+      "date": "Jun. 04, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Daniel Zellhuber",
+      "result": "loss",
+      "date": "Sep. 28, 2021",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/791c8437b341fba5",
+  "stats": {
+    "name": "Joanderson Brito",
+    "record": "17-5-1",
+    "wins": 17,
+    "losses": 5,
+    "draws": 1,
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Feb 11, 1995",
+    "strikes_landed_per_min": 2.48,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.49,
+    "striking_defense": 0.42,
+    "takedown_average": null,
+    "takedown_accuracy": 0.68,
+    "takedown_defense": 0.56,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Melsik Baghdasaryan",
+      "result": "next",
+      "date": "Dec. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Pat Sabatini",
+      "result": "loss",
+      "date": "Apr. 05, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "William Gomis",
+      "result": "loss",
+      "date": "Sep. 28, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jack Shore",
+      "result": "win",
+      "date": "May. 04, 2024",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Jonathan Pearce",
+      "result": "win",
+      "date": "Nov. 18, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Westin Wilson",
+      "result": "win",
+      "date": "Jul. 01, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Lucas Alexander",
+      "result": "win",
+      "date": "Oct. 15, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Andre Fili",
+      "result": "win",
+      "date": "Apr. 30, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Bill Algeo",
+      "result": "loss",
+      "date": "Jan. 15, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Diego Lopes",
+      "result": "win",
+      "date": "Aug. 31, 2021",
+      "method": "N/A"
+    }
+  ]
+}

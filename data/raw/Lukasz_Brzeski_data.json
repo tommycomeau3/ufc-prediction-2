@@ -1,0 +1,59 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0c25d0a5e8cdbf19",
+  "stats": {
+    "name": "Lukasz Brzeski",
+    "record": "9-7-1 (1 NC)",
+    "wins": 9,
+    "losses": 7
+  },
+  "fight_history": [
+    {
+      "opponent": "Ryan Spann",
+      "result": "loss",
+      "date": "Jul. 19, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Kennedy Nzechukwu",
+      "result": "loss",
+      "date": "Dec. 07, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mick Parkin",
+      "result": "loss",
+      "date": "Jul. 27, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Valter Walker",
+      "result": "win",
+      "date": "Apr. 06, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Waldo Cortes Acosta",
+      "result": "loss",
+      "date": "Aug. 26, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Karl Williams",
+      "result": "loss",
+      "date": "Mar. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Martin Buday",
+      "result": "loss",
+      "date": "Aug. 13, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dylan Potter",
+      "result": "win",
+      "date": "Sep. 14, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

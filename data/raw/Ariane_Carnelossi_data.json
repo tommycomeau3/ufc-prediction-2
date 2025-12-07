@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c0d5c0c95c59050b",
+  "stats": {
+    "name": "Ariane Carnelossi",
+    "record": "15-4-0",
+    "wins": 15,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 2\"",
+    "weight": "115 lbs.",
+    "reach": "61\"",
+    "stance": "Orthodox",
+    "dob": "Nov 17, 1992",
+    "strikes_landed_per_min": 2.63,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.61,
+    "striking_defense": 0.44,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.22,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Talita Alencar",
+      "result": "loss",
+      "date": "Nov. 01, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Piera Rodriguez",
+      "result": "win",
+      "date": "May. 18, 2024",
+      "method": "DQ"
+    },
+    {
+      "opponent": "Loopy Godinez",
+      "result": "loss",
+      "date": "May. 07, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Istela Nunes",
+      "result": "win",
+      "date": "Oct. 16, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Liang Na",
+      "result": "win",
+      "date": "Apr. 24, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Angela Hill",
+      "result": "loss",
+      "date": "Sep. 21, 2019",
+      "method": "KO/TKO (Elbow)"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e2f6b2769aaedd6c",
+  "stats": {
+    "name": "Serghei Spivac",
+    "record": "17-6-0",
+    "wins": 17,
+    "losses": 6,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "260 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Jan 24, 1995",
+    "strikes_landed_per_min": 3.45,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.25,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.62,
+    "takedown_defense": 0.63,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Waldo Cortes Acosta",
+      "result": "loss",
+      "date": "Jun. 07, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jailton Almeida",
+      "result": "loss",
+      "date": "Jan. 18, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Marcin Tybura",
+      "result": "win",
+      "date": "Aug. 10, 2024",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Ciryl Gane",
+      "result": "loss",
+      "date": "Sep. 02, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Derrick Lewis",
+      "result": "win",
+      "date": "Feb. 04, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Augusto Sakai",
+      "result": "win",
+      "date": "Aug. 06, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Greg Hardy",
+      "result": "win",
+      "date": "Mar. 05, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Tom Aspinall",
+      "result": "loss",
+      "date": "Sep. 04, 2021",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Aleksei Oleinik",
+      "result": "win",
+      "date": "UFC Fight Night: Jung vs. Ige",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jared Vanderaa",
+      "result": "win",
+      "date": "Feb. 20, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Carlos Felipe",
+      "result": "win",
+      "date": "Jul. 18, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marcin Tybura",
+      "result": "loss",
+      "date": "Feb. 29, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tai Tuivasa",
+      "result": "win",
+      "date": "Oct. 05, 2019",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Walt Harris",
+      "result": "loss",
+      "date": "May. 04, 2019",
+      "method": "KO/TKO (Knees)"
+    }
+  ]
+}

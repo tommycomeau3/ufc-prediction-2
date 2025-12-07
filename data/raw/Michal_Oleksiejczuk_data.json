@@ -1,0 +1,113 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0d65c432720accb9",
+  "stats": {
+    "name": "Michal Oleksiejczuk",
+    "record": "21-9-0 (1 NC)",
+    "wins": 21,
+    "losses": 9
+  },
+  "fight_history": [
+    {
+      "opponent": "Gerald Meerschaert",
+      "result": "win",
+      "date": "Aug. 16, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Sedriques Dumas",
+      "result": "win",
+      "date": "Apr. 12, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Shara Magomedov",
+      "result": "loss",
+      "date": "Aug. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kevin Holland",
+      "result": "loss",
+      "date": "Jun. 01, 2024",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Michel Pereira",
+      "result": "loss",
+      "date": "Mar. 09, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Chidi Njokuani",
+      "result": "win",
+      "date": "Aug. 26, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Caio Borralho",
+      "result": "loss",
+      "date": "Apr. 29, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Cody Brundage",
+      "result": "win",
+      "date": "Dec. 17, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Sam Alvey",
+      "result": "win",
+      "date": "Aug. 06, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dustin Jacoby",
+      "result": "loss",
+      "date": "Mar. 05, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shamil Gamzatov",
+      "result": "win",
+      "date": "Oct. 30, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Modestas Bukauskas",
+      "result": "win",
+      "date": "Mar. 27, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jimmy Crute",
+      "result": "loss",
+      "date": "Feb. 22, 2020",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Ovince Saint Preux",
+      "result": "loss",
+      "date": "Sep. 28, 2019",
+      "method": "Submission (Von Flue Choke)"
+    },
+    {
+      "opponent": "Gadzhimurad Antigulov",
+      "result": "win",
+      "date": "Apr. 20, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Gian Villante",
+      "result": "win",
+      "date": "Feb. 23, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Khalil Rountree Jr.",
+      "result": "nc",
+      "date": "Dec. 30, 2017",
+      "method": "N/A"
+    }
+  ]
+}

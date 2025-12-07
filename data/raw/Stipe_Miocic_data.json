@@ -1,0 +1,139 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d28dee5c705991df",
+  "stats": {
+    "name": "Stipe Miocic",
+    "record": "20-5-0",
+    "wins": 20,
+    "losses": 5,
+    "draws": 0,
+    "height": "6' 4\"",
+    "weight": "240 lbs.",
+    "reach": "80\"",
+    "stance": "Orthodox",
+    "dob": "Aug 19, 1982",
+    "strikes_landed_per_min": 4.67,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.01,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.65,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jon Jones",
+      "result": "loss",
+      "date": "Nov. 16, 2024",
+      "method": "KO/TKO (Spinning Back Kick)"
+    },
+    {
+      "opponent": "Francis Ngannou",
+      "result": "loss",
+      "date": "Mar. 27, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Daniel Cormier",
+      "result": "win",
+      "date": "Aug. 15, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daniel Cormier",
+      "result": "win",
+      "date": "Aug. 17, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Daniel Cormier",
+      "result": "loss",
+      "date": "Jul. 07, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Francis Ngannou",
+      "result": "win",
+      "date": "Jan. 20, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Junior Dos Santos",
+      "result": "win",
+      "date": "May. 13, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Alistair Overeem",
+      "result": "win",
+      "date": "Sep. 10, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Fabricio Werdum",
+      "result": "win",
+      "date": "May. 14, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Andrei Arlovski",
+      "result": "win",
+      "date": "Jan. 02, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mark Hunt",
+      "result": "win",
+      "date": "May. 09, 2015",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Junior Dos Santos",
+      "result": "loss",
+      "date": "Dec. 13, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Fabio Maldonado",
+      "result": "win",
+      "date": "May. 31, 2014",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Gabriel Gonzaga",
+      "result": "win",
+      "date": "Jan. 25, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Roy Nelson",
+      "result": "win",
+      "date": "Jun. 15, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Stefan Struve",
+      "result": "loss",
+      "date": "Sep. 29, 2012",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Shane del Rosario",
+      "result": "win",
+      "date": "May. 26, 2012",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Philip De Fries",
+      "result": "win",
+      "date": "Feb. 15, 2012",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Joey Beltran",
+      "result": "win",
+      "date": "UFC 136: Edgar vs Maynard 3",
+      "method": "N/A"
+    }
+  ]
+}

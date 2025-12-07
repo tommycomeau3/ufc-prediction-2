@@ -1,0 +1,83 @@
+{
+  "url": "http://ufcstats.com/fighter-details/72db2a14ffa73ece",
+  "stats": {
+    "name": "Mateusz Gamrot",
+    "record": "25-4-0 (1 NC)",
+    "wins": 25,
+    "losses": 4
+  },
+  "fight_history": [
+    {
+      "opponent": "Charles Oliveira",
+      "result": "loss",
+      "date": "Oct. 11, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Ludovit Klein",
+      "result": "win",
+      "date": "May. 31, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dan Hooker",
+      "result": "loss",
+      "date": "Aug. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rafael Dos Anjos",
+      "result": "win",
+      "date": "Mar. 09, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rafael Fiziev",
+      "result": "win",
+      "date": "Sep. 23, 2023",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Jalin Turner",
+      "result": "win",
+      "date": "Mar. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Beneil Dariush",
+      "result": "loss",
+      "date": "Oct. 22, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Arman Tsarukyan",
+      "result": "win",
+      "date": "Jun. 25, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Diego Ferreira",
+      "result": "win",
+      "date": "Dec. 18, 2021",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Jeremy Stephens",
+      "result": "win",
+      "date": "Jul. 17, 2021",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Scott Holtzman",
+      "result": "win",
+      "date": "Apr. 10, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Guram Kutateladze",
+      "result": "loss",
+      "date": "Oct. 17, 2020",
+      "method": "N/A"
+    }
+  ]
+}

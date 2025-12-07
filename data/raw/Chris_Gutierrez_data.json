@@ -1,0 +1,115 @@
+{
+  "url": "http://ufcstats.com/fighter-details/45f0cc9d18f35137",
+  "stats": {
+    "name": "Chris Gutierrez",
+    "record": "22-7-2",
+    "wins": 22,
+    "losses": 7,
+    "draws": 2,
+    "height": "5' 9\"",
+    "weight": "135 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Apr 22, 1991",
+    "strikes_landed_per_min": 4.4,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.65,
+    "striking_defense": 0.63,
+    "takedown_average": null,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.67,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Farid Basharat",
+      "result": "loss",
+      "date": "Oct. 04, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "John Castaneda",
+      "result": "win",
+      "date": "Apr. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Quang Le",
+      "result": "win",
+      "date": "Aug. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Song Yadong",
+      "result": "loss",
+      "date": "Dec. 09, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alatengheili",
+      "result": "win",
+      "date": "Oct. 14, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Pedro Munhoz",
+      "result": "loss",
+      "date": "Apr. 15, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Frankie Edgar",
+      "result": "win",
+      "date": "Nov. 12, 2022",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Batgerel Danaa",
+      "result": "win",
+      "date": "Mar. 26, 2022",
+      "method": "KO/TKO (Spinning Back Fist)"
+    },
+    {
+      "opponent": "Felipe Colares",
+      "result": "win",
+      "date": "Oct. 09, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Ewell",
+      "result": "win",
+      "date": "Feb. 13, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody Durden",
+      "result": "draw",
+      "date": "Aug. 01, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vince Morales",
+      "result": "win",
+      "date": "May. 30, 2020",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Geraldo de Freitas",
+      "result": "win",
+      "date": "Aug. 10, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ryan MacDonald",
+      "result": "win",
+      "date": "Mar. 23, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Raoni Barcelos",
+      "result": "loss",
+      "date": "Nov. 30, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

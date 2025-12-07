@@ -1,0 +1,121 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f1d64ae34e088832",
+  "stats": {
+    "name": "Charles Jourdain",
+    "record": "17-8-1",
+    "wins": 17,
+    "losses": 8,
+    "draws": 1,
+    "height": "5' 9\"",
+    "weight": "135 lbs.",
+    "reach": "69\"",
+    "stance": "Switch",
+    "dob": "Nov 27, 1995",
+    "strikes_landed_per_min": 5.48,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.25,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.21,
+    "takedown_defense": 0.47,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Davey Grant",
+      "result": "win",
+      "date": "Oct. 18, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Victor Henry",
+      "result": "win",
+      "date": "Nov. 02, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Jean Silva",
+      "result": "loss",
+      "date": "Jun. 29, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Sean Woodson",
+      "result": "loss",
+      "date": "Jan. 20, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ricardo Ramos",
+      "result": "win",
+      "date": "Sep. 23, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Kron Gracie",
+      "result": "win",
+      "date": "May. 06, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nathaniel Wood",
+      "result": "loss",
+      "date": "Sep. 03, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shane Burgos",
+      "result": "loss",
+      "date": "Jul. 16, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lando Vannata",
+      "result": "win",
+      "date": "Apr. 23, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Andre Ewell",
+      "result": "win",
+      "date": "Dec. 18, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julian Erosa",
+      "result": "loss",
+      "date": "Sep. 04, 2021",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Marcelo Rojo",
+      "result": "win",
+      "date": "Mar. 13, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Josh Culibao",
+      "result": "draw",
+      "date": "Oct. 03, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Fili",
+      "result": "loss",
+      "date": "Jun. 13, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dooho Choi",
+      "result": "win",
+      "date": "Dec. 21, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Desmond Green",
+      "result": "loss",
+      "date": "May. 18, 2019",
+      "method": "N/A"
+    }
+  ]
+}

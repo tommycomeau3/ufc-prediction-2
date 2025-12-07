@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/077e3ace32b72be9",
+  "stats": {
+    "name": "CJ Vergara",
+    "record": "12-7-1",
+    "wins": 12,
+    "losses": 7,
+    "draws": 1,
+    "height": "5' 6\"",
+    "weight": "125 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Jun 18, 1991",
+    "strikes_landed_per_min": 5.02,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.69,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.6,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Edgar Chairez",
+      "result": "loss",
+      "date": "Mar. 29, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Ramazan Temirov",
+      "result": "loss",
+      "date": "Oct. 12, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Asu Almabayev",
+      "result": "loss",
+      "date": "Mar. 09, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vinicius Salvador",
+      "result": "win",
+      "date": "Jul. 29, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daniel Lacerda",
+      "result": "win",
+      "date": "Mar. 25, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Tatsuro Taira",
+      "result": "loss",
+      "date": "Oct. 15, 2022",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Kleydson Rodrigues",
+      "result": "win",
+      "date": "May. 07, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ode Osbourne",
+      "result": "loss",
+      "date": "Nov. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bruno Korea",
+      "result": "win",
+      "date": "Sep. 07, 2021",
+      "method": "KO/TKO (Knee)"
+    }
+  ]
+}

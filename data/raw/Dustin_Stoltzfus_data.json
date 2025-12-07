@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/71505842fb6455c3",
+  "stats": {
+    "name": "Dustin Stoltzfus",
+    "record": "16-8-0",
+    "wins": 16,
+    "losses": 8,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "185 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Nov 15, 1991",
+    "strikes_landed_per_min": 3.3,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.23,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.37,
+    "takedown_defense": 0.46,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kelvin Gastelum",
+      "result": "loss",
+      "date": "Sep. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nursulton Ruziboev",
+      "result": "loss",
+      "date": "May. 17, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marc-Andre Barriault",
+      "result": "win",
+      "date": "Nov. 02, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Brunno Ferreira",
+      "result": "loss",
+      "date": "Jun. 08, 2024",
+      "method": "KO/TKO (Spinning Back Elbow)"
+    },
+    {
+      "opponent": "Punahele Soriano",
+      "result": "win",
+      "date": "Dec. 02, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Abus Magomedov",
+      "result": "loss",
+      "date": "Sep. 03, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Dwight Grant",
+      "result": "win",
+      "date": "Jul. 16, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gerald Meerschaert",
+      "result": "loss",
+      "date": "Dec. 18, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Rodolfo Vieira",
+      "result": "loss",
+      "date": "Jul. 17, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Kyle Daukaus",
+      "result": "loss",
+      "date": "Nov. 21, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joe Pyfer",
+      "result": "win",
+      "date": "Aug. 11, 2020",
+      "method": "KO/TKO"
+    }
+  ]
+}

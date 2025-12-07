@@ -1,0 +1,169 @@
+{
+  "url": "http://ufcstats.com/fighter-details/23024fdfc966410a",
+  "stats": {
+    "name": "Gilbert Burns",
+    "record": "22-9-0",
+    "wins": 22,
+    "losses": 9,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jul 20, 1986",
+    "strikes_landed_per_min": 3.15,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.64,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.37,
+    "takedown_defense": 0.53,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Michael Morales",
+      "result": "loss",
+      "date": "May. 17, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Sean Brady",
+      "result": "loss",
+      "date": "Sep. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jack Della Maddalena",
+      "result": "loss",
+      "date": "Mar. 09, 2024",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Belal Muhammad",
+      "result": "loss",
+      "date": "May. 06, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jorge Masvidal",
+      "result": "win",
+      "date": "Apr. 08, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Neil Magny",
+      "result": "win",
+      "date": "Jan. 21, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Khamzat Chimaev",
+      "result": "loss",
+      "date": "Apr. 09, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Stephen Thompson",
+      "result": "win",
+      "date": "Jul. 10, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kamaru Usman",
+      "result": "loss",
+      "date": "Feb. 13, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Tyron Woodley",
+      "result": "win",
+      "date": "May. 30, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Demian Maia",
+      "result": "win",
+      "date": "Mar. 14, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Gunnar Nelson",
+      "result": "win",
+      "date": "Sep. 28, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aleksei Kunchenko",
+      "result": "win",
+      "date": "Aug. 10, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mike Davis",
+      "result": "win",
+      "date": "Apr. 27, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Olivier Aubin-Mercier",
+      "result": "win",
+      "date": "Dec. 08, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dan Hooker",
+      "result": "loss",
+      "date": "Jul. 07, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Dan Moret",
+      "result": "win",
+      "date": "Apr. 14, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jason Saggo",
+      "result": "win",
+      "date": "Sep. 16, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Michel Prazeres",
+      "result": "loss",
+      "date": "Sep. 24, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lukasz Sajewski",
+      "result": "win",
+      "date": "Jul. 07, 2016",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Rashid Magomedov",
+      "result": "loss",
+      "date": "Nov. 07, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Oliveira",
+      "result": "win",
+      "date": "Mar. 21, 2015",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Christos Giagos",
+      "result": "win",
+      "date": "Oct. 25, 2014",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Andreas Stahl",
+      "result": "win",
+      "date": "Jul. 26, 2014",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/866fd7b1a6c90e7f",
+  "stats": {
+    "name": "Dusko Todorovic",
+    "record": "13-6-0",
+    "wins": 13,
+    "losses": 6,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "185 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "May 19, 1994",
+    "strikes_landed_per_min": 4.73,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.4,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.21,
+    "takedown_defense": 0.42,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jose Daniel Medina",
+      "result": "win",
+      "date": "Sep. 13, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Zach Reese",
+      "result": "loss",
+      "date": "May. 31, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mansur Abdul-Malik",
+      "result": "loss",
+      "date": "Nov. 09, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Christian Leroy Duncan",
+      "result": "loss",
+      "date": "Mar. 18, 2023",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Jordan Wright",
+      "result": "win",
+      "date": "Oct. 15, 2022",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Chidi Njokuani",
+      "result": "loss",
+      "date": "May. 21, 2022",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Maki Pitolo",
+      "result": "win",
+      "date": "Dec. 04, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Gregory Rodrigues",
+      "result": "loss",
+      "date": "Jun. 05, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Punahele Soriano",
+      "result": "loss",
+      "date": "Jan. 16, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dequan Townsend",
+      "result": "win",
+      "date": "Oct. 03, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Teddy Ash",
+      "result": "win",
+      "date": "Aug. 27, 2019",
+      "method": "N/A"
+    }
+  ]
+}

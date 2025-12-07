@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/40f3cb27fc7305a1",
+  "stats": {
+    "name": "Themba Gorimbo",
+    "record": "14-6-0",
+    "wins": 14,
+    "losses": 6,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "170 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "Jan 23, 1991",
+    "strikes_landed_per_min": 2.72,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.32,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.65,
+    "takedown_defense": 0.72,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jeremiah Wells",
+      "result": "loss",
+      "date": "Nov. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vicente Luque",
+      "result": "loss",
+      "date": "Dec. 07, 2024",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Niko Price",
+      "result": "win",
+      "date": "Oct. 12, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ramiz Brahimaj",
+      "result": "win",
+      "date": "May. 18, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Pete Rodriguez",
+      "result": "win",
+      "date": "Feb. 03, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Takashi Sato",
+      "result": "win",
+      "date": "May. 20, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "AJ Fletcher",
+      "result": "loss",
+      "date": "Feb. 18, 2023",
+      "method": "Submission (Guillotine Choke)"
+    }
+  ]
+}

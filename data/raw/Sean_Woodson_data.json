@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4682bc59d5f55145",
+  "stats": {
+    "name": "Sean Woodson",
+    "record": "13-2-1",
+    "wins": 13,
+    "losses": 2,
+    "draws": 1,
+    "height": "6' 2\"",
+    "weight": "145 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Jun 07, 1992",
+    "strikes_landed_per_min": 5.57,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.18,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.55,
+    "takedown_defense": 0.84,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Dan Ige",
+      "result": "loss",
+      "date": "Apr. 12, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Fernando Padilla",
+      "result": "win",
+      "date": "Dec. 14, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alex Caceres",
+      "result": "win",
+      "date": "May. 11, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Jourdain",
+      "result": "win",
+      "date": "Jan. 20, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dennis Buzukja",
+      "result": "win",
+      "date": "Aug. 05, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Luis Saldana",
+      "result": "draw",
+      "date": "Aug. 20, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Collin Anglin",
+      "result": "win",
+      "date": "Nov. 13, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Youssef Zalal",
+      "result": "win",
+      "date": "Jun. 05, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julian Erosa",
+      "result": "loss",
+      "date": "Jun. 27, 2020",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Kyle Bochniak",
+      "result": "win",
+      "date": "Oct. 18, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Terrance McKinney",
+      "result": "win",
+      "date": "Jul. 23, 2019",
+      "method": "KO/TKO (Flying Knee)"
+    }
+  ]
+}

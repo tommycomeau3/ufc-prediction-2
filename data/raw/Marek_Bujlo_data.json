@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/ac0874309da489b9",
+  "stats": {
+    "name": "Marek Bujlo",
+    "record": "6-1-0",
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 4\"",
+    "weight": "265 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "Oct 10, 1992",
+    "strikes_landed_per_min": 2.07,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.27,
+    "striking_defense": 0.37,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Denzel Freeman",
+      "result": "loss",
+      "date": "Nov. 22, 2025",
+      "method": "N/A"
+    }
+  ]
+}

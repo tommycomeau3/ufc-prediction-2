@@ -1,0 +1,127 @@
+{
+  "url": "http://ufcstats.com/fighter-details/5987b2458f4b5290",
+  "stats": {
+    "name": "Ricky Simon",
+    "record": "22-7-0",
+    "wins": 22,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Aug 31, 1992",
+    "strikes_landed_per_min": 3.04,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.85,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.76,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Raoni Barcelos",
+      "result": "loss",
+      "date": "Nov. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cameron Smotherman",
+      "result": "win",
+      "date": "Jun. 14, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Javid Basharat",
+      "result": "win",
+      "date": "Feb. 22, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Vinicius Oliveira",
+      "result": "loss",
+      "date": "Jun. 29, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mario Bautista",
+      "result": "loss",
+      "date": "Jan. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Song Yadong",
+      "result": "loss",
+      "date": "Apr. 29, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jack Shore",
+      "result": "win",
+      "date": "Jul. 16, 2022",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Raphael Assuncao",
+      "result": "win",
+      "date": "Dec. 18, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Brian Kelleher",
+      "result": "win",
+      "date": "Feb. 13, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gaetano Pirrello",
+      "result": "win",
+      "date": "Jan. 20, 2021",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Ray Borg",
+      "result": "win",
+      "date": "May. 13, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rob Font",
+      "result": "loss",
+      "date": "Dec. 07, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Urijah Faber",
+      "result": "loss",
+      "date": "Jul. 13, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Rani Yahya",
+      "result": "win",
+      "date": "Feb. 09, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Montel Jackson",
+      "result": "win",
+      "date": "Aug. 04, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Merab Dvalishvili",
+      "result": "win",
+      "date": "Apr. 21, 2018",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Donavon Frelow",
+      "result": "win",
+      "date": "Aug. 08, 2017",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/260e9e0d4954aea6",
+  "stats": {
+    "name": "Rodolfo Vieira",
+    "record": "11-4-0",
+    "wins": 11,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "185 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Sep 25, 1989",
+    "strikes_landed_per_min": 3.55,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.38,
+    "striking_defense": 0.49,
+    "takedown_average": null,
+    "takedown_accuracy": 0.21,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Bo Nickal",
+      "result": "loss",
+      "date": "Nov. 15, 2025",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Tresean Gore",
+      "result": "win",
+      "date": "Aug. 02, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Petroski",
+      "result": "loss",
+      "date": "Feb. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Armen Petrosyan",
+      "result": "win",
+      "date": "Feb. 10, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Cody Brundage",
+      "result": "win",
+      "date": "Apr. 29, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Chris Curtis",
+      "result": "loss",
+      "date": "Jun. 25, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dustin Stoltzfus",
+      "result": "win",
+      "date": "Jul. 17, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Anthony Hernandez",
+      "result": "loss",
+      "date": "Feb. 13, 2021",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Saparbeg Safarov",
+      "result": "win",
+      "date": "Mar. 07, 2020",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Oskar Piechota",
+      "result": "win",
+      "date": "Aug. 10, 2019",
+      "method": "Submission (Arm Triangle)"
+    }
+  ]
+}

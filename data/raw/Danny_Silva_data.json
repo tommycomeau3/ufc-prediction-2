@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d964a59c48381cb6",
+  "stats": {
+    "name": "Danny Silva",
+    "record": "10-2-0",
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Switch",
+    "dob": "Jan 30, 1997",
+    "strikes_landed_per_min": 6.67,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.47,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.81,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kevin Vallejos",
+      "result": "loss",
+      "date": "Aug. 02, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lucas Almeida",
+      "result": "win",
+      "date": "Mar. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Culibao",
+      "result": "win",
+      "date": "Mar. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Angel Pacheco",
+      "result": "win",
+      "date": "Sep. 26, 2023",
+      "method": "N/A"
+    }
+  ]
+}

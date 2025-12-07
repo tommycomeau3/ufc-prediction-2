@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7478b7f959ba61f5",
+  "stats": {
+    "name": "Elijah Smith",
+    "record": "9-1-0",
+    "wins": 9,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "135 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Sep 05, 2002",
+    "strikes_landed_per_min": 4.45,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.4,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.53,
+    "takedown_defense": 0.57,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Toshiomi Kazama",
+      "result": "win",
+      "date": "Aug. 09, 2025",
+      "method": "KO/TKO (Slam)"
+    },
+    {
+      "opponent": "Vince Morales",
+      "result": "win",
+      "date": "Feb. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aaron Tau",
+      "result": "win",
+      "date": "Sep. 17, 2024",
+      "method": "N/A"
+    }
+  ]
+}

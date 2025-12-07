@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e375cb5caf4717b6",
+  "stats": {
+    "name": "Piera Rodriguez",
+    "record": "11-2-0",
+    "wins": 11,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "115 lbs.",
+    "reach": "63\"",
+    "stance": "Orthodox",
+    "dob": "Nov 11, 1992",
+    "strikes_landed_per_min": 3.54,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.81,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.54,
+    "takedown_defense": 0.73,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ketlen Souza",
+      "result": "win",
+      "date": "Aug. 02, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josefine Knutsson",
+      "result": "win",
+      "date": "Dec. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ariane Carnelossi",
+      "result": "loss",
+      "date": "May. 18, 2024",
+      "method": "DQ"
+    },
+    {
+      "opponent": "Gillian Robertson",
+      "result": "loss",
+      "date": "Apr. 15, 2023",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Sam Hughes",
+      "result": "win",
+      "date": "Oct. 15, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kay Hansen",
+      "result": "win",
+      "date": "Apr. 09, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Valesca Machado",
+      "result": "win",
+      "date": "Oct. 19, 2021",
+      "method": "N/A"
+    }
+  ]
+}

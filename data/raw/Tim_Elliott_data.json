@@ -1,0 +1,151 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c96d9178c9ed9e62",
+  "stats": {
+    "name": "Tim Elliott",
+    "record": "22-13-1",
+    "wins": 22,
+    "losses": 13,
+    "draws": 1,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "66\"",
+    "stance": "Southpaw",
+    "dob": "Dec 24, 1986",
+    "strikes_landed_per_min": 3.37,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.65,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.47,
+    "takedown_defense": 0.59,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kai Asakura",
+      "result": "win",
+      "date": "Aug. 16, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Sumudaerji",
+      "result": "win",
+      "date": "Dec. 09, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Muhammad Mokaev",
+      "result": "loss",
+      "date": "Oct. 21, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Victor Altamirano",
+      "result": "win",
+      "date": "Jun. 03, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tagir Ulanbekov",
+      "result": "win",
+      "date": "Mar. 05, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Matheus Nicolau",
+      "result": "loss",
+      "date": "Oct. 09, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jordan Espinosa",
+      "result": "win",
+      "date": "Mar. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ryan Benoit",
+      "result": "win",
+      "date": "Jul. 15, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brandon Royval",
+      "result": "loss",
+      "date": "May. 30, 2020",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Askar Askarov",
+      "result": "loss",
+      "date": "Jan. 18, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Deiveson Figueiredo",
+      "result": "loss",
+      "date": "Oct. 12, 2019",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Mark De La Rosa",
+      "result": "win",
+      "date": "Dec. 30, 2017",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Ben Nguyen",
+      "result": "loss",
+      "date": "Jun. 10, 2017",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Louis Smolka",
+      "result": "win",
+      "date": "Apr. 15, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Demetrious Johnson",
+      "result": "loss",
+      "date": "Dec. 03, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zach Makovsky",
+      "result": "loss",
+      "date": "Feb. 14, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joseph Benavidez",
+      "result": "loss",
+      "date": "Apr. 26, 2014",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Ali Bagautinov",
+      "result": "loss",
+      "date": "Nov. 16, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Louis Gaudinot",
+      "result": "win",
+      "date": "Aug. 31, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jared Papazian",
+      "result": "win",
+      "date": "Dec. 15, 2012",
+      "method": "N/A"
+    },
+    {
+      "opponent": "John Dodson",
+      "result": "loss",
+      "date": "May. 05, 2012",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4a28cb716c19157a",
+  "stats": {
+    "name": "Stephen Thompson",
+    "record": "17-9-1",
+    "wins": 17,
+    "losses": 9,
+    "draws": 1,
+    "height": "6' 0\"",
+    "weight": "170 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Feb 11, 1983",
+    "strikes_landed_per_min": 4.05,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.0,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.63,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Gabriel Bonfim",
+      "result": "loss",
+      "date": "Jul. 12, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joaquin Buckley",
+      "result": "loss",
+      "date": "Oct. 05, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Shavkat Rakhmonov",
+      "result": "loss",
+      "date": "Dec. 16, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Kevin Holland",
+      "result": "win",
+      "date": "Dec. 03, 2022",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Belal Muhammad",
+      "result": "loss",
+      "date": "Dec. 18, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gilbert Burns",
+      "result": "loss",
+      "date": "Jul. 10, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Geoff Neal",
+      "result": "win",
+      "date": "Dec. 19, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vicente Luque",
+      "result": "win",
+      "date": "Nov. 02, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anthony Pettis",
+      "result": "loss",
+      "date": "Mar. 23, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Darren Till",
+      "result": "loss",
+      "date": "May. 27, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jorge Masvidal",
+      "result": "win",
+      "date": "Nov. 04, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tyron Woodley",
+      "result": "loss",
+      "date": "Mar. 04, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tyron Woodley",
+      "result": "draw",
+      "date": "Nov. 12, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rory MacDonald",
+      "result": "win",
+      "date": "Jun. 18, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Johny Hendricks",
+      "result": "win",
+      "date": "Feb. 06, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jake Ellenberger",
+      "result": "win",
+      "date": "Jul. 12, 2015",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Patrick Cote",
+      "result": "win",
+      "date": "Sep. 27, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Robert Whittaker",
+      "result": "win",
+      "date": "Feb. 22, 2014",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Chris Clements",
+      "result": "win",
+      "date": "Sep. 21, 2013",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Nah-Shon Burrell",
+      "result": "win",
+      "date": "May. 25, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Matt Brown",
+      "result": "loss",
+      "date": "Apr. 21, 2012",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dan Stittgen",
+      "result": "win",
+      "date": "Feb. 04, 2012",
+      "method": "KO/TKO (Kick)"
+    }
+  ]
+}

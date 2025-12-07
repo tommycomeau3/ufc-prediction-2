@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/fa07345cc9db5cc9",
+  "stats": {
+    "name": "Billy Ray Goff",
+    "record": "9-4-0",
+    "wins": 9,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "72\"",
+    "stance": "Switch",
+    "dob": "Jun 18, 1998",
+    "strikes_landed_per_min": 7.51,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.02,
+    "striking_defense": 0.59,
+    "takedown_average": null,
+    "takedown_accuracy": 0.16,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ramiz Brahimaj",
+      "result": "loss",
+      "date": "May. 31, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Trey Waters",
+      "result": "loss",
+      "date": "May. 11, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yusaku Kinoshita",
+      "result": "win",
+      "date": "Aug. 26, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Shimon Smotritsky",
+      "result": "win",
+      "date": "Aug. 02, 2022",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

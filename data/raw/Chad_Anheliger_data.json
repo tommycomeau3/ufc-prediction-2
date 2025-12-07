@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c7c39e2fb70248b3",
+  "stats": {
+    "name": "Chad Anheliger",
+    "record": "13-8-0",
+    "wins": 13,
+    "losses": 8,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "64\"",
+    "stance": "Orthodox",
+    "dob": "Dec 01, 1986",
+    "strikes_landed_per_min": 3.11,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.76,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.38,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Cody Gibson",
+      "result": "loss",
+      "date": "Nov. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charalampos Grigoriou",
+      "result": "win",
+      "date": "Mar. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jose Johnson",
+      "result": "loss",
+      "date": "Nov. 18, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Alatengheili",
+      "result": "loss",
+      "date": "Sep. 10, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jesse Strader",
+      "result": "win",
+      "date": "Feb. 19, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Muin Gafurov",
+      "result": "win",
+      "date": "Sep. 07, 2021",
+      "method": "N/A"
+    }
+  ]
+}

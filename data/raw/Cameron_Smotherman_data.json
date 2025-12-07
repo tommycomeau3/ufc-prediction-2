@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/5c84f673b7bb7c15",
+  "stats": {
+    "name": "Cameron Smotherman",
+    "record": "12-6-0",
+    "wins": 12,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "135 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Sep 17, 1997",
+    "strikes_landed_per_min": 4.07,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.52,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.62,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ricky Simon",
+      "result": "loss",
+      "date": "Jun. 14, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Serhiy Sidey",
+      "result": "loss",
+      "date": "May. 03, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jake Hadley",
+      "result": "win",
+      "date": "Oct. 19, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charalampos Grigoriou",
+      "result": "loss",
+      "date": "Aug. 15, 2023",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

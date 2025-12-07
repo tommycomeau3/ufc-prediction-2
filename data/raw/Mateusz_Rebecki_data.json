@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/849c5d9979df5357",
+  "stats": {
+    "name": "Mateusz Rebecki",
+    "record": "20-4-0",
+    "wins": 20,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "155 lbs.",
+    "reach": "66\"",
+    "stance": "Southpaw",
+    "dob": "Oct 03, 1992",
+    "strikes_landed_per_min": 5.21,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.69,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.52,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ludovit Klein",
+      "result": "loss",
+      "date": "Oct. 25, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Duncan",
+      "result": "loss",
+      "date": "Aug. 02, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Myktybek Orolbai",
+      "result": "win",
+      "date": "Oct. 26, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Diego Ferreira",
+      "result": "loss",
+      "date": "May. 11, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Roosevelt Roberts",
+      "result": "win",
+      "date": "Nov. 11, 2023",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Loik Radzhabov",
+      "result": "win",
+      "date": "Jun. 24, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Nick Fiore",
+      "result": "win",
+      "date": "Jan. 14, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rodrigo Lidio",
+      "result": "win",
+      "date": "Aug. 30, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

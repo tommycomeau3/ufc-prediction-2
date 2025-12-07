@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/52c2ae6d2f2d2613",
+  "stats": {
+    "name": "Youssef Zalal",
+    "record": "18-5-1",
+    "wins": 18,
+    "losses": 5,
+    "draws": 1,
+    "height": "5' 10\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Switch",
+    "dob": "Sep 04, 1996",
+    "strikes_landed_per_min": 3.03,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.78,
+    "striking_defense": 0.66,
+    "takedown_average": null,
+    "takedown_accuracy": 0.31,
+    "takedown_defense": 0.59,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Josh Emmett",
+      "result": "win",
+      "date": "Oct. 04, 2025",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Calvin Kattar",
+      "result": "win",
+      "date": "Feb. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jack Shore",
+      "result": "win",
+      "date": "Nov. 02, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Jarno Errens",
+      "result": "win",
+      "date": "Aug. 10, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Billy Quarantillo",
+      "result": "win",
+      "date": "Mar. 23, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Da'Mon Blackshear",
+      "result": "draw",
+      "date": "Aug. 13, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean Woodson",
+      "result": "loss",
+      "date": "Jun. 05, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "SeungWoo Choi",
+      "result": "loss",
+      "date": "Feb. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ilia Topuria",
+      "result": "loss",
+      "date": "Oct. 10, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Peter Barrett",
+      "result": "win",
+      "date": "Aug. 08, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jordan Griffin",
+      "result": "win",
+      "date": "Jun. 27, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Austin Lingo",
+      "result": "win",
+      "date": "Feb. 08, 2020",
+      "method": "N/A"
+    }
+  ]
+}

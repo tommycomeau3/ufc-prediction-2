@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
+  "stats": {
+    "name": "Charles Johnson",
+    "record": "18-7-0",
+    "wins": 18,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "125 lbs.",
+    "reach": "70\"",
+    "stance": "Switch",
+    "dob": "Jan 10, 1991",
+    "strikes_landed_per_min": 4.73,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.78,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.2,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Lone'er Kavanagh",
+      "result": "win",
+      "date": "Aug. 23, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ramazan Temirov",
+      "result": "loss",
+      "date": "Mar. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sumudaerji",
+      "result": "win",
+      "date": "Oct. 19, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joshua Van",
+      "result": "win",
+      "date": "Jul. 13, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jake Hadley",
+      "result": "win",
+      "date": "May. 11, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Azat Maksum",
+      "result": "win",
+      "date": "Feb. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rafael Estevam",
+      "result": "loss",
+      "date": "Nov. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody Durden",
+      "result": "loss",
+      "date": "Apr. 29, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ode Osbourne",
+      "result": "loss",
+      "date": "Feb. 25, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jimmy Flick",
+      "result": "win",
+      "date": "Jan. 14, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Zhalgas Zhumagulov",
+      "result": "win",
+      "date": "Nov. 19, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Muhammad Mokaev",
+      "result": "loss",
+      "date": "Jul. 23, 2022",
+      "method": "N/A"
+    }
+  ]
+}

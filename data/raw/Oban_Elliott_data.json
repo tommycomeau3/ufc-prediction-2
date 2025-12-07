@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6b56e94a59b7b134",
+  "stats": {
+    "name": "Oban Elliott",
+    "record": "12-3-0",
+    "wins": 12,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "170 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Dec 19, 1997",
+    "strikes_landed_per_min": 3.5,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.24,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.44,
+    "takedown_defense": 0.55,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Seokhyeon Ko",
+      "result": "loss",
+      "date": "Jun. 21, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bassil Hafez",
+      "result": "win",
+      "date": "Nov. 16, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Preston Parsons",
+      "result": "win",
+      "date": "Jul. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Val Woodburn",
+      "result": "win",
+      "date": "Feb. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kaik Brito",
+      "result": "win",
+      "date": "Aug. 22, 2023",
+      "method": "N/A"
+    }
+  ]
+}

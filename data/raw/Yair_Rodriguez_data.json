@@ -1,0 +1,107 @@
+{
+  "url": "http://ufcstats.com/fighter-details/cbf5e6f231b55443",
+  "stats": {
+    "name": "Yair Rodriguez",
+    "record": "21-6-0 (1 NC)",
+    "wins": 21,
+    "losses": 6
+  },
+  "fight_history": [
+    {
+      "opponent": "Patricio Freire",
+      "result": "win",
+      "date": "Apr. 12, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brian Ortega",
+      "result": "loss",
+      "date": "Feb. 24, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Alexander Volkanovski",
+      "result": "loss",
+      "date": "Jul. 08, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Josh Emmett",
+      "result": "win",
+      "date": "Feb. 11, 2023",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Brian Ortega",
+      "result": "win",
+      "date": "Jul. 16, 2022",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Max Holloway",
+      "result": "loss",
+      "date": "Nov. 13, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jeremy Stephens",
+      "result": "win",
+      "date": "Oct. 18, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jeremy Stephens",
+      "result": "nc",
+      "date": "Sep. 21, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chan Sung Jung",
+      "result": "win",
+      "date": "Nov. 10, 2018",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Frankie Edgar",
+      "result": "loss",
+      "date": "May. 13, 2017",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "BJ Penn",
+      "result": "win",
+      "date": "Jan. 15, 2017",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alex Caceres",
+      "result": "win",
+      "date": "Aug. 06, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Fili",
+      "result": "win",
+      "date": "Apr. 23, 2016",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Dan Hooker",
+      "result": "win",
+      "date": "Oct. 03, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Rosa",
+      "result": "win",
+      "date": "Jun. 13, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Leonardo Morales",
+      "result": "win",
+      "date": "Nov. 15, 2014",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "url": "http://ufcstats.com/fighter-details/093e1f5bb73850be",
+  "stats": {
+    "name": "Anthony Hernandez",
+    "record": "15-2-0 (1 NC)",
+    "wins": 15,
+    "losses": 2
+  },
+  "fight_history": [
+    {
+      "opponent": "Roman Dolidze",
+      "result": "win",
+      "date": "Aug. 09, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Brendan Allen",
+      "result": "win",
+      "date": "Feb. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michel Pereira",
+      "result": "win",
+      "date": "Oct. 19, 2024",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Roman Kopylov",
+      "result": "win",
+      "date": "Feb. 17, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Edmen Shahbazyan",
+      "result": "win",
+      "date": "May. 20, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Marc-Andre Barriault",
+      "result": "win",
+      "date": "Sep. 17, 2022",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Josh Fremd",
+      "result": "win",
+      "date": "Apr. 09, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rodolfo Vieira",
+      "result": "win",
+      "date": "Feb. 13, 2021",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Kevin Holland",
+      "result": "loss",
+      "date": "May. 16, 2020",
+      "method": "KO/TKO (Knees)"
+    },
+    {
+      "opponent": "JunYong Park",
+      "result": "win",
+      "date": "Aug. 31, 2019",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Markus Perez",
+      "result": "loss",
+      "date": "Feb. 02, 2019",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Jordan Wright",
+      "result": "nc",
+      "date": "Jun. 19, 2018",
+      "method": "N/A"
+    }
+  ]
+}

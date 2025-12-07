@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0e46690e55a8df75",
+  "stats": {
+    "name": "Timmy Cuamba",
+    "record": "10-3-0",
+    "wins": 10,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "135 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Feb 08, 1999",
+    "strikes_landed_per_min": 2.77,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.58,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.31,
+    "takedown_defense": 0.72,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "ChangHo Lee",
+      "result": "win",
+      "date": "Nov. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Roberto Romero",
+      "result": "win",
+      "date": "Apr. 26, 2025",
+      "method": "KO/TKO (Flying Knee)"
+    },
+    {
+      "opponent": "Lucas Almeida",
+      "result": "loss",
+      "date": "Jun. 15, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bolaji Oki",
+      "result": "loss",
+      "date": "Feb. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mateo Vogel",
+      "result": "win",
+      "date": "Aug. 29, 2023",
+      "method": "N/A"
+    }
+  ]
+}

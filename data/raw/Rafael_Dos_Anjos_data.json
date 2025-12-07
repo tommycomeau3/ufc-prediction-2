@@ -1,0 +1,241 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6a2f7c151031653d",
+  "stats": {
+    "name": "Rafael Dos Anjos",
+    "record": "32-17-0",
+    "wins": 32,
+    "losses": 17,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "170 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Oct 26, 1984",
+    "strikes_landed_per_min": 3.48,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.23,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.54,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Geoff Neal",
+      "result": "loss",
+      "date": "Oct. 26, 2024",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Mateusz Gamrot",
+      "result": "loss",
+      "date": "Mar. 09, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vicente Luque",
+      "result": "loss",
+      "date": "Aug. 12, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bryan Barberena",
+      "result": "win",
+      "date": "Dec. 03, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Rafael Fiziev",
+      "result": "loss",
+      "date": "Jul. 09, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Renato Moicano",
+      "result": "win",
+      "date": "Mar. 05, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paul Felder",
+      "result": "win",
+      "date": "Nov. 14, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michael Chiesa",
+      "result": "loss",
+      "date": "Jan. 25, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Leon Edwards",
+      "result": "loss",
+      "date": "Jul. 20, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kevin Lee",
+      "result": "win",
+      "date": "May. 18, 2019",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Kamaru Usman",
+      "result": "loss",
+      "date": "Nov. 30, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Colby Covington",
+      "result": "loss",
+      "date": "Jun. 09, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Robbie Lawler",
+      "result": "win",
+      "date": "Dec. 16, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Neil Magny",
+      "result": "win",
+      "date": "Sep. 09, 2017",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Tarec Saffiedine",
+      "result": "win",
+      "date": "Jun. 17, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tony Ferguson",
+      "result": "loss",
+      "date": "Nov. 05, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Eddie Alvarez",
+      "result": "loss",
+      "date": "Jul. 07, 2016",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Donald Cerrone",
+      "result": "win",
+      "date": "Dec. 19, 2015",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Anthony Pettis",
+      "result": "win",
+      "date": "Mar. 14, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nate Diaz",
+      "result": "win",
+      "date": "Dec. 13, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Benson Henderson",
+      "result": "win",
+      "date": "Aug. 23, 2014",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jason High",
+      "result": "win",
+      "date": "Jun. 07, 2014",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Khabib Nurmagomedov",
+      "result": "loss",
+      "date": "Apr. 19, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Donald Cerrone",
+      "result": "win",
+      "date": "Aug. 28, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Evan Dunham",
+      "result": "win",
+      "date": "May. 18, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mark Bocek",
+      "result": "win",
+      "date": "Nov. 17, 2012",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anthony Njokuani",
+      "result": "win",
+      "date": "Jul. 11, 2012",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kamal Shalorus",
+      "result": "win",
+      "date": "May. 15, 2012",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Gleison Tibau",
+      "result": "loss",
+      "date": "Nov. 19, 2011",
+      "method": "N/A"
+    },
+    {
+      "opponent": "George Sotiropoulos",
+      "result": "win",
+      "date": "Jul. 02, 2011",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Clay Guida",
+      "result": "loss",
+      "date": "Aug. 07, 2010",
+      "method": "Submission (Injury)"
+    },
+    {
+      "opponent": "Terry Etim",
+      "result": "win",
+      "date": "Apr. 10, 2010",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Kyle Bradley",
+      "result": "win",
+      "date": "UFC Fight Night: Maynard vs Diaz",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rob Emerson",
+      "result": "win",
+      "date": "Sep. 19, 2009",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tyson Griffin",
+      "result": "loss",
+      "date": "Apr. 01, 2009",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jeremy Stephens",
+      "result": "loss",
+      "date": "Nov. 15, 2008",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

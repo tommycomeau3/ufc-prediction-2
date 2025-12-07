@@ -1,0 +1,29 @@
+{
+  "url": "http://ufcstats.com/fighter-details/739fd4fbb5d862f4",
+  "stats": {
+    "name": "Rizvan Kuniev",
+    "record": "12-3-1 (1 NC)",
+    "wins": 12,
+    "losses": 3
+  },
+  "fight_history": [
+    {
+      "opponent": "Curtis Blaydes",
+      "result": "loss",
+      "date": "Jun. 21, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hugo Cunha",
+      "result": "win",
+      "date": "Aug. 20, 2024",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Edivan Santos",
+      "result": "win",
+      "date": "Sep. 28, 2021",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "url": "http://ufcstats.com/fighter-details/cd13728ae1151f46",
+  "stats": {
+    "name": "Ion Cutelaba",
+    "record": "19-11-1 (1 NC)",
+    "wins": 19,
+    "losses": 11
+  },
+  "fight_history": [
+    {
+      "opponent": "Modestas Bukauskas",
+      "result": "loss",
+      "date": "May. 10, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ibo Aslan",
+      "result": "win",
+      "date": "Feb. 22, 2025",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Ivan Erslan",
+      "result": "win",
+      "date": "Sep. 28, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Philipe Lins",
+      "result": "loss",
+      "date": "Mar. 09, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tanner Boser",
+      "result": "win",
+      "date": "Apr. 15, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Kennedy Nzechukwu",
+      "result": "loss",
+      "date": "Nov. 19, 2022",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Johnny Walker",
+      "result": "loss",
+      "date": "Sep. 10, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Ryan Spann",
+      "result": "loss",
+      "date": "May. 14, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Devin Clark",
+      "result": "win",
+      "date": "Sep. 18, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dustin Jacoby",
+      "result": "draw",
+      "date": "May. 01, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Magomed Ankalaev",
+      "result": "loss",
+      "date": "Oct. 24, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Magomed Ankalaev",
+      "result": "loss",
+      "date": "Feb. 29, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Khalil Rountree Jr.",
+      "result": "win",
+      "date": "Sep. 28, 2019",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Glover Teixeira",
+      "result": "loss",
+      "date": "Apr. 27, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Gadzhimurad Antigulov",
+      "result": "win",
+      "date": "Jul. 28, 2018",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Henrique da Silva",
+      "result": "win",
+      "date": "Jun. 10, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jared Cannonier",
+      "result": "loss",
+      "date": "Dec. 03, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jonathan Wilson",
+      "result": "win",
+      "date": "Oct. 01, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Misha Cirkunov",
+      "result": "loss",
+      "date": "Jun. 18, 2016",
+      "method": "Submission (Arm Triangle)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0cd0456d6029cec2",
+  "stats": {
+    "name": "Robert Valentin",
+    "record": "11-6-0 (1 NC)",
+    "wins": 11,
+    "losses": 6
+  },
+  "fight_history": [
+    {
+      "opponent": "Ateba Gautier",
+      "result": "loss",
+      "date": "Jul. 19, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Torrez Finney",
+      "result": "loss",
+      "date": "Apr. 05, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ryan Loder",
+      "result": "loss",
+      "date": "Aug. 24, 2024",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

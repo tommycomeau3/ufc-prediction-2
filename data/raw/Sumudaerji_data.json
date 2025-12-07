@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/3cf18e01cb6cbde3",
+  "stats": {
+    "name": "Sumudaerji",
+    "record": "18-7-0",
+    "wins": 18,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "125 lbs.",
+    "reach": "72\"",
+    "stance": "Southpaw",
+    "dob": "Jan 20, 1996",
+    "strikes_landed_per_min": 4.48,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.39,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.11,
+    "takedown_defense": 0.71,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kevin Borjas",
+      "result": "win",
+      "date": "Aug. 23, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mitch Raposo",
+      "result": "win",
+      "date": "Apr. 12, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Johnson",
+      "result": "loss",
+      "date": "Oct. 19, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tim Elliott",
+      "result": "loss",
+      "date": "Dec. 09, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Matt Schnell",
+      "result": "loss",
+      "date": "Jul. 16, 2022",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Zarrukh Adashev",
+      "result": "win",
+      "date": "Jan. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Malcolm Gordon",
+      "result": "win",
+      "date": "Nov. 28, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Andre Soukhamthath",
+      "result": "win",
+      "date": "Aug. 31, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Louis Smolka",
+      "result": "loss",
+      "date": "Nov. 24, 2018",
+      "method": "Submission (Armbar)"
+    }
+  ]
+}

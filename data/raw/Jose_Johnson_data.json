@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/84f727cf0166d6f2",
+  "stats": {
+    "name": "Jose Johnson",
+    "record": "16-10-0",
+    "wins": 16,
+    "losses": 10,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "125 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "May 20, 1995",
+    "strikes_landed_per_min": 2.27,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.61,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.6,
+    "takedown_defense": 0.41,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Felipe Bunes",
+      "result": "loss",
+      "date": "Jan. 11, 2025",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Asu Almabayev",
+      "result": "loss",
+      "date": "Jun. 15, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chad Anheliger",
+      "result": "win",
+      "date": "Nov. 18, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Da'Mon Blackshear",
+      "result": "loss",
+      "date": "Aug. 12, 2023",
+      "method": "Submission (Twister)"
+    },
+    {
+      "opponent": "Jack Cartwright",
+      "result": "win",
+      "date": "Aug. 16, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ronnie Lawrence",
+      "result": "loss",
+      "date": "Sep. 01, 2020",
+      "method": "N/A"
+    }
+  ]
+}

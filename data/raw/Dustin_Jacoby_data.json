@@ -1,0 +1,127 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e4277e87a789d687",
+  "stats": {
+    "name": "Dustin Jacoby",
+    "record": "21-9-1",
+    "wins": 21,
+    "losses": 9,
+    "draws": 1,
+    "height": "6' 3\"",
+    "weight": "205 lbs.",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "dob": "Apr 04, 1988",
+    "strikes_landed_per_min": 5.37,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.02,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.62,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Bruno Lopes",
+      "result": "win",
+      "date": "May. 31, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Vitor Petrino",
+      "result": "win",
+      "date": "Dec. 14, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dominick Reyes",
+      "result": "loss",
+      "date": "Jun. 08, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alonzo Menifield",
+      "result": "loss",
+      "date": "Dec. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kennedy Nzechukwu",
+      "result": "win",
+      "date": "Aug. 05, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Azamat Murzakanov",
+      "result": "loss",
+      "date": "Apr. 15, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Khalil Rountree Jr.",
+      "result": "loss",
+      "date": "Oct. 29, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Da Woon Jung",
+      "result": "win",
+      "date": "Jul. 16, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Michal Oleksiejczuk",
+      "result": "win",
+      "date": "Mar. 05, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "John Allan",
+      "result": "win",
+      "date": "Nov. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Darren Stewart",
+      "result": "win",
+      "date": "Aug. 28, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ion Cutelaba",
+      "result": "draw",
+      "date": "May. 01, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Maxim Grishin",
+      "result": "win",
+      "date": "Feb. 27, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Justin Ledet",
+      "result": "win",
+      "date": "Oct. 31, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ty Flores",
+      "result": "win",
+      "date": "Aug. 04, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Camozzi",
+      "result": "loss",
+      "date": "Jan. 28, 2012",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Clifford Starks",
+      "result": "loss",
+      "date": "Oct. 29, 2011",
+      "method": "N/A"
+    }
+  ]
+}

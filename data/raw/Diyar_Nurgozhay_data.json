@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/709fadb644ee3f51",
+  "stats": {
+    "name": "Diyar Nurgozhay",
+    "record": "10-2-0",
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "205 lbs.",
+    "reach": "74\"",
+    "stance": "Southpaw",
+    "dob": "Apr 22, 1997",
+    "strikes_landed_per_min": 3.04,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.99,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.1,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Uran Satybaldiev",
+      "result": "loss",
+      "date": "Aug. 23, 2025",
+      "method": "Submission (Ezekiel Choke)"
+    },
+    {
+      "opponent": "Brendson Ribeiro",
+      "result": "loss",
+      "date": "Mar. 15, 2025",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Bartosz Szewczyk",
+      "result": "win",
+      "date": "Oct. 01, 2024",
+      "method": "KO/TKO (Kick)"
+    }
+  ]
+}

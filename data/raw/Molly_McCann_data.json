@@ -1,0 +1,109 @@
+{
+  "url": "http://ufcstats.com/fighter-details/51018a31ddf31eb2",
+  "stats": {
+    "name": "Molly McCann",
+    "record": "14-8-0",
+    "wins": 14,
+    "losses": 8,
+    "draws": 0,
+    "height": "5' 4\"",
+    "weight": "115 lbs.",
+    "reach": "62\"",
+    "stance": "Orthodox",
+    "dob": "May 04, 1990",
+    "strikes_landed_per_min": 5.28,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.65,
+    "striking_defense": 0.62,
+    "takedown_average": null,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.38,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Alexia Thainara",
+      "result": "loss",
+      "date": "Mar. 22, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Bruna Brasil",
+      "result": "loss",
+      "date": "Jul. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Diana Belbita",
+      "result": "win",
+      "date": "Feb. 03, 2024",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Julija Stoliarenko",
+      "result": "loss",
+      "date": "Jul. 22, 2023",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Erin Blanchfield",
+      "result": "loss",
+      "date": "Nov. 12, 2022",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Hannah Goldy",
+      "result": "win",
+      "date": "Jul. 23, 2022",
+      "method": "KO/TKO (Spinning Back Elbow)"
+    },
+    {
+      "opponent": "Luana Carolina",
+      "result": "win",
+      "date": "Mar. 19, 2022",
+      "method": "KO/TKO (Spinning Back Elbow)"
+    },
+    {
+      "opponent": "Ji Yeon Kim",
+      "result": "win",
+      "date": "Sep. 04, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lara Procopio",
+      "result": "loss",
+      "date": "Feb. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Taila Santos",
+      "result": "loss",
+      "date": "Jul. 15, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Diana Belbita",
+      "result": "win",
+      "date": "Oct. 18, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ariane da Silva",
+      "result": "win",
+      "date": "Jun. 22, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Priscila Cachoeira",
+      "result": "win",
+      "date": "Mar. 16, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gillian Robertson",
+      "result": "loss",
+      "date": "May. 27, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

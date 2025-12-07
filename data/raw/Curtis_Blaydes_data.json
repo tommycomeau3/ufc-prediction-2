@@ -1,0 +1,131 @@
+{
+  "url": "http://ufcstats.com/fighter-details/fa6796c55d6c5440",
+  "stats": {
+    "name": "Curtis Blaydes",
+    "record": "19-5-0 (1 NC)",
+    "wins": 19,
+    "losses": 5
+  },
+  "fight_history": [
+    {
+      "opponent": "Rizvan Kuniev",
+      "result": "win",
+      "date": "Jun. 21, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tom Aspinall",
+      "result": "loss",
+      "date": "Jul. 27, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jailton Almeida",
+      "result": "win",
+      "date": "Mar. 09, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Sergei Pavlovich",
+      "result": "loss",
+      "date": "Apr. 22, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Tom Aspinall",
+      "result": "win",
+      "date": "Jul. 23, 2022",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Chris Daukaus",
+      "result": "win",
+      "date": "Mar. 26, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jairzinho Rozenstruik",
+      "result": "win",
+      "date": "Sep. 25, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Derrick Lewis",
+      "result": "loss",
+      "date": "Feb. 20, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Alexander Volkov",
+      "result": "win",
+      "date": "Jun. 20, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Junior Dos Santos",
+      "result": "win",
+      "date": "Jan. 25, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Shamil Abdurakhimov",
+      "result": "win",
+      "date": "Sep. 07, 2019",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Justin Willis",
+      "result": "win",
+      "date": "Mar. 23, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Francis Ngannou",
+      "result": "loss",
+      "date": "Nov. 24, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Alistair Overeem",
+      "result": "win",
+      "date": "Jun. 09, 2018",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Mark Hunt",
+      "result": "win",
+      "date": "Feb. 10, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aleksei Oleinik",
+      "result": "win",
+      "date": "Nov. 04, 2017",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Daniel Omielanczuk",
+      "result": "win",
+      "date": "Jul. 08, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Adam Milstead",
+      "result": "nc",
+      "date": "Feb. 04, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody East",
+      "result": "win",
+      "date": "Oct. 01, 2016",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Francis Ngannou",
+      "result": "loss",
+      "date": "Apr. 10, 2016",
+      "method": "KO/TKO"
+    }
+  ]
+}

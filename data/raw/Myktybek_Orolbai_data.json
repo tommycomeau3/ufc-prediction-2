@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/bf2c8e01b07d3eb1",
+  "stats": {
+    "name": "Myktybek Orolbai",
+    "record": "15-2-1",
+    "wins": 15,
+    "losses": 2,
+    "draws": 1,
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Feb 10, 1998",
+    "strikes_landed_per_min": 3.24,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.31,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.45,
+    "takedown_defense": 0.4,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jack Hermansson",
+      "result": "win",
+      "date": "Nov. 22, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Tofiq Musayev",
+      "result": "win",
+      "date": "Jun. 21, 2025",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Mateusz Rebecki",
+      "result": "loss",
+      "date": "Oct. 26, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Elves Brener",
+      "result": "win",
+      "date": "May. 04, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Uros Medic",
+      "result": "win",
+      "date": "Nov. 18, 2023",
+      "method": "Submission (Neck Crank)"
+    }
+  ]
+}

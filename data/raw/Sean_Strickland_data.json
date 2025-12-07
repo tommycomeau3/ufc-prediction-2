@@ -1,0 +1,163 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0d8011111be000b2",
+  "stats": {
+    "name": "Sean Strickland",
+    "record": "29-7-0",
+    "wins": 29,
+    "losses": 7,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "185 lbs.",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "dob": "Feb 27, 1991",
+    "strikes_landed_per_min": 5.95,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.57,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.64,
+    "takedown_defense": 0.76,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Dricus Du Plessis",
+      "result": "loss",
+      "date": "Feb. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paulo Costa",
+      "result": "win",
+      "date": "Jun. 01, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dricus Du Plessis",
+      "result": "loss",
+      "date": "Jan. 20, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Israel Adesanya",
+      "result": "win",
+      "date": "Sep. 09, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Abus Magomedov",
+      "result": "win",
+      "date": "Jul. 01, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Nassourdine Imavov",
+      "result": "win",
+      "date": "Jan. 14, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jared Cannonier",
+      "result": "loss",
+      "date": "Dec. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Pereira",
+      "result": "loss",
+      "date": "Jul. 02, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jack Hermansson",
+      "result": "win",
+      "date": "Feb. 05, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Uriah Hall",
+      "result": "win",
+      "date": "Jul. 31, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Krzysztof Jotko",
+      "result": "win",
+      "date": "May. 01, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brendan Allen",
+      "result": "win",
+      "date": "Nov. 14, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jack Marshman",
+      "result": "win",
+      "date": "Oct. 31, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nordine Taleb",
+      "result": "win",
+      "date": "Oct. 27, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Elizeu Zaleski dos Santos",
+      "result": "loss",
+      "date": "May. 12, 2018",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Court McGee",
+      "result": "win",
+      "date": "Nov. 11, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kamaru Usman",
+      "result": "loss",
+      "date": "Apr. 08, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tom Breese",
+      "result": "win",
+      "date": "Jun. 04, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Garcia",
+      "result": "win",
+      "date": "Feb. 21, 2016",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Igor Araujo",
+      "result": "win",
+      "date": "Jul. 15, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Santiago Ponzinibbio",
+      "result": "loss",
+      "date": "Feb. 22, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Luke Barnatt",
+      "result": "win",
+      "date": "May. 31, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Robert McDaniel",
+      "result": "win",
+      "date": "Mar. 15, 2014",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/45f7cb591c3ab00b",
+  "stats": {
+    "name": "Sean Brady",
+    "record": "18-2-0",
+    "wins": 18,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Nov 23, 1992",
+    "strikes_landed_per_min": 3.96,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.05,
+    "striking_defense": 0.59,
+    "takedown_average": null,
+    "takedown_accuracy": 0.53,
+    "takedown_defense": 0.86,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Michael Morales",
+      "result": "loss",
+      "date": "Nov. 15, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Leon Edwards",
+      "result": "win",
+      "date": "Mar. 22, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Gilbert Burns",
+      "result": "win",
+      "date": "Sep. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kelvin Gastelum",
+      "result": "win",
+      "date": "Dec. 02, 2023",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Belal Muhammad",
+      "result": "loss",
+      "date": "Oct. 22, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Michael Chiesa",
+      "result": "win",
+      "date": "Nov. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jake Matthews",
+      "result": "win",
+      "date": "Mar. 06, 2021",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Christian Aguilera",
+      "result": "win",
+      "date": "Aug. 29, 2020",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Ismail Naurdiev",
+      "result": "win",
+      "date": "Feb. 29, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Court McGee",
+      "result": "win",
+      "date": "Oct. 18, 2019",
+      "method": "N/A"
+    }
+  ]
+}

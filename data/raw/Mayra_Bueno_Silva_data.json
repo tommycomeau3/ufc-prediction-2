@@ -1,0 +1,95 @@
+{
+  "url": "http://ufcstats.com/fighter-details/cc8c623cca88f54f",
+  "stats": {
+    "name": "Mayra Bueno Silva",
+    "record": "10-6-1 (1 NC)",
+    "wins": 10,
+    "losses": 6
+  },
+  "fight_history": [
+    {
+      "opponent": "Jacqueline Cavalcanti",
+      "result": "loss",
+      "date": "Nov. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jasmine Jasudavicius",
+      "result": "loss",
+      "date": "Feb. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Macy Chiasson",
+      "result": "loss",
+      "date": "Jun. 29, 2024",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Raquel Pennington",
+      "result": "loss",
+      "date": "Jan. 20, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Holly Holm",
+      "result": "nc",
+      "date": "Jul. 15, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lina Lansberg",
+      "result": "win",
+      "date": "Feb. 18, 2023",
+      "method": "Submission (Kneebar)"
+    },
+    {
+      "opponent": "Stephanie Egger",
+      "result": "win",
+      "date": "Aug. 06, 2022",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Wu Yanan",
+      "result": "win",
+      "date": "Apr. 16, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Manon Fiorot",
+      "result": "loss",
+      "date": "Oct. 16, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Montana De La Rosa",
+      "result": "draw",
+      "date": "Feb. 27, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mara Romero Borella",
+      "result": "win",
+      "date": "Sep. 19, 2020",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Maryna Moroz",
+      "result": "loss",
+      "date": "Mar. 14, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gillian Robertson",
+      "result": "win",
+      "date": "UFC Fight Night: Marreta vs. Anders",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Mayana Kellem",
+      "result": "win",
+      "date": "Aug. 10, 2018",
+      "method": "Submission (Anaconda Choke)"
+    }
+  ]
+}

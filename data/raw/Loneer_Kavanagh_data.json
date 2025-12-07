@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/bb2c3c3a466224af",
+  "stats": {
+    "name": "Lone'er Kavanagh",
+    "record": "9-1-0",
+    "wins": 9,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "125 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Jun 09, 1999",
+    "strikes_landed_per_min": 4.29,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.69,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.88,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Charles Johnson",
+      "result": "loss",
+      "date": "Aug. 23, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Felipe dos Santos",
+      "result": "win",
+      "date": "Mar. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jose Ochoa",
+      "result": "win",
+      "date": "Nov. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "An Tuan Ho",
+      "result": "win",
+      "date": "Aug. 13, 2024",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

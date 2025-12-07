@@ -1,0 +1,115 @@
+{
+  "url": "http://ufcstats.com/fighter-details/9e8f6c728eb01124",
+  "stats": {
+    "name": "Justin Gaethje",
+    "record": "26-5-0",
+    "wins": 26,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Nov 14, 1988",
+    "strikes_landed_per_min": 6.59,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.18,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.14,
+    "takedown_defense": 0.68,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Paddy Pimblett",
+      "result": "next",
+      "date": "Jan. 24, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rafael Fiziev",
+      "result": "win",
+      "date": "Mar. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Max Holloway",
+      "result": "loss",
+      "date": "Apr. 13, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dustin Poirier",
+      "result": "win",
+      "date": "Jul. 29, 2023",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Rafael Fiziev",
+      "result": "win",
+      "date": "Mar. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Oliveira",
+      "result": "loss",
+      "date": "May. 07, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Michael Chandler",
+      "result": "win",
+      "date": "Nov. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Khabib Nurmagomedov",
+      "result": "loss",
+      "date": "Oct. 24, 2020",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Tony Ferguson",
+      "result": "win",
+      "date": "May. 09, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Donald Cerrone",
+      "result": "win",
+      "date": "Sep. 14, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Edson Barboza",
+      "result": "win",
+      "date": "Mar. 30, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "James Vick",
+      "result": "win",
+      "date": "Aug. 25, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dustin Poirier",
+      "result": "loss",
+      "date": "Apr. 14, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Eddie Alvarez",
+      "result": "loss",
+      "date": "Dec. 02, 2017",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Michael Johnson",
+      "result": "win",
+      "date": "Jul. 07, 2017",
+      "method": "KO/TKO (Knees)"
+    }
+  ]
+}

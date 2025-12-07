@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/60425d07ef4b91a7",
+  "stats": {
+    "name": "Kyler Phillips",
+    "record": "12-4-0",
+    "wins": 12,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Jun 12, 1995",
+    "strikes_landed_per_min": 5.04,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.83,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.45,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Vinicius Oliveira",
+      "result": "loss",
+      "date": "Jul. 19, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rob Font",
+      "result": "loss",
+      "date": "Oct. 19, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Pedro Munhoz",
+      "result": "win",
+      "date": "Mar. 09, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Raoni Barcelos",
+      "result": "win",
+      "date": "Aug. 05, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marcelo Rojo",
+      "result": "win",
+      "date": "Feb. 12, 2022",
+      "method": "Submission (Triangle Armbar)"
+    },
+    {
+      "opponent": "Raulian Paiva",
+      "result": "loss",
+      "date": "Jul. 24, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Song Yadong",
+      "result": "win",
+      "date": "Mar. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cameron Else",
+      "result": "win",
+      "date": "Oct. 03, 2020",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Gabriel Silva",
+      "result": "win",
+      "date": "Feb. 29, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "James Gray",
+      "result": "win",
+      "date": "Aug. 01, 2017",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

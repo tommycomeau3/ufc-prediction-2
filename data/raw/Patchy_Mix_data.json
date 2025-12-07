@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/2cfba6c837c03ed0",
+  "stats": {
+    "name": "Patchy Mix",
+    "record": "20-3-0",
+    "wins": 20,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "135 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Aug 16, 1993",
+    "strikes_landed_per_min": 5.3,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.3,
+    "striking_defense": 0.43,
+    "takedown_average": null,
+    "takedown_accuracy": 0.62,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jakub Wiklacz",
+      "result": "loss",
+      "date": "Oct. 04, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mario Bautista",
+      "result": "loss",
+      "date": "Jun. 07, 2025",
+      "method": "N/A"
+    }
+  ]
+}

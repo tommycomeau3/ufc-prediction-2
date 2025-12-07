@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/745fa7b605f8e2da",
+  "stats": {
+    "name": "Fatima Kline",
+    "record": "9-1-0",
+    "wins": 9,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "115 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Jul 12, 2000",
+    "strikes_landed_per_min": 5.01,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.71,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.58,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Angela Hill",
+      "result": "win",
+      "date": "Nov. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Melissa Martinez",
+      "result": "win",
+      "date": "Jul. 12, 2025",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Viktoriia Dudakova",
+      "result": "win",
+      "date": "Jan. 11, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Jasmine Jasudavicius",
+      "result": "loss",
+      "date": "Jul. 13, 2024",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6c3b2525436cf5d4",
+  "stats": {
+    "name": "Tom Nolan",
+    "record": "10-1-0",
+    "wins": 10,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Southpaw",
+    "dob": "Mar 08, 2000",
+    "strikes_landed_per_min": 5.87,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.73,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.22,
+    "takedown_defense": 0.71,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Charlie Campbell",
+      "result": "win",
+      "date": "Sep. 27, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Viacheslav Borshchev",
+      "result": "win",
+      "date": "Feb. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Reyes",
+      "result": "win",
+      "date": "Aug. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Victor Martinez",
+      "result": "win",
+      "date": "May. 18, 2024",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Nikolas Motta",
+      "result": "loss",
+      "date": "Jan. 13, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Bogdan Grad",
+      "result": "win",
+      "date": "Aug. 08, 2023",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

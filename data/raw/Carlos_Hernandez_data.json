@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/798e48f9e7f6ba22",
+  "stats": {
+    "name": "Carlos Hernandez",
+    "record": "10-5-0",
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "125 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Oct 25, 1993",
+    "strikes_landed_per_min": 3.83,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.5,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.21,
+    "takedown_defense": 0.65,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "HyunSung Park",
+      "result": "loss",
+      "date": "May. 17, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Nyamjargal Tumendemberel",
+      "result": "win",
+      "date": "Nov. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rei Tsuruya",
+      "result": "loss",
+      "date": "Jun. 29, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tatsuro Taira",
+      "result": "loss",
+      "date": "Dec. 09, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Denys Bondar",
+      "result": "win",
+      "date": "Jun. 17, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Allan Nascimento",
+      "result": "loss",
+      "date": "Jan. 14, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Victor Altamirano",
+      "result": "win",
+      "date": "Feb. 26, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daniel Barez",
+      "result": "win",
+      "date": "Oct. 05, 2021",
+      "method": "N/A"
+    }
+  ]
+}

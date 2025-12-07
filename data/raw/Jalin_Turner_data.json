@@ -1,0 +1,115 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4d8fa64202cee4c1",
+  "stats": {
+    "name": "Jalin Turner",
+    "record": "15-9-0",
+    "wins": 15,
+    "losses": 9,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "155 lbs.",
+    "reach": "77\"",
+    "stance": "Southpaw",
+    "dob": "May 18, 1995",
+    "strikes_landed_per_min": 5.53,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.55,
+    "striking_defense": 0.41,
+    "takedown_average": null,
+    "takedown_accuracy": 0.55,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Edson Barboza",
+      "result": "win",
+      "date": "Dec. 06, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ignacio Bahamondes",
+      "result": "loss",
+      "date": "Mar. 08, 2025",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Renato Moicano",
+      "result": "loss",
+      "date": "Apr. 13, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "King Green",
+      "result": "win",
+      "date": "Dec. 02, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Dan Hooker",
+      "result": "loss",
+      "date": "Jul. 08, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mateusz Gamrot",
+      "result": "loss",
+      "date": "Mar. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brad Riddell",
+      "result": "win",
+      "date": "Jul. 02, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Jamie Mullarkey",
+      "result": "win",
+      "date": "Mar. 05, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Uros Medic",
+      "result": "win",
+      "date": "Sep. 25, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Brok Weaver",
+      "result": "win",
+      "date": "Sep. 12, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Josh Culibao",
+      "result": "win",
+      "date": "Feb. 22, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Matt Frevola",
+      "result": "loss",
+      "date": "Apr. 13, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Callan Potter",
+      "result": "win",
+      "date": "Feb. 09, 2019",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Vicente Luque",
+      "result": "loss",
+      "date": "Oct. 06, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Max Mustaki",
+      "result": "win",
+      "date": "Jul. 10, 2018",
+      "method": "KO/TKO"
+    }
+  ]
+}

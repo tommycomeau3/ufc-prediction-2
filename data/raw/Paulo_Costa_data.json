@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/2e5c2aa8e4ab9d82",
+  "stats": {
+    "name": "Paulo Costa",
+    "record": "15-4-0",
+    "wins": 15,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "185 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Apr 21, 1991",
+    "strikes_landed_per_min": 6.26,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.2,
+    "striking_defense": 0.49,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.8,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Roman Kopylov",
+      "result": "win",
+      "date": "Jul. 19, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean Strickland",
+      "result": "loss",
+      "date": "Jun. 01, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Robert Whittaker",
+      "result": "loss",
+      "date": "Feb. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Luke Rockhold",
+      "result": "win",
+      "date": "Aug. 20, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marvin Vettori",
+      "result": "loss",
+      "date": "Oct. 23, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Israel Adesanya",
+      "result": "loss",
+      "date": "Sep. 26, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Yoel Romero",
+      "result": "win",
+      "date": "Aug. 17, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Uriah Hall",
+      "result": "win",
+      "date": "Jul. 07, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Johny Hendricks",
+      "result": "win",
+      "date": "Nov. 04, 2017",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Oluwale Bamgbose",
+      "result": "win",
+      "date": "Jun. 03, 2017",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Garreth McLellan",
+      "result": "win",
+      "date": "Mar. 11, 2017",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

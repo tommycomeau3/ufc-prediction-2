@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e93b04e308913c2e",
+  "stats": {
+    "name": "Dooho Choi",
+    "record": "16-4-1",
+    "wins": 16,
+    "losses": 4,
+    "draws": 1,
+    "height": "5' 10\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Apr 10, 1991",
+    "strikes_landed_per_min": 4.67,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.02,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.53,
+    "takedown_defense": 0.47,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Nate Landwehr",
+      "result": "win",
+      "date": "Dec. 07, 2024",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Bill Algeo",
+      "result": "win",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Kyle Nelson",
+      "result": "draw",
+      "date": "Feb. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Jourdain",
+      "result": "loss",
+      "date": "Dec. 21, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jeremy Stephens",
+      "result": "loss",
+      "date": "Jan. 14, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Cub Swanson",
+      "result": "loss",
+      "date": "Dec. 10, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Thiago Tavares",
+      "result": "win",
+      "date": "Jul. 08, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Sam Sicilia",
+      "result": "win",
+      "date": "Nov. 28, 2015",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Juan Manuel Puig",
+      "result": "win",
+      "date": "Nov. 22, 2014",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

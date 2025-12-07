@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/36e78278a77006d4",
+  "stats": {
+    "name": "Connor Matthews",
+    "record": "7-4-0",
+    "wins": 7,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Switch",
+    "dob": "May 31, 1992",
+    "strikes_landed_per_min": 4.82,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.06,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.55,
+    "takedown_defense": 0.46,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Yadier del Valle",
+      "result": "loss",
+      "date": "May. 17, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jose Delgado",
+      "result": "loss",
+      "date": "Feb. 15, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Dennis Buzukja",
+      "result": "loss",
+      "date": "Mar. 30, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jair Farias",
+      "result": "win",
+      "date": "Oct. 10, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Francis Marshall",
+      "result": "loss",
+      "date": "Aug. 02, 2022",
+      "method": "N/A"
+    }
+  ]
+}

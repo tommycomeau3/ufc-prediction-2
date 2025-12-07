@@ -1,0 +1,163 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c9cf753cfdf77fc2",
+  "stats": {
+    "name": "Marcin Tybura",
+    "record": "27-10-0",
+    "wins": 27,
+    "losses": 10,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "246 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Nov 09, 1985",
+    "strikes_landed_per_min": 3.59,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.33,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ante Delija",
+      "result": "loss",
+      "date": "Sep. 06, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Mick Parkin",
+      "result": "win",
+      "date": "Mar. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jhonata Diniz",
+      "result": "win",
+      "date": "Nov. 16, 2024",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Serghei Spivac",
+      "result": "loss",
+      "date": "Aug. 10, 2024",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Tai Tuivasa",
+      "result": "win",
+      "date": "Mar. 16, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Tom Aspinall",
+      "result": "loss",
+      "date": "Jul. 22, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Blagoy Ivanov",
+      "result": "win",
+      "date": "Feb. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexandr Romanov",
+      "result": "win",
+      "date": "Aug. 20, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexander Volkov",
+      "result": "loss",
+      "date": "Oct. 30, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Walt Harris",
+      "result": "win",
+      "date": "Jun. 05, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Greg Hardy",
+      "result": "win",
+      "date": "Dec. 19, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ben Rothwell",
+      "result": "win",
+      "date": "Oct. 10, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Maxim Grishin",
+      "result": "win",
+      "date": "Jul. 11, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Serghei Spivac",
+      "result": "win",
+      "date": "Feb. 29, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Augusto Sakai",
+      "result": "loss",
+      "date": "Sep. 14, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Shamil Abdurakhimov",
+      "result": "loss",
+      "date": "Apr. 20, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Stefan Struve",
+      "result": "win",
+      "date": "Jul. 22, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Derrick Lewis",
+      "result": "loss",
+      "date": "Feb. 18, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Fabricio Werdum",
+      "result": "loss",
+      "date": "Nov. 18, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andrei Arlovski",
+      "result": "win",
+      "date": "Jun. 17, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Luis Henrique",
+      "result": "win",
+      "date": "Mar. 04, 2017",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Viktor Pesta",
+      "result": "win",
+      "date": "Aug. 06, 2016",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Timothy Johnson",
+      "result": "loss",
+      "date": "Apr. 10, 2016",
+      "method": "N/A"
+    }
+  ]
+}

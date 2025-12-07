@@ -1,0 +1,121 @@
+{
+  "url": "http://ufcstats.com/fighter-details/65f09bacd3957381",
+  "stats": {
+    "name": "Cory Sandhagen",
+    "record": "18-6-0",
+    "wins": 18,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "135 lbs.",
+    "reach": "70\"",
+    "stance": "Switch",
+    "dob": "Apr 20, 1992",
+    "strikes_landed_per_min": 4.86,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.47,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.56,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Merab Dvalishvili",
+      "result": "loss",
+      "date": "Oct. 04, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Deiveson Figueiredo",
+      "result": "win",
+      "date": "May. 03, 2025",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Umar Nurmagomedov",
+      "result": "loss",
+      "date": "Aug. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rob Font",
+      "result": "win",
+      "date": "Aug. 05, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marlon Vera",
+      "result": "win",
+      "date": "Mar. 25, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Song Yadong",
+      "result": "win",
+      "date": "Sep. 17, 2022",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Petr Yan",
+      "result": "loss",
+      "date": "Oct. 30, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "TJ Dillashaw",
+      "result": "loss",
+      "date": "Jul. 24, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Frankie Edgar",
+      "result": "win",
+      "date": "Feb. 06, 2021",
+      "method": "KO/TKO (Flying Knee)"
+    },
+    {
+      "opponent": "Marlon Moraes",
+      "result": "win",
+      "date": "Oct. 10, 2020",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Aljamain Sterling",
+      "result": "loss",
+      "date": "Jun. 06, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Raphael Assuncao",
+      "result": "win",
+      "date": "Aug. 17, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "John Lineker",
+      "result": "win",
+      "date": "Apr. 27, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mario Bautista",
+      "result": "win",
+      "date": "Jan. 19, 2019",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Iuri Alcantara",
+      "result": "win",
+      "date": "Aug. 25, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Austin Arnett",
+      "result": "win",
+      "date": "Jan. 27, 2018",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

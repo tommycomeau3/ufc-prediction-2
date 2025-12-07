@@ -1,0 +1,109 @@
+{
+  "url": "http://ufcstats.com/fighter-details/8e5d953bdb9ae5e7",
+  "stats": {
+    "name": "Loopy Godinez",
+    "record": "14-5-0",
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 2\"",
+    "weight": "115 lbs.",
+    "reach": "61\"",
+    "stance": "Orthodox",
+    "dob": "Sep 06, 1993",
+    "strikes_landed_per_min": 4.51,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.03,
+    "striking_defense": 0.62,
+    "takedown_average": null,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.81,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jessica Andrade",
+      "result": "win",
+      "date": "Aug. 16, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julia Polastri",
+      "result": "win",
+      "date": "Mar. 29, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mackenzie Dern",
+      "result": "loss",
+      "date": "Aug. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Virna Jandiroba",
+      "result": "loss",
+      "date": "Mar. 30, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tabatha Ricci",
+      "result": "win",
+      "date": "Nov. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Elise Reed",
+      "result": "win",
+      "date": "Sep. 16, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Emily Ducote",
+      "result": "win",
+      "date": "May. 20, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cynthia Calvillo",
+      "result": "win",
+      "date": "Apr. 08, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Angela Hill",
+      "result": "loss",
+      "date": "Aug. 13, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ariane Carnelossi",
+      "result": "win",
+      "date": "May. 07, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Loma Lookboonmee",
+      "result": "win",
+      "date": "Nov. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Luana Carolina",
+      "result": "loss",
+      "date": "Oct. 16, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Silvana Gomez Juarez",
+      "result": "win",
+      "date": "Oct. 09, 2021",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Jessica Penne",
+      "result": "loss",
+      "date": "Apr. 17, 2021",
+      "method": "N/A"
+    }
+  ]
+}

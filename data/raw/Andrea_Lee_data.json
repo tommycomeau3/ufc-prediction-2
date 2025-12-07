@@ -1,0 +1,109 @@
+{
+  "url": "http://ufcstats.com/fighter-details/05fa626cb33d15b8",
+  "stats": {
+    "name": "Andrea Lee",
+    "record": "13-11-0",
+    "wins": 13,
+    "losses": 11,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "125 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Feb 11, 1989",
+    "strikes_landed_per_min": 4.62,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.91,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.52,
+    "takedown_defense": 0.53,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "JJ Aldrich",
+      "result": "loss",
+      "date": "Mar. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Montana De La Rosa",
+      "result": "loss",
+      "date": "Jun. 08, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Miranda Maverick",
+      "result": "loss",
+      "date": "Feb. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Natalia Silva",
+      "result": "loss",
+      "date": "Aug. 19, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Maycee Barber",
+      "result": "loss",
+      "date": "Mar. 25, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Viviane Araujo",
+      "result": "loss",
+      "date": "May. 14, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cynthia Calvillo",
+      "result": "win",
+      "date": "Nov. 13, 2021",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Antonina Shevchenko",
+      "result": "win",
+      "date": "May. 15, 2021",
+      "method": "Submission (Triangle Armbar)"
+    },
+    {
+      "opponent": "Roxanne Modafferi",
+      "result": "loss",
+      "date": "Sep. 12, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lauren Murphy",
+      "result": "loss",
+      "date": "Feb. 08, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joanne Wood",
+      "result": "loss",
+      "date": "Sep. 07, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Montana De La Rosa",
+      "result": "win",
+      "date": "Jun. 22, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ashlee Evans-Smith",
+      "result": "win",
+      "date": "Feb. 17, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Veronica Hardy",
+      "result": "win",
+      "date": "May. 19, 2018",
+      "method": "N/A"
+    }
+  ]
+}

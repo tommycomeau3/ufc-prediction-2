@@ -1,0 +1,103 @@
+{
+  "url": "http://ufcstats.com/fighter-details/1ebe20ebbfa15e29",
+  "stats": {
+    "name": "Zhang Weili",
+    "record": "26-4-0",
+    "wins": 26,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 4\"",
+    "weight": "115 lbs.",
+    "reach": "63\"",
+    "stance": "Switch",
+    "dob": "Aug 13, 1989",
+    "strikes_landed_per_min": 4.66,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.63,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.44,
+    "takedown_defense": 0.63,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Valentina Shevchenko",
+      "result": "loss",
+      "date": "Nov. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tatiana Suarez",
+      "result": "win",
+      "date": "Feb. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yan Xiaonan",
+      "result": "win",
+      "date": "Apr. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amanda Lemos",
+      "result": "win",
+      "date": "Aug. 19, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carla Esparza",
+      "result": "win",
+      "date": "Nov. 12, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Joanna Jedrzejczyk",
+      "result": "win",
+      "date": "Jun. 11, 2022",
+      "method": "KO/TKO (Spinning Back Fist)"
+    },
+    {
+      "opponent": "Rose Namajunas",
+      "result": "loss",
+      "date": "Nov. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rose Namajunas",
+      "result": "loss",
+      "date": "Apr. 24, 2021",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Joanna Jedrzejczyk",
+      "result": "win",
+      "date": "Mar. 07, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jessica Andrade",
+      "result": "win",
+      "date": "Aug. 31, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Tecia Pennington",
+      "result": "win",
+      "date": "Mar. 02, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jessica Aguilar",
+      "result": "win",
+      "date": "Nov. 24, 2018",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Danielle Taylor",
+      "result": "win",
+      "date": "Aug. 04, 2018",
+      "method": "N/A"
+    }
+  ]
+}

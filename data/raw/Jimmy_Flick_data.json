@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/09e62c450e754913",
+  "stats": {
+    "name": "Jimmy Flick",
+    "record": "17-9-0",
+    "wins": 17,
+    "losses": 9,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Sep 07, 1990",
+    "strikes_landed_per_min": 1.67,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.7,
+    "striking_defense": 0.43,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Matt Schnell",
+      "result": "loss",
+      "date": "Apr. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nate Maness",
+      "result": "loss",
+      "date": "Jun. 15, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Malcolm Gordon",
+      "result": "win",
+      "date": "Jan. 20, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Alessandro Costa",
+      "result": "loss",
+      "date": "Jun. 17, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Charles Johnson",
+      "result": "loss",
+      "date": "Jan. 14, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Cody Durden",
+      "result": "win",
+      "date": "Dec. 19, 2020",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Nate Smith",
+      "result": "win",
+      "date": "Sep. 01, 2020",
+      "method": "Submission (Arm Triangle)"
+    }
+  ]
+}

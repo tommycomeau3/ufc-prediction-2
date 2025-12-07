@@ -1,0 +1,47 @@
+{
+  "url": "http://ufcstats.com/fighter-details/69898645d600abdb",
+  "stats": {
+    "name": "Rodolfo Bellato",
+    "record": "12-3-1 (1 NC)",
+    "wins": 12,
+    "losses": 3
+  },
+  "fight_history": [
+    {
+      "opponent": "Navajo Stirling",
+      "result": "loss",
+      "date": "Sep. 27, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paul Craig",
+      "result": "nc",
+      "date": "Jun. 14, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jimmy Crute",
+      "result": "draw",
+      "date": "Feb. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ihor Potieria",
+      "result": "win",
+      "date": "Dec. 02, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Murtaza Talha",
+      "result": "win",
+      "date": "Oct. 03, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Vitor Petrino",
+      "result": "loss",
+      "date": "Sep. 06, 2022",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

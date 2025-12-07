@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/117a06469813e4ef",
+  "stats": {
+    "name": "ChangHo Lee",
+    "record": "11-2-0",
+    "wins": 11,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "May 09, 1994",
+    "strikes_landed_per_min": 3.88,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.13,
+    "striking_defense": 0.37,
+    "takedown_average": null,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.4,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Timmy Cuamba",
+      "result": "loss",
+      "date": "Nov. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cortavious Romious",
+      "result": "win",
+      "date": "Apr. 05, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Xiao Long",
+      "result": "win",
+      "date": "Jun. 22, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daermisi Zhawupasi",
+      "result": "win",
+      "date": "Aug. 27, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Rana Rudra Pratap Singh",
+      "result": "win",
+      "date": "May. 28, 2023",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

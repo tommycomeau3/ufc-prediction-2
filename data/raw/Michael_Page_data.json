@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a67d071163962af8",
+  "stats": {
+    "name": "Michael Page",
+    "record": "24-3-0",
+    "wins": 24,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "185 lbs.",
+    "reach": "79\"",
+    "stance": "Switch",
+    "dob": "Apr 07, 1987",
+    "strikes_landed_per_min": 2.39,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.68,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.16,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jared Cannonier",
+      "result": "win",
+      "date": "Aug. 16, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shara Magomedov",
+      "result": "win",
+      "date": "Feb. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ian Machado Garry",
+      "result": "loss",
+      "date": "Jun. 29, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kevin Holland",
+      "result": "win",
+      "date": "Mar. 09, 2024",
+      "method": "N/A"
+    }
+  ]
+}

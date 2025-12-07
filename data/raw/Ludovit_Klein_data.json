@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/5b86d491d63890c5",
+  "stats": {
+    "name": "Ludovit Klein",
+    "record": "24-5-1",
+    "wins": 24,
+    "losses": 5,
+    "draws": 1,
+    "height": "5' 7\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Southpaw",
+    "dob": "Feb 22, 1995",
+    "strikes_landed_per_min": 3.76,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.48,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.51,
+    "takedown_defense": 0.76,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Mateusz Rebecki",
+      "result": "win",
+      "date": "Oct. 25, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mateusz Gamrot",
+      "result": "loss",
+      "date": "May. 31, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Roosevelt Roberts",
+      "result": "win",
+      "date": "Sep. 28, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Thiago Moises",
+      "result": "win",
+      "date": "Jun. 08, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "AJ Cunningham",
+      "result": "win",
+      "date": "Mar. 02, 2024",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Ignacio Bahamondes",
+      "result": "win",
+      "date": "Aug. 05, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jai Herbert",
+      "result": "draw",
+      "date": "Mar. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mason Jones",
+      "result": "win",
+      "date": "Jul. 23, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Devonte Smith",
+      "result": "win",
+      "date": "Mar. 05, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nate Landwehr",
+      "result": "loss",
+      "date": "Oct. 16, 2021",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Michael Trizano",
+      "result": "loss",
+      "date": "May. 08, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shane Young",
+      "result": "win",
+      "date": "Sep. 26, 2020",
+      "method": "KO/TKO (Kick)"
+    }
+  ]
+}

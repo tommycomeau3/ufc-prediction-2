@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/abcf2cc6efc42031",
+  "stats": {
+    "name": "Iasmin Lucindo",
+    "record": "18-6-0",
+    "wins": 18,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "115 lbs.",
+    "reach": "66\"",
+    "stance": "Orthodox",
+    "dob": "Jan 08, 2002",
+    "strikes_landed_per_min": 3.22,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.8,
+    "striking_defense": 0.62,
+    "takedown_average": null,
+    "takedown_accuracy": 0.55,
+    "takedown_defense": 0.68,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Angela Hill",
+      "result": "win",
+      "date": "Aug. 09, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amanda Lemos",
+      "result": "loss",
+      "date": "Mar. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marina Rodriguez",
+      "result": "win",
+      "date": "Oct. 05, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Karolina Kowalkiewicz",
+      "result": "win",
+      "date": "May. 04, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Polyana Viana",
+      "result": "win",
+      "date": "Aug. 12, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Brogan Walker",
+      "result": "win",
+      "date": "Apr. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yazmin Jauregui",
+      "result": "loss",
+      "date": "Aug. 13, 2022",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4148802ae4a50768",
+  "stats": {
+    "name": "Daniel Zellhuber",
+    "record": "15-3-0",
+    "wins": 15,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "155 lbs.",
+    "reach": "77\"",
+    "stance": "Switch",
+    "dob": "Jul 07, 1999",
+    "strikes_landed_per_min": 5.83,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.91,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.94,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Michael Johnson",
+      "result": "loss",
+      "date": "Jul. 19, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Esteban Ribovics",
+      "result": "loss",
+      "date": "Sep. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Francisco Prado",
+      "result": "win",
+      "date": "Feb. 24, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Christos Giagos",
+      "result": "win",
+      "date": "Sep. 16, 2023",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Lando Vannata",
+      "result": "win",
+      "date": "Apr. 15, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Trey Ogden",
+      "result": "loss",
+      "date": "Sep. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lucas Almeida",
+      "result": "win",
+      "date": "Sep. 28, 2021",
+      "method": "N/A"
+    }
+  ]
+}

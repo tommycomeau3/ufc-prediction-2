@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/9c393e836a852f30",
+  "stats": {
+    "name": "Mauricio Ruffy",
+    "record": "12-2-0",
+    "wins": 12,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Jun 17, 1996",
+    "strikes_landed_per_min": 3.84,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.16,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.84,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Benoit Saint Denis",
+      "result": "loss",
+      "date": "Sep. 06, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "King Green",
+      "result": "win",
+      "date": "Mar. 08, 2025",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "James Llontop",
+      "result": "win",
+      "date": "Nov. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jamie Mullarkey",
+      "result": "win",
+      "date": "May. 04, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Raimond Magomedaliev",
+      "result": "win",
+      "date": "Oct. 03, 2023",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

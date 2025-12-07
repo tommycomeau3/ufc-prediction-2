@@ -1,0 +1,115 @@
+{
+  "url": "http://ufcstats.com/fighter-details/2cd428e9606856fd",
+  "stats": {
+    "name": "Jairzinho Rozenstruik",
+    "record": "15-6-0",
+    "wins": 15,
+    "losses": 6,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "242 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Mar 17, 1988",
+    "strikes_landed_per_min": 3.48,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.63,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.72,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Sergei Pavlovich",
+      "result": "loss",
+      "date": "Feb. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tai Tuivasa",
+      "result": "win",
+      "date": "Aug. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shamil Gaziev",
+      "result": "win",
+      "date": "Mar. 02, 2024",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Jailton Almeida",
+      "result": "loss",
+      "date": "May. 13, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Chris Daukaus",
+      "result": "win",
+      "date": "Dec. 10, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Alexander Volkov",
+      "result": "loss",
+      "date": "Jun. 04, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Curtis Blaydes",
+      "result": "loss",
+      "date": "Sep. 25, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Augusto Sakai",
+      "result": "win",
+      "date": "Jun. 05, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ciryl Gane",
+      "result": "loss",
+      "date": "Feb. 27, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Junior Dos Santos",
+      "result": "win",
+      "date": "Aug. 15, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Francis Ngannou",
+      "result": "loss",
+      "date": "May. 09, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Alistair Overeem",
+      "result": "win",
+      "date": "Dec. 07, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Andrei Arlovski",
+      "result": "win",
+      "date": "Nov. 02, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Allen Crowder",
+      "result": "win",
+      "date": "Jun. 22, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Junior Albini",
+      "result": "win",
+      "date": "Feb. 02, 2019",
+      "method": "KO/TKO (Kick)"
+    }
+  ]
+}

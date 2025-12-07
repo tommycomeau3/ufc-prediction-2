@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0f1efce7d2571d10",
+  "stats": {
+    "name": "Nikolay Veretennikov",
+    "record": "13-7-0",
+    "wins": 13,
+    "losses": 7,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "170 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Dec 22, 1989",
+    "strikes_landed_per_min": 2.49,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.25,
+    "striking_defense": 0.44,
+    "takedown_average": null,
+    "takedown_accuracy": 0.16,
+    "takedown_defense": 0.62,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Punahele Soriano",
+      "result": "loss",
+      "date": "Oct. 04, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Francisco Prado",
+      "result": "win",
+      "date": "Jul. 19, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Austin Vanderford",
+      "result": "loss",
+      "date": "Feb. 22, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Danny Barlow",
+      "result": "loss",
+      "date": "Aug. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michael Morales",
+      "result": "loss",
+      "date": "Sep. 21, 2021",
+      "method": "N/A"
+    }
+  ]
+}

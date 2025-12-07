@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/97cf1a2c7c5e7889",
+  "stats": {
+    "name": "Steve Garcia",
+    "record": "19-5-0",
+    "wins": 19,
+    "losses": 5,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "145 lbs.",
+    "reach": "75\"",
+    "stance": "Southpaw",
+    "dob": "May 22, 1992",
+    "strikes_landed_per_min": 5.39,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.12,
+    "striking_defense": 0.59,
+    "takedown_average": null,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.88,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "David Onama",
+      "result": "win",
+      "date": "Nov. 01, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Calvin Kattar",
+      "result": "win",
+      "date": "Jul. 12, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kyle Nelson",
+      "result": "win",
+      "date": "Sep. 07, 2024",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "SeungWoo Choi",
+      "result": "win",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Melquizael Costa",
+      "result": "win",
+      "date": "Dec. 09, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Shayilan Nuerdanbieke",
+      "result": "win",
+      "date": "Apr. 08, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Chase Hooper",
+      "result": "win",
+      "date": "Oct. 29, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Maheshate",
+      "result": "loss",
+      "date": "Jun. 11, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Charlie Ontiveros",
+      "result": "win",
+      "date": "Oct. 09, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Luis Pena",
+      "result": "loss",
+      "date": "Feb. 29, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Desmond Torres",
+      "result": "win",
+      "date": "Aug. 20, 2019",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

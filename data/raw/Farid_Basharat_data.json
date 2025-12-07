@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a09ed60aa67a3f67",
+  "stats": {
+    "name": "Farid Basharat",
+    "record": "14-0-0",
+    "wins": 14,
+    "losses": 0,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Aug 02, 1997",
+    "strikes_landed_per_min": 4.05,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.47,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.47,
+    "takedown_defense": 0.72,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Chris Gutierrez",
+      "result": "win",
+      "date": "Oct. 04, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Victor Hugo",
+      "result": "win",
+      "date": "Oct. 26, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Taylor Lapilus",
+      "result": "win",
+      "date": "Jan. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kleydson Rodrigues",
+      "result": "win",
+      "date": "Sep. 02, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Da'Mon Blackshear",
+      "result": "win",
+      "date": "Mar. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Allan Begosso",
+      "result": "win",
+      "date": "Sep. 13, 2022",
+      "method": "N/A"
+    }
+  ]
+}

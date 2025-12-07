@@ -1,0 +1,71 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4126a78111c0855a",
+  "stats": {
+    "name": "Caio Borralho",
+    "record": "17-2-0 (1 NC)",
+    "wins": 17,
+    "losses": 2
+  },
+  "fight_history": [
+    {
+      "opponent": "Nassourdine Imavov",
+      "result": "loss",
+      "date": "Sep. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jared Cannonier",
+      "result": "win",
+      "date": "Aug. 24, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paul Craig",
+      "result": "win",
+      "date": "May. 04, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Abus Magomedov",
+      "result": "win",
+      "date": "Nov. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michal Oleksiejczuk",
+      "result": "win",
+      "date": "Apr. 29, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Makhmud Muradov",
+      "result": "win",
+      "date": "Oct. 22, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Armen Petrosyan",
+      "result": "win",
+      "date": "Jul. 09, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gadzhi Omargadzhiev",
+      "result": "win",
+      "date": "Apr. 16, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jesse Murray",
+      "result": "win",
+      "date": "Oct. 19, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Aaron Jeffery",
+      "result": "win",
+      "date": "Sep. 28, 2021",
+      "method": "N/A"
+    }
+  ]
+}

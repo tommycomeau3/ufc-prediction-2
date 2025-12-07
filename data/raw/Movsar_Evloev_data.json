@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/76e2870ffafbe38f",
+  "stats": {
+    "name": "Movsar Evloev",
+    "record": "19-0-0",
+    "wins": 19,
+    "losses": 0,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Feb 11, 1994",
+    "strikes_landed_per_min": 3.99,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.66,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.48,
+    "takedown_defense": 0.61,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Aljamain Sterling",
+      "result": "win",
+      "date": "Dec. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Arnold Allen",
+      "result": "win",
+      "date": "Jan. 20, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Diego Lopes",
+      "result": "win",
+      "date": "May. 06, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dan Ige",
+      "result": "win",
+      "date": "Jun. 04, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hakeem Dawodu",
+      "result": "win",
+      "date": "Jun. 12, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nik Lentz",
+      "result": "win",
+      "date": "Jan. 23, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mike Grundy",
+      "result": "win",
+      "date": "Jul. 25, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Enrique Barzola",
+      "result": "win",
+      "date": "Oct. 26, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "SeungWoo Choi",
+      "result": "win",
+      "date": "Apr. 20, 2019",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6d68c1afe954f121",
+  "stats": {
+    "name": "Ode Osbourne",
+    "record": "13-9-0 (1 NC)",
+    "wins": 13,
+    "losses": 9
+  },
+  "fight_history": [
+    {
+      "opponent": "Steve Erceg",
+      "result": "loss",
+      "date": "Aug. 09, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Luis Gurule",
+      "result": "win",
+      "date": "Apr. 05, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ronaldo Rodriguez",
+      "result": "loss",
+      "date": "Sep. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jafel Filho",
+      "result": "loss",
+      "date": "Mar. 16, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Asu Almabayev",
+      "result": "loss",
+      "date": "Aug. 05, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Charles Johnson",
+      "result": "win",
+      "date": "Feb. 25, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tyson Nam",
+      "result": "loss",
+      "date": "Aug. 13, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Zarrukh Adashev",
+      "result": "win",
+      "date": "Jun. 04, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "CJ Vergara",
+      "result": "win",
+      "date": "Nov. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Manel Kape",
+      "result": "loss",
+      "date": "Aug. 07, 2021",
+      "method": "KO/TKO (Flying Knee)"
+    },
+    {
+      "opponent": "Jerome Rivera",
+      "result": "win",
+      "date": "Feb. 06, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Brian Kelleher",
+      "result": "loss",
+      "date": "Jan. 18, 2020",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Armando Villarreal",
+      "result": "win",
+      "date": "Jul. 16, 2019",
+      "method": "Submission (Armbar)"
+    }
+  ]
+}

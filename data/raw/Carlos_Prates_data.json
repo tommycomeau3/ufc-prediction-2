@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7ee0fd831c0fe7c3",
+  "stats": {
+    "name": "Carlos Prates",
+    "record": "23-7-0",
+    "wins": 23,
+    "losses": 7,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "170 lbs.",
+    "reach": "78\"",
+    "stance": "Switch",
+    "dob": "Aug 17, 1993",
+    "strikes_landed_per_min": 3.77,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.53,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.1,
+    "takedown_defense": 0.8,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Leon Edwards",
+      "result": "win",
+      "date": "Nov. 15, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Geoff Neal",
+      "result": "win",
+      "date": "Aug. 16, 2025",
+      "method": "KO/TKO (Spinning Back Elbow)"
+    },
+    {
+      "opponent": "Ian Machado Garry",
+      "result": "loss",
+      "date": "Apr. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Neil Magny",
+      "result": "win",
+      "date": "Nov. 09, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Li Jingliang",
+      "result": "win",
+      "date": "Aug. 17, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Charles Radtke",
+      "result": "win",
+      "date": "Jun. 08, 2024",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Trevin Giles",
+      "result": "win",
+      "date": "Feb. 10, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mitch Ramirez",
+      "result": "win",
+      "date": "Aug. 29, 2023",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

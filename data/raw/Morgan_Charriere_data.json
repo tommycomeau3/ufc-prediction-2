@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/5b03b61f9d90125e",
+  "stats": {
+    "name": "Morgan Charriere",
+    "record": "21-11-1",
+    "wins": 21,
+    "losses": 11,
+    "draws": 1,
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Oct 26, 1995",
+    "strikes_landed_per_min": 4.08,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.54,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.46,
+    "takedown_defense": 0.83,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Melquizael Costa",
+      "result": "next",
+      "date": "Dec. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nate Landwehr",
+      "result": "win",
+      "date": "Jul. 12, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Nathaniel Wood",
+      "result": "loss",
+      "date": "Mar. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gabriel Miranda",
+      "result": "win",
+      "date": "Sep. 28, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Chepe Mariscal",
+      "result": "loss",
+      "date": "Apr. 06, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Manolo Zecchini",
+      "result": "win",
+      "date": "Sep. 02, 2023",
+      "method": "KO/TKO (Kicks)"
+    }
+  ]
+}

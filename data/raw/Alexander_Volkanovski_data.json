@@ -1,0 +1,133 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e1248941344b3288",
+  "stats": {
+    "name": "Alexander Volkanovski",
+    "record": "27-4-0",
+    "wins": 27,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Sep 29, 1988",
+    "strikes_landed_per_min": 6.18,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.36,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.7,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Diego Lopes",
+      "result": "next",
+      "date": "Jan. 31, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Diego Lopes",
+      "result": "win",
+      "date": "Apr. 12, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ilia Topuria",
+      "result": "loss",
+      "date": "Feb. 17, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Islam Makhachev",
+      "result": "loss",
+      "date": "Oct. 21, 2023",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Yair Rodriguez",
+      "result": "win",
+      "date": "Jul. 08, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Islam Makhachev",
+      "result": "loss",
+      "date": "Feb. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Max Holloway",
+      "result": "win",
+      "date": "Jul. 02, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chan Sung Jung",
+      "result": "win",
+      "date": "Apr. 09, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Brian Ortega",
+      "result": "win",
+      "date": "Sep. 25, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Max Holloway",
+      "result": "win",
+      "date": "Jul. 11, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Max Holloway",
+      "result": "win",
+      "date": "Dec. 14, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jose Aldo",
+      "result": "win",
+      "date": "May. 11, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chad Mendes",
+      "result": "win",
+      "date": "Dec. 29, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Darren Elkins",
+      "result": "win",
+      "date": "Jul. 14, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jeremy Kennedy",
+      "result": "win",
+      "date": "Feb. 10, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Shane Young",
+      "result": "win",
+      "date": "Nov. 18, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mizuto Hirota",
+      "result": "win",
+      "date": "Jun. 10, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yusuke Kasuya",
+      "result": "win",
+      "date": "Nov. 26, 2016",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "url": "http://ufcstats.com/fighter-details/bf7ad5628363eec9",
+  "stats": {
+    "name": "Cody Stamann",
+    "record": "21-8-1",
+    "wins": 21,
+    "losses": 8,
+    "draws": 1,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "64\"",
+    "stance": "Orthodox",
+    "dob": "Nov 09, 1989",
+    "strikes_landed_per_min": 4.32,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.91,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.37,
+    "takedown_defense": 0.76,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Da'Mon Blackshear",
+      "result": "loss",
+      "date": "Nov. 09, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Taylor Lapilus",
+      "result": "loss",
+      "date": "Jun. 08, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Douglas Silva de Andrade",
+      "result": "loss",
+      "date": "May. 13, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Luan Lacerda",
+      "result": "win",
+      "date": "Jan. 21, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Eddie Wineland",
+      "result": "win",
+      "date": "Jun. 18, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Said Nurmagomedov",
+      "result": "loss",
+      "date": "Jan. 22, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Merab Dvalishvili",
+      "result": "loss",
+      "date": "May. 01, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jimmie Rivera",
+      "result": "loss",
+      "date": "Jul. 15, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brian Kelleher",
+      "result": "win",
+      "date": "Jun. 06, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Song Yadong",
+      "result": "draw",
+      "date": "Dec. 07, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alejandro Perez",
+      "result": "win",
+      "date": "Mar. 02, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aljamain Sterling",
+      "result": "loss",
+      "date": "Sep. 08, 2018",
+      "method": "Submission (Suloev Stretch)"
+    },
+    {
+      "opponent": "Bryan Caraway",
+      "result": "win",
+      "date": "Mar. 03, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tom Duquesnoy",
+      "result": "win",
+      "date": "Oct. 07, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Terrion Ware",
+      "result": "win",
+      "date": "Jul. 08, 2017",
+      "method": "N/A"
+    }
+  ]
+}

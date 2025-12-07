@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/3253b16d38ae087d",
+  "stats": {
+    "name": "Julianna Pena",
+    "record": "13-6-0",
+    "wins": 13,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Aug 19, 1989",
+    "strikes_landed_per_min": 3.1,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.56,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.54,
+    "takedown_defense": 0.24,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kayla Harrison",
+      "result": "loss",
+      "date": "Jun. 07, 2025",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Raquel Pennington",
+      "result": "win",
+      "date": "Oct. 05, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amanda Nunes",
+      "result": "loss",
+      "date": "Jul. 30, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amanda Nunes",
+      "result": "win",
+      "date": "Dec. 11, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Sara McMann",
+      "result": "win",
+      "date": "Jan. 23, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Germaine de Randamie",
+      "result": "loss",
+      "date": "Oct. 03, 2020",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Nicco Montano",
+      "result": "win",
+      "date": "Jul. 13, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Valentina Shevchenko",
+      "result": "loss",
+      "date": "Jan. 28, 2017",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Cat Zingano",
+      "result": "win",
+      "date": "Jul. 09, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jessica Eye",
+      "result": "win",
+      "date": "Oct. 03, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Milana Dudieva",
+      "result": "win",
+      "date": "Apr. 04, 2015",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Jessica Rakoczy",
+      "result": "win",
+      "date": "Nov. 30, 2013",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

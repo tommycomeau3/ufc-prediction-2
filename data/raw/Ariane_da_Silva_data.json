@@ -1,0 +1,109 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6551c64fbcd1a467",
+  "stats": {
+    "name": "Ariane da Silva",
+    "record": "17-11-0",
+    "wins": 17,
+    "losses": 11,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "125 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Jan 26, 1994",
+    "strikes_landed_per_min": 4.05,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.4,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.38,
+    "takedown_defense": 0.68,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Wang Cong",
+      "result": "loss",
+      "date": "Jun. 07, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jasmine Jasudavicius",
+      "result": "loss",
+      "date": "Nov. 02, 2024",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Karine Silva",
+      "result": "loss",
+      "date": "Apr. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Casey O'Neill",
+      "result": "win",
+      "date": "Dec. 16, 2023",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Melissa Gatto",
+      "result": "win",
+      "date": "Jul. 01, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "JJ Aldrich",
+      "result": "win",
+      "date": "Mar. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Priscila Cachoeira",
+      "result": "loss",
+      "date": "Aug. 13, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Mandy Bohm",
+      "result": "win",
+      "date": "Sep. 18, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Montana De La Rosa",
+      "result": "loss",
+      "date": "Jun. 05, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Antonina Shevchenko",
+      "result": "loss",
+      "date": "Nov. 21, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Luana Carolina",
+      "result": "win",
+      "date": "Jul. 18, 2020",
+      "method": "Submission (Kneebar)"
+    },
+    {
+      "opponent": "Isabela de Padua",
+      "result": "win",
+      "date": "Nov. 16, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Molly McCann",
+      "result": "loss",
+      "date": "Jun. 22, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joanne Wood",
+      "result": "loss",
+      "date": "Jan. 19, 2019",
+      "method": "N/A"
+    }
+  ]
+}

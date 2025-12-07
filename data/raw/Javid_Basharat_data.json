@@ -1,0 +1,53 @@
+{
+  "url": "http://ufcstats.com/fighter-details/bbab3baf66128ae2",
+  "stats": {
+    "name": "Javid Basharat",
+    "record": "14-2-0 (1 NC)",
+    "wins": 14,
+    "losses": 2
+  },
+  "fight_history": [
+    {
+      "opponent": "Ricky Simon",
+      "result": "loss",
+      "date": "Feb. 22, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Aiemann Zahabi",
+      "result": "loss",
+      "date": "Mar. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Victor Henry",
+      "result": "nc",
+      "date": "Oct. 21, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mateus Mendonca",
+      "result": "win",
+      "date": "Jan. 14, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tony Gravely",
+      "result": "win",
+      "date": "Sep. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Trevin Jones",
+      "result": "win",
+      "date": "Mar. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Oron Kahlon",
+      "result": "win",
+      "date": "Oct. 26, 2021",
+      "method": "Submission (Guillotine Choke)"
+    }
+  ]
+}

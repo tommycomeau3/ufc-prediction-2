@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7facc9c45d792985",
+  "stats": {
+    "name": "Kaan Ofli",
+    "record": "13-4-1",
+    "wins": 13,
+    "losses": 4,
+    "draws": 1,
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "66\"",
+    "stance": "Orthodox",
+    "dob": "Jun 19, 1993",
+    "strikes_landed_per_min": 1.79,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.61,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.14,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ricardo Ramos",
+      "result": "win",
+      "date": "Oct. 11, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Muhammad Naimov",
+      "result": "loss",
+      "date": "Feb. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mairon Santos",
+      "result": "loss",
+      "date": "Aug. 24, 2024",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

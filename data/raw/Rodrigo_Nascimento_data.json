@@ -1,0 +1,65 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d31a5546c0e9b213",
+  "stats": {
+    "name": "Rodrigo Nascimento",
+    "record": "11-3-0 (1 NC)",
+    "wins": 11,
+    "losses": 3
+  },
+  "fight_history": [
+    {
+      "opponent": "Alexandr Romanov",
+      "result": "loss",
+      "date": "Nov. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Derrick Lewis",
+      "result": "loss",
+      "date": "May. 11, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Don'Tale Mayes",
+      "result": "win",
+      "date": "Nov. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ilir Latifi",
+      "result": "win",
+      "date": "May. 20, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tanner Boser",
+      "result": "win",
+      "date": "Sep. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alan Baudot",
+      "result": "nc",
+      "date": "Jul. 17, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Daukaus",
+      "result": "loss",
+      "date": "Oct. 10, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Don'Tale Mayes",
+      "result": "win",
+      "date": "May. 16, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Michal Martinek",
+      "result": "win",
+      "date": "Jul. 30, 2019",
+      "method": "Submission (Arm Triangle)"
+    }
+  ]
+}

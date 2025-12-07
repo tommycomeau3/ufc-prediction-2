@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/70dd69b6a703257e",
+  "stats": {
+    "name": "Daniil Donchenko",
+    "record": "13-2-0",
+    "wins": 13,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Aug 04, 2001",
+    "strikes_landed_per_min": 8.76,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.25,
+    "striking_defense": 0.72,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rodrigo Sezinando",
+      "result": "win",
+      "date": "Sep. 13, 2025",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4729c93ba705a3bf",
+  "stats": {
+    "name": "Kiefer Crosbie",
+    "record": "10-6-0",
+    "wins": 10,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "70\"",
+    "stance": "Switch",
+    "dob": "Apr 05, 1990",
+    "strikes_landed_per_min": 4.46,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.8,
+    "striking_defense": 0.46,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.4,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Taiyilake Nueraji",
+      "result": "loss",
+      "date": "Aug. 23, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Sam Patterson",
+      "result": "loss",
+      "date": "Jul. 27, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Kevin Jousset",
+      "result": "loss",
+      "date": "Sep. 09, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

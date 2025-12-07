@@ -1,0 +1,59 @@
+{
+  "url": "http://ufcstats.com/fighter-details/be9bdec19b7e9ffe",
+  "stats": {
+    "name": "Austen Lane",
+    "record": "13-7-0 (1 NC)",
+    "wins": 13,
+    "losses": 7
+  },
+  "fight_history": [
+    {
+      "opponent": "Vitor Petrino",
+      "result": "loss",
+      "date": "Jul. 12, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Mario Pinto",
+      "result": "loss",
+      "date": "Mar. 01, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Robelis Despaigne",
+      "result": "win",
+      "date": "Oct. 19, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jhonata Diniz",
+      "result": "loss",
+      "date": "Apr. 27, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Justin Tafa",
+      "result": "loss",
+      "date": "Sep. 09, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Justin Tafa",
+      "result": "nc",
+      "date": "Jun. 24, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Richard Jacobi",
+      "result": "win",
+      "date": "Sep. 20, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Greg Hardy",
+      "result": "loss",
+      "date": "Jun. 12, 2018",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f41b9f5efc7162d6",
+  "stats": {
+    "name": "Jamal Pogues",
+    "record": "11-5-0",
+    "wins": 11,
+    "losses": 5,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "205 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "Dec 01, 1995",
+    "strikes_landed_per_min": 3.57,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.97,
+    "striking_defense": 0.49,
+    "takedown_average": null,
+    "takedown_accuracy": 0.46,
+    "takedown_defense": 0.7,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Hamdy Abdelwahab",
+      "result": "loss",
+      "date": "Feb. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Thomas Petersen",
+      "result": "win",
+      "date": "Feb. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mick Parkin",
+      "result": "loss",
+      "date": "Jul. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Parisian",
+      "result": "win",
+      "date": "Feb. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paulo Renato Junior",
+      "result": "win",
+      "date": "Aug. 09, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marcos Brigagao",
+      "result": "win",
+      "date": "Aug. 20, 2019",
+      "method": "N/A"
+    }
+  ]
+}

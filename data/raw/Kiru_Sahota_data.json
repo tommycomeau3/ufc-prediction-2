@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/296a120cb880477b",
+  "stats": {
+    "name": "Kiru Sahota",
+    "record": "12-3-0",
+    "wins": 12,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "125 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "May 28, 1995",
+    "strikes_landed_per_min": 4.05,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.64,
+    "striking_defense": 0.41,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "DongHun Choi",
+      "result": "loss",
+      "date": "Nov. 23, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ruel Panales",
+      "result": "win",
+      "date": "Aug. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yin Shuai",
+      "result": "win",
+      "date": "May. 19, 2024",
+      "method": "N/A"
+    }
+  ]
+}

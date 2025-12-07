@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/72ea1984c52019b5",
+  "stats": {
+    "name": "Saimon Oliveira",
+    "record": "18-7-0",
+    "wins": 18,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 4\"",
+    "weight": "135 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Apr 21, 1991",
+    "strikes_landed_per_min": 2.62,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.87,
+    "striking_defense": 0.45,
+    "takedown_average": null,
+    "takedown_accuracy": 0.28,
+    "takedown_defense": 0.36,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Luan Lacerda",
+      "result": "loss",
+      "date": "Oct. 11, 2025",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "David Martinez",
+      "result": "loss",
+      "date": "Mar. 29, 2025",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Daniel Marcos",
+      "result": "loss",
+      "date": "Jan. 21, 2023",
+      "method": "KO/TKO (Knees)"
+    },
+    {
+      "opponent": "Tony Gravely",
+      "result": "loss",
+      "date": "Jan. 22, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jose Alday",
+      "result": "win",
+      "date": "Sep. 07, 2021",
+      "method": "N/A"
+    }
+  ]
+}

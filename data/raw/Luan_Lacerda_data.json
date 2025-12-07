@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6fc506e1099afe20",
+  "stats": {
+    "name": "Luan Lacerda",
+    "record": "13-3-0",
+    "wins": 13,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jan 07, 1993",
+    "strikes_landed_per_min": 4.02,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.79,
+    "striking_defense": 0.46,
+    "takedown_average": null,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Saimon Oliveira",
+      "result": "win",
+      "date": "Oct. 11, 2025",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Da'Mon Blackshear",
+      "result": "loss",
+      "date": "Jun. 03, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Cody Stamann",
+      "result": "loss",
+      "date": "Jan. 21, 2023",
+      "method": "N/A"
+    }
+  ]
+}

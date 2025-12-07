@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d549cefc7c54ab78",
+  "stats": {
+    "name": "Reinier de Ridder",
+    "record": "21-3-0",
+    "wins": 21,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 4\"",
+    "weight": "185 lbs.",
+    "reach": "78\"",
+    "stance": "Southpaw",
+    "dob": "Sep 07, 1990",
+    "strikes_landed_per_min": 2.2,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.04,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Brendan Allen",
+      "result": "loss",
+      "date": "Oct. 18, 2025",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Robert Whittaker",
+      "result": "win",
+      "date": "Jul. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bo Nickal",
+      "result": "win",
+      "date": "May. 03, 2025",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Kevin Holland",
+      "result": "win",
+      "date": "Jan. 18, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Gerald Meerschaert",
+      "result": "win",
+      "date": "Nov. 09, 2024",
+      "method": "Submission (Arm Triangle)"
+    }
+  ]
+}

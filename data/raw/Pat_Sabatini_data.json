@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b8bbdeff718dbb7d",
+  "stats": {
+    "name": "Pat Sabatini",
+    "record": "21-5-0",
+    "wins": 21,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Nov 09, 1990",
+    "strikes_landed_per_min": 1.69,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.09,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Chepe Mariscal",
+      "result": "win",
+      "date": "Nov. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joanderson Brito",
+      "result": "win",
+      "date": "Apr. 05, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jonathan Pearce",
+      "result": "win",
+      "date": "Oct. 12, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Diego Lopes",
+      "result": "loss",
+      "date": "Nov. 11, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Lucas Almeida",
+      "result": "win",
+      "date": "Jun. 17, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Damon Jackson",
+      "result": "loss",
+      "date": "Sep. 17, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "TJ Laramie",
+      "result": "win",
+      "date": "Apr. 16, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tucker Lutz",
+      "result": "win",
+      "date": "Nov. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jamall Emmers",
+      "result": "win",
+      "date": "Aug. 28, 2021",
+      "method": "Submission (Heel Hook)"
+    },
+    {
+      "opponent": "Tristan Connelly",
+      "result": "win",
+      "date": "Apr. 24, 2021",
+      "method": "N/A"
+    }
+  ]
+}

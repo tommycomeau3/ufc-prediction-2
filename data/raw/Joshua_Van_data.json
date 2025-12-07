@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/17e97649403ba428",
+  "stats": {
+    "name": "Joshua Van",
+    "record": "15-2-0",
+    "wins": 15,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 5\"",
+    "weight": "125 lbs.",
+    "reach": "65\"",
+    "stance": "Orthodox",
+    "dob": "Oct 10, 2001",
+    "strikes_landed_per_min": 8.86,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.36,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.63,
+    "takedown_defense": 0.81,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Alexandre Pantoja",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brandon Royval",
+      "result": "win",
+      "date": "Jun. 28, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bruno Silva",
+      "result": "win",
+      "date": "Jun. 07, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Rei Tsuruya",
+      "result": "win",
+      "date": "Mar. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody Durden",
+      "result": "win",
+      "date": "Dec. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Edgar Chairez",
+      "result": "win",
+      "date": "Sep. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Johnson",
+      "result": "loss",
+      "date": "Jul. 13, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Felipe Bunes",
+      "result": "win",
+      "date": "Jan. 13, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Kevin Borjas",
+      "result": "win",
+      "date": "Nov. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zhalgas Zhumagulov",
+      "result": "win",
+      "date": "Jun. 24, 2023",
+      "method": "N/A"
+    }
+  ]
+}

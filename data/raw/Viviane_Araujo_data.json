@@ -1,0 +1,103 @@
+{
+  "url": "http://ufcstats.com/fighter-details/36541f1e6c5d4955",
+  "stats": {
+    "name": "Viviane Araujo",
+    "record": "13-7-0",
+    "wins": 13,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 4\"",
+    "weight": "125 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Nov 21, 1986",
+    "strikes_landed_per_min": 3.84,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.83,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.43,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Tracy Cortez",
+      "result": "loss",
+      "date": "Jun. 28, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Karine Silva",
+      "result": "win",
+      "date": "Nov. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Natalia Silva",
+      "result": "loss",
+      "date": "Feb. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jennifer Maia",
+      "result": "win",
+      "date": "Oct. 14, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amanda Ribas",
+      "result": "loss",
+      "date": "Mar. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexa Grasso",
+      "result": "loss",
+      "date": "Oct. 15, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andrea Lee",
+      "result": "win",
+      "date": "May. 14, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Katlyn Cerminara",
+      "result": "loss",
+      "date": "May. 15, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Roxanne Modafferi",
+      "result": "win",
+      "date": "Jan. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Montana De La Rosa",
+      "result": "win",
+      "date": "Sep. 05, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jessica Eye",
+      "result": "loss",
+      "date": "Dec. 14, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexis Davis",
+      "result": "win",
+      "date": "Jul. 27, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Talita Bernardo",
+      "result": "win",
+      "date": "May. 11, 2019",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

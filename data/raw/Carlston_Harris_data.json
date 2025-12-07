@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a53d30163304aa6e",
+  "stats": {
+    "name": "Carlston Harris",
+    "record": "19-7-0",
+    "wins": 19,
+    "losses": 7,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "170 lbs.",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "dob": "Jul 09, 1987",
+    "strikes_landed_per_min": 3.79,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.46,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.22,
+    "takedown_defense": 0.55,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Santiago Ponzinibbio",
+      "result": "loss",
+      "date": "Jan. 11, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Khaos Williams",
+      "result": "loss",
+      "date": "May. 18, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jeremiah Wells",
+      "result": "win",
+      "date": "Aug. 05, 2023",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Jared Gooden",
+      "result": "win",
+      "date": "Mar. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shavkat Rakhmonov",
+      "result": "loss",
+      "date": "Feb. 05, 2022",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Impa Kasanganay",
+      "result": "win",
+      "date": "Sep. 18, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Christian Aguilera",
+      "result": "win",
+      "date": "May. 08, 2021",
+      "method": "Submission (Anaconda Choke)"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/69037fc7730e4225",
+  "stats": {
+    "name": "Steven Nguyen",
+    "record": "10-2-0",
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "145 lbs.",
+    "reach": "73\"",
+    "stance": "Switch",
+    "dob": "May 19, 1993",
+    "strikes_landed_per_min": 7.47,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.1,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.1,
+    "takedown_defense": 0.88,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Mohammad Yahya",
+      "result": "win",
+      "date": "Jul. 26, 2025",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Jarno Errens",
+      "result": "loss",
+      "date": "Mar. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "AJ Cunningham",
+      "result": "win",
+      "date": "Sep. 12, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Theo Rlayang",
+      "result": "win",
+      "date": "Sep. 21, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aalon Cruz",
+      "result": "loss",
+      "date": "Jul. 30, 2019",
+      "method": "KO/TKO (Flying Knee)"
+    }
+  ]
+}

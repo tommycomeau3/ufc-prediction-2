@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/3f11fd1751fa83b1",
+  "stats": {
+    "name": "Yizha",
+    "record": "26-5-0",
+    "wins": 26,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jan 08, 1997",
+    "strikes_landed_per_min": 2.97,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.81,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.54,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Westin Wilson",
+      "result": "win",
+      "date": "Aug. 23, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Gabriel Santos",
+      "result": "loss",
+      "date": "Sep. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kaiwen",
+      "result": "win",
+      "date": "Feb. 03, 2024",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "SangWon Kim",
+      "result": "win",
+      "date": "Aug. 27, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Wuziazibieke Jiahefu",
+      "result": "win",
+      "date": "May. 27, 2023",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "JeongYeong Lee",
+      "result": "loss",
+      "date": "Feb. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Koyomi Matsushima",
+      "result": "win",
+      "date": "Oct. 23, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Keisuke Sasu",
+      "result": "win",
+      "date": "Jun. 09, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

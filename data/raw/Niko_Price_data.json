@@ -1,0 +1,125 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d8da10db80131bec",
+  "stats": {
+    "name": "Niko Price",
+    "record": "16-9-0 (2 NC)",
+    "wins": 16,
+    "losses": 9
+  },
+  "fight_history": [
+    {
+      "opponent": "Jacobe Smith",
+      "result": "loss",
+      "date": "Jun. 28, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Themba Gorimbo",
+      "result": "loss",
+      "date": "Oct. 12, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Morono",
+      "result": "win",
+      "date": "Jun. 01, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Robbie Lawler",
+      "result": "loss",
+      "date": "Jul. 08, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Phil Rowe",
+      "result": "loss",
+      "date": "Dec. 03, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alex Oliveira",
+      "result": "win",
+      "date": "Oct. 02, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michel Pereira",
+      "result": "loss",
+      "date": "Jul. 10, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Donald Cerrone",
+      "result": "nc",
+      "date": "Sep. 19, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vicente Luque",
+      "result": "loss",
+      "date": "May. 09, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "James Vick",
+      "result": "win",
+      "date": "Oct. 12, 2019",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Geoff Neal",
+      "result": "loss",
+      "date": "Jul. 27, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Tim Means",
+      "result": "win",
+      "date": "Mar. 09, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Abdul Razak Alhassan",
+      "result": "loss",
+      "date": "Sep. 08, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Randy Brown",
+      "result": "win",
+      "date": "Jul. 14, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "George Sullivan",
+      "result": "win",
+      "date": "Jan. 27, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Vicente Luque",
+      "result": "loss",
+      "date": "Oct. 28, 2017",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Alan Jouban",
+      "result": "win",
+      "date": "Aug. 05, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Alex Morono",
+      "result": "nc",
+      "date": "Feb. 04, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brandon Thatch",
+      "result": "win",
+      "date": "Dec. 30, 2016",
+      "method": "Submission (Arm Triangle)"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f166e93d04a8c274",
+  "stats": {
+    "name": "Diego Lopes",
+    "record": "27-7-0",
+    "wins": 27,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Dec 30, 1994",
+    "strikes_landed_per_min": 4.1,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.72,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.55,
+    "takedown_defense": 0.67,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Alexander Volkanovski",
+      "result": "next",
+      "date": "Jan. 31, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jean Silva",
+      "result": "win",
+      "date": "Sep. 13, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alexander Volkanovski",
+      "result": "loss",
+      "date": "Apr. 12, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brian Ortega",
+      "result": "win",
+      "date": "Sep. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dan Ige",
+      "result": "win",
+      "date": "Jun. 29, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sodiq Yusuff",
+      "result": "win",
+      "date": "Apr. 13, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Pat Sabatini",
+      "result": "win",
+      "date": "Nov. 11, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Gavin Tucker",
+      "result": "win",
+      "date": "Aug. 05, 2023",
+      "method": "Submission (Triangle Armbar)"
+    },
+    {
+      "opponent": "Movsar Evloev",
+      "result": "loss",
+      "date": "May. 06, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joanderson Brito",
+      "result": "loss",
+      "date": "Aug. 31, 2021",
+      "method": "N/A"
+    }
+  ]
+}

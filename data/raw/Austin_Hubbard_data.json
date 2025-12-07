@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d2cd7a69cc55e7ed",
+  "stats": {
+    "name": "Austin Hubbard",
+    "record": "17-10-0",
+    "wins": 17,
+    "losses": 10,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Dec 22, 1991",
+    "strikes_landed_per_min": 3.97,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.1,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.28,
+    "takedown_defense": 0.68,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rongzhu",
+      "result": "loss",
+      "date": "Aug. 23, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "MarQuel Mederos",
+      "result": "loss",
+      "date": "Mar. 29, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexander Hernandez",
+      "result": "loss",
+      "date": "Oct. 05, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michal Figlak",
+      "result": "win",
+      "date": "Apr. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kurt Holobaugh",
+      "result": "loss",
+      "date": "Aug. 19, 2023",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Vinc Pichel",
+      "result": "loss",
+      "date": "Aug. 21, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dakota Bush",
+      "result": "win",
+      "date": "Apr. 17, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joe Solecki",
+      "result": "loss",
+      "date": "Aug. 22, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Max Rohskopf",
+      "result": "win",
+      "date": "Jun. 20, 2020",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Mark Madsen",
+      "result": "loss",
+      "date": "Mar. 07, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kyle Prepolec",
+      "result": "win",
+      "date": "Sep. 14, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Davi Ramos",
+      "result": "loss",
+      "date": "May. 18, 2019",
+      "method": "N/A"
+    }
+  ]
+}

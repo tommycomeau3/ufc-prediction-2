@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/8eb046f83e82bf26",
+  "stats": {
+    "name": "Martin Buday",
+    "record": "16-2-0",
+    "wins": 16,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 4\"",
+    "weight": "265 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "Nov 11, 1991",
+    "strikes_landed_per_min": 4.39,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.49,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.2,
+    "takedown_defense": 0.93,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Marcus Buchecha",
+      "result": "win",
+      "date": "Jul. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Uran Satybaldiev",
+      "result": "win",
+      "date": "Apr. 05, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andrei Arlovski",
+      "result": "win",
+      "date": "Jun. 29, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shamil Gaziev",
+      "result": "loss",
+      "date": "Dec. 16, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Josh Parisian",
+      "result": "win",
+      "date": "Aug. 12, 2023",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Jake Collier",
+      "result": "win",
+      "date": "Apr. 29, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lukasz Brzeski",
+      "result": "win",
+      "date": "Aug. 13, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Barnett",
+      "result": "win",
+      "date": "Apr. 16, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lorenzo Hood",
+      "result": "win",
+      "date": "Oct. 12, 2021",
+      "method": "KO/TKO (Knee)"
+    }
+  ]
+}

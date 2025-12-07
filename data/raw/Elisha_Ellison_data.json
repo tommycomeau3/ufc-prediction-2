@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/87e4a3a5080ee7ce",
+  "stats": {
+    "name": "Elisha Ellison",
+    "record": "5-2-0",
+    "wins": 5,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "238 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Mar 05, 1997",
+    "strikes_landed_per_min": 1.57,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 15.13,
+    "striking_defense": 0.4,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Brando Pericic",
+      "result": "loss",
+      "date": "Sep. 27, 2025",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

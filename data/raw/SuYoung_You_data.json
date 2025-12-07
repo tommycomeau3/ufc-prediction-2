@@ -1,0 +1,41 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a474aade8eb3a8f0",
+  "stats": {
+    "name": "SuYoung You",
+    "record": "16-3-0 (2 NC)",
+    "wins": 16,
+    "losses": 3
+  },
+  "fight_history": [
+    {
+      "opponent": "Xiao Long",
+      "result": "win",
+      "date": "Aug. 23, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "AJ Cunningham",
+      "result": "win",
+      "date": "Mar. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Baergeng Jieleyisi",
+      "result": "win",
+      "date": "Nov. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daermisi Zhawupasi",
+      "result": "win",
+      "date": "Aug. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shohei Nose",
+      "result": "win",
+      "date": "May. 19, 2024",
+      "method": "N/A"
+    }
+  ]
+}

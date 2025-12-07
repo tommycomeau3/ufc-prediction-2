@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7d6ceff6747f2de2",
+  "stats": {
+    "name": "Jose Delgado",
+    "record": "10-2-0",
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "145 lbs.",
+    "reach": "74\"",
+    "stance": "Switch",
+    "dob": "Apr 21, 1998",
+    "strikes_landed_per_min": 8.22,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.44,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.42,
+    "takedown_defense": 0.6,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Nathaniel Wood",
+      "result": "loss",
+      "date": "Oct. 25, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hyder Amil",
+      "result": "win",
+      "date": "Jun. 28, 2025",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Connor Matthews",
+      "result": "win",
+      "date": "Feb. 15, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ernie Juarez",
+      "result": "win",
+      "date": "Aug. 13, 2024",
+      "method": "KO/TKO (Knee)"
+    }
+  ]
+}

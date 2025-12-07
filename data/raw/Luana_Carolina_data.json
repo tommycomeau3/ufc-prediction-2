@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/528b071cf3da7c56",
+  "stats": {
+    "name": "Luana Carolina",
+    "record": "11-5-0",
+    "wins": 11,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Jun 11, 1993",
+    "strikes_landed_per_min": 4.65,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.46,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.37,
+    "takedown_defense": 0.68,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Michelle Montague",
+      "result": "loss",
+      "date": "Sep. 27, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lucie Pudilova",
+      "result": "win",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julija Stoliarenko",
+      "result": "win",
+      "date": "Feb. 03, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ivana Petrovic",
+      "result": "win",
+      "date": "Jul. 01, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joanne Wood",
+      "result": "loss",
+      "date": "Mar. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Molly McCann",
+      "result": "loss",
+      "date": "Mar. 19, 2022",
+      "method": "KO/TKO (Spinning Back Elbow)"
+    },
+    {
+      "opponent": "Loopy Godinez",
+      "result": "win",
+      "date": "Oct. 16, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Poliana Botelho",
+      "result": "win",
+      "date": "May. 01, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ariane da Silva",
+      "result": "loss",
+      "date": "Jul. 18, 2020",
+      "method": "Submission (Kneebar)"
+    },
+    {
+      "opponent": "Priscila Cachoeira",
+      "result": "win",
+      "date": "May. 11, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mabelly Lima",
+      "result": "win",
+      "date": "Aug. 12, 2018",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/dda15dbfafb792df",
+  "stats": {
+    "name": "Kevin Jousset",
+    "record": "10-4-0",
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "170 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "May 02, 1993",
+    "strikes_landed_per_min": 6.61,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.49,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jonathan Micallef",
+      "result": "loss",
+      "date": "Feb. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bryan Battle",
+      "result": "loss",
+      "date": "Sep. 28, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Song Kenan",
+      "result": "win",
+      "date": "Dec. 09, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kiefer Crosbie",
+      "result": "win",
+      "date": "Sep. 09, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "url": "http://ufcstats.com/fighter-details/881bf86d4cba8578",
+  "stats": {
+    "name": "Nassourdine Imavov",
+    "record": "17-4-0 (1 NC)",
+    "wins": 17,
+    "losses": 4
+  },
+  "fight_history": [
+    {
+      "opponent": "Caio Borralho",
+      "result": "win",
+      "date": "Sep. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Israel Adesanya",
+      "result": "win",
+      "date": "Feb. 01, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Brendan Allen",
+      "result": "win",
+      "date": "Sep. 28, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jared Cannonier",
+      "result": "win",
+      "date": "Jun. 08, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Roman Dolidze",
+      "result": "win",
+      "date": "Feb. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Curtis",
+      "result": "nc",
+      "date": "Jun. 10, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean Strickland",
+      "result": "loss",
+      "date": "Jan. 14, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joaquin Buckley",
+      "result": "win",
+      "date": "Sep. 03, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Edmen Shahbazyan",
+      "result": "win",
+      "date": "Nov. 06, 2021",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Ian Heinisch",
+      "result": "win",
+      "date": "Jul. 24, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Phil Hawes",
+      "result": "loss",
+      "date": "Feb. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jordan Williams",
+      "result": "win",
+      "date": "Oct. 03, 2020",
+      "method": "N/A"
+    }
+  ]
+}

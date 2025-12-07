@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/fb3e61720be4690c",
+  "stats": {
+    "name": "Mike Davis",
+    "record": "12-3-0",
+    "wins": 12,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "155 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Oct 07, 1992",
+    "strikes_landed_per_min": 4.73,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.23,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.44,
+    "takedown_defense": 0.6,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Mitch Ramirez",
+      "result": "win",
+      "date": "Jul. 12, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Fares Ziam",
+      "result": "loss",
+      "date": "Feb. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Natan Levy",
+      "result": "win",
+      "date": "Mar. 16, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Viacheslav Borshchev",
+      "result": "win",
+      "date": "Oct. 01, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mason Jones",
+      "result": "win",
+      "date": "Jan. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Thomas Gifford",
+      "result": "win",
+      "date": "Oct. 12, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Gilbert Burns",
+      "result": "loss",
+      "date": "Apr. 27, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Sodiq Yusuff",
+      "result": "loss",
+      "date": "Jul. 24, 2018",
+      "method": "N/A"
+    }
+  ]
+}

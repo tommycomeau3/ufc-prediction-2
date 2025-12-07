@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d7e40dca3ae125be",
+  "stats": {
+    "name": "Diana Belbita",
+    "record": "15-10-0",
+    "wins": 15,
+    "losses": 10,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Jun 26, 1996",
+    "strikes_landed_per_min": 6.45,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.55,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.62,
+    "takedown_defense": 0.64,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Dione Barbosa",
+      "result": "loss",
+      "date": "Apr. 05, 2025",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Molly McCann",
+      "result": "loss",
+      "date": "Feb. 03, 2024",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Karolina Kowalkiewicz",
+      "result": "loss",
+      "date": "Oct. 07, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Maria Oliveira",
+      "result": "win",
+      "date": "Jun. 10, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gloria de Paula",
+      "result": "loss",
+      "date": "Feb. 19, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hannah Goldy",
+      "result": "win",
+      "date": "Jul. 24, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Liana Jojua",
+      "result": "loss",
+      "date": "Jul. 15, 2020",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Molly McCann",
+      "result": "loss",
+      "date": "Oct. 18, 2019",
+      "method": "N/A"
+    }
+  ]
+}

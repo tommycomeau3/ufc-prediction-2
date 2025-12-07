@@ -1,0 +1,103 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d1c65d2cf2925ddd",
+  "stats": {
+    "name": "Gregory Rodrigues",
+    "record": "18-6-0",
+    "wins": 18,
+    "losses": 6,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "185 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Feb 17, 1992",
+    "strikes_landed_per_min": 5.6,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.84,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Roman Kopylov",
+      "result": "win",
+      "date": "Nov. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jack Hermansson",
+      "result": "win",
+      "date": "Jun. 28, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jared Cannonier",
+      "result": "loss",
+      "date": "Feb. 15, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Christian Leroy Duncan",
+      "result": "win",
+      "date": "Jul. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brad Tavares",
+      "result": "win",
+      "date": "Feb. 10, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Denis Tiuliulin",
+      "result": "win",
+      "date": "Aug. 19, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Brunno Ferreira",
+      "result": "loss",
+      "date": "Jan. 21, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Chidi Njokuani",
+      "result": "win",
+      "date": "Sep. 17, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Julian Marquez",
+      "result": "win",
+      "date": "Jun. 18, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Armen Petrosyan",
+      "result": "loss",
+      "date": "Feb. 26, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "JunYong Park",
+      "result": "win",
+      "date": "Oct. 23, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dusko Todorovic",
+      "result": "win",
+      "date": "Jun. 05, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jordan Williams",
+      "result": "loss",
+      "date": "Sep. 15, 2020",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

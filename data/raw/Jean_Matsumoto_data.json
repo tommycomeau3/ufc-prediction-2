@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/ffd3224638c01b57",
+  "stats": {
+    "name": "Jean Matsumoto",
+    "record": "17-1-0",
+    "wins": 17,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Sep 09, 1999",
+    "strikes_landed_per_min": 5.43,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.43,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.53,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Miles Johns",
+      "result": "win",
+      "date": "Aug. 09, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rob Font",
+      "result": "loss",
+      "date": "Feb. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brad Katona",
+      "result": "win",
+      "date": "Oct. 19, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dan Argueta",
+      "result": "win",
+      "date": "Apr. 06, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Kasey Tanner",
+      "result": "win",
+      "date": "Sep. 12, 2023",
+      "method": "N/A"
+    }
+  ]
+}

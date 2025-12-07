@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6e344b71421103da",
+  "stats": {
+    "name": "Magomed Gadzhiyasulov",
+    "record": "9-1-0",
+    "wins": 9,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "205 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Nov 04, 1993",
+    "strikes_landed_per_min": 2.89,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.64,
+    "striking_defense": 0.62,
+    "takedown_average": null,
+    "takedown_accuracy": 0.73,
+    "takedown_defense": 0.61,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Bruno Lopes",
+      "result": "loss",
+      "date": "Jan. 11, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brendson Ribeiro",
+      "result": "win",
+      "date": "Jun. 22, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jose Daniel Medina",
+      "result": "win",
+      "date": "Oct. 03, 2023",
+      "method": "N/A"
+    }
+  ]
+}

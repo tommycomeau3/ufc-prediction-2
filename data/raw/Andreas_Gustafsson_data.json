@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/2caf993f53541fa1",
+  "stats": {
+    "name": "Andreas Gustafsson",
+    "record": "12-3-0",
+    "wins": 12,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "170 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Feb 20, 1991",
+    "strikes_landed_per_min": 5.82,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.63,
+    "striking_defense": 0.45,
+    "takedown_average": null,
+    "takedown_accuracy": 0.58,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rinat Fakhretdinov",
+      "result": "loss",
+      "date": "Sep. 06, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Khaos Williams",
+      "result": "win",
+      "date": "Jun. 07, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Pat Pytlik",
+      "result": "win",
+      "date": "Aug. 20, 2024",
+      "method": "KO/TKO (Knees)"
+    }
+  ]
+}

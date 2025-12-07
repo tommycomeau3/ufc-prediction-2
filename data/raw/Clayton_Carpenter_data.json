@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b62d5280966b2460",
+  "stats": {
+    "name": "Clayton Carpenter",
+    "record": "8-2-0",
+    "wins": 8,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "125 lbs.",
+    "reach": "66\"",
+    "stance": "Orthodox",
+    "dob": "Jun 09, 1996",
+    "strikes_landed_per_min": 3.66,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.57,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.46,
+    "takedown_defense": 0.37,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jafel Filho",
+      "result": "loss",
+      "date": "Oct. 11, 2025",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Tagir Ulanbekov",
+      "result": "loss",
+      "date": "Jan. 18, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lucas Rocha",
+      "result": "win",
+      "date": "Oct. 12, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Juancamilo Ronderos",
+      "result": "win",
+      "date": "Feb. 18, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Edgar Chairez",
+      "result": "win",
+      "date": "Aug. 09, 2022",
+      "method": "N/A"
+    }
+  ]
+}

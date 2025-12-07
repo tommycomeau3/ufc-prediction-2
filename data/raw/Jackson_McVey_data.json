@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/3eeec2f53cebdf12",
+  "stats": {
+    "name": "Jackson McVey",
+    "record": "6-2-0",
+    "wins": 6,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 4\"",
+    "weight": "185 lbs.",
+    "reach": "77\"",
+    "stance": "Southpaw",
+    "dob": "Mar 25, 1999",
+    "strikes_landed_per_min": 5.87,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.82,
+    "striking_defense": 0.23,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Zach Reese",
+      "result": "loss",
+      "date": "Nov. 08, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Brunno Ferreira",
+      "result": "loss",
+      "date": "Jul. 19, 2025",
+      "method": "Submission (Armbar)"
+    }
+  ]
+}

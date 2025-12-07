@@ -1,0 +1,71 @@
+{
+  "url": "http://ufcstats.com/fighter-details/399afbabc02376b5",
+  "stats": {
+    "name": "Tom Aspinall",
+    "record": "15-3-0 (1 NC)",
+    "wins": 15,
+    "losses": 3
+  },
+  "fight_history": [
+    {
+      "opponent": "Ciryl Gane",
+      "result": "nc",
+      "date": "Oct. 25, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Curtis Blaydes",
+      "result": "win",
+      "date": "Jul. 27, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Sergei Pavlovich",
+      "result": "win",
+      "date": "Nov. 11, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Marcin Tybura",
+      "result": "win",
+      "date": "Jul. 22, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Curtis Blaydes",
+      "result": "loss",
+      "date": "Jul. 23, 2022",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Alexander Volkov",
+      "result": "win",
+      "date": "Mar. 19, 2022",
+      "method": "Submission (Straight Armbar)"
+    },
+    {
+      "opponent": "Serghei Spivac",
+      "result": "win",
+      "date": "Sep. 04, 2021",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Andrei Arlovski",
+      "result": "win",
+      "date": "Feb. 20, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Alan Baudot",
+      "result": "win",
+      "date": "Oct. 10, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jake Collier",
+      "result": "win",
+      "date": "Jul. 25, 2020",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

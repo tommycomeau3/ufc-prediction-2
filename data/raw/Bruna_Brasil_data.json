@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7138a15258dabf20",
+  "stats": {
+    "name": "Bruna Brasil",
+    "record": "11-5-1",
+    "wins": 11,
+    "losses": 5,
+    "draws": 1,
+    "height": "5' 6\"",
+    "weight": "115 lbs.",
+    "reach": "65\"",
+    "stance": "Orthodox",
+    "dob": "Sep 07, 1993",
+    "strikes_landed_per_min": 2.66,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.82,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.64,
+    "takedown_defense": 0.53,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Shi Ming",
+      "result": "win",
+      "date": "Aug. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Wang Cong",
+      "result": "loss",
+      "date": "Feb. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Molly McCann",
+      "result": "win",
+      "date": "Jul. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Loma Lookboonmee",
+      "result": "loss",
+      "date": "Feb. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shauna Bannon",
+      "result": "win",
+      "date": "Jul. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Denise Gomes",
+      "result": "loss",
+      "date": "Apr. 15, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Marnic Mann",
+      "result": "win",
+      "date": "Sep. 13, 2022",
+      "method": "KO/TKO (Kick)"
+    }
+  ]
+}

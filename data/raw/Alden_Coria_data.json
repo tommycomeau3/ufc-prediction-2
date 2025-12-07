@@ -1,0 +1,17 @@
+{
+  "url": "http://ufcstats.com/fighter-details/5e9ca8dd7d783a75",
+  "stats": {
+    "name": "Alden Coria",
+    "record": "11-3-0 (1 NC)",
+    "wins": 11,
+    "losses": 3
+  },
+  "fight_history": [
+    {
+      "opponent": "Alessandro Costa",
+      "result": "win",
+      "date": "Sep. 13, 2025",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

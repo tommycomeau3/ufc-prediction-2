@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4b93a88f3b1de35b",
+  "stats": {
+    "name": "Michael Chandler",
+    "record": "23-10-0",
+    "wins": 23,
+    "losses": 10,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Apr 24, 1986",
+    "strikes_landed_per_min": 4.04,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.52,
+    "striking_defense": 0.43,
+    "takedown_average": null,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.61,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Paddy Pimblett",
+      "result": "loss",
+      "date": "Apr. 12, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Charles Oliveira",
+      "result": "loss",
+      "date": "Nov. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dustin Poirier",
+      "result": "loss",
+      "date": "Nov. 12, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Tony Ferguson",
+      "result": "win",
+      "date": "May. 07, 2022",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Justin Gaethje",
+      "result": "loss",
+      "date": "Nov. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Oliveira",
+      "result": "loss",
+      "date": "May. 15, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dan Hooker",
+      "result": "win",
+      "date": "Jan. 23, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Salvador Woods",
+      "result": "win",
+      "date": "May. 15, 2010",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Rich Bouphanouvong",
+      "result": "win",
+      "date": "Nov. 20, 2009",
+      "method": "KO/TKO"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/41cc71cbf210e0fe",
+  "stats": {
+    "name": "Hyder Amil",
+    "record": "11-2-0",
+    "wins": 11,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Switch",
+    "dob": "May 28, 1990",
+    "strikes_landed_per_min": 5.81,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.95,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.18,
+    "takedown_defense": 0.65,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jamall Emmers",
+      "result": "loss",
+      "date": "Nov. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jose Delgado",
+      "result": "loss",
+      "date": "Jun. 28, 2025",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "William Gomis",
+      "result": "win",
+      "date": "Mar. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "JeongYeong Lee",
+      "result": "win",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Fernie Garcia",
+      "result": "win",
+      "date": "Feb. 10, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Emrah Sonmez",
+      "result": "win",
+      "date": "Aug. 15, 2023",
+      "method": "N/A"
+    }
+  ]
+}

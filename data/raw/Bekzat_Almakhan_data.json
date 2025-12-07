@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a4dc0f2b95df4cc1",
+  "stats": {
+    "name": "Bekzat Almakhan",
+    "record": "12-3-0",
+    "wins": 12,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Oct 08, 1997",
+    "strikes_landed_per_min": 1.61,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.73,
+    "striking_defense": 0.36,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.41,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Aleksandre Topuria",
+      "result": "loss",
+      "date": "Nov. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brad Katona",
+      "result": "win",
+      "date": "May. 10, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Umar Nurmagomedov",
+      "result": "loss",
+      "date": "Mar. 02, 2024",
+      "method": "N/A"
+    }
+  ]
+}

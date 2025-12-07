@@ -1,0 +1,103 @@
+{
+  "url": "http://ufcstats.com/fighter-details/809bd1a871491508",
+  "stats": {
+    "name": "Terrance McKinney",
+    "record": "17-7-0",
+    "wins": 17,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Switch",
+    "dob": "Sep 15, 1994",
+    "strikes_landed_per_min": 5.78,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.58,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.77,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Chris Duncan",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Viacheslav Borshchev",
+      "result": "win",
+      "date": "Jun. 28, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Damir Hadzovic",
+      "result": "win",
+      "date": "Feb. 01, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Esteban Ribovics",
+      "result": "loss",
+      "date": "May. 11, 2024",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Brendon Marotte",
+      "result": "win",
+      "date": "Oct. 14, 2023",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Mike Breeden",
+      "result": "win",
+      "date": "Aug. 12, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Nazim Sadykhov",
+      "result": "loss",
+      "date": "Jul. 15, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Ismael Bonfim",
+      "result": "loss",
+      "date": "Jan. 21, 2023",
+      "method": "KO/TKO (Flying Knee)"
+    },
+    {
+      "opponent": "Erick Gonzalez",
+      "result": "win",
+      "date": "Aug. 06, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Drew Dober",
+      "result": "loss",
+      "date": "Mar. 12, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Fares Ziam",
+      "result": "win",
+      "date": "Feb. 26, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Matt Frevola",
+      "result": "win",
+      "date": "Jun. 12, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Sean Woodson",
+      "result": "loss",
+      "date": "Jul. 23, 2019",
+      "method": "KO/TKO (Flying Knee)"
+    }
+  ]
+}

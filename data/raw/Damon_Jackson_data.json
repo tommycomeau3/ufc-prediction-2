@@ -1,0 +1,95 @@
+{
+  "url": "http://ufcstats.com/fighter-details/29af297d9f1de0f8",
+  "stats": {
+    "name": "Damon Jackson",
+    "record": "23-8-1 (1 NC)",
+    "wins": 23,
+    "losses": 8
+  },
+  "fight_history": [
+    {
+      "opponent": "Jim Miller",
+      "result": "loss",
+      "date": "Nov. 16, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Chepe Mariscal",
+      "result": "loss",
+      "date": "Aug. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexander Hernandez",
+      "result": "win",
+      "date": "Apr. 06, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Billy Quarantillo",
+      "result": "loss",
+      "date": "Aug. 05, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dan Ige",
+      "result": "loss",
+      "date": "Jan. 14, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Pat Sabatini",
+      "result": "win",
+      "date": "Sep. 17, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Dan Argueta",
+      "result": "win",
+      "date": "Jun. 04, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kamuela Kirk",
+      "result": "win",
+      "date": "Mar. 12, 2022",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Charles Rosa",
+      "result": "win",
+      "date": "Oct. 09, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ilia Topuria",
+      "result": "loss",
+      "date": "Dec. 05, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mirsad Bektic",
+      "result": "win",
+      "date": "Sep. 19, 2020",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Levan Makashvili",
+      "result": "draw",
+      "date": "Jan. 30, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rony Jason",
+      "result": "nc",
+      "date": "May. 30, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yancy Medeiros",
+      "result": "loss",
+      "date": "Aug. 30, 2014",
+      "method": "Submission (Bulldog Choke)"
+    }
+  ]
+}

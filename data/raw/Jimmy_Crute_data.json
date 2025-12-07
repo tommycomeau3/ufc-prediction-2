@@ -1,0 +1,103 @@
+{
+  "url": "http://ufcstats.com/fighter-details/70e1f8a821b72c8b",
+  "stats": {
+    "name": "Jimmy Crute",
+    "record": "14-4-2",
+    "wins": 14,
+    "losses": 4,
+    "draws": 2,
+    "height": "6' 2\"",
+    "weight": "205 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Mar 04, 1996",
+    "strikes_landed_per_min": 4.15,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.65,
+    "striking_defense": 0.42,
+    "takedown_average": null,
+    "takedown_accuracy": 0.52,
+    "takedown_defense": 0.58,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ivan Erslan",
+      "result": "win",
+      "date": "Sep. 27, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Marcin Prachnio",
+      "result": "win",
+      "date": "Jul. 19, 2025",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Rodolfo Bellato",
+      "result": "draw",
+      "date": "Feb. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alonzo Menifield",
+      "result": "loss",
+      "date": "Jul. 08, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Alonzo Menifield",
+      "result": "draw",
+      "date": "Feb. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jamahal Hill",
+      "result": "loss",
+      "date": "Dec. 04, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Anthony Smith",
+      "result": "loss",
+      "date": "Apr. 24, 2021",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Modestas Bukauskas",
+      "result": "win",
+      "date": "Oct. 17, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Michal Oleksiejczuk",
+      "result": "win",
+      "date": "Feb. 22, 2020",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Misha Cirkunov",
+      "result": "loss",
+      "date": "Sep. 14, 2019",
+      "method": "Submission (Peruvian Necktie)"
+    },
+    {
+      "opponent": "Sam Alvey",
+      "result": "win",
+      "date": "Feb. 09, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Paul Craig",
+      "result": "win",
+      "date": "Dec. 01, 2018",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Chris Birchler",
+      "result": "win",
+      "date": "Jul. 24, 2018",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "url": "http://ufcstats.com/fighter-details/99df7d0a2a08a8a8",
+  "stats": {
+    "name": "Jan Blachowicz",
+    "record": "29-11-1",
+    "wins": 29,
+    "losses": 11,
+    "draws": 1,
+    "height": "6' 2\"",
+    "weight": "205 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Feb 24, 1983",
+    "strikes_landed_per_min": 3.44,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.03,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.48,
+    "takedown_defense": 0.69,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Bogdan Guskov",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carlos Ulberg",
+      "result": "loss",
+      "date": "Mar. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Pereira",
+      "result": "loss",
+      "date": "Jul. 29, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Magomed Ankalaev",
+      "result": "draw",
+      "date": "Dec. 10, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aleksandar Rakic",
+      "result": "win",
+      "date": "May. 14, 2022",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Glover Teixeira",
+      "result": "loss",
+      "date": "Oct. 30, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Israel Adesanya",
+      "result": "win",
+      "date": "Mar. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dominick Reyes",
+      "result": "win",
+      "date": "Sep. 26, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Corey Anderson",
+      "result": "win",
+      "date": "Feb. 15, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jacare Souza",
+      "result": "win",
+      "date": "Nov. 16, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Luke Rockhold",
+      "result": "win",
+      "date": "Jul. 06, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Thiago Santos",
+      "result": "loss",
+      "date": "Feb. 23, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Nikita Krylov",
+      "result": "win",
+      "date": "Sep. 15, 2018",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Jimi Manuwa",
+      "result": "win",
+      "date": "Mar. 17, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jared Cannonier",
+      "result": "win",
+      "date": "Dec. 16, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Devin Clark",
+      "result": "win",
+      "date": "Oct. 21, 2017",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Patrick Cummins",
+      "result": "loss",
+      "date": "Apr. 08, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexander Gustafsson",
+      "result": "loss",
+      "date": "Sep. 03, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Igor Pokrajac",
+      "result": "win",
+      "date": "Apr. 10, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Corey Anderson",
+      "result": "loss",
+      "date": "Sep. 05, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jimi Manuwa",
+      "result": "loss",
+      "date": "Apr. 11, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ilir Latifi",
+      "result": "win",
+      "date": "Oct. 04, 2014",
+      "method": "KO/TKO (Kick)"
+    }
+  ]
+}

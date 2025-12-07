@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f2f140ce7532e327",
+  "stats": {
+    "name": "Gabriel Santos",
+    "record": "12-2-0",
+    "wins": 12,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Nov 28, 1996",
+    "strikes_landed_per_min": 4.35,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.31,
+    "striking_defense": 0.45,
+    "takedown_average": null,
+    "takedown_accuracy": 0.54,
+    "takedown_defense": 0.87,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jack Jenkins",
+      "result": "win",
+      "date": "Feb. 08, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Yizha",
+      "result": "win",
+      "date": "Sep. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "David Onama",
+      "result": "loss",
+      "date": "Jun. 24, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Lerone Murphy",
+      "result": "loss",
+      "date": "Mar. 18, 2023",
+      "method": "N/A"
+    }
+  ]
+}

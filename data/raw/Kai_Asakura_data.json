@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d33da8a3d82bdb62",
+  "stats": {
+    "name": "Kai Asakura",
+    "record": "21-6-0",
+    "wins": 21,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "125 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Oct 31, 1993",
+    "strikes_landed_per_min": 2.27,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.53,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Tim Elliott",
+      "result": "loss",
+      "date": "Aug. 16, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Alexandre Pantoja",
+      "result": "loss",
+      "date": "Dec. 07, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

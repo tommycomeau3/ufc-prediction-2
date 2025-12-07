@@ -1,0 +1,151 @@
+{
+  "url": "http://ufcstats.com/fighter-details/aa72b0f831d0bfe5",
+  "stats": {
+    "name": "Deiveson Figueiredo",
+    "record": "25-5-1",
+    "wins": 25,
+    "losses": 5,
+    "draws": 1,
+    "height": "5' 5\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Dec 18, 1987",
+    "strikes_landed_per_min": 2.75,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.54,
+    "striking_defense": 0.49,
+    "takedown_average": null,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.57,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Umar Nurmagomedov",
+      "result": "next",
+      "date": "Jan. 24, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Montel Jackson",
+      "result": "win",
+      "date": "Oct. 11, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cory Sandhagen",
+      "result": "loss",
+      "date": "May. 03, 2025",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Petr Yan",
+      "result": "loss",
+      "date": "Nov. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marlon Vera",
+      "result": "win",
+      "date": "Aug. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody Garbrandt",
+      "result": "win",
+      "date": "Apr. 13, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Rob Font",
+      "result": "win",
+      "date": "Dec. 02, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brandon Moreno",
+      "result": "loss",
+      "date": "Jan. 21, 2023",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Brandon Moreno",
+      "result": "win",
+      "date": "Jan. 22, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brandon Moreno",
+      "result": "loss",
+      "date": "Jun. 12, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Brandon Moreno",
+      "result": "draw",
+      "date": "Dec. 12, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Perez",
+      "result": "win",
+      "date": "Nov. 21, 2020",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Joseph Benavidez",
+      "result": "win",
+      "date": "Jul. 18, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Joseph Benavidez",
+      "result": "win",
+      "date": "Feb. 29, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Tim Elliott",
+      "result": "win",
+      "date": "Oct. 12, 2019",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Alexandre Pantoja",
+      "result": "win",
+      "date": "Jul. 27, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jussier Formiga",
+      "result": "loss",
+      "date": "Mar. 23, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "John Moraga",
+      "result": "win",
+      "date": "Aug. 25, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Joseph Morales",
+      "result": "win",
+      "date": "Feb. 03, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jarred Brooks",
+      "result": "win",
+      "date": "Oct. 28, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marco Beltran",
+      "result": "win",
+      "date": "Jun. 03, 2017",
+      "method": "KO/TKO"
+    }
+  ]
+}

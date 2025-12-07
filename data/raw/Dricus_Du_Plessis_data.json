@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0d7b51c9d2649a6e",
+  "stats": {
+    "name": "Dricus Du Plessis",
+    "record": "23-3-0",
+    "wins": 23,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "185 lbs.",
+    "reach": "76\"",
+    "stance": "Switch",
+    "dob": "Jan 14, 1994",
+    "strikes_landed_per_min": 5.18,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.33,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.51,
+    "takedown_defense": 0.34,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Khamzat Chimaev",
+      "result": "loss",
+      "date": "Aug. 16, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean Strickland",
+      "result": "win",
+      "date": "Feb. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Israel Adesanya",
+      "result": "win",
+      "date": "Aug. 17, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Sean Strickland",
+      "result": "win",
+      "date": "Jan. 20, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Robert Whittaker",
+      "result": "win",
+      "date": "Jul. 08, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Derek Brunson",
+      "result": "win",
+      "date": "Mar. 04, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Darren Till",
+      "result": "win",
+      "date": "Dec. 10, 2022",
+      "method": "Submission (Neck Crank)"
+    },
+    {
+      "opponent": "Brad Tavares",
+      "result": "win",
+      "date": "Jul. 02, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Trevin Giles",
+      "result": "win",
+      "date": "Jul. 10, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Markus Perez",
+      "result": "win",
+      "date": "Oct. 10, 2020",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "url": "http://ufcstats.com/fighter-details/ab2b4ff41d6ebe0f",
+  "stats": {
+    "name": "Alex Perez",
+    "record": "25-10-0",
+    "wins": 25,
+    "losses": 10,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "125 lbs.",
+    "reach": "65\"",
+    "stance": "Orthodox",
+    "dob": "Mar 21, 1992",
+    "strikes_landed_per_min": 4.16,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.22,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.48,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Asu Almabayev",
+      "result": "loss",
+      "date": "Nov. 22, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Tatsuro Taira",
+      "result": "loss",
+      "date": "Jun. 15, 2024",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Matheus Nicolau",
+      "result": "win",
+      "date": "Apr. 27, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Muhammad Mokaev",
+      "result": "loss",
+      "date": "Mar. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexandre Pantoja",
+      "result": "loss",
+      "date": "Jul. 30, 2022",
+      "method": "Submission (Neck Crank)"
+    },
+    {
+      "opponent": "Deiveson Figueiredo",
+      "result": "loss",
+      "date": "Nov. 21, 2020",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Jussier Formiga",
+      "result": "win",
+      "date": "Jun. 06, 2020",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Jordan Espinosa",
+      "result": "win",
+      "date": "Jan. 25, 2020",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Mark De La Rosa",
+      "result": "win",
+      "date": "Mar. 30, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joseph Benavidez",
+      "result": "loss",
+      "date": "Nov. 30, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jose Torres",
+      "result": "win",
+      "date": "Aug. 04, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Eric Shelton",
+      "result": "win",
+      "date": "Feb. 24, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carls John De Tomas",
+      "result": "win",
+      "date": "Dec. 09, 2017",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Kevin Gray",
+      "result": "win",
+      "date": "Aug. 08, 2017",
+      "method": "Submission (Anaconda Choke)"
+    }
+  ]
+}

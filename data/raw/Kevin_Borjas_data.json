@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/34b96d52db1d26e6",
+  "stats": {
+    "name": "Kevin Borjas",
+    "record": "10-4-0",
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 5\"",
+    "weight": "125 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Dec 06, 1997",
+    "strikes_landed_per_min": 4.19,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.74,
+    "striking_defense": 0.49,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.71,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Sumudaerji",
+      "result": "loss",
+      "date": "Aug. 23, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ronaldo Rodriguez",
+      "result": "win",
+      "date": "Mar. 29, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alessandro Costa",
+      "result": "loss",
+      "date": "May. 04, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Joshua Van",
+      "result": "loss",
+      "date": "Nov. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Victor Dias",
+      "result": "win",
+      "date": "Aug. 08, 2023",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/253076a23d03dcd0",
+  "stats": {
+    "name": "Allan Nascimento",
+    "record": "22-6-0",
+    "wins": 22,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "125 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Sep 11, 1991",
+    "strikes_landed_per_min": 3.06,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.53,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.23,
+    "takedown_defense": 0.37,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Cody Durden",
+      "result": "win",
+      "date": "Nov. 01, 2025",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Jafel Filho",
+      "result": "win",
+      "date": "May. 31, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carlos Hernandez",
+      "result": "win",
+      "date": "Jan. 14, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jake Hadley",
+      "result": "win",
+      "date": "May. 14, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tagir Ulanbekov",
+      "result": "loss",
+      "date": "Oct. 30, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Raulian Paiva",
+      "result": "loss",
+      "date": "Aug. 12, 2018",
+      "method": "N/A"
+    }
+  ]
+}

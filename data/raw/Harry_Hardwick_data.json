@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/2dbc60c52de126d8",
+  "stats": {
+    "name": "Harry Hardwick",
+    "record": "13-4-1",
+    "wins": 13,
+    "losses": 4,
+    "draws": 1,
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Switch",
+    "dob": "Sep 29, 1994",
+    "strikes_landed_per_min": 2.39,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.16,
+    "striking_defense": 0.4,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kaue Fernandes",
+      "result": "loss",
+      "date": "Sep. 06, 2025",
+      "method": "KO/TKO (Kick)"
+    }
+  ]
+}

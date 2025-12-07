@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/8d11d9c13e2ccdf7",
+  "stats": {
+    "name": "Muhammad Naimov",
+    "record": "13-3-0",
+    "wins": 13,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Aug 07, 1994",
+    "strikes_landed_per_min": 2.61,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.45,
+    "striking_defense": 0.45,
+    "takedown_average": null,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.67,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Mairon Santos",
+      "result": "next",
+      "date": "Dec. 06, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bogdan Grad",
+      "result": "win",
+      "date": "Jun. 21, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kaan Ofli",
+      "result": "win",
+      "date": "Feb. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Felipe Lima",
+      "result": "loss",
+      "date": "Jun. 22, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Erik Silva",
+      "result": "win",
+      "date": "Feb. 24, 2024",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Nathaniel Wood",
+      "result": "win",
+      "date": "Oct. 21, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jamie Mullarkey",
+      "result": "win",
+      "date": "Jun. 03, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Collin Anglin",
+      "result": "loss",
+      "date": "Sep. 15, 2020",
+      "method": "N/A"
+    }
+  ]
+}

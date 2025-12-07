@@ -1,0 +1,77 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a7151778b3381036",
+  "stats": {
+    "name": "Kurt Holobaugh",
+    "record": "22-10-0 (1 NC)",
+    "wins": 22,
+    "losses": 10
+  },
+  "fight_history": [
+    {
+      "opponent": "Jordan Leavitt",
+      "result": "loss",
+      "date": "May. 31, 2025",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Alexander Hernandez",
+      "result": "loss",
+      "date": "Mar. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kaynan Kruschewsky",
+      "result": "win",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Trey Ogden",
+      "result": "loss",
+      "date": "Mar. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Austin Hubbard",
+      "result": "win",
+      "date": "Aug. 19, 2023",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Thiago Moises",
+      "result": "loss",
+      "date": "May. 11, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shane Burgos",
+      "result": "loss",
+      "date": "Nov. 03, 2018",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Raoni Barcelos",
+      "result": "loss",
+      "date": "Jul. 14, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Matt Bessette",
+      "result": "nc",
+      "date": "Jul. 11, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Steven Siler",
+      "result": "loss",
+      "date": "Apr. 27, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Pat Healy",
+      "result": "loss",
+      "date": "Strikeforce - Marquardt vs Saffiedine",
+      "method": "N/A"
+    }
+  ]
+}

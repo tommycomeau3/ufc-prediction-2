@@ -1,0 +1,41 @@
+{
+  "url": "http://ufcstats.com/fighter-details/49d2a08964c5eb11",
+  "stats": {
+    "name": "Nursulton Ruziboev",
+    "record": "36-9-2 (2 NC)",
+    "wins": 36,
+    "losses": 9
+  },
+  "fight_history": [
+    {
+      "opponent": "Dustin Stoltzfus",
+      "result": "win",
+      "date": "May. 17, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Eric McConico",
+      "result": "win",
+      "date": "Feb. 22, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Joaquin Buckley",
+      "result": "loss",
+      "date": "May. 11, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sedriques Dumas",
+      "result": "win",
+      "date": "Mar. 30, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Brunno Ferreira",
+      "result": "win",
+      "date": "Jul. 01, 2023",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

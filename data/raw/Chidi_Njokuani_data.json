@@ -1,0 +1,71 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c68c68efaa5ca6ef",
+  "stats": {
+    "name": "Chidi Njokuani",
+    "record": "25-11-0 (1 NC)",
+    "wins": 25,
+    "losses": 11
+  },
+  "fight_history": [
+    {
+      "opponent": "Jake Matthews",
+      "result": "loss",
+      "date": "Jul. 12, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Elizeu Zaleski dos Santos",
+      "result": "win",
+      "date": "Mar. 15, 2025",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Jared Gooden",
+      "result": "win",
+      "date": "Oct. 12, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rhys McKee",
+      "result": "win",
+      "date": "Mar. 30, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michal Oleksiejczuk",
+      "result": "loss",
+      "date": "Aug. 26, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Albert Duraev",
+      "result": "loss",
+      "date": "Mar. 25, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gregory Rodrigues",
+      "result": "loss",
+      "date": "Sep. 17, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Dusko Todorovic",
+      "result": "win",
+      "date": "May. 21, 2022",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Marc-Andre Barriault",
+      "result": "win",
+      "date": "Feb. 05, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Mario Sousa",
+      "result": "win",
+      "date": "Sep. 07, 2021",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/eff9074bc066f0f2",
+  "stats": {
+    "name": "Bia Mesquita",
+    "record": "6-0-0",
+    "wins": 6,
+    "losses": 0,
+    "draws": 0,
+    "height": "5' 4\"",
+    "weight": "135 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Apr 07, 1991",
+    "strikes_landed_per_min": 4.98,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 0.83,
+    "striking_defense": 0.73,
+    "takedown_average": null,
+    "takedown_accuracy": 0.66,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Irina Alekseeva",
+      "result": "win",
+      "date": "Oct. 11, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

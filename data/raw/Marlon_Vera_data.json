@@ -1,0 +1,175 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7c7332319c14094c",
+  "stats": {
+    "name": "Marlon Vera",
+    "record": "23-11-1",
+    "wins": 23,
+    "losses": 11,
+    "draws": 1,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "70\"",
+    "stance": "Switch",
+    "dob": "Dec 02, 1992",
+    "strikes_landed_per_min": 4.25,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.37,
+    "striking_defense": 0.49,
+    "takedown_average": null,
+    "takedown_accuracy": 0.39,
+    "takedown_defense": 0.72,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Aiemann Zahabi",
+      "result": "loss",
+      "date": "Oct. 18, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Deiveson Figueiredo",
+      "result": "loss",
+      "date": "Aug. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean O'Malley",
+      "result": "loss",
+      "date": "Mar. 09, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Pedro Munhoz",
+      "result": "win",
+      "date": "Aug. 19, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cory Sandhagen",
+      "result": "loss",
+      "date": "Mar. 25, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dominick Cruz",
+      "result": "win",
+      "date": "Aug. 13, 2022",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Rob Font",
+      "result": "win",
+      "date": "Apr. 30, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Frankie Edgar",
+      "result": "win",
+      "date": "Nov. 06, 2021",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Davey Grant",
+      "result": "win",
+      "date": "UFC Fight Night: Jung vs. Ige",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jose Aldo",
+      "result": "loss",
+      "date": "Dec. 19, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean O'Malley",
+      "result": "win",
+      "date": "Aug. 15, 2020",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Song Yadong",
+      "result": "loss",
+      "date": "May. 16, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Ewell",
+      "result": "win",
+      "date": "Oct. 12, 2019",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Nohelin Hernandez",
+      "result": "win",
+      "date": "Jul. 06, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Frankie Saenz",
+      "result": "win",
+      "date": "Mar. 23, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Guido Cannetti",
+      "result": "win",
+      "date": "Nov. 17, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Wulijiburen",
+      "result": "win",
+      "date": "Aug. 04, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Douglas Silva de Andrade",
+      "result": "loss",
+      "date": "Feb. 03, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "John Lineker",
+      "result": "loss",
+      "date": "Oct. 28, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brian Kelleher",
+      "result": "win",
+      "date": "Jul. 22, 2017",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Brad Pickett",
+      "result": "win",
+      "date": "Mar. 18, 2017",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Guangyou Ning",
+      "result": "win",
+      "date": "Nov. 26, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Davey Grant",
+      "result": "loss",
+      "date": "Feb. 27, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Roman Salazar",
+      "result": "win",
+      "date": "Aug. 08, 2015",
+      "method": "Submission (Triangle Armbar)"
+    },
+    {
+      "opponent": "Marco Beltran",
+      "result": "loss",
+      "date": "Nov. 15, 2014",
+      "method": "N/A"
+    }
+  ]
+}

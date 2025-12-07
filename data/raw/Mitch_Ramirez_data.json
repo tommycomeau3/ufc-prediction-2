@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e99eb0ef25885de5",
+  "stats": {
+    "name": "Mitch Ramirez",
+    "record": "8-3-0",
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Nov 03, 1992",
+    "strikes_landed_per_min": 3.51,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.98,
+    "striking_defense": 0.37,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.25,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Mike Davis",
+      "result": "loss",
+      "date": "Jul. 12, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Thiago Moises",
+      "result": "loss",
+      "date": "Mar. 16, 2024",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Carlos Prates",
+      "result": "loss",
+      "date": "Aug. 29, 2023",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

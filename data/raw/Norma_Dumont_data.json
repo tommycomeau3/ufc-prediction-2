@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d3f5d33d61cd00c9",
+  "stats": {
+    "name": "Norma Dumont",
+    "record": "13-2-0",
+    "wins": 13,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Oct 01, 1990",
+    "strikes_landed_per_min": 3.89,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.12,
+    "striking_defense": 0.65,
+    "takedown_average": null,
+    "takedown_accuracy": 0.56,
+    "takedown_defense": 0.68,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ketlen Vieira",
+      "result": "win",
+      "date": "Nov. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Irene Aldana",
+      "result": "win",
+      "date": "Sep. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Germaine de Randamie",
+      "result": "win",
+      "date": "Apr. 06, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chelsea Chandler",
+      "result": "win",
+      "date": "Jul. 15, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Karol Rosa",
+      "result": "win",
+      "date": "Apr. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Danyelle Wolf",
+      "result": "win",
+      "date": "Sep. 10, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Macy Chiasson",
+      "result": "loss",
+      "date": "May. 07, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aspen Ladd",
+      "result": "win",
+      "date": "Oct. 16, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Felicia Spencer",
+      "result": "win",
+      "date": "May. 22, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ashlee Evans-Smith",
+      "result": "win",
+      "date": "Nov. 28, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Megan Anderson",
+      "result": "loss",
+      "date": "Feb. 29, 2020",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

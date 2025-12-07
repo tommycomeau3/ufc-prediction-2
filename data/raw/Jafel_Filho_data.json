@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/65adf3856c4d9256",
+  "stats": {
+    "name": "Jafel Filho",
+    "record": "17-4-0",
+    "wins": 17,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "May 05, 1993",
+    "strikes_landed_per_min": 1.85,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.62,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.45,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Clayton Carpenter",
+      "result": "win",
+      "date": "Oct. 11, 2025",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Allan Nascimento",
+      "result": "loss",
+      "date": "May. 31, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ode Osbourne",
+      "result": "win",
+      "date": "Mar. 16, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Daniel Barez",
+      "result": "win",
+      "date": "Jul. 22, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Muhammad Mokaev",
+      "result": "loss",
+      "date": "Mar. 18, 2023",
+      "method": "Submission (Neck Crank)"
+    },
+    {
+      "opponent": "Roybert Echeverria",
+      "result": "win",
+      "date": "Sep. 20, 2022",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

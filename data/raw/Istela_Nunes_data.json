@@ -1,0 +1,41 @@
+{
+  "url": "http://ufcstats.com/fighter-details/efc67b07eed39794",
+  "stats": {
+    "name": "Istela Nunes",
+    "record": "6-6-0 (1 NC)",
+    "wins": 6,
+    "losses": 6
+  },
+  "fight_history": [
+    {
+      "opponent": "Loma Lookboonmee",
+      "result": "loss",
+      "date": "Apr. 05, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Viktoriia Dudakova",
+      "result": "loss",
+      "date": "Jul. 15, 2023",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Yazmin Jauregui",
+      "result": "loss",
+      "date": "Dec. 03, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Sam Hughes",
+      "result": "loss",
+      "date": "Apr. 16, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ariane Carnelossi",
+      "result": "loss",
+      "date": "Oct. 16, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7f6ed67d3ed3c036",
+  "stats": {
+    "name": "Cody Durden",
+    "record": "17-9-1",
+    "wins": 17,
+    "losses": 9,
+    "draws": 1,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "67\"",
+    "stance": "Southpaw",
+    "dob": "Mar 29, 1991",
+    "strikes_landed_per_min": 3.66,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.47,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.47,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Allan Nascimento",
+      "result": "loss",
+      "date": "Nov. 01, 2025",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Jose Ochoa",
+      "result": "loss",
+      "date": "Jun. 14, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Joshua Van",
+      "result": "loss",
+      "date": "Dec. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Matt Schnell",
+      "result": "win",
+      "date": "Sep. 07, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Bruno Silva",
+      "result": "loss",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Tagir Ulanbekov",
+      "result": "loss",
+      "date": "Dec. 16, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jake Hadley",
+      "result": "win",
+      "date": "Aug. 05, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Johnson",
+      "result": "win",
+      "date": "Apr. 29, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carlos Mota",
+      "result": "win",
+      "date": "Oct. 29, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "JP Buys",
+      "result": "win",
+      "date": "Jun. 25, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Muhammad Mokaev",
+      "result": "loss",
+      "date": "Mar. 19, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Aoriqileng",
+      "result": "win",
+      "date": "Nov. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jimmy Flick",
+      "result": "loss",
+      "date": "Dec. 19, 2020",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Chris Gutierrez",
+      "result": "draw",
+      "date": "Aug. 01, 2020",
+      "method": "N/A"
+    }
+  ]
+}

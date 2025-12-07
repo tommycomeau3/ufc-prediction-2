@@ -1,0 +1,115 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f2477cf43c4975cc",
+  "stats": {
+    "name": "Jonathan Martinez",
+    "record": "19-6-0",
+    "wins": 19,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Apr 20, 1994",
+    "strikes_landed_per_min": 4.44,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.09,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.68,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Marcus McGhee",
+      "result": "loss",
+      "date": "Nov. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jose Aldo",
+      "result": "loss",
+      "date": "May. 04, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Adrian Yanez",
+      "result": "win",
+      "date": "Oct. 14, 2023",
+      "method": "KO/TKO (Kicks)"
+    },
+    {
+      "opponent": "Said Nurmagomedov",
+      "result": "win",
+      "date": "Mar. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cub Swanson",
+      "result": "win",
+      "date": "Oct. 15, 2022",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Vince Morales",
+      "result": "win",
+      "date": "May. 21, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alejandro Perez",
+      "result": "win",
+      "date": "Feb. 26, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zviad Lazishvili",
+      "result": "win",
+      "date": "Oct. 23, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Davey Grant",
+      "result": "loss",
+      "date": "Mar. 13, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Thomas Almeida",
+      "result": "win",
+      "date": "Oct. 17, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Frankie Saenz",
+      "result": "win",
+      "date": "Aug. 01, 2020",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Andre Ewell",
+      "result": "loss",
+      "date": "Feb. 08, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Pingyuan Liu",
+      "result": "win",
+      "date": "Jul. 13, 2019",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Wulijiburen",
+      "result": "win",
+      "date": "Feb. 09, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Soukhamthath",
+      "result": "loss",
+      "date": "Oct. 27, 2018",
+      "method": "N/A"
+    }
+  ]
+}

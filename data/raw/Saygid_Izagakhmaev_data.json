@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/de26d906f2874dd4",
+  "stats": {
+    "name": "Saygid Izagakhmaev",
+    "record": "22-3-0",
+    "wins": 22,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "170 lbs.",
+    "reach": "74\"",
+    "stance": "",
+    "dob": "Sep 03, 1994",
+    "strikes_landed_per_min": 1.33,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.73,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Nicolas Dalby",
+      "result": "loss",
+      "date": "Nov. 22, 2025",
+      "method": "N/A"
+    }
+  ]
+}

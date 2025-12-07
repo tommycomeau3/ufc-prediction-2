@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b1e5bcaad32a3cac",
+  "stats": {
+    "name": "Priscila Cachoeira",
+    "record": "13-7-0",
+    "wins": 13,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "65\"",
+    "stance": "Orthodox",
+    "dob": "Aug 19, 1988",
+    "strikes_landed_per_min": 4.11,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.23,
+    "striking_defense": 0.43,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.67,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Joselyne Edwards",
+      "result": "loss",
+      "date": "Aug. 09, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Josiane Nunes",
+      "result": "win",
+      "date": "Mar. 15, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jasmine Jasudavicius",
+      "result": "loss",
+      "date": "Jan. 20, 2024",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Miranda Maverick",
+      "result": "loss",
+      "date": "Jul. 29, 2023",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Ariane da Silva",
+      "result": "win",
+      "date": "Aug. 13, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ji Yeon Kim",
+      "result": "win",
+      "date": "Feb. 26, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gillian Robertson",
+      "result": "loss",
+      "date": "Dec. 11, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Gina Mazany",
+      "result": "win",
+      "date": "May. 15, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Shana Dobson",
+      "result": "win",
+      "date": "Feb. 22, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Luana Carolina",
+      "result": "loss",
+      "date": "May. 11, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Molly McCann",
+      "result": "loss",
+      "date": "Mar. 16, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Valentina Shevchenko",
+      "result": "loss",
+      "date": "Feb. 03, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

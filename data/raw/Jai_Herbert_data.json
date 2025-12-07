@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4c88a1db5a46c6a4",
+  "stats": {
+    "name": "Jai Herbert",
+    "record": "13-6-1",
+    "wins": 13,
+    "losses": 6,
+    "draws": 1,
+    "height": "6' 1\"",
+    "weight": "155 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "May 13, 1988",
+    "strikes_landed_per_min": 3.07,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.26,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.21,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Chris Padilla",
+      "result": "loss",
+      "date": "Mar. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rolando Bedoya",
+      "result": "win",
+      "date": "Aug. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Fares Ziam",
+      "result": "loss",
+      "date": "Jul. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ludovit Klein",
+      "result": "draw",
+      "date": "Mar. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kyle Nelson",
+      "result": "win",
+      "date": "Jul. 23, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ilia Topuria",
+      "result": "loss",
+      "date": "Mar. 19, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Khama Worthy",
+      "result": "win",
+      "date": "Oct. 23, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Renato Moicano",
+      "result": "loss",
+      "date": "Jun. 26, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Francisco Trinaldo",
+      "result": "loss",
+      "date": "Jul. 25, 2020",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

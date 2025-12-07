@@ -1,0 +1,199 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f0feeb2192937424",
+  "stats": {
+    "name": "Angela Hill",
+    "record": "18-16-0",
+    "wins": 18,
+    "losses": 16,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "115 lbs.",
+    "reach": "64\"",
+    "stance": "Orthodox",
+    "dob": "Jan 12, 1985",
+    "strikes_landed_per_min": 5.37,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.02,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.72,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Fatima Kline",
+      "result": "loss",
+      "date": "Nov. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Iasmin Lucindo",
+      "result": "loss",
+      "date": "Aug. 09, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ketlen Souza",
+      "result": "win",
+      "date": "Feb. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tabatha Ricci",
+      "result": "loss",
+      "date": "Aug. 24, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Luana Pinheiro",
+      "result": "win",
+      "date": "May. 18, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Denise Gomes",
+      "result": "win",
+      "date": "Nov. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mackenzie Dern",
+      "result": "loss",
+      "date": "May. 20, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Emily Ducote",
+      "result": "win",
+      "date": "Dec. 03, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Loopy Godinez",
+      "result": "win",
+      "date": "Aug. 13, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Virna Jandiroba",
+      "result": "loss",
+      "date": "May. 14, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amanda Lemos",
+      "result": "loss",
+      "date": "Dec. 18, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tecia Pennington",
+      "result": "loss",
+      "date": "Aug. 07, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ashley Yoder",
+      "result": "win",
+      "date": "Mar. 13, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michelle Waterson-Gomez",
+      "result": "loss",
+      "date": "Sep. 12, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Claudia Gadelha",
+      "result": "loss",
+      "date": "May. 16, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Loma Lookboonmee",
+      "result": "win",
+      "date": "Feb. 22, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hannah Cifers",
+      "result": "win",
+      "date": "Jan. 25, 2020",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Ariane Carnelossi",
+      "result": "win",
+      "date": "Sep. 21, 2019",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Yan Xiaonan",
+      "result": "loss",
+      "date": "Jun. 08, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jodie Esquibel",
+      "result": "win",
+      "date": "Apr. 27, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Randa Markos",
+      "result": "loss",
+      "date": "Mar. 23, 2019",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Cortney Casey",
+      "result": "loss",
+      "date": "Aug. 25, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Maryna Moroz",
+      "result": "win",
+      "date": "Feb. 24, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nina Nunes",
+      "result": "loss",
+      "date": "Nov. 11, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ashley Yoder",
+      "result": "win",
+      "date": "Jul. 07, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jessica Andrade",
+      "result": "loss",
+      "date": "Feb. 04, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rose Namajunas",
+      "result": "loss",
+      "date": "Oct. 03, 2015",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Tecia Pennington",
+      "result": "loss",
+      "date": "Jun. 13, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Emily Kagan",
+      "result": "win",
+      "date": "Dec. 12, 2014",
+      "method": "N/A"
+    }
+  ]
+}

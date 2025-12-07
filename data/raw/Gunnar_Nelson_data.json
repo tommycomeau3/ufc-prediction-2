@@ -1,0 +1,121 @@
+{
+  "url": "http://ufcstats.com/fighter-details/fd55393021a8c255",
+  "stats": {
+    "name": "Gunnar Nelson",
+    "record": "19-6-1",
+    "wins": 19,
+    "losses": 6,
+    "draws": 1,
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "72\"",
+    "stance": "Switch",
+    "dob": "Jul 28, 1988",
+    "strikes_landed_per_min": 1.77,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.06,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.52,
+    "takedown_defense": 0.68,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kevin Holland",
+      "result": "loss",
+      "date": "Mar. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bryan Barberena",
+      "result": "win",
+      "date": "Mar. 18, 2023",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Takashi Sato",
+      "result": "win",
+      "date": "Mar. 19, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gilbert Burns",
+      "result": "loss",
+      "date": "Sep. 28, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Leon Edwards",
+      "result": "loss",
+      "date": "Mar. 16, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Oliveira",
+      "result": "win",
+      "date": "Dec. 08, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Santiago Ponzinibbio",
+      "result": "loss",
+      "date": "Jul. 16, 2017",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alan Jouban",
+      "result": "win",
+      "date": "Mar. 18, 2017",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Albert Tumenov",
+      "result": "win",
+      "date": "May. 08, 2016",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Demian Maia",
+      "result": "loss",
+      "date": "Dec. 12, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brandon Thatch",
+      "result": "win",
+      "date": "Jul. 11, 2015",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Rick Story",
+      "result": "loss",
+      "date": "Oct. 04, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zak Cummings",
+      "result": "win",
+      "date": "Jul. 19, 2014",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Omari Akhmedov",
+      "result": "win",
+      "date": "Mar. 08, 2014",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Jorge Santiago",
+      "result": "win",
+      "date": "Feb. 16, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "DaMarques Johnson",
+      "result": "win",
+      "date": "Sep. 29, 2012",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

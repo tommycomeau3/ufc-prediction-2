@@ -1,0 +1,47 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e4ba58725825412d",
+  "stats": {
+    "name": "Dan Argueta",
+    "record": "9-3-0 (2 NC)",
+    "wins": 9,
+    "losses": 3
+  },
+  "fight_history": [
+    {
+      "opponent": "Cody Haddon",
+      "result": "loss",
+      "date": "Oct. 12, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jean Matsumoto",
+      "result": "loss",
+      "date": "Apr. 06, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Miles Johns",
+      "result": "nc",
+      "date": "Sep. 23, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ronnie Lawrence",
+      "result": "nc",
+      "date": "Jun. 17, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nick Aguirre",
+      "result": "win",
+      "date": "Jan. 14, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Damon Jackson",
+      "result": "loss",
+      "date": "Jun. 04, 2022",
+      "method": "N/A"
+    }
+  ]
+}

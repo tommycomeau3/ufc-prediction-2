@@ -1,0 +1,139 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a495f599e787614f",
+  "stats": {
+    "name": "Alonzo Menifield",
+    "record": "17-6-1",
+    "wins": 17,
+    "losses": 6,
+    "draws": 1,
+    "height": "6' 0\"",
+    "weight": "205 lbs.",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "dob": "Oct 18, 1987",
+    "strikes_landed_per_min": 3.77,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.81,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.31,
+    "takedown_defense": 0.78,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Volkan Oezdemir",
+      "result": "loss",
+      "date": "Nov. 22, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Oumar Sy",
+      "result": "win",
+      "date": "Jun. 14, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julius Walker",
+      "result": "win",
+      "date": "Feb. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Azamat Murzakanov",
+      "result": "loss",
+      "date": "Aug. 03, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Carlos Ulberg",
+      "result": "loss",
+      "date": "May. 11, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Dustin Jacoby",
+      "result": "win",
+      "date": "Dec. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jimmy Crute",
+      "result": "win",
+      "date": "Jul. 08, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Jimmy Crute",
+      "result": "draw",
+      "date": "Feb. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Misha Cirkunov",
+      "result": "win",
+      "date": "Oct. 15, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Askar Mozharov",
+      "result": "win",
+      "date": "Jun. 04, 2022",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "William Knight",
+      "result": "loss",
+      "date": "Dec. 04, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ed Herman",
+      "result": "win",
+      "date": "Aug. 07, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Fabio Cherant",
+      "result": "win",
+      "date": "Mar. 27, 2021",
+      "method": "Submission (Von Flue Choke)"
+    },
+    {
+      "opponent": "Ovince Saint Preux",
+      "result": "loss",
+      "date": "Sep. 05, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Devin Clark",
+      "result": "loss",
+      "date": "Jun. 06, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paul Craig",
+      "result": "win",
+      "date": "Jun. 29, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Vinicius Moreira",
+      "result": "win",
+      "date": "Jan. 19, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dashawn Boatwright",
+      "result": "win",
+      "date": "Jun. 12, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Daniel Jolly",
+      "result": "win",
+      "date": "Jul. 25, 2017",
+      "method": "KO/TKO"
+    }
+  ]
+}

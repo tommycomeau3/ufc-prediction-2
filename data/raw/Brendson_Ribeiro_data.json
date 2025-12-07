@@ -1,0 +1,53 @@
+{
+  "url": "http://ufcstats.com/fighter-details/49edd0d90f60fb7d",
+  "stats": {
+    "name": "Brendson Ribeiro",
+    "record": "17-9-0 (1 NC)",
+    "wins": 17,
+    "losses": 9
+  },
+  "fight_history": [
+    {
+      "opponent": "Oumar Sy",
+      "result": "loss",
+      "date": "Sep. 06, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Azamat Murzakanov",
+      "result": "loss",
+      "date": "Jun. 07, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Diyar Nurgozhay",
+      "result": "win",
+      "date": "Mar. 15, 2025",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Caio Machado",
+      "result": "win",
+      "date": "Nov. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Magomed Gadzhiyasulov",
+      "result": "loss",
+      "date": "Jun. 22, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zhang Mingyang",
+      "result": "loss",
+      "date": "Feb. 17, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Bruno Lopes",
+      "result": "win",
+      "date": "Sep. 05, 2023",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

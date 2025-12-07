@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/8c1ca54b5089d199",
+  "stats": {
+    "name": "Maheshate",
+    "record": "10-5-0",
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Dec 01, 1999",
+    "strikes_landed_per_min": 3.96,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.96,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.47,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Gauge Young",
+      "result": "loss",
+      "date": "Aug. 23, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nikolas Motta",
+      "result": "loss",
+      "date": "Nov. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gabriel Benitez",
+      "result": "win",
+      "date": "Apr. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Viacheslav Borshchev",
+      "result": "loss",
+      "date": "May. 20, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Rafa Garcia",
+      "result": "loss",
+      "date": "Dec. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Steve Garcia",
+      "result": "win",
+      "date": "Jun. 11, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Achilles Estremadura",
+      "result": "win",
+      "date": "Nov. 02, 2021",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b07aed698fba8624",
+  "stats": {
+    "name": "Ikram Aliskerov",
+    "record": "17-2-0",
+    "wins": 17,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "185 lbs.",
+    "reach": "76\"",
+    "stance": "Southpaw",
+    "dob": "Dec 07, 1992",
+    "strikes_landed_per_min": 6.86,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.47,
+    "striking_defense": 0.41,
+    "takedown_average": null,
+    "takedown_accuracy": 0.6,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "JunYong Park",
+      "result": "win",
+      "date": "Oct. 25, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Muniz",
+      "result": "win",
+      "date": "Apr. 26, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Robert Whittaker",
+      "result": "loss",
+      "date": "Jun. 22, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Warlley Alves",
+      "result": "win",
+      "date": "Oct. 21, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Phil Hawes",
+      "result": "win",
+      "date": "May. 06, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Mario Sousa",
+      "result": "win",
+      "date": "Sep. 13, 2022",
+      "method": "Submission (Kimura)"
+    }
+  ]
+}

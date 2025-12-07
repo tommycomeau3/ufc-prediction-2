@@ -1,0 +1,29 @@
+{
+  "url": "http://ufcstats.com/fighter-details/64ad3e3b0efa30bb",
+  "stats": {
+    "name": "Ivan Erslan",
+    "record": "14-6-0 (1 NC)",
+    "wins": 14,
+    "losses": 6
+  },
+  "fight_history": [
+    {
+      "opponent": "Jimmy Crute",
+      "result": "loss",
+      "date": "Sep. 27, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Navajo Stirling",
+      "result": "loss",
+      "date": "May. 10, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ion Cutelaba",
+      "result": "loss",
+      "date": "Sep. 28, 2024",
+      "method": "N/A"
+    }
+  ]
+}

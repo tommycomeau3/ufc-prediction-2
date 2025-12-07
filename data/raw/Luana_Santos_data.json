@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/5078e1dacf9d25f4",
+  "stats": {
+    "name": "Luana Santos",
+    "record": "9-2-0",
+    "wins": 9,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Apr 16, 2000",
+    "strikes_landed_per_min": 3.69,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.4,
+    "striking_defense": 0.62,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.83,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Melissa Croden",
+      "result": "next",
+      "date": "Dec. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tainara Lisboa",
+      "result": "win",
+      "date": "May. 17, 2025",
+      "method": "Submission (Keylock)"
+    },
+    {
+      "opponent": "Casey O'Neill",
+      "result": "loss",
+      "date": "Aug. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mariya Agapova",
+      "result": "win",
+      "date": "Jul. 13, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Stephanie Egger",
+      "result": "win",
+      "date": "Dec. 09, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Juliana Miller",
+      "result": "win",
+      "date": "Aug. 12, 2023",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

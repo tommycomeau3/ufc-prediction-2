@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/9f5e3c20ce40b344",
+  "stats": {
+    "name": "Klaudia Sygula",
+    "record": "7-2-0",
+    "wins": 7,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Dec 30, 1998",
+    "strikes_landed_per_min": 5.3,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.73,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.2,
+    "takedown_defense": 0.33,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Irina Alekseeva",
+      "result": "win",
+      "date": "Jun. 21, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Melissa Mullins",
+      "result": "loss",
+      "date": "Nov. 09, 2024",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

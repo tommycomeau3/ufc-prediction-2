@@ -1,0 +1,157 @@
+{
+  "url": "http://ufcstats.com/fighter-details/cb696ebfb6598724",
+  "stats": {
+    "name": "Aljamain Sterling",
+    "record": "25-5-0",
+    "wins": 25,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jul 31, 1989",
+    "strikes_landed_per_min": 4.45,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.21,
+    "striking_defense": 0.59,
+    "takedown_average": null,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.44,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Brian Ortega",
+      "result": "win",
+      "date": "Aug. 23, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Movsar Evloev",
+      "result": "loss",
+      "date": "Dec. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Calvin Kattar",
+      "result": "win",
+      "date": "Apr. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean O'Malley",
+      "result": "loss",
+      "date": "Aug. 19, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Henry Cejudo",
+      "result": "win",
+      "date": "May. 06, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "TJ Dillashaw",
+      "result": "win",
+      "date": "Oct. 22, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Petr Yan",
+      "result": "win",
+      "date": "Apr. 09, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Petr Yan",
+      "result": "win",
+      "date": "Mar. 06, 2021",
+      "method": "DQ"
+    },
+    {
+      "opponent": "Cory Sandhagen",
+      "result": "win",
+      "date": "Jun. 06, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Pedro Munhoz",
+      "result": "win",
+      "date": "Jun. 08, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jimmie Rivera",
+      "result": "win",
+      "date": "Feb. 17, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody Stamann",
+      "result": "win",
+      "date": "Sep. 08, 2018",
+      "method": "Submission (Suloev Stretch)"
+    },
+    {
+      "opponent": "Brett Johns",
+      "result": "win",
+      "date": "Apr. 21, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marlon Moraes",
+      "result": "loss",
+      "date": "Dec. 09, 2017",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Renan Barao",
+      "result": "win",
+      "date": "Jul. 29, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Augusto Mendes",
+      "result": "win",
+      "date": "Apr. 15, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Raphael Assuncao",
+      "result": "loss",
+      "date": "Jan. 28, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bryan Caraway",
+      "result": "loss",
+      "date": "May. 29, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Johnny Eduardo",
+      "result": "win",
+      "date": "Dec. 10, 2015",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Takeya Mizugaki",
+      "result": "win",
+      "date": "Apr. 18, 2015",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Hugo Viana",
+      "result": "win",
+      "date": "Jul. 16, 2014",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Cody Gibson",
+      "result": "win",
+      "date": "Feb. 22, 2014",
+      "method": "N/A"
+    }
+  ]
+}

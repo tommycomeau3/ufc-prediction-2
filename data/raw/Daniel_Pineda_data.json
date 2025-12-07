@@ -1,0 +1,95 @@
+{
+  "url": "http://ufcstats.com/fighter-details/361d49960a196976",
+  "stats": {
+    "name": "Daniel Pineda",
+    "record": "28-17-0 (3 NC)",
+    "wins": 28,
+    "losses": 17
+  },
+  "fight_history": [
+    {
+      "opponent": "Darren Elkins",
+      "result": "loss",
+      "date": "Oct. 19, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nathaniel Wood",
+      "result": "loss",
+      "date": "Jul. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Caceres",
+      "result": "loss",
+      "date": "Jun. 03, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tucker Lutz",
+      "result": "win",
+      "date": "Mar. 25, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Andre Fili",
+      "result": "nc",
+      "date": "Jun. 26, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cub Swanson",
+      "result": "loss",
+      "date": "Dec. 12, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Herbert Burns",
+      "result": "win",
+      "date": "Aug. 15, 2020",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Robert Whiteford",
+      "result": "loss",
+      "date": "Mar. 15, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Diego Brandao",
+      "result": "loss",
+      "date": "Aug. 17, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Justin Lawrence",
+      "result": "win",
+      "date": "Apr. 13, 2013",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Antonio Carvalho",
+      "result": "loss",
+      "date": "Jul. 21, 2012",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mike Brown",
+      "result": "loss",
+      "date": "May. 26, 2012",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mackens Semerzier",
+      "result": "win",
+      "date": "Mar. 02, 2012",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Pat Schilling",
+      "result": "win",
+      "date": "Jan. 20, 2012",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

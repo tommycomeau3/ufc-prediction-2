@@ -1,0 +1,59 @@
+{
+  "url": "http://ufcstats.com/fighter-details/23dec7c47cb418f8",
+  "stats": {
+    "name": "Zach Reese",
+    "record": "10-2-0 (1 NC)",
+    "wins": 10,
+    "losses": 2
+  },
+  "fight_history": [
+    {
+      "opponent": "Jackson McVey",
+      "result": "win",
+      "date": "Nov. 08, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Sedriques Dumas",
+      "result": "nc",
+      "date": "Sep. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dusko Todorovic",
+      "result": "win",
+      "date": "May. 31, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Azamat Bekoev",
+      "result": "loss",
+      "date": "Jan. 18, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jose Daniel Medina",
+      "result": "win",
+      "date": "Aug. 24, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julian Marquez",
+      "result": "win",
+      "date": "Jun. 08, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Cody Brundage",
+      "result": "loss",
+      "date": "Dec. 02, 2023",
+      "method": "KO/TKO (Slam)"
+    },
+    {
+      "opponent": "Eli Aronov",
+      "result": "win",
+      "date": "Aug. 22, 2023",
+      "method": "Submission (Armbar)"
+    }
+  ]
+}

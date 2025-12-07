@@ -1,0 +1,247 @@
+{
+  "url": "http://ufcstats.com/fighter-details/84b3e7d38f2d2ec5",
+  "stats": {
+    "name": "Neil Magny",
+    "record": "31-14-0",
+    "wins": 31,
+    "losses": 14,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "170 lbs.",
+    "reach": "80\"",
+    "stance": "Orthodox",
+    "dob": "Aug 03, 1987",
+    "strikes_landed_per_min": 3.41,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.44,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.39,
+    "takedown_defense": 0.55,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Yaroslav Amosov",
+      "result": "next",
+      "date": "Dec. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jake Matthews",
+      "result": "win",
+      "date": "Sep. 27, 2025",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Elizeu Zaleski dos Santos",
+      "result": "win",
+      "date": "Aug. 02, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Carlos Prates",
+      "result": "loss",
+      "date": "Nov. 09, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Michael Morales",
+      "result": "loss",
+      "date": "Aug. 24, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Mike Malott",
+      "result": "win",
+      "date": "Jan. 20, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ian Machado Garry",
+      "result": "loss",
+      "date": "Aug. 19, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Phil Rowe",
+      "result": "win",
+      "date": "Jun. 24, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gilbert Burns",
+      "result": "loss",
+      "date": "Jan. 21, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Daniel Rodriguez",
+      "result": "win",
+      "date": "Nov. 05, 2022",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Shavkat Rakhmonov",
+      "result": "loss",
+      "date": "Jun. 25, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Max Griffin",
+      "result": "win",
+      "date": "Mar. 26, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Geoff Neal",
+      "result": "win",
+      "date": "May. 08, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michael Chiesa",
+      "result": "loss",
+      "date": "Jan. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Robbie Lawler",
+      "result": "win",
+      "date": "Aug. 29, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anthony Rocco Martin",
+      "result": "win",
+      "date": "Jun. 06, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Li Jingliang",
+      "result": "win",
+      "date": "Mar. 07, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Santiago Ponzinibbio",
+      "result": "loss",
+      "date": "Nov. 17, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Craig White",
+      "result": "win",
+      "date": "May. 27, 2018",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Carlos Condit",
+      "result": "win",
+      "date": "Dec. 30, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rafael Dos Anjos",
+      "result": "loss",
+      "date": "Sep. 09, 2017",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Johny Hendricks",
+      "result": "win",
+      "date": "Dec. 30, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lorenz Larkin",
+      "result": "loss",
+      "date": "Aug. 20, 2016",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Hector Lombard",
+      "result": "win",
+      "date": "Mar. 19, 2016",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Kelvin Gastelum",
+      "result": "win",
+      "date": "Nov. 21, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Erick Silva",
+      "result": "win",
+      "date": "Aug. 23, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Demian Maia",
+      "result": "loss",
+      "date": "Aug. 01, 2015",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Hyun Gyu Lim",
+      "result": "win",
+      "date": "May. 16, 2015",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Kiichi Kunimoto",
+      "result": "win",
+      "date": "Feb. 14, 2015",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "William Macario",
+      "result": "win",
+      "date": "Oct. 25, 2014",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alex Garcia",
+      "result": "win",
+      "date": "Aug. 23, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rodrigo de Lima",
+      "result": "win",
+      "date": "UFC Fight Night: Te Huna vs Marquardt",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Tim Means",
+      "result": "win",
+      "date": "May. 10, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gasan Umalatov",
+      "result": "win",
+      "date": "Feb. 01, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Seth Baczynski",
+      "result": "loss",
+      "date": "Nov. 06, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sergio Moraes",
+      "result": "loss",
+      "date": "UFC 163: Aldo vs Jung",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Jon Manley",
+      "result": "win",
+      "date": "Feb. 23, 2013",
+      "method": "N/A"
+    }
+  ]
+}

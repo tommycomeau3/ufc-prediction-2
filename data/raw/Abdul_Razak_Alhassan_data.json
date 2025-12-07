@@ -1,0 +1,95 @@
+{
+  "url": "http://ufcstats.com/fighter-details/eae431e70064e046",
+  "stats": {
+    "name": "Abdul Razak Alhassan",
+    "record": "12-7-0 (1 NC)",
+    "wins": 12,
+    "losses": 7
+  },
+  "fight_history": [
+    {
+      "opponent": "Cesar Almeida",
+      "result": "loss",
+      "date": "Jan. 11, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Cody Brundage",
+      "result": "nc",
+      "date": "Jul. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joe Pyfer",
+      "result": "loss",
+      "date": "Oct. 07, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Claudio Ribeiro",
+      "result": "win",
+      "date": "Jan. 14, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Joaquin Buckley",
+      "result": "loss",
+      "date": "Feb. 19, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alessio Di Chirico",
+      "result": "win",
+      "date": "Aug. 28, 2021",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Jacob Malkoun",
+      "result": "loss",
+      "date": "Apr. 17, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Khaos Williams",
+      "result": "loss",
+      "date": "Nov. 14, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mounir Lazzez",
+      "result": "loss",
+      "date": "Jul. 15, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Niko Price",
+      "result": "win",
+      "date": "Sep. 08, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Sabah Homasi",
+      "result": "win",
+      "date": "Jan. 20, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Sabah Homasi",
+      "result": "win",
+      "date": "Dec. 02, 2017",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Omari Akhmedov",
+      "result": "loss",
+      "date": "May. 28, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charlie Ward",
+      "result": "win",
+      "date": "Nov. 19, 2016",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

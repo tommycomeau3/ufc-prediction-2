@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c0badf3243907e59",
+  "stats": {
+    "name": "Alexandr Romanov",
+    "record": "18-3-0",
+    "wins": 18,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "262 lbs.",
+    "reach": "75\"",
+    "stance": "Southpaw",
+    "dob": "Dec 11, 1990",
+    "strikes_landed_per_min": 3.78,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.13,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.55,
+    "takedown_defense": 0.28,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rodrigo Nascimento",
+      "result": "win",
+      "date": "Nov. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jailton Almeida",
+      "result": "loss",
+      "date": "Jun. 01, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Blagoy Ivanov",
+      "result": "win",
+      "date": "Jul. 01, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexander Volkov",
+      "result": "loss",
+      "date": "Mar. 11, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Marcin Tybura",
+      "result": "loss",
+      "date": "Aug. 20, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chase Sherman",
+      "result": "win",
+      "date": "Apr. 30, 2022",
+      "method": "Submission (Keylock)"
+    },
+    {
+      "opponent": "Jared Vanderaa",
+      "result": "win",
+      "date": "Oct. 09, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Juan Espino",
+      "result": "win",
+      "date": "Apr. 17, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marcos Rogerio de Lima",
+      "result": "win",
+      "date": "Nov. 07, 2020",
+      "method": "Submission (Forearm Choke)"
+    },
+    {
+      "opponent": "Roque Martinez",
+      "result": "win",
+      "date": "Sep. 12, 2020",
+      "method": "Submission (Arm Triangle)"
+    }
+  ]
+}

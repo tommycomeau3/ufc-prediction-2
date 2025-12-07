@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/bd532e9a2b93870c",
+  "stats": {
+    "name": "Melissa Mullins",
+    "record": "7-2-0",
+    "wins": 7,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Jul 23, 1991",
+    "strikes_landed_per_min": 3.71,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.39,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.42,
+    "takedown_defense": 0.85,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Daria Zhelezniakova",
+      "result": "loss",
+      "date": "Jun. 21, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Klaudia Sygula",
+      "result": "win",
+      "date": "Nov. 09, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Nora Cornolle",
+      "result": "loss",
+      "date": "Apr. 06, 2024",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Irina Alekseeva",
+      "result": "win",
+      "date": "Oct. 14, 2023",
+      "method": "N/A"
+    }
+  ]
+}

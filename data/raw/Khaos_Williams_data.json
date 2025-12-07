@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/2558ae2e5671e318",
+  "stats": {
+    "name": "Khaos Williams",
+    "record": "15-5-0",
+    "wins": 15,
+    "losses": 5,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "170 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "Mar 30, 1994",
+    "strikes_landed_per_min": 4.94,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.39,
+    "striking_defense": 0.4,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.51,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Andreas Gustafsson",
+      "result": "loss",
+      "date": "Jun. 07, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gabriel Bonfim",
+      "result": "loss",
+      "date": "Feb. 15, 2025",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Carlston Harris",
+      "result": "win",
+      "date": "May. 18, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Rolando Bedoya",
+      "result": "win",
+      "date": "May. 06, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Randy Brown",
+      "result": "loss",
+      "date": "May. 07, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Miguel Baeza",
+      "result": "win",
+      "date": "Nov. 13, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Matthew Semelsberger",
+      "result": "win",
+      "date": "UFC Fight Night: Jung vs. Ige",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michel Pereira",
+      "result": "loss",
+      "date": "Dec. 19, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Abdul Razak Alhassan",
+      "result": "win",
+      "date": "Nov. 14, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Alex Morono",
+      "result": "win",
+      "date": "Feb. 08, 2020",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

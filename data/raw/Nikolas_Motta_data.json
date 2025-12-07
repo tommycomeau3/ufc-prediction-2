@@ -1,0 +1,59 @@
+{
+  "url": "http://ufcstats.com/fighter-details/37f560436d745c18",
+  "stats": {
+    "name": "Nikolas Motta",
+    "record": "15-6-0 (1 NC)",
+    "wins": 15,
+    "losses": 6
+  },
+  "fight_history": [
+    {
+      "opponent": "Nazim Sadykhov",
+      "result": "loss",
+      "date": "Jun. 21, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Maheshate",
+      "result": "win",
+      "date": "Nov. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tom Nolan",
+      "result": "win",
+      "date": "Jan. 13, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Trey Ogden",
+      "result": "nc",
+      "date": "Nov. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Manuel Torres",
+      "result": "loss",
+      "date": "Jun. 17, 2023",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Cameron VanCamp",
+      "result": "win",
+      "date": "Sep. 17, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jim Miller",
+      "result": "loss",
+      "date": "Feb. 19, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Joe Lowry",
+      "result": "win",
+      "date": "Nov. 10, 2020",
+      "method": "N/A"
+    }
+  ]
+}

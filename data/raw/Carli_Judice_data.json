@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f1ab6f37492c630a",
+  "stats": {
+    "name": "Carli Judice",
+    "record": "5-2-0",
+    "wins": 5,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "68\"",
+    "stance": "Southpaw",
+    "dob": "Mar 02, 1999",
+    "strikes_landed_per_min": 10.73,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 8.08,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.77,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Nicolle Caliari",
+      "result": "win",
+      "date": "Jul. 19, 2025",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Yuneisy Duben",
+      "result": "win",
+      "date": "Mar. 15, 2025",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Gabriella Fernandes",
+      "result": "loss",
+      "date": "Jun. 15, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ernesta Kareckaite",
+      "result": "loss",
+      "date": "Sep. 26, 2023",
+      "method": "N/A"
+    }
+  ]
+}

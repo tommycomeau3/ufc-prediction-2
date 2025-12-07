@@ -1,0 +1,107 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d802174b0c0c1f4e",
+  "stats": {
+    "name": "Magomed Ankalaev",
+    "record": "21-2-1 (1 NC)",
+    "wins": 21,
+    "losses": 2
+  },
+  "fight_history": [
+    {
+      "opponent": "Alex Pereira",
+      "result": "loss",
+      "date": "Oct. 04, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Alex Pereira",
+      "result": "win",
+      "date": "Mar. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aleksandar Rakic",
+      "result": "win",
+      "date": "Oct. 26, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Johnny Walker",
+      "result": "win",
+      "date": "Jan. 13, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Johnny Walker",
+      "result": "nc",
+      "date": "Oct. 21, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jan Blachowicz",
+      "result": "draw",
+      "date": "Dec. 10, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anthony Smith",
+      "result": "win",
+      "date": "Jul. 30, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Thiago Santos",
+      "result": "win",
+      "date": "Mar. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Volkan Oezdemir",
+      "result": "win",
+      "date": "Oct. 30, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nikita Krylov",
+      "result": "win",
+      "date": "Feb. 27, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ion Cutelaba",
+      "result": "win",
+      "date": "Oct. 24, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ion Cutelaba",
+      "result": "win",
+      "date": "Feb. 29, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Dalcha Lungiambula",
+      "result": "win",
+      "date": "Nov. 09, 2019",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Klidson Abreu",
+      "result": "win",
+      "date": "Feb. 23, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marcin Prachnio",
+      "result": "win",
+      "date": "Sep. 15, 2018",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Paul Craig",
+      "result": "loss",
+      "date": "Mar. 17, 2018",
+      "method": "Submission (Triangle Choke)"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b997be68943010fc",
+  "stats": {
+    "name": "Geoff Neal",
+    "record": "16-7-0",
+    "wins": 16,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "75\"",
+    "stance": "Southpaw",
+    "dob": "Aug 28, 1990",
+    "strikes_landed_per_min": 5.05,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.48,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.45,
+    "takedown_defense": 0.87,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Carlos Prates",
+      "result": "loss",
+      "date": "Aug. 16, 2025",
+      "method": "KO/TKO (Spinning Back Elbow)"
+    },
+    {
+      "opponent": "Rafael Dos Anjos",
+      "result": "win",
+      "date": "Oct. 26, 2024",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Ian Machado Garry",
+      "result": "loss",
+      "date": "Feb. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shavkat Rakhmonov",
+      "result": "loss",
+      "date": "Mar. 04, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Vicente Luque",
+      "result": "win",
+      "date": "Aug. 06, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Santiago Ponzinibbio",
+      "result": "win",
+      "date": "Dec. 11, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Neil Magny",
+      "result": "loss",
+      "date": "May. 08, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Stephen Thompson",
+      "result": "loss",
+      "date": "Dec. 19, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mike Perry",
+      "result": "win",
+      "date": "Dec. 14, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Niko Price",
+      "result": "win",
+      "date": "Jul. 27, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Belal Muhammad",
+      "result": "win",
+      "date": "Jan. 19, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Frank Camacho",
+      "result": "win",
+      "date": "Sep. 08, 2018",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Brian Camozzi",
+      "result": "win",
+      "date": "Feb. 18, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Chase Waldon",
+      "result": "win",
+      "date": "Jul. 25, 2017",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

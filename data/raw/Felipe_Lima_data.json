@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/9256f591b30c073e",
+  "stats": {
+    "name": "Felipe Lima",
+    "record": "14-2-0",
+    "wins": 14,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "May 07, 1998",
+    "strikes_landed_per_min": 2.86,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.91,
+    "striking_defense": 0.64,
+    "takedown_average": null,
+    "takedown_accuracy": 0.27,
+    "takedown_defense": 0.85,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Payton Talbott",
+      "result": "loss",
+      "date": "Jun. 28, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Miles Johns",
+      "result": "win",
+      "date": "Dec. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Muhammad Naimov",
+      "result": "win",
+      "date": "Jun. 22, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

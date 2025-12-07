@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a01a62132460a98d",
+  "stats": {
+    "name": "Adam Fugitt",
+    "record": "10-5-0",
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "170 lbs.",
+    "reach": "77\"",
+    "stance": "Southpaw",
+    "dob": "Jan 12, 1989",
+    "strikes_landed_per_min": 4.59,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.54,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Islam Dulatov",
+      "result": "loss",
+      "date": "Jul. 19, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Josh Quinlan",
+      "result": "win",
+      "date": "Jun. 15, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mike Malott",
+      "result": "loss",
+      "date": "Jun. 10, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Yusaku Kinoshita",
+      "result": "win",
+      "date": "Feb. 04, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Michael Morales",
+      "result": "loss",
+      "date": "Jul. 30, 2022",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

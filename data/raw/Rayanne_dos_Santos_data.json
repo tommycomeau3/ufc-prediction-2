@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/02bb48869eb7ac8f",
+  "stats": {
+    "name": "Rayanne dos Santos",
+    "record": "14-9-0",
+    "wins": 14,
+    "losses": 9,
+    "draws": 0,
+    "height": "5' 2\"",
+    "weight": "115 lbs.",
+    "reach": "62\"",
+    "stance": "Orthodox",
+    "dob": "Jun 08, 1995",
+    "strikes_landed_per_min": 4.57,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.47,
+    "striking_defense": 0.59,
+    "takedown_average": null,
+    "takedown_accuracy": 0.14,
+    "takedown_defense": 0.8,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Alice Ardelean",
+      "result": "loss",
+      "date": "May. 31, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Puja Tomar",
+      "result": "loss",
+      "date": "Jun. 08, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Talita Alencar",
+      "result": "loss",
+      "date": "Dec. 09, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Denise Gomes",
+      "result": "loss",
+      "date": "Aug. 23, 2022",
+      "method": "N/A"
+    }
+  ]
+}

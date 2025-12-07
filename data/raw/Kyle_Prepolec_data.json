@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/873626e5547b5235",
+  "stats": {
+    "name": "Kyle Prepolec",
+    "record": "18-10-0",
+    "wins": 18,
+    "losses": 10,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Aug 30, 1989",
+    "strikes_landed_per_min": 3.25,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.69,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.45,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Drew Dober",
+      "result": "loss",
+      "date": "Oct. 18, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Benoit Saint Denis",
+      "result": "loss",
+      "date": "May. 10, 2025",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Austin Hubbard",
+      "result": "loss",
+      "date": "Sep. 14, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nordine Taleb",
+      "result": "loss",
+      "date": "May. 04, 2019",
+      "method": "N/A"
+    }
+  ]
+}

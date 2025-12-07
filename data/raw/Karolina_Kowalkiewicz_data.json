@@ -1,0 +1,139 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d7c3816669784109",
+  "stats": {
+    "name": "Karolina Kowalkiewicz",
+    "record": "16-10-0",
+    "wins": 16,
+    "losses": 10,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "115 lbs.",
+    "reach": "64\"",
+    "stance": "Orthodox",
+    "dob": "Oct 15, 1985",
+    "strikes_landed_per_min": 5.54,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.77,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.23,
+    "takedown_defense": 0.74,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Julia Polastri",
+      "result": "loss",
+      "date": "Oct. 11, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Denise Gomes",
+      "result": "loss",
+      "date": "Nov. 09, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Iasmin Lucindo",
+      "result": "loss",
+      "date": "May. 04, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Diana Belbita",
+      "result": "win",
+      "date": "Oct. 07, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vanessa Demopoulos",
+      "result": "win",
+      "date": "May. 20, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Silvana Gomez Juarez",
+      "result": "win",
+      "date": "Nov. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Felice Herrig",
+      "result": "win",
+      "date": "Jun. 04, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jessica Penne",
+      "result": "loss",
+      "date": "Aug. 07, 2021",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Yan Xiaonan",
+      "result": "loss",
+      "date": "Feb. 22, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexa Grasso",
+      "result": "loss",
+      "date": "Jun. 08, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michelle Waterson-Gomez",
+      "result": "loss",
+      "date": "Mar. 30, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jessica Andrade",
+      "result": "loss",
+      "date": "Sep. 08, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Felice Herrig",
+      "result": "win",
+      "date": "Apr. 07, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jodie Esquibel",
+      "result": "win",
+      "date": "Oct. 21, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Claudia Gadelha",
+      "result": "loss",
+      "date": "Jun. 03, 2017",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Joanna Jedrzejczyk",
+      "result": "loss",
+      "date": "Nov. 12, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rose Namajunas",
+      "result": "win",
+      "date": "Jul. 30, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Heather Clark",
+      "result": "win",
+      "date": "May. 08, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Randa Markos",
+      "result": "win",
+      "date": "Dec. 19, 2015",
+      "method": "N/A"
+    }
+  ]
+}

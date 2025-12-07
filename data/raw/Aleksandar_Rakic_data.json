@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/333b9e5c723ac873",
+  "stats": {
+    "name": "Aleksandar Rakic",
+    "record": "14-6-0",
+    "wins": 14,
+    "losses": 6,
+    "draws": 0,
+    "height": "6' 4\"",
+    "weight": "205 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Feb 06, 1992",
+    "strikes_landed_per_min": 4.13,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.86,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.21,
+    "takedown_defense": 0.85,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Azamat Murzakanov",
+      "result": "loss",
+      "date": "Oct. 25, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Magomed Ankalaev",
+      "result": "loss",
+      "date": "Oct. 26, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jiri Prochazka",
+      "result": "loss",
+      "date": "Apr. 13, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jan Blachowicz",
+      "result": "loss",
+      "date": "May. 14, 2022",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Thiago Santos",
+      "result": "win",
+      "date": "Mar. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anthony Smith",
+      "result": "win",
+      "date": "Aug. 29, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Volkan Oezdemir",
+      "result": "loss",
+      "date": "Dec. 21, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jimi Manuwa",
+      "result": "win",
+      "date": "Jun. 01, 2019",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Devin Clark",
+      "result": "win",
+      "date": "Dec. 08, 2018",
+      "method": "KO/TKO (Spinning Back Fist)"
+    },
+    {
+      "opponent": "Justin Ledet",
+      "result": "win",
+      "date": "Jul. 22, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Francimar Barroso",
+      "result": "win",
+      "date": "Sep. 02, 2017",
+      "method": "N/A"
+    }
+  ]
+}

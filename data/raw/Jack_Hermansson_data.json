@@ -1,0 +1,139 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0a1942069c9ad6b6",
+  "stats": {
+    "name": "Jack Hermansson",
+    "record": "24-10-0",
+    "wins": 24,
+    "losses": 10,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "170 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "Jun 10, 1988",
+    "strikes_landed_per_min": 5.15,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.72,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.29,
+    "takedown_defense": 0.8,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Myktybek Orolbai",
+      "result": "loss",
+      "date": "Nov. 22, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Gregory Rodrigues",
+      "result": "loss",
+      "date": "Jun. 28, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Joe Pyfer",
+      "result": "win",
+      "date": "Feb. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Roman Dolidze",
+      "result": "loss",
+      "date": "Dec. 03, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Chris Curtis",
+      "result": "win",
+      "date": "Jul. 23, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sean Strickland",
+      "result": "loss",
+      "date": "Feb. 05, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Edmen Shahbazyan",
+      "result": "win",
+      "date": "May. 22, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marvin Vettori",
+      "result": "loss",
+      "date": "Dec. 05, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kelvin Gastelum",
+      "result": "win",
+      "date": "Jul. 18, 2020",
+      "method": "Submission (Heel Hook)"
+    },
+    {
+      "opponent": "Jared Cannonier",
+      "result": "loss",
+      "date": "Sep. 28, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jacare Souza",
+      "result": "win",
+      "date": "Apr. 27, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "David Branch",
+      "result": "win",
+      "date": "Mar. 30, 2019",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Gerald Meerschaert",
+      "result": "win",
+      "date": "Dec. 15, 2018",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Thales Leites",
+      "result": "win",
+      "date": "May. 12, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Thiago Santos",
+      "result": "loss",
+      "date": "Oct. 28, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Brad Scott",
+      "result": "win",
+      "date": "Aug. 05, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Alex Nicholson",
+      "result": "win",
+      "date": "May. 28, 2017",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Cezar Ferreira",
+      "result": "loss",
+      "date": "Nov. 19, 2016",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Scott Askham",
+      "result": "win",
+      "date": "Sep. 03, 2016",
+      "method": "N/A"
+    }
+  ]
+}

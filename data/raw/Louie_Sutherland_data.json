@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/cdb7b38b1b357f26",
+  "stats": {
+    "name": "Louie Sutherland",
+    "record": "10-4-0",
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "264 lbs.",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "dob": "Feb 08, 1994",
+    "strikes_landed_per_min": 2.14,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.57,
+    "striking_defense": 0.0,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Valter Walker",
+      "result": "loss",
+      "date": "Oct. 25, 2025",
+      "method": "Submission (Heel Hook)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e803242fb2e41112",
+  "stats": {
+    "name": "Islam Dulatov",
+    "record": "12-1-0",
+    "wins": 12,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "170 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Aug 02, 1998",
+    "strikes_landed_per_min": 8.78,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.24,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.1,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Adam Fugitt",
+      "result": "win",
+      "date": "Jul. 19, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Vanilto Antunes",
+      "result": "win",
+      "date": "Oct. 08, 2024",
+      "method": "KO/TKO (Elbow)"
+    }
+  ]
+}

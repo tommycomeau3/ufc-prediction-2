@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a9da3158dd2c2b5a",
+  "stats": {
+    "name": "Jack Jenkins",
+    "record": "14-4-0",
+    "wins": 14,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "68\"",
+    "stance": "Switch",
+    "dob": "Nov 03, 1993",
+    "strikes_landed_per_min": 4.48,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.95,
+    "striking_defense": 0.59,
+    "takedown_average": null,
+    "takedown_accuracy": 0.6,
+    "takedown_defense": 0.71,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ramon Taveras",
+      "result": "win",
+      "date": "Sep. 27, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gabriel Santos",
+      "result": "loss",
+      "date": "Feb. 08, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Herbert Burns",
+      "result": "win",
+      "date": "Aug. 17, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Chepe Mariscal",
+      "result": "loss",
+      "date": "Sep. 09, 2023",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Jamall Emmers",
+      "result": "win",
+      "date": "Jun. 24, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Don Shainis",
+      "result": "win",
+      "date": "Feb. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Emiliano Linares",
+      "result": "win",
+      "date": "Sep. 27, 2022",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

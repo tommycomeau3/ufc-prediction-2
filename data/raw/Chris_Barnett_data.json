@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7a5e8c94a86f9895",
+  "stats": {
+    "name": "Chris Barnett",
+    "record": "23-10-0",
+    "wins": 23,
+    "losses": 10,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "261 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Jun 14, 1986",
+    "strikes_landed_per_min": 3.36,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.55,
+    "striking_defense": 0.36,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.35,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Hamdy Abdelwahab",
+      "result": "loss",
+      "date": "Oct. 25, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kennedy Nzechukwu",
+      "result": "loss",
+      "date": "Oct. 26, 2024",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Jake Collier",
+      "result": "win",
+      "date": "Sep. 10, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Martin Buday",
+      "result": "loss",
+      "date": "Apr. 16, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gian Villante",
+      "result": "win",
+      "date": "Nov. 06, 2021",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Ben Rothwell",
+      "result": "loss",
+      "date": "May. 22, 2021",
+      "method": "Submission (Guillotine Choke)"
+    }
+  ]
+}

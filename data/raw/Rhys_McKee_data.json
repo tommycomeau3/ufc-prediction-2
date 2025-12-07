@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f748267c4ab6c127",
+  "stats": {
+    "name": "Rhys McKee",
+    "record": "14-7-1",
+    "wins": 14,
+    "losses": 7,
+    "draws": 1,
+    "height": "6' 2\"",
+    "weight": "170 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Sep 10, 1995",
+    "strikes_landed_per_min": 4.71,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.15,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.47,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Axel Sola",
+      "result": "loss",
+      "date": "Sep. 06, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Daniel Frunza",
+      "result": "win",
+      "date": "Apr. 05, 2025",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Chidi Njokuani",
+      "result": "loss",
+      "date": "Mar. 30, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ange Loosa",
+      "result": "loss",
+      "date": "Sep. 02, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Morono",
+      "result": "loss",
+      "date": "Nov. 14, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Khamzat Chimaev",
+      "result": "loss",
+      "date": "Jul. 25, 2020",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

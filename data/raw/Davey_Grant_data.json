@@ -1,0 +1,115 @@
+{
+  "url": "http://ufcstats.com/fighter-details/113df4fde64735c6",
+  "stats": {
+    "name": "Davey Grant",
+    "record": "17-8-0",
+    "wins": 17,
+    "losses": 8,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Dec 18, 1985",
+    "strikes_landed_per_min": 5.14,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.82,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.63,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Charles Jourdain",
+      "result": "loss",
+      "date": "Oct. 18, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Da'Mon Blackshear",
+      "result": "win",
+      "date": "Jul. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ramon Taveras",
+      "result": "win",
+      "date": "Dec. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daniel Marcos",
+      "result": "loss",
+      "date": "Jul. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Raphael Assuncao",
+      "result": "win",
+      "date": "Mar. 11, 2023",
+      "method": "Submission (Inverted Triangle)"
+    },
+    {
+      "opponent": "Louis Smolka",
+      "result": "win",
+      "date": "May. 14, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Adrian Yanez",
+      "result": "loss",
+      "date": "Nov. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marlon Vera",
+      "result": "loss",
+      "date": "UFC Fight Night: Jung vs. Ige",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jonathan Martinez",
+      "result": "win",
+      "date": "Mar. 13, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Martin Day",
+      "result": "win",
+      "date": "Jul. 11, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Grigory Popov",
+      "result": "win",
+      "date": "Nov. 09, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Manny Bermudez",
+      "result": "loss",
+      "date": "Jul. 22, 2018",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Damian Stasiak",
+      "result": "loss",
+      "date": "Oct. 08, 2016",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Marlon Vera",
+      "result": "win",
+      "date": "Feb. 27, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Holdsworth",
+      "result": "loss",
+      "date": "Nov. 30, 2013",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

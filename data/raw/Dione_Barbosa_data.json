@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/27b388f0aab49780",
+  "stats": {
+    "name": "Dione Barbosa",
+    "record": "8-4-0",
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "125 lbs.",
+    "reach": "66\"",
+    "stance": "Orthodox",
+    "dob": "May 08, 1992",
+    "strikes_landed_per_min": 2.27,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.45,
+    "striking_defense": 0.66,
+    "takedown_average": null,
+    "takedown_accuracy": 0.42,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Karine Silva",
+      "result": "loss",
+      "date": "Aug. 16, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Diana Belbita",
+      "result": "win",
+      "date": "Apr. 05, 2025",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Miranda Maverick",
+      "result": "loss",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ernesta Kareckaite",
+      "result": "win",
+      "date": "May. 04, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rainn Guerrero",
+      "result": "win",
+      "date": "Sep. 05, 2023",
+      "method": "Submission (Armbar)"
+    }
+  ]
+}

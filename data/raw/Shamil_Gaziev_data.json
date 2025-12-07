@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6747ccd6d1acd266",
+  "stats": {
+    "name": "Shamil Gaziev",
+    "record": "14-2-0",
+    "wins": 14,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 4\"",
+    "weight": "265 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Feb 10, 1990",
+    "strikes_landed_per_min": 2.62,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.97,
+    "striking_defense": 0.45,
+    "takedown_average": null,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.83,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Waldo Cortes Acosta",
+      "result": "loss",
+      "date": "Nov. 22, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Thomas Petersen",
+      "result": "win",
+      "date": "Feb. 01, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Don'Tale Mayes",
+      "result": "win",
+      "date": "Aug. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jairzinho Rozenstruik",
+      "result": "loss",
+      "date": "Mar. 02, 2024",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Martin Buday",
+      "result": "win",
+      "date": "Dec. 16, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Greg Velasco",
+      "result": "win",
+      "date": "Sep. 19, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

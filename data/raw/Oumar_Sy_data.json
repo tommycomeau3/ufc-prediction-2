@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/46e2011d92463b7e",
+  "stats": {
+    "name": "Oumar Sy",
+    "record": "12-1-0",
+    "wins": 12,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 4\"",
+    "weight": "205 lbs.",
+    "reach": "83\"",
+    "stance": "Orthodox",
+    "dob": "Nov 21, 1995",
+    "strikes_landed_per_min": 3.67,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.72,
+    "striking_defense": 0.7,
+    "takedown_average": null,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Brendson Ribeiro",
+      "result": "win",
+      "date": "Sep. 06, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alonzo Menifield",
+      "result": "loss",
+      "date": "Jun. 14, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Da Woon Jung",
+      "result": "win",
+      "date": "Sep. 28, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tuco Tokkos",
+      "result": "win",
+      "date": "May. 18, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

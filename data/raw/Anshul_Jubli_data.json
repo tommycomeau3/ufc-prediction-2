@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a72a2a769fa5a2be",
+  "stats": {
+    "name": "Anshul Jubli",
+    "record": "7-2-0",
+    "wins": 7,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Switch",
+    "dob": "Jan 13, 1995",
+    "strikes_landed_per_min": 6.42,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.72,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.18,
+    "takedown_defense": 0.63,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Quillan Salkilld",
+      "result": "loss",
+      "date": "Feb. 08, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mike Breeden",
+      "result": "loss",
+      "date": "Oct. 21, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jeka Saragih",
+      "result": "win",
+      "date": "Feb. 04, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "KyeungPyo Kim",
+      "result": "win",
+      "date": "Oct. 23, 2022",
+      "method": "N/A"
+    }
+  ]
+}

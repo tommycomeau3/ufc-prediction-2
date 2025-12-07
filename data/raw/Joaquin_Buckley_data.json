@@ -1,0 +1,121 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b9437600497350f3",
+  "stats": {
+    "name": "Joaquin Buckley",
+    "record": "21-7-0",
+    "wins": 21,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "76\"",
+    "stance": "Southpaw",
+    "dob": "Apr 27, 1994",
+    "strikes_landed_per_min": 3.88,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.93,
+    "striking_defense": 0.59,
+    "takedown_average": null,
+    "takedown_accuracy": 0.45,
+    "takedown_defense": 0.72,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kamaru Usman",
+      "result": "loss",
+      "date": "Jun. 14, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Colby Covington",
+      "result": "win",
+      "date": "Dec. 14, 2024",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Stephen Thompson",
+      "result": "win",
+      "date": "Oct. 05, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Nursulton Ruziboev",
+      "result": "win",
+      "date": "May. 11, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vicente Luque",
+      "result": "win",
+      "date": "Mar. 30, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alex Morono",
+      "result": "win",
+      "date": "Oct. 07, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Fialho",
+      "result": "win",
+      "date": "May. 20, 2023",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Chris Curtis",
+      "result": "loss",
+      "date": "Dec. 10, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Nassourdine Imavov",
+      "result": "loss",
+      "date": "Sep. 03, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Albert Duraev",
+      "result": "win",
+      "date": "Jun. 18, 2022",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Abdul Razak Alhassan",
+      "result": "win",
+      "date": "Feb. 19, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Antonio Arroyo",
+      "result": "win",
+      "date": "Sep. 18, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alessio Di Chirico",
+      "result": "loss",
+      "date": "Jan. 16, 2021",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Jordan Wright",
+      "result": "win",
+      "date": "Nov. 21, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Impa Kasanganay",
+      "result": "win",
+      "date": "Oct. 10, 2020",
+      "method": "KO/TKO (Spinning Back Kick)"
+    },
+    {
+      "opponent": "Kevin Holland",
+      "result": "loss",
+      "date": "Aug. 08, 2020",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

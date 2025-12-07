@@ -1,0 +1,197 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d3df1add9d9a7efb",
+  "stats": {
+    "name": "Derrick Lewis",
+    "record": "29-12-0 (1 NC)",
+    "wins": 29,
+    "losses": 12
+  },
+  "fight_history": [
+    {
+      "opponent": "Waldo Cortes Acosta",
+      "result": "next",
+      "date": "Jan. 24, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tallison Teixeira",
+      "result": "win",
+      "date": "Jul. 12, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Rodrigo Nascimento",
+      "result": "win",
+      "date": "May. 11, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jailton Almeida",
+      "result": "loss",
+      "date": "Nov. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marcos Rogerio de Lima",
+      "result": "win",
+      "date": "Jul. 29, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Serghei Spivac",
+      "result": "loss",
+      "date": "Feb. 04, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Sergei Pavlovich",
+      "result": "loss",
+      "date": "Jul. 30, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Tai Tuivasa",
+      "result": "loss",
+      "date": "Feb. 12, 2022",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Chris Daukaus",
+      "result": "win",
+      "date": "Dec. 18, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ciryl Gane",
+      "result": "loss",
+      "date": "Aug. 07, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Curtis Blaydes",
+      "result": "win",
+      "date": "Feb. 20, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Aleksei Oleinik",
+      "result": "win",
+      "date": "Aug. 08, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ilir Latifi",
+      "result": "win",
+      "date": "Feb. 08, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Blagoy Ivanov",
+      "result": "win",
+      "date": "Nov. 02, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Junior Dos Santos",
+      "result": "loss",
+      "date": "Mar. 09, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Daniel Cormier",
+      "result": "loss",
+      "date": "Nov. 03, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Alexander Volkov",
+      "result": "win",
+      "date": "Oct. 06, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Francis Ngannou",
+      "result": "win",
+      "date": "Jul. 07, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marcin Tybura",
+      "result": "win",
+      "date": "Feb. 18, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mark Hunt",
+      "result": "loss",
+      "date": "Jun. 10, 2017",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Travis Browne",
+      "result": "win",
+      "date": "Feb. 19, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Shamil Abdurakhimov",
+      "result": "win",
+      "date": "Dec. 09, 2016",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Roy Nelson",
+      "result": "win",
+      "date": "Jul. 07, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gabriel Gonzaga",
+      "result": "win",
+      "date": "Apr. 10, 2016",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Damian Grabowski",
+      "result": "win",
+      "date": "Feb. 06, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Viktor Pesta",
+      "result": "win",
+      "date": "Oct. 03, 2015",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Shawn Jordan",
+      "result": "loss",
+      "date": "Jun. 06, 2015",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Ruan Potts",
+      "result": "win",
+      "date": "Feb. 28, 2015",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Matt Mitrione",
+      "result": "loss",
+      "date": "Sep. 05, 2014",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Guto Inocente",
+      "result": "win",
+      "date": "Jul. 06, 2014",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jack May",
+      "result": "win",
+      "date": "Apr. 19, 2014",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

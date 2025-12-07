@@ -1,0 +1,47 @@
+{
+  "url": "http://ufcstats.com/fighter-details/5ef94841c4bc3f86",
+  "stats": {
+    "name": "Edgar Chairez",
+    "record": "12-6-0 (1 NC)",
+    "wins": 12,
+    "losses": 6
+  },
+  "fight_history": [
+    {
+      "opponent": "CJ Vergara",
+      "result": "win",
+      "date": "Mar. 29, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Joshua Van",
+      "result": "loss",
+      "date": "Sep. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daniel Lacerda",
+      "result": "win",
+      "date": "Feb. 24, 2024",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Daniel Lacerda",
+      "result": "nc",
+      "date": "Sep. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tatsuro Taira",
+      "result": "loss",
+      "date": "Jul. 08, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Clayton Carpenter",
+      "result": "loss",
+      "date": "Aug. 09, 2022",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "url": "http://ufcstats.com/fighter-details/eabf206b162b3b83",
+  "stats": {
+    "name": "Paul Craig",
+    "record": "17-10-1 (1 NC)",
+    "wins": 17,
+    "losses": 10
+  },
+  "fight_history": [
+    {
+      "opponent": "Modestas Bukauskas",
+      "result": "loss",
+      "date": "Sep. 06, 2025",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Rodolfo Bellato",
+      "result": "nc",
+      "date": "Jun. 14, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bo Nickal",
+      "result": "loss",
+      "date": "Nov. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Caio Borralho",
+      "result": "loss",
+      "date": "May. 04, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Brendan Allen",
+      "result": "loss",
+      "date": "Nov. 18, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Andre Muniz",
+      "result": "win",
+      "date": "Jul. 22, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Johnny Walker",
+      "result": "loss",
+      "date": "Jan. 21, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Volkan Oezdemir",
+      "result": "loss",
+      "date": "Jul. 23, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nikita Krylov",
+      "result": "win",
+      "date": "Mar. 19, 2022",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Jamahal Hill",
+      "result": "win",
+      "date": "Jun. 12, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Mauricio Rua",
+      "result": "win",
+      "date": "Nov. 21, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Gadzhimurad Antigulov",
+      "result": "win",
+      "date": "Jul. 25, 2020",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Mauricio Rua",
+      "result": "draw",
+      "date": "Nov. 16, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vinicius Moreira",
+      "result": "win",
+      "date": "Sep. 21, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Alonzo Menifield",
+      "result": "loss",
+      "date": "Jun. 29, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Kennedy Nzechukwu",
+      "result": "win",
+      "date": "Mar. 30, 2019",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Jimmy Crute",
+      "result": "loss",
+      "date": "Dec. 01, 2018",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Magomed Ankalaev",
+      "result": "win",
+      "date": "Mar. 17, 2018",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Khalil Rountree Jr.",
+      "result": "loss",
+      "date": "Jul. 16, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Tyson Pedro",
+      "result": "loss",
+      "date": "Mar. 04, 2017",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Henrique da Silva",
+      "result": "win",
+      "date": "Dec. 17, 2016",
+      "method": "Submission (Armbar)"
+    }
+  ]
+}

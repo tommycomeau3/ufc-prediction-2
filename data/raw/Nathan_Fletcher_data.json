@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a2d342ffc83913ed",
+  "stats": {
+    "name": "Nathan Fletcher",
+    "record": "9-3-0",
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Jan 03, 1998",
+    "strikes_landed_per_min": 3.41,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.16,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.38,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rinya Nakamura",
+      "result": "loss",
+      "date": "Aug. 02, 2025",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Caolan Loughran",
+      "result": "loss",
+      "date": "Mar. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zygimantas Ramaska",
+      "result": "win",
+      "date": "Sep. 07, 2024",
+      "method": "Submission (Arm Triangle)"
+    }
+  ]
+}

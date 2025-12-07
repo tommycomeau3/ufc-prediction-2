@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d35298b6df168456",
+  "stats": {
+    "name": "Talita Alencar",
+    "record": "7-1-1",
+    "wins": 7,
+    "losses": 1,
+    "draws": 1,
+    "height": "5' 1\"",
+    "weight": "115 lbs.",
+    "reach": "58\"",
+    "stance": "Orthodox",
+    "dob": "Oct 17, 1990",
+    "strikes_landed_per_min": 2.91,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.36,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.26,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ariane Carnelossi",
+      "result": "win",
+      "date": "Nov. 01, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Vanessa Demopoulos",
+      "result": "win",
+      "date": "Apr. 05, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Stephanie Luciano",
+      "result": "loss",
+      "date": "Aug. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rayanne dos Santos",
+      "result": "win",
+      "date": "Dec. 09, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Stephanie Luciano",
+      "result": "draw",
+      "date": "Sep. 19, 2023",
+      "method": "N/A"
+    }
+  ]
+}

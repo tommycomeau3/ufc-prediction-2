@@ -1,0 +1,95 @@
+{
+  "url": "http://ufcstats.com/fighter-details/595db60957de51d3",
+  "stats": {
+    "name": "Michel Pereira",
+    "record": "31-14-0 (2 NC)",
+    "wins": 31,
+    "losses": 14
+  },
+  "fight_history": [
+    {
+      "opponent": "Kyle Daukaus",
+      "result": "loss",
+      "date": "Aug. 23, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Abus Magomedov",
+      "result": "loss",
+      "date": "Apr. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anthony Hernandez",
+      "result": "loss",
+      "date": "Oct. 19, 2024",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Ihor Potieria",
+      "result": "win",
+      "date": "May. 04, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Michal Oleksiejczuk",
+      "result": "win",
+      "date": "Mar. 09, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Andre Petroski",
+      "result": "win",
+      "date": "Oct. 14, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Santiago Ponzinibbio",
+      "result": "win",
+      "date": "May. 21, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Fialho",
+      "result": "win",
+      "date": "Jan. 22, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Niko Price",
+      "result": "win",
+      "date": "Jul. 10, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Khaos Williams",
+      "result": "win",
+      "date": "Dec. 19, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zelim Imadaev",
+      "result": "win",
+      "date": "Sep. 05, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Diego Sanchez",
+      "result": "loss",
+      "date": "Feb. 15, 2020",
+      "method": "DQ"
+    },
+    {
+      "opponent": "Tristan Connelly",
+      "result": "loss",
+      "date": "Sep. 14, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Danny Roberts",
+      "result": "win",
+      "date": "May. 18, 2019",
+      "method": "KO/TKO (Flying Knee)"
+    }
+  ]
+}

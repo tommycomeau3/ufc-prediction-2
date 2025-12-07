@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/1897b7b913736a7c",
+  "stats": {
+    "name": "Alatengheili",
+    "record": "17-10-2",
+    "wins": 17,
+    "losses": 10,
+    "draws": 2,
+    "height": "5' 5\"",
+    "weight": "135 lbs.",
+    "reach": "66\"",
+    "stance": "Orthodox",
+    "dob": "Dec 14, 1991",
+    "strikes_landed_per_min": 2.82,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.12,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.43,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Da'Mon Blackshear",
+      "result": "loss",
+      "date": "Apr. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kleydson Rodrigues",
+      "result": "win",
+      "date": "May. 18, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Gutierrez",
+      "result": "loss",
+      "date": "Oct. 14, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chad Anheliger",
+      "result": "win",
+      "date": "Sep. 10, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kevin Croom",
+      "result": "win",
+      "date": "Apr. 16, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Gustavo Lopez",
+      "result": "draw",
+      "date": "Sep. 18, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Casey Kenney",
+      "result": "loss",
+      "date": "Oct. 03, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ryan Benoit",
+      "result": "win",
+      "date": "Dec. 21, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Batgerel Danaa",
+      "result": "win",
+      "date": "Aug. 31, 2019",
+      "method": "N/A"
+    }
+  ]
+}

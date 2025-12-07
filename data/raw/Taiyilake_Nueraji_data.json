@@ -1,0 +1,23 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7498b3ac79a3b948",
+  "stats": {
+    "name": "Taiyilake Nueraji",
+    "record": "12-1-0 (1 NC)",
+    "wins": 12,
+    "losses": 1
+  },
+  "fight_history": [
+    {
+      "opponent": "Kiefer Crosbie",
+      "result": "win",
+      "date": "Aug. 23, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "HanSeul Kim",
+      "result": "win",
+      "date": "May. 27, 2023",
+      "method": "KO/TKO (Elbow)"
+    }
+  ]
+}

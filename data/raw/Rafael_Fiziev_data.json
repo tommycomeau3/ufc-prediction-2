@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c814b4c899793af6",
+  "stats": {
+    "name": "Rafael Fiziev",
+    "record": "13-4-0",
+    "wins": 13,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Switch",
+    "dob": "Mar 05, 1993",
+    "strikes_landed_per_min": 4.77,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.77,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.72,
+    "takedown_defense": 0.9,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ignacio Bahamondes",
+      "result": "win",
+      "date": "Jun. 21, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Justin Gaethje",
+      "result": "loss",
+      "date": "Mar. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mateusz Gamrot",
+      "result": "loss",
+      "date": "Sep. 23, 2023",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Justin Gaethje",
+      "result": "loss",
+      "date": "Mar. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rafael Dos Anjos",
+      "result": "win",
+      "date": "Jul. 09, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Brad Riddell",
+      "result": "win",
+      "date": "Dec. 04, 2021",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "King Green",
+      "result": "win",
+      "date": "Aug. 07, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Renato Moicano",
+      "result": "win",
+      "date": "Dec. 12, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Marc Diakiese",
+      "result": "win",
+      "date": "Jul. 18, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex White",
+      "result": "win",
+      "date": "Oct. 26, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Magomed Mustafaev",
+      "result": "loss",
+      "date": "Apr. 20, 2019",
+      "method": "KO/TKO (Spinning Back Kick)"
+    }
+  ]
+}

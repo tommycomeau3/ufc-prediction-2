@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/3bc3f60b21cddc6a",
+  "stats": {
+    "name": "Azamat Bekoev",
+    "record": "20-4-0",
+    "wins": 20,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "185 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Dec 30, 1995",
+    "strikes_landed_per_min": 4.07,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.66,
+    "striking_defense": 0.31,
+    "takedown_average": null,
+    "takedown_accuracy": 0.45,
+    "takedown_defense": 0.8,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Yousri Belgaroui",
+      "result": "loss",
+      "date": "Oct. 18, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ryan Loder",
+      "result": "win",
+      "date": "May. 03, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Zach Reese",
+      "result": "win",
+      "date": "Jan. 18, 2025",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

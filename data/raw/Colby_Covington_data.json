@@ -1,0 +1,127 @@
+{
+  "url": "http://ufcstats.com/fighter-details/dc9572dd6ec74859",
+  "stats": {
+    "name": "Colby Covington",
+    "record": "17-5-0",
+    "wins": 17,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Feb 22, 1988",
+    "strikes_landed_per_min": 3.81,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.09,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.42,
+    "takedown_defense": 0.68,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Joaquin Buckley",
+      "result": "loss",
+      "date": "Dec. 14, 2024",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Leon Edwards",
+      "result": "loss",
+      "date": "Dec. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jorge Masvidal",
+      "result": "win",
+      "date": "Mar. 05, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kamaru Usman",
+      "result": "loss",
+      "date": "Nov. 06, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tyron Woodley",
+      "result": "win",
+      "date": "Sep. 19, 2020",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Kamaru Usman",
+      "result": "loss",
+      "date": "Dec. 14, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Robbie Lawler",
+      "result": "win",
+      "date": "Aug. 03, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rafael Dos Anjos",
+      "result": "win",
+      "date": "Jun. 09, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Demian Maia",
+      "result": "win",
+      "date": "Oct. 28, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dong Hyun Kim",
+      "result": "win",
+      "date": "Jun. 17, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bryan Barberena",
+      "result": "win",
+      "date": "Dec. 17, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Max Griffin",
+      "result": "win",
+      "date": "Aug. 20, 2016",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jonathan Meunier",
+      "result": "win",
+      "date": "Jun. 18, 2016",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Warlley Alves",
+      "result": "loss",
+      "date": "Dec. 12, 2015",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Mike Pyle",
+      "result": "win",
+      "date": "May. 23, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Wagner Silva",
+      "result": "win",
+      "date": "Nov. 08, 2014",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Anying Wang",
+      "result": "win",
+      "date": "Aug. 23, 2014",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

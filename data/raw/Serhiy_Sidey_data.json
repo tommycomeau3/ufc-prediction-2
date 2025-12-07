@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/1a2bf44edb8055b6",
+  "stats": {
+    "name": "Serhiy Sidey",
+    "record": "12-2-0",
+    "wins": 12,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "135 lbs.",
+    "reach": "72\"",
+    "stance": "Switch",
+    "dob": "Jul 04, 1996",
+    "strikes_landed_per_min": 4.49,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.26,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.25,
+    "takedown_defense": 0.2,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Cameron Smotherman",
+      "result": "win",
+      "date": "May. 03, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Garrett Armfield",
+      "result": "win",
+      "date": "Nov. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ramon Taveras",
+      "result": "loss",
+      "date": "Jan. 20, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ramon Taveras",
+      "result": "win",
+      "date": "Sep. 05, 2023",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

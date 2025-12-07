@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c5ccd878231c5407",
+  "stats": {
+    "name": "Ramon Taveras",
+    "record": "10-4-0",
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Jan 09, 1994",
+    "strikes_landed_per_min": 4.07,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.45,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.72,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jack Jenkins",
+      "result": "loss",
+      "date": "Sep. 27, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Davey Grant",
+      "result": "loss",
+      "date": "Dec. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Serhiy Sidey",
+      "result": "win",
+      "date": "Jan. 20, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cortavious Romious",
+      "result": "win",
+      "date": "Oct. 10, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Serhiy Sidey",
+      "result": "loss",
+      "date": "Sep. 05, 2023",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

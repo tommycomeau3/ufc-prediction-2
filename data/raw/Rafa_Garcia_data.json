@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e132d47bd9efbbe0",
+  "stats": {
+    "name": "Rafa Garcia",
+    "record": "18-4-0",
+    "wins": 18,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Aug 05, 1994",
+    "strikes_landed_per_min": 4.31,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.54,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.44,
+    "takedown_defense": 0.76,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jared Gordon",
+      "result": "win",
+      "date": "Sep. 13, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Vinc Pichel",
+      "result": "win",
+      "date": "Mar. 29, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Grant Dawson",
+      "result": "loss",
+      "date": "Oct. 12, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Clay Guida",
+      "result": "win",
+      "date": "Apr. 15, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Maheshate",
+      "result": "win",
+      "date": "Dec. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Drakkar Klose",
+      "result": "loss",
+      "date": "Jul. 30, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jesse Ronson",
+      "result": "win",
+      "date": "Apr. 16, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Natan Levy",
+      "result": "win",
+      "date": "Nov. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Gruetzemacher",
+      "result": "loss",
+      "date": "Jul. 31, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nasrat Haqparast",
+      "result": "loss",
+      "date": "Mar. 13, 2021",
+      "method": "N/A"
+    }
+  ]
+}

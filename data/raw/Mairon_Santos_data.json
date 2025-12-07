@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/480779d7f9a424d3",
+  "stats": {
+    "name": "Mairon Santos",
+    "record": "18-1-0",
+    "wins": 18,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Jun 10, 2000",
+    "strikes_landed_per_min": 3.53,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.38,
+    "striking_defense": 0.66,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Muhammad Naimov",
+      "result": "win",
+      "date": "Dec. 06, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Sodiq Yusuff",
+      "result": "win",
+      "date": "May. 17, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Francis Marshall",
+      "result": "win",
+      "date": "Mar. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kaan Ofli",
+      "result": "win",
+      "date": "Aug. 24, 2024",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

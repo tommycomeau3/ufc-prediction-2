@@ -1,0 +1,71 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e13abac8089a801a",
+  "stats": {
+    "name": "Justin Tafa",
+    "record": "7-5-0 (1 NC)",
+    "wins": 7,
+    "losses": 5
+  },
+  "fight_history": [
+    {
+      "opponent": "Tallison Teixeira",
+      "result": "loss",
+      "date": "Feb. 08, 2025",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Karl Williams",
+      "result": "loss",
+      "date": "Mar. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Austen Lane",
+      "result": "win",
+      "date": "Sep. 09, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Austen Lane",
+      "result": "nc",
+      "date": "Jun. 24, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Parker Porter",
+      "result": "win",
+      "date": "Feb. 11, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Harry Hunsucker",
+      "result": "win",
+      "date": "Dec. 18, 2021",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Jared Vanderaa",
+      "result": "loss",
+      "date": "May. 22, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carlos Felipe",
+      "result": "loss",
+      "date": "Jan. 16, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Juan Adams",
+      "result": "win",
+      "date": "Feb. 08, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Yorgan De Castro",
+      "result": "loss",
+      "date": "Oct. 05, 2019",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

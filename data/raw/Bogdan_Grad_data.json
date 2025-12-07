@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/fb37795db81f93f3",
+  "stats": {
+    "name": "Bogdan Grad",
+    "record": "15-4-0",
+    "wins": 15,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Sep 28, 1995",
+    "strikes_landed_per_min": 4.06,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.06,
+    "striking_defense": 0.49,
+    "takedown_average": null,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Luke Riley",
+      "result": "loss",
+      "date": "Nov. 22, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Muhammad Naimov",
+      "result": "loss",
+      "date": "Jun. 21, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lucas Alexander",
+      "result": "win",
+      "date": "Feb. 01, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Michael Aswell Jr.",
+      "result": "win",
+      "date": "Aug. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tom Nolan",
+      "result": "loss",
+      "date": "Aug. 08, 2023",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

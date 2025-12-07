@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6c9b66b43663f2f7",
+  "stats": {
+    "name": "Viktoriia Dudakova",
+    "record": "8-2-0",
+    "wins": 8,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 5\"",
+    "weight": "115 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Jan 26, 1999",
+    "strikes_landed_per_min": 2.87,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.4,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.33,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Fatima Kline",
+      "result": "loss",
+      "date": "Jan. 11, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Sam Hughes",
+      "result": "loss",
+      "date": "Aug. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jinh Yu Frey",
+      "result": "win",
+      "date": "Oct. 21, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Istela Nunes",
+      "result": "win",
+      "date": "Jul. 15, 2023",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Maria Silva",
+      "result": "win",
+      "date": "Aug. 30, 2022",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4e30e4250cb08b61",
+  "stats": {
+    "name": "Loma Lookboonmee",
+    "record": "10-4-0",
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 1\"",
+    "weight": "115 lbs.",
+    "reach": "61\"",
+    "stance": "Orthodox",
+    "dob": "Jan 18, 1996",
+    "strikes_landed_per_min": 3.67,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.52,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.68,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Alexia Thainara",
+      "result": "loss",
+      "date": "Sep. 27, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Istela Nunes",
+      "result": "win",
+      "date": "Apr. 05, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bruna Brasil",
+      "result": "win",
+      "date": "Feb. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Elise Reed",
+      "result": "win",
+      "date": "Feb. 11, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Denise Gomes",
+      "result": "win",
+      "date": "Sep. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Loopy Godinez",
+      "result": "loss",
+      "date": "Nov. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sam Hughes",
+      "result": "win",
+      "date": "May. 01, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jinh Yu Frey",
+      "result": "win",
+      "date": "Oct. 03, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Angela Hill",
+      "result": "loss",
+      "date": "Feb. 22, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aleksandra Albu",
+      "result": "win",
+      "date": "Oct. 26, 2019",
+      "method": "N/A"
+    }
+  ]
+}

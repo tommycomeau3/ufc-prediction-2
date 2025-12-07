@@ -1,0 +1,47 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f6ad6a1e4d600e0d",
+  "stats": {
+    "name": "Mason Jones",
+    "record": "17-2-0 (1 NC)",
+    "wins": 17,
+    "losses": 2
+  },
+  "fight_history": [
+    {
+      "opponent": "Bolaji Oki",
+      "result": "win",
+      "date": "Sep. 06, 2025",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Jeremy Stephens",
+      "result": "win",
+      "date": "May. 03, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ludovit Klein",
+      "result": "loss",
+      "date": "Jul. 23, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "David Onama",
+      "result": "win",
+      "date": "Oct. 23, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alan Patrick",
+      "result": "nc",
+      "date": "Jun. 05, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mike Davis",
+      "result": "loss",
+      "date": "Jan. 20, 2021",
+      "method": "N/A"
+    }
+  ]
+}

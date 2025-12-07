@@ -1,0 +1,205 @@
+{
+  "url": "http://ufcstats.com/fighter-details/92a9aa9c93192871",
+  "stats": {
+    "name": "Darren Elkins",
+    "record": "29-12-0",
+    "wins": 29,
+    "losses": 12,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "May 16, 1984",
+    "strikes_landed_per_min": 3.4,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.34,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.56,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Julian Erosa",
+      "result": "loss",
+      "date": "Apr. 12, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Daniel Pineda",
+      "result": "win",
+      "date": "Oct. 19, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "TJ Brown",
+      "result": "win",
+      "date": "Oct. 14, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jonathan Pearce",
+      "result": "loss",
+      "date": "Dec. 03, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tristan Connelly",
+      "result": "win",
+      "date": "Apr. 30, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cub Swanson",
+      "result": "loss",
+      "date": "Dec. 18, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Darrick Minner",
+      "result": "win",
+      "date": "Jul. 24, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Eduardo Garagorri",
+      "result": "win",
+      "date": "Nov. 07, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Nate Landwehr",
+      "result": "loss",
+      "date": "May. 16, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ryan Hall",
+      "result": "loss",
+      "date": "Jul. 13, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ricardo Lamas",
+      "result": "loss",
+      "date": "Nov. 17, 2018",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Alexander Volkanovski",
+      "result": "loss",
+      "date": "Jul. 14, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michael Johnson",
+      "result": "win",
+      "date": "Jan. 14, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Dennis Bermudez",
+      "result": "win",
+      "date": "Jul. 22, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mirsad Bektic",
+      "result": "win",
+      "date": "Mar. 04, 2017",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Godofredo Pepey",
+      "result": "win",
+      "date": "Jul. 23, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chas Skelly",
+      "result": "win",
+      "date": "Mar. 05, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Robert Whiteford",
+      "result": "win",
+      "date": "Oct. 24, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hacran Dias",
+      "result": "loss",
+      "date": "Dec. 20, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lucas Martins",
+      "result": "win",
+      "date": "Oct. 25, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jeremy Stephens",
+      "result": "loss",
+      "date": "Jan. 25, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hatsu Hioki",
+      "result": "win",
+      "date": "Aug. 28, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chad Mendes",
+      "result": "loss",
+      "date": "Apr. 20, 2013",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Antonio Carvalho",
+      "result": "win",
+      "date": "Mar. 16, 2013",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Steven Siler",
+      "result": "win",
+      "date": "Nov. 17, 2012",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Diego Brandao",
+      "result": "win",
+      "date": "May. 26, 2012",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zhang Tiequan",
+      "result": "win",
+      "date": "UFC 136: Edgar vs Maynard 3",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michihiro Omigawa",
+      "result": "win",
+      "date": "Jun. 11, 2011",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Oliveira",
+      "result": "loss",
+      "date": "Aug. 01, 2010",
+      "method": "Submission (Triangle Armbar)"
+    },
+    {
+      "opponent": "Duane Ludwig",
+      "result": "win",
+      "date": "Mar. 21, 2010",
+      "method": "KO/TKO"
+    }
+  ]
+}

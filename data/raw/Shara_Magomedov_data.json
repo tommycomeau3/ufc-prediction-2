@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/06734ca9d88dec3a",
+  "stats": {
+    "name": "Shara Magomedov",
+    "record": "16-1-0",
+    "wins": 16,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "185 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "May 16, 1994",
+    "strikes_landed_per_min": 5.93,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.85,
+    "striking_defense": 0.43,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.71,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Marc-Andre Barriault",
+      "result": "win",
+      "date": "Jul. 26, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michael Page",
+      "result": "loss",
+      "date": "Feb. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Armen Petrosyan",
+      "result": "win",
+      "date": "Oct. 26, 2024",
+      "method": "KO/TKO (Spinning Back Fist)"
+    },
+    {
+      "opponent": "Michal Oleksiejczuk",
+      "result": "win",
+      "date": "Aug. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Antonio Trocoli",
+      "result": "win",
+      "date": "Jun. 22, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Bruno Silva",
+      "result": "win",
+      "date": "Oct. 21, 2023",
+      "method": "N/A"
+    }
+  ]
+}

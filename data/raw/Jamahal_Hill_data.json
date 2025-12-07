@@ -1,0 +1,83 @@
+{
+  "url": "http://ufcstats.com/fighter-details/5444c5a201d3ee5a",
+  "stats": {
+    "name": "Jamahal Hill",
+    "record": "12-4-0 (1 NC)",
+    "wins": 12,
+    "losses": 4
+  },
+  "fight_history": [
+    {
+      "opponent": "Khalil Rountree Jr.",
+      "result": "loss",
+      "date": "Jun. 21, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jiri Prochazka",
+      "result": "loss",
+      "date": "Jan. 18, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alex Pereira",
+      "result": "loss",
+      "date": "Apr. 13, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Glover Teixeira",
+      "result": "win",
+      "date": "Jan. 21, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Thiago Santos",
+      "result": "win",
+      "date": "Aug. 06, 2022",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Johnny Walker",
+      "result": "win",
+      "date": "Feb. 19, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jimmy Crute",
+      "result": "win",
+      "date": "Dec. 04, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Paul Craig",
+      "result": "loss",
+      "date": "Jun. 12, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ovince Saint Preux",
+      "result": "win",
+      "date": "Dec. 05, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Klidson Abreu",
+      "result": "nc",
+      "date": "May. 30, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Darko Stosic",
+      "result": "win",
+      "date": "Jan. 25, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexander Poppeck",
+      "result": "win",
+      "date": "Jul. 23, 2019",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

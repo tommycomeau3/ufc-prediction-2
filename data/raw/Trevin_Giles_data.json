@@ -1,0 +1,109 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b27a1fcb56a3035a",
+  "stats": {
+    "name": "Trevin Giles",
+    "record": "16-7-0",
+    "wins": 16,
+    "losses": 7,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "170 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Aug 06, 1992",
+    "strikes_landed_per_min": 3.17,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.39,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.72,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Mike Malott",
+      "result": "loss",
+      "date": "Nov. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carlos Prates",
+      "result": "loss",
+      "date": "Feb. 10, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Gabriel Bonfim",
+      "result": "loss",
+      "date": "Jul. 29, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Preston Parsons",
+      "result": "win",
+      "date": "Mar. 25, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Louis Cosce",
+      "result": "win",
+      "date": "Sep. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michael Morales",
+      "result": "loss",
+      "date": "Jan. 22, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Dricus Du Plessis",
+      "result": "loss",
+      "date": "Jul. 10, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Roman Dolidze",
+      "result": "win",
+      "date": "Mar. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bevon Lewis",
+      "result": "win",
+      "date": "Nov. 07, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "James Krause",
+      "result": "win",
+      "date": "Feb. 08, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gerald Meerschaert",
+      "result": "loss",
+      "date": "Aug. 03, 2019",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Zak Cummings",
+      "result": "loss",
+      "date": "May. 18, 2019",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Antonio Braga Neto",
+      "result": "win",
+      "date": "Dec. 09, 2017",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "James Bochnovic",
+      "result": "win",
+      "date": "Jul. 08, 2017",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

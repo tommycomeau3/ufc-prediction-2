@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d0fd0d9ee560dae7",
+  "stats": {
+    "name": "Brando Pericic",
+    "record": "5-1-0",
+    "wins": 5,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 5\"",
+    "weight": "245 lbs.",
+    "reach": "79\"",
+    "stance": "Orthodox",
+    "dob": "Aug 03, 1994",
+    "strikes_landed_per_min": 15.13,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.57,
+    "striking_defense": 0.66,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Elisha Ellison",
+      "result": "win",
+      "date": "Sep. 27, 2025",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

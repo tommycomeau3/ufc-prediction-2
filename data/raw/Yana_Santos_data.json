@@ -1,0 +1,83 @@
+{
+  "url": "http://ufcstats.com/fighter-details/3143bf892608139a",
+  "stats": {
+    "name": "Yana Santos",
+    "record": "17-8-0 (1 NC)",
+    "wins": 17,
+    "losses": 8
+  },
+  "fight_history": [
+    {
+      "opponent": "Macy Chiasson",
+      "result": "win",
+      "date": "Oct. 04, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Miesha Tate",
+      "result": "win",
+      "date": "May. 03, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chelsea Chandler",
+      "result": "win",
+      "date": "Aug. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Karol Rosa",
+      "result": "loss",
+      "date": "Jul. 01, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Holly Holm",
+      "result": "loss",
+      "date": "Mar. 25, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Irene Aldana",
+      "result": "loss",
+      "date": "Jul. 10, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ketlen Vieira",
+      "result": "win",
+      "date": "Feb. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julija Stoliarenko",
+      "result": "win",
+      "date": "Aug. 08, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aspen Ladd",
+      "result": "loss",
+      "date": "Dec. 07, 2019",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Marion Reneau",
+      "result": "win",
+      "date": "Mar. 09, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lina Lansberg",
+      "result": "win",
+      "date": "Oct. 06, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cristiane Justino",
+      "result": "loss",
+      "date": "Mar. 03, 2018",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

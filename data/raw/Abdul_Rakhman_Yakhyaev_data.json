@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0",
+  "stats": {
+    "name": "Abdul Rakhman Yakhyaev",
+    "record": "8-0-0",
+    "wins": 8,
+    "losses": 0,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "205 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Jan 03, 2001",
+    "strikes_landed_per_min": 20.95,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 0.95,
+    "striking_defense": 0.75,
+    "takedown_average": null,
+    "takedown_accuracy": 0.1,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rafael Cerqueira",
+      "result": "win",
+      "date": "Nov. 22, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Alik Lorenz",
+      "result": "win",
+      "date": "Aug. 26, 2025",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

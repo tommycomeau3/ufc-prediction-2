@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/94426bb170c88115",
+  "stats": {
+    "name": "Sodiq Yusuff",
+    "record": "13-5-0",
+    "wins": 13,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "May 19, 1993",
+    "strikes_landed_per_min": 5.27,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.29,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.23,
+    "takedown_defense": 0.62,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Mairon Santos",
+      "result": "loss",
+      "date": "May. 17, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Diego Lopes",
+      "result": "loss",
+      "date": "Apr. 13, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Edson Barboza",
+      "result": "loss",
+      "date": "Oct. 14, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Don Shainis",
+      "result": "win",
+      "date": "Oct. 01, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Alex Caceres",
+      "result": "win",
+      "date": "Mar. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Arnold Allen",
+      "result": "loss",
+      "date": "Apr. 10, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Fili",
+      "result": "win",
+      "date": "Jan. 18, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gabriel Benitez",
+      "result": "win",
+      "date": "Aug. 17, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Sheymon Moraes",
+      "result": "win",
+      "date": "Mar. 30, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Suman Mokhtarian",
+      "result": "win",
+      "date": "Dec. 01, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Mike Davis",
+      "result": "win",
+      "date": "Jul. 24, 2018",
+      "method": "N/A"
+    }
+  ]
+}

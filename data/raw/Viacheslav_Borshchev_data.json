@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/19c591115a58982c",
+  "stats": {
+    "name": "Viacheslav Borshchev",
+    "record": "8-7-1",
+    "wins": 8,
+    "losses": 7,
+    "draws": 1,
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Jan 08, 1992",
+    "strikes_landed_per_min": 5.1,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.46,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.43,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Matheus Camilo",
+      "result": "loss",
+      "date": "Nov. 15, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Terrance McKinney",
+      "result": "loss",
+      "date": "Jun. 28, 2025",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Tom Nolan",
+      "result": "loss",
+      "date": "Feb. 08, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "James Llontop",
+      "result": "win",
+      "date": "Aug. 24, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chase Hooper",
+      "result": "loss",
+      "date": "May. 11, 2024",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Nazim Sadykhov",
+      "result": "draw",
+      "date": "Nov. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Maheshate",
+      "result": "win",
+      "date": "May. 20, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mike Davis",
+      "result": "loss",
+      "date": "Oct. 01, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marc Diakiese",
+      "result": "loss",
+      "date": "Mar. 26, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dakota Bush",
+      "result": "win",
+      "date": "Jan. 15, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Chris Duncan",
+      "result": "win",
+      "date": "Oct. 12, 2021",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

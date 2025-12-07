@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b67d6bacc68d4c92",
+  "stats": {
+    "name": "Daniel Santos",
+    "record": "14-2-0",
+    "wins": 14,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Mar 12, 1995",
+    "strikes_landed_per_min": 4.76,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.03,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.73,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "JooSang Yoo",
+      "result": "win",
+      "date": "Oct. 04, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "JeongYeong Lee",
+      "result": "win",
+      "date": "May. 10, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Johnny Munoz",
+      "result": "win",
+      "date": "Jun. 03, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "John Castaneda",
+      "result": "win",
+      "date": "Oct. 01, 2022",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Julio Arce",
+      "result": "loss",
+      "date": "Apr. 09, 2022",
+      "method": "N/A"
+    }
+  ]
+}

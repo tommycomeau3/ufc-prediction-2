@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f5779a2303ed76ec",
+  "stats": {
+    "name": "Valter Walker",
+    "record": "15-1-0",
+    "wins": 15,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 6\"",
+    "weight": "244 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Dec 14, 1997",
+    "strikes_landed_per_min": 2.0,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.85,
+    "striking_defense": 0.42,
+    "takedown_average": null,
+    "takedown_accuracy": 0.69,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Louie Sutherland",
+      "result": "win",
+      "date": "Oct. 25, 2025",
+      "method": "Submission (Heel Hook)"
+    },
+    {
+      "opponent": "Kennedy Nzechukwu",
+      "result": "win",
+      "date": "Jul. 12, 2025",
+      "method": "Submission (Heel Hook)"
+    },
+    {
+      "opponent": "Don'Tale Mayes",
+      "result": "win",
+      "date": "Feb. 15, 2025",
+      "method": "Submission (Heel Hook)"
+    },
+    {
+      "opponent": "Junior Tafa",
+      "result": "win",
+      "date": "Aug. 17, 2024",
+      "method": "Submission (Heel Hook)"
+    },
+    {
+      "opponent": "Lukasz Brzeski",
+      "result": "loss",
+      "date": "Apr. 06, 2024",
+      "method": "N/A"
+    }
+  ]
+}

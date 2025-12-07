@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7dda2cf308f24a02",
+  "stats": {
+    "name": "Virna Jandiroba",
+    "record": "22-4-0",
+    "wins": 22,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "115 lbs.",
+    "reach": "64\"",
+    "stance": "Orthodox",
+    "dob": "May 30, 1988",
+    "strikes_landed_per_min": 2.33,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.9,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.37,
+    "takedown_defense": 0.74,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Mackenzie Dern",
+      "result": "loss",
+      "date": "Oct. 25, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yan Xiaonan",
+      "result": "win",
+      "date": "Apr. 12, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amanda Lemos",
+      "result": "win",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Loopy Godinez",
+      "result": "win",
+      "date": "Mar. 30, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marina Rodriguez",
+      "result": "win",
+      "date": "May. 06, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Angela Hill",
+      "result": "win",
+      "date": "May. 14, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amanda Ribas",
+      "result": "loss",
+      "date": "Oct. 30, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kanako Murata",
+      "result": "win",
+      "date": "UFC Fight Night: Jung vs. Ige",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Mackenzie Dern",
+      "result": "loss",
+      "date": "Dec. 12, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Felice Herrig",
+      "result": "win",
+      "date": "Aug. 15, 2020",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Mallory Martin",
+      "result": "win",
+      "date": "Dec. 07, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Carla Esparza",
+      "result": "loss",
+      "date": "Apr. 27, 2019",
+      "method": "N/A"
+    }
+  ]
+}

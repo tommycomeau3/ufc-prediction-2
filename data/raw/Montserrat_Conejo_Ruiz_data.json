@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/1235b31de15d0c6e",
+  "stats": {
+    "name": "Montserrat Conejo Ruiz",
+    "record": "10-5-0",
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 0\"",
+    "weight": "115 lbs.",
+    "reach": "61\"",
+    "stance": "Southpaw",
+    "dob": "Feb 03, 1993",
+    "strikes_landed_per_min": 2.21,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.19,
+    "striking_defense": 0.44,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.44,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Alice Ardelean",
+      "result": "loss",
+      "date": "Nov. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Eduarda Moura",
+      "result": "loss",
+      "date": "Nov. 04, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Jaqueline Amorim",
+      "result": "loss",
+      "date": "Aug. 12, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Amanda Lemos",
+      "result": "loss",
+      "date": "Jul. 17, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Cheyanne Vlismas",
+      "result": "win",
+      "date": "Mar. 20, 2021",
+      "method": "N/A"
+    }
+  ]
+}

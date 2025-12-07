@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/42ac4020cba261ad",
+  "stats": {
+    "name": "Caolan Loughran",
+    "record": "10-2-0",
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "May 18, 1996",
+    "strikes_landed_per_min": 4.73,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.2,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.87,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Nathan Fletcher",
+      "result": "win",
+      "date": "Mar. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jake Hadley",
+      "result": "loss",
+      "date": "Jul. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Angel Pacheco",
+      "result": "win",
+      "date": "Mar. 30, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Taylor Lapilus",
+      "result": "loss",
+      "date": "Sep. 02, 2023",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/87f8699fdcc2c404",
+  "stats": {
+    "name": "Alice Ardelean",
+    "record": "11-7-0",
+    "wins": 11,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "115 lbs.",
+    "reach": "62\"",
+    "stance": "Orthodox",
+    "dob": "Apr 19, 1992",
+    "strikes_landed_per_min": 7.35,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.2,
+    "striking_defense": 0.62,
+    "takedown_average": null,
+    "takedown_accuracy": 0.44,
+    "takedown_defense": 0.85,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Montserrat Conejo Ruiz",
+      "result": "win",
+      "date": "Nov. 01, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rayanne dos Santos",
+      "result": "win",
+      "date": "May. 31, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Melissa Martinez",
+      "result": "loss",
+      "date": "Oct. 19, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shauna Bannon",
+      "result": "loss",
+      "date": "Jul. 27, 2024",
+      "method": "N/A"
+    }
+  ]
+}

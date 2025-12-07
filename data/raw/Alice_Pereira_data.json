@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/81d2c551886bd5a1",
+  "stats": {
+    "name": "Alice Pereira",
+    "record": "6-1-0",
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Dec 20, 2005",
+    "strikes_landed_per_min": 2.47,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.0,
+    "striking_defense": 0.72,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Montse Rendon",
+      "result": "loss",
+      "date": "Sep. 13, 2025",
+      "method": "N/A"
+    }
+  ]
+}
