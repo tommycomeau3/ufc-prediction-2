@@ -1,6 +1,9 @@
 """
 Data preprocessing module for cleaning and normalizing scraped UFC data.
 Consolidates individual JSON files into structured CSV datasets.
+
+This module handles data cleaning, normalization, and consolidation
+of raw fighter data into structured formats ready for feature engineering.
 """
 
 import json
