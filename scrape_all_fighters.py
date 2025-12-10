@@ -3,61 +3,95 @@
 Script to build a master list of UFC fighters and scrape data for all of them.
 This script helps collect data on multiple fighters efficiently.
 """
-
+# Used to modify the system path
 import sys
+# Handles file paths
 from pathlib import Path
+# Handles command line arguments
 import argparse
+# Displays progress bars
 from tqdm import tqdm
 
-# Add src to path
+# Tells the script where to find the src folder
 sys.path.insert(0, str(Path(__file__).parent / "src"))
 
+# Imports the UFCScraper class from the scraper.py file
 from data_collection.scraper import UFCScraper
 
 
 def main():
+    # Creates a parser for command line arguments
     parser = argparse.ArgumentParser(
+        # Description of the script for when the user runs --help
         description="Build master fighter list and scrape UFC fighter data"
     )
+    # Defines a cl flag called --build-list
     parser.add_argument(
+        # Name of the flag
         '--build-list',
+        # Action to store the value of the flag
         action='store_true',
+        # Help message to display when the user runs --help
         help='Build master list of fighter URLs from events'
     )
     parser.add_argument(
+        # Name of the flag
         '--num-events',
+        # Means it must be followed by an integer
         type=int,
+        # Default value of the flag
         default=50,
+        # Help message to display when the user runs --help
         help='Number of recent events to scrape for fighter URLs (default: 50)'
     )
     parser.add_argument(
+        # Name of the flag
         '--master-list',
+        # Means it must be followed by a string
         type=str,
+        # Default value of the flag
         default='data/raw/fighter_master_list.json',
+        # Help message to display when the user runs --help
         help='Path to master list file (default: data/raw/fighter_master_list.json)'
     )
     parser.add_argument(
+        # Name of the flag
         '--scrape',
+        # If the flag is present, store True
         action='store_true',
+        # Help message to display when the user runs --help
         help='Scrape data for all fighters in master list'
     )
     parser.add_argument(
+        # Name of the flag
         '--skip-existing',
+        # If the flag is present, store True
         action='store_true',
+        # Default value of the flag
         default=True,
+        # Help message
         help='Skip fighters that have already been scraped (default: True)'
     )
     parser.add_argument(
+        # Name of the flag
         '--progress-file',
+        # Means it must be followed by a string
         type=str,
+        # Default value of the flag
         default='data/raw/scraping_progress.json',
+        # Help message to display when the user runs --help
         help='Path to progress tracking file (default: data/raw/scraping_progress.json)'
     )
     parser.add_argument(
+        # Name of the flag
         '--format',
+        # Means it must be followed by a string
         type=str,
+        # Choices that the user can choose from
         choices=['json', 'csv', 'both'],
+        # Default value of the flag
         default='json',
+        # Help message to display when the user runs --help
         help='Output format for saved data (default: json)'
     )
     
