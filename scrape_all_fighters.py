@@ -95,61 +95,79 @@ def main():
         help='Output format for saved data (default: json)'
     )
     
+    # Reads the command line arguments and puts them into an object
     args = parser.parse_args()
-    
+    # Creates an instance of the UFCScraper class
     scraper = UFCScraper()
     
-    # Build master list if requested
+    # Checks if the user included the --build-list flag
     if args.build_list:
+        # For users to see the progress of the script
         print("=" * 60)
         print("Building Master Fighter List")
         print("=" * 60)
         print(f"Number of events to process: {args.num_events}")
         print()
         
+        # Calls build_fighter_master_list method to build the master list
         master_list = scraper.build_fighter_master_list(
+            # Number of events to process
             num_events=args.num_events,
+            # Path to save the master list
             save_path=args.master_list
         )
         
+        # Print completion info
         print()
         print(f"✓ Master list created with {len(master_list)} unique fighter URLs")
         print(f"  Saved to: {args.master_list}")
         print()
     
-    # Scrape fighters if requested
+    # Checks if the user included the --scrape flag
     if args.scrape:
+        
+        # For users to see the progress of the script
         print("=" * 60)
         print("Scraping Fighter Data")
         print("=" * 60)
         
-        # Load master list
+        # Checks if the master list file exists
         if not Path(args.master_list).exists():
+            # If the master list file does not exist, print an error message
             print(f"✗ Master list not found at: {args.master_list}")
             print("  Run with --build-list first to create the master list")
             return
         
+        # Message to the user that the master list is being loaded
         print(f"Loading master list from: {args.master_list}")
+        # Loads the master list from the file
         fighter_urls = scraper.load_fighter_master_list(args.master_list)
         
+        # If no fighter URLs are found in the master list, print an error message and return
         if not fighter_urls:
             print("✗ No fighter URLs found in master list")
             return
         
+        # Print the number of fighter URLs found in the master list
         print(f"Found {len(fighter_urls)} fighter URLs in master list")
         print()
         
-        # Determine save format
+        # Determines the save format based on the user's input
         save_format = 'json' if args.format in ['json', 'both'] else 'csv'
         
-        # Scrape all fighters
+        # Prints the starting batch scrape info
         print(f"Starting batch scrape (format: {save_format}, skip existing: {args.skip_existing})")
         print()
         
+        # Calls scrape_multiple_fighters method to scrape the data
         fighter_data = scraper.scrape_multiple_fighters(
+            # List of fighter URLs to scrape
             fighter_urls=fighter_urls,
+            # Save format
             save_format=save_format,
+            # Skip existing fighters
             skip_existing=args.skip_existing,
+            # Path to the progress file
             progress_file=args.progress_file
         )
         
@@ -164,6 +182,7 @@ def main():
                 progress_file=args.progress_file
             )
         
+        # Prints the completion info
         print()
         print("=" * 60)
         print("Scraping Complete!")
@@ -172,7 +191,9 @@ def main():
         print(f"Data saved to: {scraper.raw_data_path}")
         print()
     
+    # Checks if the user did not include the --build-list or --scrape flags
     if not args.build_list and not args.scrape:
+        # Prints the help message
         parser.print_help()
         print()
         print("Examples:")
