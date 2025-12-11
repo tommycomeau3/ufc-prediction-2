@@ -6,42 +6,59 @@ This module handles data cleaning, normalization, and consolidation
 of raw fighter data into structured formats ready for feature engineering.
 """
 
+# Used to read and write JSON files
 import json
+# Used to create dataframes (table-like structures for ML models)
 import pandas as pd
+# For numerical operations
 import numpy as np
+# For handling file paths
 from pathlib import Path
+# Used for type hints 
 from typing import Dict, List, Optional, Tuple
+# For printing to the console
 import logging
+# Used to convert fight dates to standard format
 from datetime import datetime
+# Extracts numbers from strings
 import re
+# Used to read configuration files
 import yaml
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
+# Creates a logger object
 logger = logging.getLogger(__name__)
 
-
+# Class for cleaning and consolidating UFC fighter data
 class DataCleaner:
     """Cleans and consolidates UFC fighter data from JSON files."""
-    
+    # Constructor for the DataCleaner class with a default configuration path
     def __init__(self, config_path: str = "config/config.yaml"):
         """Initialize data cleaner with configuration.
         
         Args:
             config_path: Path to configuration YAML file
         """
+        # Calls the _load_config method to load the configuration
         self.config = self._load_config(config_path)
         
-        # Get paths from config
+        # Looks inside the configuration dict for the paths to the raw and processed data
         paths_config = self.config.get('paths', {})
+        # Gets the raw data path from the configuration and stores it as a Path object
         self.raw_data_path = Path(paths_config.get('raw_data', 'data/raw'))
+        # Gets the processed data path from the configuration and stores it as a Path object
         self.processed_data_path = Path(paths_config.get('processed_data', 'data/processed'))
+        # Creates the processed data path if it doesn't exist and checks if the parent directories exist
         self.processed_data_path.mkdir(parents=True, exist_ok=True)
         
-        # Get preprocessing settings
+        # Looks for preprocessing settings in the configuration dictionary elso {}
         preprocess_config = self.config.get('preprocessing', {})
+        # Looks for the missing value strategy in the configuration dictionary else 'fill_zero'
         self.missing_value_strategy = preprocess_config.get('missing_value_strategy', 'fill_zero')
+        # Looks for the normalize numeric setting in the configuration dictionary else True
         self.normalize_numeric = preprocess_config.get('normalize_numeric', True)
+        # Gets the date format from the configuration dictionary else '%Y-%m-%d'
         self.date_format = preprocess_config.get('date_format', '%Y-%m-%d')
         
     def _load_config(self, config_path: str) -> Dict:
@@ -54,7 +71,9 @@ class DataCleaner:
             Dictionary containing configuration
         """
         try:
+            # Opens the configuration file in read mode and gives a file object f
             with open(config_path, 'r') as f:
+                # Converts the YAML file to a dictionary and returns it
                 return yaml.safe_load(f)
         except FileNotFoundError:
             logger.warning(f"Config file not found at {config_path}, using defaults")
@@ -69,15 +88,21 @@ class DataCleaner:
         Returns:
             List of fighter data dictionaries
         """
+        # Creates an empty list to store the fighter data
         fighter_data = []
+        # Looks for all JSON files in the raw data directory that end with '_data.json' and returns a list of Path objects
         json_files = list(self.raw_data_path.glob("*_data.json"))
         
+        # Prints the number of JSON files found
         logger.info(f"Found {len(json_files)} fighter JSON files to process")
-        
+        # Loops through each JSON file
         for json_file in json_files:
             try:
+                # Opens the JSON file in read mode and gives a file object f
                 with open(json_file, 'r') as f:
+                    # Loads the JSON file into a dictionary and appends it to the fighter data list
                     data = json.load(f)
+                    # Appends the data to the fighter data list
                     fighter_data.append(data)
             except Exception as e:
                 logger.warning(f"Error loading {json_file.name}: {e}")
@@ -94,16 +119,21 @@ class DataCleaner:
         Returns:
             Height in inches or None
         """
+        # If the height string is None or 'N/A', return None
         if not height_str or height_str == 'N/A':
             return None
         
         try:
             # Match pattern like "5' 10\""
-            match = re.match(r"(\d+)'\s*(\d+)\"", height_str)
+            match = re.match(r"(\d+)'\s*(\d+)\"", height_str)  
+            # If the match is found, convert the feet and inches to inches
             if match:
+                # Gets the feet from the match (first group)
                 feet = int(match.group(1))
+                # Gets the inches from the match (second group)
                 inches = int(match.group(2))
                 return feet * 12 + inches
+        # If an exception is raised, pass
         except Exception:
             pass
         
@@ -118,13 +148,16 @@ class DataCleaner:
         Returns:
             Weight in pounds or None
         """
+        # If the weight string is None or 'N/A', return None
         if not weight_str or weight_str == 'N/A':
             return None
         
         try:
             # Extract number from string like "170 lbs."
             match = re.search(r'(\d+\.?\d*)', weight_str)
+            # If the match is found, convert the weight to pounds
             if match:
+                # Returns the weight as a float
                 return float(match.group(1))
         except Exception:
             pass
@@ -140,6 +173,7 @@ class DataCleaner:
         Returns:
             Reach in inches or None
         """
+        # If the reach string is None or 'N/A', return None
         if not reach_str or reach_str == 'N/A':
             return None
         
@@ -153,6 +187,7 @@ class DataCleaner:
         
         return None
     
+    # Method to parse the date string to the standard format
     def _parse_date(self, date_str: Optional[str]) -> Optional[str]:
         """Parse date string to standard format.
         
@@ -173,10 +208,12 @@ class DataCleaner:
             "%Y-%m-%d",    # "2025-11-15"
             "%m/%d/%Y",    # "11/15/2025"
         ]
-        
+         # Loops through each date format
         for fmt in date_formats:
             try:
+                # Converts the date string to a datetime object using the current date format
                 dt = datetime.strptime(date_str.strip(), fmt)
+                # Converts the datetime object to the standard format
                 return dt.strftime(self.date_format)
             except ValueError:
                 continue
@@ -184,6 +221,7 @@ class DataCleaner:
         logger.debug(f"Could not parse date: {date_str}")
         return None
     
+    # Method to parse the date of birth string to the standard format
     def _parse_dob(self, dob_str: Optional[str]) -> Optional[str]:
         """Parse date of birth string to standard format.
         
@@ -193,6 +231,7 @@ class DataCleaner:
         Returns:
             Date in standard format (YYYY-MM-DD) or None
         """
+        # Calls the _parse_date method to parse the date of birth string
         return self._parse_date(dob_str)
     
     def _normalize_numeric(self, value, default=0.0):
@@ -207,8 +246,10 @@ class DataCleaner:
         """
         if value is None or value == 'N/A' or value == '':
             return default
+        # Tries to convert the value to a float
         try:
             return float(value)
+        # If an exception is raised, return the default value
         except (ValueError, TypeError):
             return default
     
