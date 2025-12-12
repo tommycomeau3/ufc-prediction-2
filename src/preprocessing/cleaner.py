@@ -309,6 +309,7 @@ class DataCleaner:
         
         # Handle missing values according to strategy
         if self.missing_value_strategy == 'fill_zero':
+            # Selects all columns that are numeric
             numeric_cols = df.select_dtypes(include=[np.number]).columns
             df[numeric_cols] = df[numeric_cols].fillna(0)
         elif self.missing_value_strategy == 'drop':
