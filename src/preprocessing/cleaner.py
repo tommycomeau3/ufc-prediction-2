@@ -317,7 +317,7 @@ class DataCleaner:
         elif self.missing_value_strategy == 'forward_fill':
             # Use ffill() for forward fill (pandas 2.0+ compatible)
             df = df.ffill()
-        
+        # Prints the number of cleaned fighter statistics
         logger.info(f"Cleaned {len(df)} fighter statistics")
         return df
     
@@ -330,37 +330,54 @@ class DataCleaner:
         Returns:
             DataFrame with cleaned fight history
         """
+        # Creates an empty list to store the fight history
         all_fights = []
         
+        # Loops through each fighter (dictionary) in the fighter data list
         for fighter in fighter_data:
+            # If the fight history is not in the fighter dictionary or is empty, continue to the next fighter
             if 'fight_history' not in fighter or not fighter['fight_history']:
                 continue
-            
+            # Gets the stats dictionary from the fighter dictionary else {} then gets the name key else 'Unknown'
             fighter_name = fighter.get('stats', {}).get('name', 'Unknown')
+            # Gets the URL from the fighter dictionary else ''
             fighter_url = fighter.get('url', '')
             
+            # Loops through each fight (dictionary) in the fight history list
             for fight in fighter['fight_history']:
+                
                 fight_record = {
+                    # Adds the fighter name to the fight record
                     'fighter_name': fighter_name,
+                    # Adds the fighter URL to the fight record
                     'fighter_url': fighter_url,
+                    # Adds the opponent name to the fight record
                     'opponent': fight.get('opponent', ''),
+                    # Adds the result to the fight record
                     'result': fight.get('result', '').lower(),
+                    # Adds the date to the fight record
                     'date': self._parse_date(fight.get('date')),
+                    # Adds the method to the fight record
                     'method': fight.get('method', ''),
+                    # Adds the round to the fight record
                     'round': fight.get('round')
                 }
                 
-                # Only include if we have essential data
+                # Checks if the opponent and result are not empty
                 if fight_record['opponent'] and fight_record['result']:
+                    # Appends the fight record to the all_fights list
                     all_fights.append(fight_record)
-        
+        # Creates a pandas DataFrame from the all_fights list
         df = pd.DataFrame(all_fights)
         
         # Sort by date (most recent first)
         if 'date' in df.columns:
+            # Sorts the DataFrame by date in descending order and puts the NaNs at the end
             df = df.sort_values('date', ascending=False, na_position='last')
         
+        # Prints the number of cleaned fight records
         logger.info(f"Cleaned {len(df)} fight records")
+        # Returns the DataFrame with the cleaned fight records
         return df
     
     def consolidate_data(self) -> Tuple[pd.DataFrame, pd.DataFrame]:
@@ -371,24 +388,29 @@ class DataCleaner:
         """
         logger.info("Starting data consolidation...")
         
-        # Load all JSON files
+        # Load the individual JSON files for each fighter and returns a list of dictionaries
         fighter_data = self.load_fighter_json_files()
         
+        # Check if the fighter data is empty
         if not fighter_data:
             logger.warning("No fighter data found to process")
+            # Returns empty DataFrames (one for fighter statistics and one for fight history)
             return pd.DataFrame(), pd.DataFrame()
         
         # Clean fighter statistics
         logger.info("Cleaning fighter statistics...")
+        # Calls the clean_fighter_stats method to clean the fighter statistics
         fighter_stats_df = self.clean_fighter_stats(fighter_data)
         
         # Clean fight history
         logger.info("Cleaning fight history...")
+        # Cleans the fight history
         fight_history_df = self.clean_fight_history(fighter_data)
         
         logger.info("Data consolidation complete")
         return fighter_stats_df, fight_history_df
     
+    # Takes two pandas DataFrames and saves them to CSV files
     def save_processed_data(self, 
                            fighter_stats_df: pd.DataFrame,
                            fight_history_df: pd.DataFrame) -> None:
@@ -398,9 +420,11 @@ class DataCleaner:
             fighter_stats_df: DataFrame with fighter statistics
             fight_history_df: DataFrame with fight history
         """
-        # Save fighter statistics
+        # Checks if the fighter statistics DataFrame is not empty
         if not fighter_stats_df.empty:
+            # Creates a path to the fighter statistics CSV file
             stats_file = self.processed_data_path / "all_fighters_stats.csv"
+            # Writes the fighter statistics DataFrame to the CSV file (index=False means no index column)
             fighter_stats_df.to_csv(stats_file, index=False)
             logger.info(f"Saved fighter statistics to {stats_file}")
             logger.info(f"  - {len(fighter_stats_df)} fighters")
@@ -414,12 +438,14 @@ class DataCleaner:
             logger.info(f"  - {len(fight_history_df)} fights")
             logger.info(f"  - {len(fight_history_df.columns)} columns")
     
+    # Runs the complete preprocessing pipeline and returns the cleaned DataFrames
     def process_all(self) -> Tuple[pd.DataFrame, pd.DataFrame]:
         """Run complete preprocessing pipeline.
         
         Returns:
             Tuple of (fighter_stats_df, fight_history_df)
         """
+       # Prints the start of the preprocessing pipeline
         logger.info("=" * 60)
         logger.info("Starting Data Preprocessing Pipeline")
         logger.info("=" * 60)
@@ -427,9 +453,10 @@ class DataCleaner:
         # Consolidate data
         fighter_stats_df, fight_history_df = self.consolidate_data()
         
-        # Save processed data
+        # Save processed data to CSV files
         self.save_processed_data(fighter_stats_df, fight_history_df)
         
+        # Prints the end of the preprocessing pipeline
         logger.info("=" * 60)
         logger.info("Data Preprocessing Complete!")
         logger.info("=" * 60)
@@ -439,14 +466,16 @@ class DataCleaner:
 
 def main():
     """Example usage of the data cleaner."""
+    # Creates an instance of the DataCleaner class
     cleaner = DataCleaner()
+    # Runs the complete preprocessing pipeline and returns the cleaned DataFrames
     fighter_stats, fight_history = cleaner.process_all()
-    
+    # Prints the number of fighters and fights processed
     print(f"\nProcessed {len(fighter_stats)} fighters and {len(fight_history)} fights")
     print(f"\nFighter stats columns: {list(fighter_stats.columns)}")
     print(f"\nFight history columns: {list(fight_history.columns)}")
 
-
+# Runs the main function if the script is executed directly
 if __name__ == "__main__":
     main()
 
