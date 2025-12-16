@@ -3,19 +3,28 @@ Feature engineering module for creating ML features from processed UFC data.
 Creates features comparing fighters for each fight, including basic stats,
 advanced metrics, recent form, and head-to-head comparisons.
 """
-
+# Pandas for data manipulation
 import pandas as pd
+# NumPy for numerical operations
 import numpy as np
+# Pathlib for file path manipulation
 from pathlib import Path
+# Type hints for the function arguments and return values
 from typing import Dict, List, Optional, Tuple
+# Logging for error and warning messages
 import logging
+# Datetime for date and time operations
 from datetime import datetime
+# YAML for configuration file
 import yaml
+# Scikit-learn for machine learning
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
+# Warnings for ignoring warnings
 import warnings
+# Ignores warnings
 warnings.filterwarnings('ignore')
 
-# Set up logging
+# Sets up logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -23,18 +32,23 @@ logger = logging.getLogger(__name__)
 class FeatureEngineer:
     """Creates ML features from processed UFC fighter data."""
     
+    # Initializes the FeatureEngineer class
     def __init__(self, config_path: str = "config/config.yaml"):
         """Initialize feature engineer with configuration.
         
         Args:
             config_path: Path to configuration YAML file
         """
+        # Loads the configuration from the YAML file and makes it available as self.config
         self.config = self._load_config(config_path)
         
-        # Get paths from config
+        # Get paths from self.config otherwise its become {}
         paths_config = self.config.get('paths', {})
+       # Creates a Path object for the processed data path
         self.processed_data_path = Path(paths_config.get('processed_data', 'data/processed'))
+        # Creates a Path object for the features data path
         self.features_data_path = Path(paths_config.get('features_data', 'data/features'))
+        # Creates the features data path if it doesn't exist
         self.features_data_path.mkdir(parents=True, exist_ok=True)
         
         # Get feature engineering settings
