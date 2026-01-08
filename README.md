@@ -270,7 +270,7 @@ Visualizations include:
 
 ## License
 
-[Specify your license here]
+MIT License - see [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 
@@ -301,7 +301,3 @@ If model training fails:
 - Verify feature matrix exists: `data/features/fight_features.csv`
 - Check that XGBoost/LightGBM are installed if enabled
 - Reduce `n_iter` in config if hyperparameter tuning is too slow
-
-## Contact
-
-[Your contact information]
