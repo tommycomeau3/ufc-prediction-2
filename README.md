@@ -104,7 +104,7 @@ python scrape_all_fighters.py --build-master-list
 python scrape_all_fighters.py --scrape-all
 ```
 
-**Note**: Scraping is time-consuming. The script saves progress and can be resumed.
+**Note**: Scraping can take several hours depending on the number of fighters. Progress is automatically saved, so you can safely stop and resume the script at any time.
 
 #### 2. Preprocessing
 
@@ -147,13 +147,13 @@ Evaluate trained models:
 python evaluate_models.py
 ```
 
-Generates:
-- Confusion matrices
-- ROC curves
-- Feature importance plots
-- Model comparison plots
+This generates the following visualizations:
+- Confusion matrices for each model
+- ROC curves showing classification performance
+- Feature importance plots (for tree-based models)
+- Model comparison charts across multiple metrics
 
-All plots are saved to `plots/` directory.
+All plots are automatically saved to the `plots/` directory.
 
 ### Using the Main Pipeline
 
@@ -168,7 +168,7 @@ python main.py --skip-preprocessing --skip-features
 
 ## Configuration
 
-Edit `config/config.yaml` to customize:
+Edit `config/config.yaml` to customize the following settings:
 
 - **Data paths**: Where to save/load data
 - **Scraping settings**: Rate limits, timeouts, retries
