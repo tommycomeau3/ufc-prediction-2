@@ -19,6 +19,8 @@ from datetime import datetime
 import yaml
 # Scikit-learn for machine learning
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
+# Joblib for saving/loading scalers
+import joblib
 # Warnings for ignoring warnings
 import warnings
 # Ignores warnings
@@ -452,6 +454,62 @@ class FeatureEngineer:
         
         return scaled_df
     
+    def save_scaler(self, filename: str = "feature_scaler.pkl") -> None:
+        """Save the fitted scaler to disk.
+        
+        Args:
+            filename: Output filename for scaler
+        """
+        if self.scaler is None:
+            logger.warning("No scaler to save. Call scale_features() first.")
+            return
+        
+        scaler_file = self.features_data_path / filename
+        joblib.dump(self.scaler, scaler_file)
+        logger.info(f"Saved scaler to {scaler_file}")
+    
+    def load_scaler(self, filename: str = "feature_scaler.pkl") -> None:
+        """Load a previously saved scaler from disk.
+        
+        Args:
+            filename: Input filename for scaler
+        """
+        scaler_file = self.features_data_path / filename
+        
+        if not scaler_file.exists():
+            raise FileNotFoundError(f"Scaler file not found: {scaler_file}")
+        
+        self.scaler = joblib.load(scaler_file)
+        logger.info(f"Loaded scaler from {scaler_file}")
+    
+    def transform_features(self, features_df: pd.DataFrame) -> pd.DataFrame:
+        """Transform features using a previously fitted scaler.
+        
+        Args:
+            features_df: DataFrame with features to transform
+            
+        Returns:
+            DataFrame with transformed features
+        """
+        if self.scaler is None:
+            raise ValueError("No scaler loaded. Call load_scaler() first.")
+        
+        # Identify numeric columns to scale (exclude metadata columns)
+        exclude_cols = ['fight_date', 'fighter1_name', 'fighter2_name', 'target']
+        numeric_cols = features_df.select_dtypes(include=[np.number]).columns
+        scale_cols = [col for col in numeric_cols if col not in exclude_cols]
+        
+        if len(scale_cols) == 0:
+            logger.warning("No numeric columns to scale")
+            return features_df
+        
+        # Create transformed dataframe
+        transformed_df = features_df.copy()
+        transformed_df[scale_cols] = self.scaler.transform(features_df[scale_cols])
+        
+        logger.info(f"Transformed {len(scale_cols)} features")
+        return transformed_df
+    
     def save_features(self, features_df: pd.DataFrame, filename: str = "fight_features.csv") -> None:
         """Save feature matrix to CSV file.
         
@@ -486,6 +544,8 @@ class FeatureEngineer:
         # Scale features if requested
         if scale:
             features_df = self.scale_features(features_df, method=scale_method)
+            # Save scaler for future predictions
+            self.save_scaler()
         
         # Save features
         self.save_features(features_df)
@@ -496,6 +556,141 @@ class FeatureEngineer:
         logger.info(f"Created {len(features_df)} fight records with {len(features_df.columns)} features")
         
         return features_df
+    
+    def create_single_fight_features(self, fighter1_name: str, fighter2_name: str, fight_date: str) -> pd.DataFrame:
+        """Create features for a single future fight.
+        
+        Args:
+            fighter1_name: Name of first fighter
+            fighter2_name: Name of second fighter
+            fight_date: Date of the fight (YYYY-MM-DD format)
+            
+        Returns:
+            DataFrame with features for the fight (single row)
+        """
+        if self.fighter_stats_df is None or self.fight_history_df is None:
+            self.load_processed_data()
+        
+        # Convert fight_date to datetime
+        fight_date_dt = pd.to_datetime(fight_date)
+        
+        # Get fighter stats
+        fighter1_stats = self.fighter_stats_df[
+            self.fighter_stats_df['name'] == fighter1_name
+        ].iloc[0] if len(self.fighter_stats_df[self.fighter_stats_df['name'] == fighter1_name]) > 0 else None
+        
+        fighter2_stats = self.fighter_stats_df[
+            self.fighter_stats_df['name'] == fighter2_name
+        ].iloc[0] if len(self.fighter_stats_df[self.fighter_stats_df['name'] == fighter2_name]) > 0 else None
+        
+        if fighter1_stats is None:
+            raise ValueError(f"Fighter '{fighter1_name}' not found in database. Please scrape their data first.")
+        if fighter2_stats is None:
+            raise ValueError(f"Fighter '{fighter2_name}' not found in database. Please scrape their data first.")
+        
+        # Initialize feature dictionary
+        features = {
+            'fight_date': fight_date_dt,
+            'fighter1_name': fighter1_name,
+            'fighter2_name': fighter2_name,
+            'target': None  # Unknown for future fights
+        }
+        
+        # Basic stats
+        if self.include_basic_stats:
+            features['f1_total_fights'] = fighter1_stats.get('total_fights', 0)
+            features['f2_total_fights'] = fighter2_stats.get('total_fights', 0)
+            features['f1_win_percentage'] = fighter1_stats.get('win_percentage', 0)
+            features['f2_win_percentage'] = fighter2_stats.get('win_percentage', 0)
+            features['f1_wins'] = fighter1_stats.get('wins', 0)
+            features['f2_wins'] = fighter2_stats.get('wins', 0)
+            features['f1_losses'] = fighter1_stats.get('losses', 0)
+            features['f2_losses'] = fighter2_stats.get('losses', 0)
+        
+        # Physical attributes
+        if self.include_physical_stats:
+            features['f1_height'] = fighter1_stats.get('height_inches', 0)
+            features['f2_height'] = fighter2_stats.get('height_inches', 0)
+            features['height_diff'] = features.get('f1_height', 0) - features.get('f2_height', 0)
+            
+            features['f1_reach'] = fighter1_stats.get('reach_inches', 0)
+            features['f2_reach'] = fighter2_stats.get('reach_inches', 0)
+            features['reach_diff'] = features.get('f1_reach', 0) - features.get('f2_reach', 0)
+            
+            features['f1_weight'] = fighter1_stats.get('weight_lbs', 0)
+            features['f2_weight'] = fighter2_stats.get('weight_lbs', 0)
+            features['weight_diff'] = features.get('f1_weight', 0) - features.get('f2_weight', 0)
+            
+            # Age at fight
+            f1_age = self._calculate_age_at_fight(fighter1_stats.get('dob_parsed'), fight_date_dt)
+            f2_age = self._calculate_age_at_fight(fighter2_stats.get('dob_parsed'), fight_date_dt)
+            features['f1_age'] = f1_age if f1_age else 0
+            features['f2_age'] = f2_age if f2_age else 0
+            features['age_diff'] = features.get('f1_age', 0) - features.get('f2_age', 0)
+        
+        # Striking stats
+        if self.include_striking_stats:
+            features['f1_strikes_landed_per_min'] = fighter1_stats.get('strikes_landed_per_min', 0)
+            features['f2_strikes_landed_per_min'] = fighter2_stats.get('strikes_landed_per_min', 0)
+            features['f1_striking_accuracy'] = fighter1_stats.get('striking_accuracy', 0)
+            features['f2_striking_accuracy'] = fighter2_stats.get('striking_accuracy', 0)
+            features['f1_striking_defense'] = fighter1_stats.get('striking_defense', 0)
+            features['f2_striking_defense'] = fighter2_stats.get('striking_defense', 0)
+        
+        # Takedown stats
+        if self.include_takedown_stats:
+            features['f1_takedown_accuracy'] = fighter1_stats.get('takedown_accuracy', 0)
+            features['f2_takedown_accuracy'] = fighter2_stats.get('takedown_accuracy', 0)
+            features['f1_takedown_defense'] = fighter1_stats.get('takedown_defense', 0)
+            features['f2_takedown_defense'] = fighter2_stats.get('takedown_defense', 0)
+            features['f1_takedown_average'] = fighter1_stats.get('takedown_average', 0)
+            features['f2_takedown_average'] = fighter2_stats.get('takedown_average', 0)
+        
+        # Recent form (up to fight date)
+        if self.include_recent_form:
+            f1_form = self._calculate_recent_form(fighter1_name, fight_date_dt, self.recent_form_window)
+            f2_form = self._calculate_recent_form(fighter2_name, fight_date_dt, self.recent_form_window)
+            
+            features['f1_recent_win_rate'] = f1_form['recent_win_rate']
+            features['f2_recent_win_rate'] = f2_form['recent_win_rate']
+            features['f1_recent_wins'] = f1_form['recent_wins']
+            features['f2_recent_wins'] = f2_form['recent_wins']
+        
+        # Streaks (up to fight date)
+        if self.include_streaks:
+            f1_streak = self._calculate_streak(fighter1_name, fight_date_dt)
+            f2_streak = self._calculate_streak(fighter2_name, fight_date_dt)
+            
+            features['f1_win_streak'] = f1_streak['win_streak']
+            features['f2_win_streak'] = f2_streak['win_streak']
+            features['f1_loss_streak'] = f1_streak['loss_streak']
+            features['f2_loss_streak'] = f2_streak['loss_streak']
+        
+        # Finish types (up to fight date)
+        if self.include_finish_types:
+            f1_finishes = self._extract_finish_types(fighter1_name, fight_date_dt)
+            f2_finishes = self._extract_finish_types(fighter2_name, fight_date_dt)
+            
+            features['f1_ko_tko_wins'] = f1_finishes['ko_tko_wins']
+            features['f2_ko_tko_wins'] = f2_finishes['ko_tko_wins']
+            features['f1_submission_wins'] = f1_finishes['submission_wins']
+            features['f2_submission_wins'] = f2_finishes['submission_wins']
+        
+        # Fight frequency (up to fight date)
+        if self.include_fight_frequency:
+            features['f1_avg_days_between_fights'] = self._calculate_fight_frequency(fighter1_name, fight_date_dt) or 0
+            features['f2_avg_days_between_fights'] = self._calculate_fight_frequency(fighter2_name, fight_date_dt) or 0
+        
+        # Advantage metrics (fighter1 - fighter2)
+        if self.include_advantage_metrics:
+            features['win_pct_advantage'] = features.get('f1_win_percentage', 0) - features.get('f2_win_percentage', 0)
+            features['striking_advantage'] = features.get('f1_strikes_landed_per_min', 0) - features.get('f2_strikes_landed_per_min', 0)
+            features['reach_advantage'] = features.get('f1_reach', 0) - features.get('f2_reach', 0)
+        
+        # Create DataFrame from single fight features
+        fight_features_df = pd.DataFrame([features])
+        
+        return fight_features_df
 
 
 def main():
