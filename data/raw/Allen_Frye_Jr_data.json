@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/73a78713bd899f4c",
+  "stats": {
+    "name": "Allen Frye Jr.",
+    "record": "6-1-0",
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 5\"",
+    "weight": "265 lbs.",
+    "reach": "80\"",
+    "stance": "Orthodox",
+    "dob": "Apr 15, 1998",
+    "strikes_landed_per_min": 2.2,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.27,
+    "striking_defense": 0.36,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Guilherme Pat",
+      "result": "loss",
+      "date": "Dec. 13, 2025",
+      "method": "N/A"
+    }
+  ]
+}

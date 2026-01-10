@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/084532da3d25f3b8",
+  "stats": {
+    "name": "Cezary Oleksiejczuk",
+    "record": "17-3-0",
+    "wins": 17,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "185 lbs.",
+    "reach": "75\"",
+    "stance": "Southpaw",
+    "dob": "Jan 06, 2000",
+    "strikes_landed_per_min": 1.99,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 0.77,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.85,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Cesar Almeida",
+      "result": "win",
+      "date": "Dec. 13, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Theo Haig",
+      "result": "win",
+      "date": "Sep. 02, 2025",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

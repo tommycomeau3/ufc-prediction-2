@@ -1,0 +1,151 @@
+{
+  "url": "http://ufcstats.com/fighter-details/80fa8218c99f9c58",
+  "stats": {
+    "name": "Amanda Nunes",
+    "record": "23-5-0",
+    "wins": 23,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "May 30, 1988",
+    "strikes_landed_per_min": 4.55,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.62,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.54,
+    "takedown_defense": 0.82,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kayla Harrison",
+      "result": "next",
+      "date": "Jan. 24, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Irene Aldana",
+      "result": "win",
+      "date": "Jun. 10, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julianna Pena",
+      "result": "win",
+      "date": "Jul. 30, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julianna Pena",
+      "result": "loss",
+      "date": "Dec. 11, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Megan Anderson",
+      "result": "win",
+      "date": "Mar. 06, 2021",
+      "method": "Submission (Triangle Armbar)"
+    },
+    {
+      "opponent": "Felicia Spencer",
+      "result": "win",
+      "date": "Jun. 06, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Germaine de Randamie",
+      "result": "win",
+      "date": "Dec. 14, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Holly Holm",
+      "result": "win",
+      "date": "Jul. 06, 2019",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Cristiane Justino",
+      "result": "win",
+      "date": "Dec. 29, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Raquel Pennington",
+      "result": "win",
+      "date": "May. 12, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Valentina Shevchenko",
+      "result": "win",
+      "date": "Sep. 09, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ronda Rousey",
+      "result": "win",
+      "date": "Dec. 30, 2016",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Miesha Tate",
+      "result": "win",
+      "date": "Jul. 09, 2016",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Valentina Shevchenko",
+      "result": "win",
+      "date": "Mar. 05, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sara McMann",
+      "result": "win",
+      "date": "Aug. 08, 2015",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Shayna Baszler",
+      "result": "win",
+      "date": "Mar. 21, 2015",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Cat Zingano",
+      "result": "loss",
+      "date": "Sep. 27, 2014",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Germaine de Randamie",
+      "result": "win",
+      "date": "Nov. 06, 2013",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Sheila Gaff",
+      "result": "win",
+      "date": "UFC 163: Aldo vs Jung",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Alexis Davis",
+      "result": "loss",
+      "date": "Sep. 10, 2011",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Julia Budd",
+      "result": "win",
+      "date": "Jan. 07, 2011",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

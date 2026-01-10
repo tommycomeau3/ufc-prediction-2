@@ -1,0 +1,23 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0859524157a19045",
+  "stats": {
+    "name": "Ty Miller",
+    "record": "6-0-0 (1 NC)",
+    "wins": 6,
+    "losses": 0
+  },
+  "fight_history": [
+    {
+      "opponent": "Adam Fugitt",
+      "result": "next",
+      "date": "Jan. 24, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jimmy Drago",
+      "result": "win",
+      "date": "Aug. 12, 2025",
+      "method": "N/A"
+    }
+  ]
+}

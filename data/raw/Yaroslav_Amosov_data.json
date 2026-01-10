@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f139d6836efd43dd",
+  "stats": {
+    "name": "Yaroslav Amosov",
+    "record": "29-1-0",
+    "wins": 29,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "170 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Sep 09, 1993",
+    "strikes_landed_per_min": 2.78,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.55,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Neil Magny",
+      "result": "win",
+      "date": "Dec. 13, 2025",
+      "method": "Submission (Anaconda Choke)"
+    }
+  ]
+}

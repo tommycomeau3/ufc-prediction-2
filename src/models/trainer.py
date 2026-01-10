@@ -223,7 +223,9 @@ class ModelTrainer:
             'roc_auc': roc_auc
         }
         
-        logger.info(f"{model_name} - Accuracy: {accuracy:.4f}, F1: {f1:.4f}, ROC-AUC: {roc_auc:.4f if roc_auc else 'N/A'}")
+        # Format ROC-AUC string (handle None case)
+        roc_auc_str = f"{roc_auc:.4f}" if roc_auc is not None else "N/A"
+        logger.info(f"{model_name} - Accuracy: {accuracy:.4f}, F1: {f1:.4f}, ROC-AUC: {roc_auc_str}")
         
         self.trained_models[model_name] = model
         return model

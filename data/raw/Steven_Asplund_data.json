@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e56cee1ad697db04",
+  "stats": {
+    "name": "Steven Asplund",
+    "record": "7-1-0",
+    "wins": 7,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 5\"",
+    "weight": "261 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Jul 16, 1998",
+    "strikes_landed_per_min": 19.93,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.49,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Sean Sharaf",
+      "result": "win",
+      "date": "Dec. 13, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Anthony Guarascio",
+      "result": "win",
+      "date": "Sep. 09, 2025",
+      "method": "KO/TKO (Elbows)"
+    }
+  ]
+}
