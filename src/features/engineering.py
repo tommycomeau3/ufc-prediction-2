@@ -67,6 +67,7 @@ class FeatureEngineer:
         self.include_streaks = features_config.get('include_streaks', True)
         self.include_fight_frequency = features_config.get('include_fight_frequency', True)
         self.include_avg_fight_duration = features_config.get('include_avg_fight_duration', True)
+        self.include_strength_of_schedule = features_config.get('include_strength_of_schedule', True)
         
         # Data storage
         self.fighter_stats_df = None
@@ -272,6 +273,61 @@ class FeatureEngineer:
             'decision_wins': decision_count
         }
     
+    def _calculate_strength_of_schedule(self, fighter_name: str, fight_date: pd.Timestamp) -> float:
+        """Calculate strength of schedule (average opponent win percentage).
+        
+        Args:
+            fighter_name: Fighter name
+            fight_date: Date of current fight
+            
+        Returns:
+            Average win percentage of opponents faced (up to fight date), or 0.5 if no data
+        """
+        # Get all past fights for this fighter
+        past_fights = self.fight_history_df[
+            (self.fight_history_df['fighter_name'] == fighter_name) &
+            (self.fight_history_df['date'] < fight_date) &
+            (self.fight_history_df['result'].isin(['win', 'loss']))
+        ]
+        
+        if len(past_fights) == 0:
+            return 0.5  # Default: average if no past fights
+        
+        opponent_win_rates = []
+        
+        # For each opponent, calculate their win percentage at the time of the fight
+        for _, fight in past_fights.iterrows():
+            opponent_name = fight['opponent']
+            opponent_fight_date = fight['date']
+            
+            # Check if opponent exists in database
+            opponent_exists = len(self.fighter_stats_df[
+                self.fighter_stats_df['name'] == opponent_name
+            ]) > 0
+            
+            if not opponent_exists:
+                # Skip opponents not in database
+                continue
+            
+            # Calculate opponent's win percentage up to the fight date
+            opponent_past_fights = self.fight_history_df[
+                (self.fight_history_df['fighter_name'] == opponent_name) &
+                (self.fight_history_df['date'] < opponent_fight_date) &
+                (self.fight_history_df['result'].isin(['win', 'loss']))
+            ]
+            
+            if len(opponent_past_fights) > 0:
+                opponent_wins = (opponent_past_fights['result'] == 'win').sum()
+                opponent_win_rate = opponent_wins / len(opponent_past_fights)
+                opponent_win_rates.append(opponent_win_rate)
+        
+        # Average the opponent win rates
+        if len(opponent_win_rates) > 0:
+            return np.mean(opponent_win_rates)
+        else:
+            # No opponents had data, return default
+            return 0.5  # Default: average
+    
     def create_fight_features(self) -> pd.DataFrame:
         """Create feature matrix for each fight with fighter comparisons.
         
@@ -405,12 +461,19 @@ class FeatureEngineer:
                 features['f1_avg_days_between_fights'] = self._calculate_fight_frequency(fighter1_name, fight_date) or 0
                 features['f2_avg_days_between_fights'] = self._calculate_fight_frequency(fighter2_name, fight_date) or 0
             
+            # Strength of schedule
+            if self.include_strength_of_schedule:
+                features['f1_strength_of_schedule'] = self._calculate_strength_of_schedule(fighter1_name, fight_date)
+                features['f2_strength_of_schedule'] = self._calculate_strength_of_schedule(fighter2_name, fight_date)
+            
             # Advantage metrics (fighter1 - fighter2)
             if self.include_advantage_metrics:
                 features['win_pct_advantage'] = features.get('f1_win_percentage', 0) - features.get('f2_win_percentage', 0)
                 features['striking_advantage'] = features.get('f1_strikes_landed_per_min', 0) - features.get('f2_strikes_landed_per_min', 0)
                 features['striking_differential'] = (features.get('f1_strikes_landed_per_min', 0) - features.get('f1_strikes_absorbed_per_min', 0)) - (features.get('f2_strikes_landed_per_min', 0) - features.get('f2_strikes_absorbed_per_min', 0))
                 features['reach_advantage'] = features.get('f1_reach', 0) - features.get('f2_reach', 0)
+                if self.include_strength_of_schedule:
+                    features['strength_of_schedule_advantage'] = features.get('f1_strength_of_schedule', 0.5) - features.get('f2_strength_of_schedule', 0.5)
             
             fight_features.append(features)
         
@@ -686,12 +749,19 @@ class FeatureEngineer:
             features['f1_avg_days_between_fights'] = self._calculate_fight_frequency(fighter1_name, fight_date_dt) or 0
             features['f2_avg_days_between_fights'] = self._calculate_fight_frequency(fighter2_name, fight_date_dt) or 0
         
+        # Strength of schedule (up to fight date)
+        if self.include_strength_of_schedule:
+            features['f1_strength_of_schedule'] = self._calculate_strength_of_schedule(fighter1_name, fight_date_dt)
+            features['f2_strength_of_schedule'] = self._calculate_strength_of_schedule(fighter2_name, fight_date_dt)
+        
         # Advantage metrics (fighter1 - fighter2)
         if self.include_advantage_metrics:
             features['win_pct_advantage'] = features.get('f1_win_percentage', 0) - features.get('f2_win_percentage', 0)
             features['striking_advantage'] = features.get('f1_strikes_landed_per_min', 0) - features.get('f2_strikes_landed_per_min', 0)
             features['striking_differential'] = (features.get('f1_strikes_landed_per_min', 0) - features.get('f1_strikes_absorbed_per_min', 0)) - (features.get('f2_strikes_landed_per_min', 0) - features.get('f2_strikes_absorbed_per_min', 0))
             features['reach_advantage'] = features.get('f1_reach', 0) - features.get('f2_reach', 0)
+            if self.include_strength_of_schedule:
+                features['strength_of_schedule_advantage'] = features.get('f1_strength_of_schedule', 0.5) - features.get('f2_strength_of_schedule', 0.5)
         
         # Create DataFrame from single fight features
         fight_features_df = pd.DataFrame([features])

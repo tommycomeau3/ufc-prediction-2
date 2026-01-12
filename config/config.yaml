@@ -42,6 +42,7 @@ features:
   include_streaks: true  # win/loss streaks
   include_fight_frequency: true
   include_avg_fight_duration: true
+  include_strength_of_schedule: true  # average opponent win percentage
   
 # Model settings
 models:
