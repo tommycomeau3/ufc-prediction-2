@@ -354,6 +354,8 @@ class FeatureEngineer:
             if self.include_striking_stats:
                 features['f1_strikes_landed_per_min'] = fighter1_stats.get('strikes_landed_per_min', 0)
                 features['f2_strikes_landed_per_min'] = fighter2_stats.get('strikes_landed_per_min', 0)
+                features['f1_strikes_absorbed_per_min'] = fighter1_stats.get('strikes_absorbed_per_min', 0)
+                features['f2_strikes_absorbed_per_min'] = fighter2_stats.get('strikes_absorbed_per_min', 0)
                 features['f1_striking_accuracy'] = fighter1_stats.get('striking_accuracy', 0)
                 features['f2_striking_accuracy'] = fighter2_stats.get('striking_accuracy', 0)
                 features['f1_striking_defense'] = fighter1_stats.get('striking_defense', 0)
@@ -407,6 +409,7 @@ class FeatureEngineer:
             if self.include_advantage_metrics:
                 features['win_pct_advantage'] = features.get('f1_win_percentage', 0) - features.get('f2_win_percentage', 0)
                 features['striking_advantage'] = features.get('f1_strikes_landed_per_min', 0) - features.get('f2_strikes_landed_per_min', 0)
+                features['striking_differential'] = (features.get('f1_strikes_landed_per_min', 0) - features.get('f1_strikes_absorbed_per_min', 0)) - (features.get('f2_strikes_landed_per_min', 0) - features.get('f2_strikes_absorbed_per_min', 0))
                 features['reach_advantage'] = features.get('f1_reach', 0) - features.get('f2_reach', 0)
             
             fight_features.append(features)
@@ -632,6 +635,8 @@ class FeatureEngineer:
         if self.include_striking_stats:
             features['f1_strikes_landed_per_min'] = fighter1_stats.get('strikes_landed_per_min', 0)
             features['f2_strikes_landed_per_min'] = fighter2_stats.get('strikes_landed_per_min', 0)
+            features['f1_strikes_absorbed_per_min'] = fighter1_stats.get('strikes_absorbed_per_min', 0)
+            features['f2_strikes_absorbed_per_min'] = fighter2_stats.get('strikes_absorbed_per_min', 0)
             features['f1_striking_accuracy'] = fighter1_stats.get('striking_accuracy', 0)
             features['f2_striking_accuracy'] = fighter2_stats.get('striking_accuracy', 0)
             features['f1_striking_defense'] = fighter1_stats.get('striking_defense', 0)
@@ -685,6 +690,7 @@ class FeatureEngineer:
         if self.include_advantage_metrics:
             features['win_pct_advantage'] = features.get('f1_win_percentage', 0) - features.get('f2_win_percentage', 0)
             features['striking_advantage'] = features.get('f1_strikes_landed_per_min', 0) - features.get('f2_strikes_landed_per_min', 0)
+            features['striking_differential'] = (features.get('f1_strikes_landed_per_min', 0) - features.get('f1_strikes_absorbed_per_min', 0)) - (features.get('f2_strikes_landed_per_min', 0) - features.get('f2_strikes_absorbed_per_min', 0))
             features['reach_advantage'] = features.get('f1_reach', 0) - features.get('f2_reach', 0)
         
         # Create DataFrame from single fight features
