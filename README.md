@@ -7,7 +7,7 @@ A machine learning system that predicts UFC fight outcomes (Win/Loss) using hist
 This project implements an end-to-end ML pipeline for predicting UFC fight results:
 1. **Data Collection**: Scrapes fighter statistics and fight history from ufcstats.com
 2. **Preprocessing**: Cleans and normalizes raw data into structured datasets
-3. **Feature Engineering**: Creates comprehensive features (49 total) including fighter stats, recent form, streaks, and head-to-head comparisons
+3. **Feature Engineering**: Creates comprehensive features (54 total) including fighter stats, recent form, streaks, strength of schedule, and head-to-head comparisons
 4. **Model Training**: Trains multiple ML models (Random Forest, XGBoost, LightGBM, etc.) with hyperparameter tuning
 5. **Evaluation**: Evaluates models with metrics and visualizations (confusion matrices, ROC curves, feature importance)
 
@@ -127,7 +127,7 @@ python engineer_features.py
 ```
 
 This creates:
-- `data/features/fight_features.csv` - Feature matrix with 49 features per fight
+- `data/features/fight_features.csv` - Feature matrix with 54 features per fight
 
 #### 4. Model Training
 
@@ -197,7 +197,7 @@ models:
 
 ## Features
 
-The system engineers 49 features per fight:
+The system engineers 54 features per fight:
 
 ### Basic Features
 - Win/Loss/Draw records
@@ -212,15 +212,17 @@ The system engineers 49 features per fight:
 
 ### Performance Metrics
 - Striking accuracy and defense
-- Takedown accuracy and defense
 - Strikes landed per minute
+- Strikes absorbed per minute
+- Takedown accuracy and defense
 - Average takedowns per fight
 
 ### Advanced Features
 - Recent form (last 3-5 fights)
 - Win/loss streaks
 - Average days between fights
-- Head-to-head comparisons (win pct advantage, striking advantage, etc.)
+- Strength of schedule (average opponent win percentage)
+- Head-to-head comparisons (win pct advantage, striking advantage, striking differential, strength of schedule advantage, etc.)
 
 ## Models
 
@@ -256,7 +258,7 @@ Visualizations include:
 ✅ **Completed**:
 - Data collection scraper
 - Data preprocessing pipeline
-- Feature engineering (49 features)
+- Feature engineering (54 features)
 - Model training pipeline
 - Model evaluation module
 - Main pipeline orchestrator
