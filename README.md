@@ -99,9 +99,11 @@ You can also run individual pipeline steps:
 Scrape fighter data from ufcstats.com:
 
 ```bash
-# Scrape all fighters from events
-python scrape_all_fighters.py --build-master-list
-python scrape_all_fighters.py --scrape-all
+# Build master list of fighters from events
+python scrape_all_fighters.py --build-list --num-events 50
+
+# Scrape all fighters from the master list
+python scrape_all_fighters.py --scrape
 ```
 
 **Note**: Scraping can take several hours depending on the number of fighters. Progress is automatically saved, so you can safely stop and resume the script at any time.
