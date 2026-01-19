@@ -466,6 +466,21 @@ class FeatureEngineer:
                 features['f1_strength_of_schedule'] = self._calculate_strength_of_schedule(fighter1_name, fight_date)
                 features['f2_strength_of_schedule'] = self._calculate_strength_of_schedule(fighter2_name, fight_date)
             
+            # Quality-adjusted win percentage (win_pct weighted by strength of schedule)
+            if self.include_advantage_metrics and self.include_strength_of_schedule:
+                # Multiply win percentage by strength of schedule to account for competition quality
+                # A 10-0 record against weak opponents will have lower quality-adjusted win pct
+                # than a 7-3 record against strong opponents
+                f1_strength = features.get('f1_strength_of_schedule', 0.5)
+                f2_strength = features.get('f2_strength_of_schedule', 0.5)
+                f1_win_pct = features.get('f1_win_percentage', 0)
+                f2_win_pct = features.get('f2_win_percentage', 0)
+                
+                # Quality-adjusted: win_pct * strength_of_schedule
+                # This penalizes high win pct from weak competition
+                features['f1_quality_adjusted_win_pct'] = f1_win_pct * f1_strength
+                features['f2_quality_adjusted_win_pct'] = f2_win_pct * f2_strength
+            
             # Advantage metrics (fighter1 - fighter2)
             if self.include_advantage_metrics:
                 features['win_pct_advantage'] = features.get('f1_win_percentage', 0) - features.get('f2_win_percentage', 0)
@@ -474,6 +489,8 @@ class FeatureEngineer:
                 features['reach_advantage'] = features.get('f1_reach', 0) - features.get('f2_reach', 0)
                 if self.include_strength_of_schedule:
                     features['strength_of_schedule_advantage'] = features.get('f1_strength_of_schedule', 0.5) - features.get('f2_strength_of_schedule', 0.5)
+                    # Quality-adjusted win percentage advantage (accounts for competition quality)
+                    features['quality_adjusted_win_pct_advantage'] = features.get('f1_quality_adjusted_win_pct', 0) - features.get('f2_quality_adjusted_win_pct', 0)
             
             fight_features.append(features)
         
@@ -754,6 +771,21 @@ class FeatureEngineer:
             features['f1_strength_of_schedule'] = self._calculate_strength_of_schedule(fighter1_name, fight_date_dt)
             features['f2_strength_of_schedule'] = self._calculate_strength_of_schedule(fighter2_name, fight_date_dt)
         
+        # Quality-adjusted win percentage (win_pct weighted by strength of schedule)
+        if self.include_advantage_metrics and self.include_strength_of_schedule:
+            # Multiply win percentage by strength of schedule to account for competition quality
+            # A 10-0 record against weak opponents will have lower quality-adjusted win pct
+            # than a 7-3 record against strong opponents
+            f1_strength = features.get('f1_strength_of_schedule', 0.5)
+            f2_strength = features.get('f2_strength_of_schedule', 0.5)
+            f1_win_pct = features.get('f1_win_percentage', 0)
+            f2_win_pct = features.get('f2_win_percentage', 0)
+            
+            # Quality-adjusted: win_pct * strength_of_schedule
+            # This penalizes high win pct from weak competition
+            features['f1_quality_adjusted_win_pct'] = f1_win_pct * f1_strength
+            features['f2_quality_adjusted_win_pct'] = f2_win_pct * f2_strength
+        
         # Advantage metrics (fighter1 - fighter2)
         if self.include_advantage_metrics:
             features['win_pct_advantage'] = features.get('f1_win_percentage', 0) - features.get('f2_win_percentage', 0)
@@ -762,6 +794,8 @@ class FeatureEngineer:
             features['reach_advantage'] = features.get('f1_reach', 0) - features.get('f2_reach', 0)
             if self.include_strength_of_schedule:
                 features['strength_of_schedule_advantage'] = features.get('f1_strength_of_schedule', 0.5) - features.get('f2_strength_of_schedule', 0.5)
+                # Quality-adjusted win percentage advantage (accounts for competition quality)
+                features['quality_adjusted_win_pct_advantage'] = features.get('f1_quality_adjusted_win_pct', 0) - features.get('f2_quality_adjusted_win_pct', 0)
         
         # Create DataFrame from single fight features
         fight_features_df = pd.DataFrame([features])
