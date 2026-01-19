@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/eb70e786bbdf1d16",
+  "stats": {
+    "name": "Yanis Ghemmouri",
+    "record": "12-3-0",
+    "wins": 12,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "135 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Jan 24, 1995",
+    "strikes_landed_per_min": 2.29,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.14,
+    "striking_defense": 0.35,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Payton Talbott",
+      "result": "loss",
+      "date": "Jun. 29, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "William Gomis",
+      "result": "loss",
+      "date": "Sep. 02, 2023",
+      "method": "KO/TKO (Kick)"
+    }
+  ]
+}

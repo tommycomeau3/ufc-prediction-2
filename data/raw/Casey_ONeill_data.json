@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/04835018f90b118c",
+  "stats": {
+    "name": "Casey O'Neill",
+    "record": "10-2-0",
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "125 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Oct 07, 1997",
+    "strikes_landed_per_min": 7.89,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.65,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.7,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Luana Santos",
+      "result": "win",
+      "date": "Aug. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ariane da Silva",
+      "result": "loss",
+      "date": "Dec. 16, 2023",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Jennifer Maia",
+      "result": "loss",
+      "date": "Mar. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Roxanne Modafferi",
+      "result": "win",
+      "date": "Feb. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Antonina Shevchenko",
+      "result": "win",
+      "date": "Oct. 02, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Lara Procopio",
+      "result": "win",
+      "date": "UFC Fight Night: Jung vs. Ige",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Shana Dobson",
+      "result": "win",
+      "date": "Feb. 20, 2021",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

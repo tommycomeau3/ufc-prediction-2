@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/68b8ebdfce9dbb61",
+  "stats": {
+    "name": "Charalampos Grigoriou",
+    "record": "8-5-0",
+    "wins": 8,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Mar 31, 1992",
+    "strikes_landed_per_min": 2.62,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.97,
+    "striking_defense": 0.46,
+    "takedown_average": null,
+    "takedown_accuracy": 0.8,
+    "takedown_defense": 0.9,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Toshiomi Kazama",
+      "result": "loss",
+      "date": "Aug. 10, 2024",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Chad Anheliger",
+      "result": "loss",
+      "date": "Mar. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cameron Smotherman",
+      "result": "win",
+      "date": "Aug. 15, 2023",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

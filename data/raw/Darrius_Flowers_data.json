@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/65db4065e2bc107d",
+  "stats": {
+    "name": "Darrius Flowers",
+    "record": "12-8-1",
+    "wins": 12,
+    "losses": 8,
+    "draws": 1,
+    "height": "5' 9\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Aug 25, 1994",
+    "strikes_landed_per_min": 3.07,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.49,
+    "striking_defense": 0.44,
+    "takedown_average": null,
+    "takedown_accuracy": 0.28,
+    "takedown_defense": 0.63,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Evan Elder",
+      "result": "loss",
+      "date": "Jul. 13, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Michael Johnson",
+      "result": "loss",
+      "date": "Feb. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jake Matthews",
+      "result": "loss",
+      "date": "Jul. 29, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Amiran Gogoladze",
+      "result": "win",
+      "date": "Aug. 23, 2022",
+      "method": "Submission (Injury)"
+    }
+  ]
+}

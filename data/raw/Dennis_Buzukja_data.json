@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c4d039123e62f6a9",
+  "stats": {
+    "name": "Dennis Buzukja",
+    "record": "12-5-0",
+    "wins": 12,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Switch",
+    "dob": "Oct 01, 1997",
+    "strikes_landed_per_min": 4.21,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.82,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.27,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Francis Marshall",
+      "result": "loss",
+      "date": "Aug. 24, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Connor Matthews",
+      "result": "win",
+      "date": "Mar. 30, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jamall Emmers",
+      "result": "loss",
+      "date": "Nov. 11, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Sean Woodson",
+      "result": "loss",
+      "date": "Aug. 05, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kaleio Romero",
+      "result": "win",
+      "date": "Jul. 26, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Melsik Baghdasaryan",
+      "result": "loss",
+      "date": "Sep. 01, 2020",
+      "method": "N/A"
+    }
+  ]
+}

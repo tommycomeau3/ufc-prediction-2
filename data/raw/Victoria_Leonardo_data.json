@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/9dedfdd91070ddd8",
+  "stats": {
+    "name": "Victoria Leonardo",
+    "record": "9-7-0",
+    "wins": 9,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 5\"",
+    "weight": "125 lbs.",
+    "reach": "64\"",
+    "stance": "Orthodox",
+    "dob": "Feb 16, 1990",
+    "strikes_landed_per_min": 3.22,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.81,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.27,
+    "takedown_defense": 0.71,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Wang Cong",
+      "result": "loss",
+      "date": "Aug. 24, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Natalia Silva",
+      "result": "loss",
+      "date": "May. 20, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mandy Bohm",
+      "result": "win",
+      "date": "Jul. 23, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Melissa Gatto",
+      "result": "loss",
+      "date": "Aug. 07, 2021",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Manon Fiorot",
+      "result": "loss",
+      "date": "Jan. 20, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Chelsea Hackett",
+      "result": "win",
+      "date": "Nov. 17, 2020",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

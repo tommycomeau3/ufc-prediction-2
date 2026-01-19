@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/972c456ff38b2015",
+  "stats": {
+    "name": "Claudio Ribeiro",
+    "record": "11-5-0",
+    "wins": 11,
+    "losses": 5,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "185 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "Jul 17, 1992",
+    "strikes_landed_per_min": 3.59,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.9,
+    "striking_defense": 0.3,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Christian Leroy Duncan",
+      "result": "loss",
+      "date": "Mar. 02, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Roman Kopylov",
+      "result": "loss",
+      "date": "Jul. 29, 2023",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Joseph Holmes",
+      "result": "win",
+      "date": "May. 06, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Abdul Razak Alhassan",
+      "result": "loss",
+      "date": "Jan. 14, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ivan Valenzuela",
+      "result": "win",
+      "date": "Aug. 16, 2022",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

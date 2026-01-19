@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/1291edf2d566a71a",
+  "stats": {
+    "name": "Julio Arce",
+    "record": "19-6-0",
+    "wins": 19,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Oct 27, 1989",
+    "strikes_landed_per_min": 4.36,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.05,
+    "striking_defense": 0.68,
+    "takedown_average": null,
+    "takedown_accuracy": 0.28,
+    "takedown_defense": 0.96,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Herbert Burns",
+      "result": "win",
+      "date": "Mar. 30, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Montel Jackson",
+      "result": "loss",
+      "date": "Nov. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daniel Santos",
+      "result": "win",
+      "date": "Apr. 09, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Song Yadong",
+      "result": "loss",
+      "date": "Nov. 13, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Andre Ewell",
+      "result": "win",
+      "date": "Jul. 24, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Hakeem Dawodu",
+      "result": "loss",
+      "date": "Nov. 02, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julian Erosa",
+      "result": "win",
+      "date": "May. 18, 2019",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Sheymon Moraes",
+      "result": "loss",
+      "date": "Nov. 03, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daniel Teymur",
+      "result": "win",
+      "date": "Jun. 01, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Dan Ige",
+      "result": "win",
+      "date": "Jan. 20, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Peter Petties",
+      "result": "win",
+      "date": "Aug. 08, 2017",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

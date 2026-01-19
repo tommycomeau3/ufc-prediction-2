@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6e9f40c706f91f32",
+  "stats": {
+    "name": "Nate Maness",
+    "record": "16-3-0",
+    "wins": 16,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "125 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Jun 27, 1991",
+    "strikes_landed_per_min": 3.14,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.88,
+    "striking_defense": 0.42,
+    "takedown_average": null,
+    "takedown_accuracy": 0.75,
+    "takedown_defense": 0.8,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jimmy Flick",
+      "result": "win",
+      "date": "Jun. 15, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mateus Mendonca",
+      "result": "win",
+      "date": "Oct. 07, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Tagir Ulanbekov",
+      "result": "loss",
+      "date": "Nov. 05, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Umar Nurmagomedov",
+      "result": "loss",
+      "date": "Jun. 25, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tony Gravely",
+      "result": "win",
+      "date": "Sep. 18, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Luke Sanders",
+      "result": "win",
+      "date": "Nov. 28, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Johnny Munoz",
+      "result": "win",
+      "date": "Aug. 01, 2020",
+      "method": "N/A"
+    }
+  ]
+}

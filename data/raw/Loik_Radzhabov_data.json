@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/8c169fbe1ac33637",
+  "stats": {
+    "name": "Loik Radzhabov",
+    "record": "18-6-1",
+    "wins": 18,
+    "losses": 6,
+    "draws": 1,
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Sep 17, 1990",
+    "strikes_landed_per_min": 2.89,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.76,
+    "striking_defense": 0.46,
+    "takedown_average": null,
+    "takedown_accuracy": 0.57,
+    "takedown_defense": 0.42,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Trey Ogden",
+      "result": "loss",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Abdul-Kareem Al-Selwady",
+      "result": "win",
+      "date": "Mar. 02, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mateusz Rebecki",
+      "result": "loss",
+      "date": "Jun. 24, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Esteban Ribovics",
+      "result": "win",
+      "date": "Mar. 04, 2023",
+      "method": "N/A"
+    }
+  ]
+}

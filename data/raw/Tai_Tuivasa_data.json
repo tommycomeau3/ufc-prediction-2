@@ -1,0 +1,127 @@
+{
+  "url": "http://ufcstats.com/fighter-details/c62fbc117d57b943",
+  "stats": {
+    "name": "Tai Tuivasa",
+    "record": "15-8-0",
+    "wins": 15,
+    "losses": 8,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "264 lbs.",
+    "reach": "75\"",
+    "stance": "Southpaw",
+    "dob": "Mar 16, 1993",
+    "strikes_landed_per_min": 3.77,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.18,
+    "striking_defense": 0.44,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.57,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Tallison Teixeira",
+      "result": "next",
+      "date": "Jan. 31, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jairzinho Rozenstruik",
+      "result": "loss",
+      "date": "Aug. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marcin Tybura",
+      "result": "loss",
+      "date": "Mar. 16, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Alexander Volkov",
+      "result": "loss",
+      "date": "Sep. 09, 2023",
+      "method": "Submission (Ezekiel Choke)"
+    },
+    {
+      "opponent": "Sergei Pavlovich",
+      "result": "loss",
+      "date": "Dec. 03, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ciryl Gane",
+      "result": "loss",
+      "date": "Sep. 03, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Derrick Lewis",
+      "result": "win",
+      "date": "Feb. 12, 2022",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Augusto Sakai",
+      "result": "win",
+      "date": "Dec. 11, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Greg Hardy",
+      "result": "win",
+      "date": "Jul. 10, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Harry Hunsucker",
+      "result": "win",
+      "date": "Mar. 20, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Stefan Struve",
+      "result": "win",
+      "date": "Oct. 24, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Serghei Spivac",
+      "result": "loss",
+      "date": "Oct. 05, 2019",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Blagoy Ivanov",
+      "result": "loss",
+      "date": "Jun. 08, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Junior Dos Santos",
+      "result": "loss",
+      "date": "Dec. 01, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Andrei Arlovski",
+      "result": "win",
+      "date": "Jun. 09, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cyril Asker",
+      "result": "win",
+      "date": "Feb. 10, 2018",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Rashad Coulter",
+      "result": "win",
+      "date": "Nov. 18, 2017",
+      "method": "KO/TKO (Flying Knee)"
+    }
+  ]
+}

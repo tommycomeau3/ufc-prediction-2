@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/102a8fdf8cbf7467",
+  "stats": {
+    "name": "Kleydson Rodrigues",
+    "record": "8-4-0",
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 5\"",
+    "weight": "135 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Oct 22, 1995",
+    "strikes_landed_per_min": 4.58,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.29,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.22,
+    "takedown_defense": 0.53,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Alatengheili",
+      "result": "loss",
+      "date": "May. 18, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Farid Basharat",
+      "result": "loss",
+      "date": "Sep. 02, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Shannon Ross",
+      "result": "win",
+      "date": "Feb. 11, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "CJ Vergara",
+      "result": "loss",
+      "date": "May. 07, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Santo Curatolo",
+      "result": "win",
+      "date": "Sep. 21, 2021",
+      "method": "N/A"
+    }
+  ]
+}

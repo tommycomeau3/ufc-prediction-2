@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/74f9448b97bf8bec",
+  "stats": {
+    "name": "Da Woon Jung",
+    "record": "15-6-1",
+    "wins": 15,
+    "losses": 6,
+    "draws": 1,
+    "height": "6' 4\"",
+    "weight": "205 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Dec 07, 1993",
+    "strikes_landed_per_min": 3.24,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.23,
+    "striking_defense": 0.49,
+    "takedown_average": null,
+    "takedown_accuracy": 0.47,
+    "takedown_defense": 0.75,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Oumar Sy",
+      "result": "loss",
+      "date": "Sep. 28, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carlos Ulberg",
+      "result": "loss",
+      "date": "Sep. 09, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Devin Clark",
+      "result": "loss",
+      "date": "Feb. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dustin Jacoby",
+      "result": "loss",
+      "date": "Jul. 16, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Kennedy Nzechukwu",
+      "result": "win",
+      "date": "Nov. 13, 2021",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "William Knight",
+      "result": "win",
+      "date": "Apr. 10, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sam Alvey",
+      "result": "draw",
+      "date": "Oct. 24, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mike Rodriguez",
+      "result": "win",
+      "date": "Dec. 21, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Khadis Ibragimov",
+      "result": "win",
+      "date": "Aug. 31, 2019",
+      "method": "Submission (Guillotine Choke)"
+    }
+  ]
+}

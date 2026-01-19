@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/56f7d7ee06be4aab",
+  "stats": {
+    "name": "Zac Pauga",
+    "record": "7-3-0",
+    "wins": 7,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "205 lbs.",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "dob": "Feb 25, 1988",
+    "strikes_landed_per_min": 4.46,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.73,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.7,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Bogdan Guskov",
+      "result": "loss",
+      "date": "Feb. 10, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Modestas Bukauskas",
+      "result": "loss",
+      "date": "Jun. 17, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jordan Wright",
+      "result": "win",
+      "date": "Feb. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mohammed Usman",
+      "result": "loss",
+      "date": "Aug. 06, 2022",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

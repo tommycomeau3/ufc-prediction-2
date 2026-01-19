@@ -1,0 +1,47 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0bc697c5936a2d0a",
+  "stats": {
+    "name": "Trevor Peek",
+    "record": "9-3-0 (1 NC)",
+    "wins": 9,
+    "losses": 3
+  },
+  "fight_history": [
+    {
+      "opponent": "Yanal Ashmouz",
+      "result": "loss",
+      "date": "Sep. 07, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charlie Campbell",
+      "result": "loss",
+      "date": "Apr. 06, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mohammad Yahya",
+      "result": "win",
+      "date": "Oct. 21, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chepe Mariscal",
+      "result": "loss",
+      "date": "Jun. 24, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Erick Gonzalez",
+      "result": "win",
+      "date": "Feb. 25, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Malik Lewis",
+      "result": "win",
+      "date": "Sep. 13, 2022",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

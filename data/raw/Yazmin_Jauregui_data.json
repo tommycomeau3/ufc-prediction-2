@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/40cb680ae1cd331f",
+  "stats": {
+    "name": "Yazmin Jauregui",
+    "record": "11-2-0",
+    "wins": 11,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "115 lbs.",
+    "reach": "64\"",
+    "stance": "Orthodox",
+    "dob": "Feb 28, 1999",
+    "strikes_landed_per_min": 6.64,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.25,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ketlen Souza",
+      "result": "loss",
+      "date": "Sep. 14, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Sam Hughes",
+      "result": "win",
+      "date": "Feb. 24, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Denise Gomes",
+      "result": "loss",
+      "date": "Jul. 08, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Istela Nunes",
+      "result": "win",
+      "date": "Dec. 03, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Iasmin Lucindo",
+      "result": "win",
+      "date": "Aug. 13, 2022",
+      "method": "N/A"
+    }
+  ]
+}

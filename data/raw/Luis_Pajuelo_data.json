@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e530df53922f413e",
+  "stats": {
+    "name": "Luis Pajuelo",
+    "record": "8-2-0",
+    "wins": 8,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "145 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Dec 18, 1994",
+    "strikes_landed_per_min": 6.03,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 8.2,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Fernando Padilla",
+      "result": "loss",
+      "date": "Mar. 23, 2024",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Robbie Ring",
+      "result": "win",
+      "date": "Aug. 22, 2023",
+      "method": "KO/TKO (Knee)"
+    }
+  ]
+}

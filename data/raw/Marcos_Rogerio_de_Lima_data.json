@@ -1,0 +1,139 @@
+{
+  "url": "http://ufcstats.com/fighter-details/ab943cd2c3c17825",
+  "stats": {
+    "name": "Marcos Rogerio de Lima",
+    "record": "22-10-1",
+    "wins": 22,
+    "losses": 10,
+    "draws": 1,
+    "height": "6' 1\"",
+    "weight": "253 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Jun 25, 1985",
+    "strikes_landed_per_min": 3.7,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.9,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.45,
+    "takedown_defense": 0.59,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Junior Tafa",
+      "result": "win",
+      "date": "Feb. 17, 2024",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Derrick Lewis",
+      "result": "loss",
+      "date": "Jul. 29, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Waldo Cortes Acosta",
+      "result": "win",
+      "date": "Apr. 29, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andrei Arlovski",
+      "result": "win",
+      "date": "Oct. 29, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Blagoy Ivanov",
+      "result": "loss",
+      "date": "May. 07, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ben Rothwell",
+      "result": "win",
+      "date": "Nov. 13, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Maurice Greene",
+      "result": "win",
+      "date": "May. 08, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexandr Romanov",
+      "result": "loss",
+      "date": "Nov. 07, 2020",
+      "method": "Submission (Forearm Choke)"
+    },
+    {
+      "opponent": "Ben Sosoli",
+      "result": "win",
+      "date": "Feb. 22, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Stefan Struve",
+      "result": "loss",
+      "date": "Feb. 23, 2019",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Adam Wieczorek",
+      "result": "win",
+      "date": "Nov. 03, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ovince Saint Preux",
+      "result": "loss",
+      "date": "Apr. 22, 2017",
+      "method": "Submission (Von Flue Choke)"
+    },
+    {
+      "opponent": "Jeremy Kimball",
+      "result": "win",
+      "date": "Jan. 28, 2017",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Gadzhimurad Antigulov",
+      "result": "loss",
+      "date": "Nov. 19, 2016",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Clint Hester",
+      "result": "win",
+      "date": "Apr. 23, 2016",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Nikita Krylov",
+      "result": "loss",
+      "date": "Aug. 23, 2015",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Igor Pokrajac",
+      "result": "win",
+      "date": "Dec. 20, 2014",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Richardson Moreira",
+      "result": "win",
+      "date": "May. 31, 2014",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mike Kyle",
+      "result": "loss",
+      "date": "Sep. 10, 2011",
+      "method": "N/A"
+    }
+  ]
+}

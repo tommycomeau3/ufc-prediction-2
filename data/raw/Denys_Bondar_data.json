@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/2526be54e6a0e62a",
+  "stats": {
+    "name": "Denys Bondar",
+    "record": "14-5-0",
+    "wins": 14,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "125 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Jun 27, 1992",
+    "strikes_landed_per_min": 4.59,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.16,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.58,
+    "takedown_defense": 0.62,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ronaldo Rodriguez",
+      "result": "loss",
+      "date": "Feb. 24, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Carlos Hernandez",
+      "result": "loss",
+      "date": "Jun. 17, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Malcolm Gordon",
+      "result": "loss",
+      "date": "Feb. 05, 2022",
+      "method": "KO/TKO"
+    }
+  ]
+}

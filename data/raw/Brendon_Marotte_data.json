@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d7fe8c6b7d2872e5",
+  "stats": {
+    "name": "Brendon Marotte",
+    "record": "8-3-0",
+    "wins": 8,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Jan 12, 1996",
+    "strikes_landed_per_min": 0.41,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.7,
+    "striking_defense": 0.28,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Isaac Dulgarian",
+      "result": "loss",
+      "date": "Sep. 07, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Terrance McKinney",
+      "result": "loss",
+      "date": "Oct. 14, 2023",
+      "method": "KO/TKO (Knee)"
+    }
+  ]
+}

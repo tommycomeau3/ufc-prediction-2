@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d35f734c56a89103",
+  "stats": {
+    "name": "Karl Williams",
+    "record": "10-2-0",
+    "wins": 10,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "235 lbs.",
+    "reach": "79\"",
+    "stance": "Orthodox",
+    "dob": "Jan 06, 1990",
+    "strikes_landed_per_min": 2.68,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.15,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.48,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jhonata Diniz",
+      "result": "loss",
+      "date": "Aug. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Justin Tafa",
+      "result": "win",
+      "date": "Mar. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chase Sherman",
+      "result": "win",
+      "date": "May. 13, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lukasz Brzeski",
+      "result": "win",
+      "date": "Mar. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jimmy Lawson",
+      "result": "win",
+      "date": "Sep. 06, 2022",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "http://ufcstats.com/fighter-details/ca36633b80be4a78",
+  "stats": {
+    "name": "Kaynan Kruschewsky",
+    "record": "15-3-0 (1 NC)",
+    "wins": 15,
+    "losses": 3
+  },
+  "fight_history": [
+    {
+      "opponent": "Kurt Holobaugh",
+      "result": "loss",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Elves Brener",
+      "result": "loss",
+      "date": "Nov. 04, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Dylan Mantello",
+      "result": "win",
+      "date": "Sep. 19, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

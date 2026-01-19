@@ -1,0 +1,41 @@
+{
+  "url": "http://ufcstats.com/fighter-details/876f478f796495f7",
+  "stats": {
+    "name": "Josh Quinlan",
+    "record": "6-3-0 (1 NC)",
+    "wins": 6,
+    "losses": 3
+  },
+  "fight_history": [
+    {
+      "opponent": "Adam Fugitt",
+      "result": "loss",
+      "date": "Jun. 15, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Danny Barlow",
+      "result": "loss",
+      "date": "Feb. 17, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Trey Waters",
+      "result": "loss",
+      "date": "Apr. 29, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jason Witt",
+      "result": "win",
+      "date": "Aug. 13, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Logan Urban",
+      "result": "nc",
+      "date": "Sep. 07, 2021",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

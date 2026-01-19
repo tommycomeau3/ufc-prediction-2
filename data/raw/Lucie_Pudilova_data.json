@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/3cf66c62d9069f43",
+  "stats": {
+    "name": "Lucie Pudilova",
+    "record": "14-10-0",
+    "wins": 14,
+    "losses": 10,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "125 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Jun 13, 1994",
+    "strikes_landed_per_min": 3.6,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.07,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.31,
+    "takedown_defense": 0.67,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Luana Carolina",
+      "result": "loss",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ailin Perez",
+      "result": "loss",
+      "date": "Nov. 18, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joselyne Edwards",
+      "result": "loss",
+      "date": "Apr. 15, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Wu Yanan",
+      "result": "win",
+      "date": "Aug. 20, 2022",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Justine Kish",
+      "result": "loss",
+      "date": "Jan. 25, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Antonina Shevchenko",
+      "result": "loss",
+      "date": "Aug. 03, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Liz Carmouche",
+      "result": "loss",
+      "date": "Feb. 23, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Irene Aldana",
+      "result": "loss",
+      "date": "Sep. 08, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sarah Moras",
+      "result": "win",
+      "date": "Feb. 18, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ji Yeon Kim",
+      "result": "win",
+      "date": "Jun. 17, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lina Lansberg",
+      "result": "loss",
+      "date": "Mar. 18, 2017",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "url": "http://ufcstats.com/fighter-details/3a314d9fa7c6825d",
+  "stats": {
+    "name": "Douglas Silva de Andrade",
+    "record": "29-6-0 (1 NC)",
+    "wins": 29,
+    "losses": 6
+  },
+  "fight_history": [
+    {
+      "opponent": "Miles Johns",
+      "result": "loss",
+      "date": "Jun. 15, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody Stamann",
+      "result": "win",
+      "date": "May. 13, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Said Nurmagomedov",
+      "result": "loss",
+      "date": "Jul. 09, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sergey Morozov",
+      "result": "win",
+      "date": "Feb. 12, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Gaetano Pirrello",
+      "result": "win",
+      "date": "Oct. 02, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Lerone Murphy",
+      "result": "loss",
+      "date": "Jan. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Renan Barao",
+      "result": "win",
+      "date": "Nov. 16, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Petr Yan",
+      "result": "loss",
+      "date": "Dec. 29, 2018",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Marlon Vera",
+      "result": "win",
+      "date": "Feb. 03, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rob Font",
+      "result": "loss",
+      "date": "Jul. 08, 2017",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Henry Briones",
+      "result": "win",
+      "date": "Nov. 05, 2016",
+      "method": "KO/TKO (Spinning Back Fist)"
+    },
+    {
+      "opponent": "Cody Gibson",
+      "result": "win",
+      "date": "Feb. 22, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Zubaira Tukhugov",
+      "result": "loss",
+      "date": "Feb. 15, 2014",
+      "method": "N/A"
+    }
+  ]
+}

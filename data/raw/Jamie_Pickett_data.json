@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/830f60497fab345a",
+  "stats": {
+    "name": "Jamie Pickett",
+    "record": "13-11-0",
+    "wins": 13,
+    "losses": 11,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "185 lbs.",
+    "reach": "80\"",
+    "stance": "Orthodox",
+    "dob": "Aug 29, 1988",
+    "strikes_landed_per_min": 2.65,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.62,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.67,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Eryk Anders",
+      "result": "loss",
+      "date": "Mar. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Fremd",
+      "result": "loss",
+      "date": "Aug. 12, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bo Nickal",
+      "result": "loss",
+      "date": "Mar. 04, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Denis Tiuliulin",
+      "result": "loss",
+      "date": "Sep. 10, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Kyle Daukaus",
+      "result": "loss",
+      "date": "Feb. 19, 2022",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Joseph Holmes",
+      "result": "win",
+      "date": "Jan. 15, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Laureano Staropoli",
+      "result": "win",
+      "date": "Oct. 23, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jordan Wright",
+      "result": "loss",
+      "date": "May. 15, 2021",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Tafon Nchukwi",
+      "result": "loss",
+      "date": "Dec. 19, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jhonoven Pati",
+      "result": "win",
+      "date": "Aug. 25, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Punahele Soriano",
+      "result": "loss",
+      "date": "Jun. 18, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Byrd",
+      "result": "loss",
+      "date": "Jul. 11, 2017",
+      "method": "Submission (Arm Triangle)"
+    }
+  ]
+}

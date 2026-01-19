@@ -1,0 +1,115 @@
+{
+  "url": "http://ufcstats.com/fighter-details/32c355b04fc57f3a",
+  "stats": {
+    "name": "Marc Diakiese",
+    "record": "17-7-0",
+    "wins": 17,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Mar 16, 1993",
+    "strikes_landed_per_min": 2.54,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.64,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.43,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kaue Fernandes",
+      "result": "win",
+      "date": "Nov. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joel Alvarez",
+      "result": "loss",
+      "date": "Jul. 22, 2023",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Michael Johnson",
+      "result": "loss",
+      "date": "Dec. 03, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Damir Hadzovic",
+      "result": "win",
+      "date": "Jul. 23, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Viacheslav Borshchev",
+      "result": "win",
+      "date": "Mar. 26, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rafael Alves",
+      "result": "loss",
+      "date": "Nov. 13, 2021",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Rafael Fiziev",
+      "result": "loss",
+      "date": "Jul. 18, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lando Vannata",
+      "result": "win",
+      "date": "Sep. 28, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joe Duffy",
+      "result": "win",
+      "date": "Mar. 16, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nasrat Haqparast",
+      "result": "loss",
+      "date": "Jul. 22, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dan Hooker",
+      "result": "loss",
+      "date": "Dec. 30, 2017",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Drakkar Klose",
+      "result": "loss",
+      "date": "Jul. 07, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Teemu Packalen",
+      "result": "win",
+      "date": "Mar. 18, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Frankie Perez",
+      "result": "win",
+      "date": "Dec. 09, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lukasz Sajewski",
+      "result": "win",
+      "date": "Oct. 08, 2016",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

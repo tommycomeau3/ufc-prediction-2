@@ -1,0 +1,139 @@
+{
+  "url": "http://ufcstats.com/fighter-details/fc169c387b4b465d",
+  "stats": {
+    "name": "Raquel Pennington",
+    "record": "16-10-0",
+    "wins": 16,
+    "losses": 10,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Sep 05, 1988",
+    "strikes_landed_per_min": 4.1,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.32,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.27,
+    "takedown_defense": 0.62,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Julianna Pena",
+      "result": "loss",
+      "date": "Oct. 05, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mayra Bueno Silva",
+      "result": "win",
+      "date": "Jan. 20, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ketlen Vieira",
+      "result": "win",
+      "date": "Jan. 14, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aspen Ladd",
+      "result": "win",
+      "date": "Apr. 09, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Macy Chiasson",
+      "result": "win",
+      "date": "Dec. 18, 2021",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Pannie Kianzad",
+      "result": "win",
+      "date": "Sep. 18, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marion Reneau",
+      "result": "win",
+      "date": "Jun. 20, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Holly Holm",
+      "result": "loss",
+      "date": "Jan. 18, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Irene Aldana",
+      "result": "win",
+      "date": "Jul. 20, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Germaine de Randamie",
+      "result": "loss",
+      "date": "Nov. 10, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amanda Nunes",
+      "result": "loss",
+      "date": "May. 12, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Miesha Tate",
+      "result": "win",
+      "date": "Nov. 12, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Elizabeth Phillips",
+      "result": "win",
+      "date": "Aug. 20, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bethe Correia",
+      "result": "win",
+      "date": "Apr. 16, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jessica Andrade",
+      "result": "win",
+      "date": "Sep. 05, 2015",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Holly Holm",
+      "result": "loss",
+      "date": "Feb. 28, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ashlee Evans-Smith",
+      "result": "win",
+      "date": "Dec. 06, 2014",
+      "method": "Submission (Bulldog Choke)"
+    },
+    {
+      "opponent": "Jessica Andrade",
+      "result": "loss",
+      "date": "Mar. 15, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Roxanne Modafferi",
+      "result": "win",
+      "date": "Nov. 30, 2013",
+      "method": "N/A"
+    }
+  ]
+}

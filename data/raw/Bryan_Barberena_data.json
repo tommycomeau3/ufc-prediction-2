@@ -1,0 +1,139 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a331233f597090a5",
+  "stats": {
+    "name": "Bryan Barberena",
+    "record": "18-12-0",
+    "wins": 18,
+    "losses": 12,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "185 lbs.",
+    "reach": "72\"",
+    "stance": "Southpaw",
+    "dob": "May 03, 1989",
+    "strikes_landed_per_min": 5.35,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.59,
+    "striking_defense": 0.44,
+    "takedown_average": null,
+    "takedown_accuracy": 0.22,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Gerald Meerschaert",
+      "result": "loss",
+      "date": "Mar. 16, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Makhmud Muradov",
+      "result": "loss",
+      "date": "Jul. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gunnar Nelson",
+      "result": "loss",
+      "date": "Mar. 18, 2023",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Rafael Dos Anjos",
+      "result": "loss",
+      "date": "Dec. 03, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Robbie Lawler",
+      "result": "win",
+      "date": "Jul. 02, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Matt Brown",
+      "result": "win",
+      "date": "Mar. 26, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Darian Weeks",
+      "result": "win",
+      "date": "Dec. 04, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jason Witt",
+      "result": "loss",
+      "date": "Jul. 31, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anthony Ivy",
+      "result": "win",
+      "date": "Sep. 12, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Randy Brown",
+      "result": "loss",
+      "date": "Jun. 22, 2019",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Vicente Luque",
+      "result": "loss",
+      "date": "Feb. 17, 2019",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Jake Ellenberger",
+      "result": "win",
+      "date": "Aug. 25, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Leon Edwards",
+      "result": "loss",
+      "date": "Sep. 02, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joe Proctor",
+      "result": "win",
+      "date": "Apr. 22, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Colby Covington",
+      "result": "loss",
+      "date": "Dec. 17, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Warlley Alves",
+      "result": "win",
+      "date": "May. 14, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sage Northcutt",
+      "result": "win",
+      "date": "Jan. 30, 2016",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Chad Laprise",
+      "result": "loss",
+      "date": "Apr. 25, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joe Ellenberger",
+      "result": "win",
+      "date": "Dec. 13, 2014",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

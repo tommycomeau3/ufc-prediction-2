@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4dcfb28c011c11b2",
+  "stats": {
+    "name": "Wellington Turman",
+    "record": "18-8-0",
+    "wins": 18,
+    "losses": 8,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "170 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Jul 22, 1996",
+    "strikes_landed_per_min": 3.23,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.17,
+    "striking_defense": 0.45,
+    "takedown_average": null,
+    "takedown_accuracy": 0.2,
+    "takedown_defense": 0.42,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jared Gooden",
+      "result": "loss",
+      "date": "Dec. 02, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Randy Brown",
+      "result": "loss",
+      "date": "Jun. 24, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Petroski",
+      "result": "loss",
+      "date": "Nov. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Misha Cirkunov",
+      "result": "win",
+      "date": "Feb. 26, 2022",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Sam Alvey",
+      "result": "win",
+      "date": "Aug. 28, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bruno Silva",
+      "result": "loss",
+      "date": "UFC Fight Night: Jung vs. Ige",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Andrew Sanchez",
+      "result": "loss",
+      "date": "Aug. 08, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Markus Perez",
+      "result": "win",
+      "date": "Nov. 16, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Karl Roberson",
+      "result": "loss",
+      "date": "Jul. 13, 2019",
+      "method": "N/A"
+    }
+  ]
+}

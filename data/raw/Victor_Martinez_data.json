@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/3e708ce33b6b18e6",
+  "stats": {
+    "name": "Victor Martinez",
+    "record": "13-6-0",
+    "wins": 13,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Jul 17, 1991",
+    "strikes_landed_per_min": 7.94,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.66,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.8,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Tom Nolan",
+      "result": "loss",
+      "date": "May. 18, 2024",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Jordan Leavitt",
+      "result": "loss",
+      "date": "Feb. 25, 2023",
+      "method": "KO/TKO (Knees)"
+    },
+    {
+      "opponent": "Jacob Rosales",
+      "result": "win",
+      "date": "Sep. 21, 2021",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/ac40f7e3cbecdda4",
+  "stats": {
+    "name": "Parker Porter",
+    "record": "14-9-0",
+    "wins": 14,
+    "losses": 9,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "265 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Apr 22, 1985",
+    "strikes_landed_per_min": 6.55,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.32,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.26,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Junior Tafa",
+      "result": "loss",
+      "date": "Aug. 26, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Braxton Smith",
+      "result": "win",
+      "date": "May. 06, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Justin Tafa",
+      "result": "loss",
+      "date": "Feb. 11, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jailton Almeida",
+      "result": "loss",
+      "date": "May. 21, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Alan Baudot",
+      "result": "win",
+      "date": "Feb. 19, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chase Sherman",
+      "result": "win",
+      "date": "Aug. 21, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Parisian",
+      "result": "win",
+      "date": "Nov. 28, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Daukaus",
+      "result": "loss",
+      "date": "Aug. 15, 2020",
+      "method": "KO/TKO (Knee)"
+    }
+  ]
+}

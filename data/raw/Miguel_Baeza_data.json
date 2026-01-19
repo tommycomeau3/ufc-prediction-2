@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/82d4c957649faf9b",
+  "stats": {
+    "name": "Miguel Baeza",
+    "record": "10-4-0",
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "170 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Aug 23, 1992",
+    "strikes_landed_per_min": 4.09,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.92,
+    "striking_defense": 0.46,
+    "takedown_average": null,
+    "takedown_accuracy": 0.22,
+    "takedown_defense": 0.54,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Punahele Soriano",
+      "result": "loss",
+      "date": "Jun. 08, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Andre Fialho",
+      "result": "loss",
+      "date": "Apr. 16, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Khaos Williams",
+      "result": "loss",
+      "date": "Nov. 13, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Santiago Ponzinibbio",
+      "result": "loss",
+      "date": "Jun. 05, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Takashi Sato",
+      "result": "win",
+      "date": "Nov. 28, 2020",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Matt Brown",
+      "result": "win",
+      "date": "May. 16, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Hector Aldana",
+      "result": "win",
+      "date": "Oct. 12, 2019",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Victor Reyna",
+      "result": "win",
+      "date": "Jun. 25, 2019",
+      "method": "N/A"
+    }
+  ]
+}

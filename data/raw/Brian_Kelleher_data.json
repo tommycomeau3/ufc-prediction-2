@@ -1,0 +1,127 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7be14eaed4c74856",
+  "stats": {
+    "name": "Brian Kelleher",
+    "record": "24-16-0",
+    "wins": 24,
+    "losses": 16,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "66\"",
+    "stance": "Switch",
+    "dob": "Aug 19, 1986",
+    "strikes_landed_per_min": 3.31,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.59,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.6,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Cody Gibson",
+      "result": "loss",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Cody Garbrandt",
+      "result": "loss",
+      "date": "Dec. 16, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mario Bautista",
+      "result": "loss",
+      "date": "Jun. 25, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Umar Nurmagomedov",
+      "result": "loss",
+      "date": "Mar. 05, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Kevin Croom",
+      "result": "win",
+      "date": "Jan. 15, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Domingo Pilarte",
+      "result": "win",
+      "date": "Aug. 21, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ricky Simon",
+      "result": "loss",
+      "date": "Feb. 13, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ray Rodriguez",
+      "result": "win",
+      "date": "Sep. 05, 2020",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Cody Stamann",
+      "result": "loss",
+      "date": "Jun. 06, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hunter Azure",
+      "result": "win",
+      "date": "May. 13, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ode Osbourne",
+      "result": "win",
+      "date": "Jan. 18, 2020",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Montel Jackson",
+      "result": "loss",
+      "date": "Dec. 29, 2018",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "John Lineker",
+      "result": "loss",
+      "date": "May. 12, 2018",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Renan Barao",
+      "result": "win",
+      "date": "Feb. 24, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Damian Stasiak",
+      "result": "win",
+      "date": "Oct. 21, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Marlon Vera",
+      "result": "loss",
+      "date": "Jul. 22, 2017",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Iuri Alcantara",
+      "result": "win",
+      "date": "Jun. 03, 2017",
+      "method": "Submission (Guillotine Choke)"
+    }
+  ]
+}

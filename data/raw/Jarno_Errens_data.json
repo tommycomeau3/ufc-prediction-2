@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/082eba4cd80f736f",
+  "stats": {
+    "name": "Jarno Errens",
+    "record": "14-6-1",
+    "wins": 14,
+    "losses": 6,
+    "draws": 1,
+    "height": "5' 11\"",
+    "weight": "145 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Nov 17, 1994",
+    "strikes_landed_per_min": 3.29,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.29,
+    "striking_defense": 0.61,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.33,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Youssef Zalal",
+      "result": "loss",
+      "date": "Aug. 10, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Steven Nguyen",
+      "result": "win",
+      "date": "Mar. 23, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "SeungWoo Choi",
+      "result": "loss",
+      "date": "Aug. 26, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "William Gomis",
+      "result": "loss",
+      "date": "Sep. 03, 2022",
+      "method": "N/A"
+    }
+  ]
+}

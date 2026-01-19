@@ -1,0 +1,127 @@
+{
+  "url": "http://ufcstats.com/fighter-details/cc7040fe76f0ef91",
+  "stats": {
+    "name": "Devin Clark",
+    "record": "14-9-0",
+    "wins": 14,
+    "losses": 9,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "205 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Apr 12, 1990",
+    "strikes_landed_per_min": 3.03,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.24,
+    "striking_defense": 0.44,
+    "takedown_average": null,
+    "takedown_accuracy": 0.32,
+    "takedown_defense": 0.58,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Marcin Prachnio",
+      "result": "loss",
+      "date": "Feb. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kennedy Nzechukwu",
+      "result": "loss",
+      "date": "May. 06, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Da Woon Jung",
+      "result": "win",
+      "date": "Feb. 04, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Azamat Murzakanov",
+      "result": "loss",
+      "date": "Aug. 13, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "William Knight",
+      "result": "win",
+      "date": "Apr. 16, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ion Cutelaba",
+      "result": "loss",
+      "date": "Sep. 18, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anthony Smith",
+      "result": "loss",
+      "date": "Nov. 28, 2020",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Alonzo Menifield",
+      "result": "win",
+      "date": "Jun. 06, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dequan Townsend",
+      "result": "win",
+      "date": "Feb. 15, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ryan Spann",
+      "result": "loss",
+      "date": "Oct. 12, 2019",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Darko Stosic",
+      "result": "win",
+      "date": "Jun. 01, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aleksandar Rakic",
+      "result": "loss",
+      "date": "Dec. 08, 2018",
+      "method": "KO/TKO (Spinning Back Fist)"
+    },
+    {
+      "opponent": "Mike Rodriguez",
+      "result": "win",
+      "date": "Apr. 07, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jan Blachowicz",
+      "result": "loss",
+      "date": "Oct. 21, 2017",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jake Collier",
+      "result": "win",
+      "date": "Apr. 15, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Stansbury",
+      "result": "win",
+      "date": "Dec. 03, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Nicholson",
+      "result": "loss",
+      "date": "Jul. 13, 2016",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

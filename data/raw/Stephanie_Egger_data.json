@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/5e6294b37bbef029",
+  "stats": {
+    "name": "Stephanie Egger",
+    "record": "8-5-0",
+    "wins": 8,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Aug 12, 1988",
+    "strikes_landed_per_min": 2.2,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.48,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.42,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Luana Santos",
+      "result": "loss",
+      "date": "Dec. 09, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Irina Alekseeva",
+      "result": "loss",
+      "date": "Apr. 29, 2023",
+      "method": "Submission (Kneebar)"
+    },
+    {
+      "opponent": "Ailin Perez",
+      "result": "win",
+      "date": "Sep. 03, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Mayra Bueno Silva",
+      "result": "loss",
+      "date": "Aug. 06, 2022",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Jessica-Rose Clark",
+      "result": "win",
+      "date": "Feb. 19, 2022",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Shanna Young",
+      "result": "win",
+      "date": "Oct. 02, 2021",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Tracy Cortez",
+      "result": "loss",
+      "date": "Oct. 10, 2020",
+      "method": "N/A"
+    }
+  ]
+}

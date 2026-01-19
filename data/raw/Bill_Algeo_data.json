@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/9abc648e76c4493a",
+  "stats": {
+    "name": "Bill Algeo",
+    "record": "18-9-0",
+    "wins": 18,
+    "losses": 9,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "145 lbs.",
+    "reach": "73\"",
+    "stance": "Switch",
+    "dob": "Jun 09, 1989",
+    "strikes_landed_per_min": 5.88,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.38,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.55,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Dooho Choi",
+      "result": "loss",
+      "date": "UFC Fight Night: Lemos vs. Jandiroba",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Kyle Nelson",
+      "result": "loss",
+      "date": "Mar. 30, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alexander Hernandez",
+      "result": "win",
+      "date": "Oct. 07, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "TJ Brown",
+      "result": "win",
+      "date": "Apr. 15, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Andre Fili",
+      "result": "loss",
+      "date": "Sep. 17, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Herbert Burns",
+      "result": "win",
+      "date": "Jul. 16, 2022",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Joanderson Brito",
+      "result": "win",
+      "date": "Jan. 15, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ricardo Ramos",
+      "result": "loss",
+      "date": "May. 22, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Spike Carlyle",
+      "result": "win",
+      "date": "Nov. 28, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ricardo Lamas",
+      "result": "loss",
+      "date": "Aug. 29, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brendan Loughnane",
+      "result": "loss",
+      "date": "Jun. 18, 2019",
+      "method": "N/A"
+    }
+  ]
+}

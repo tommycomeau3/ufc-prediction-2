@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/dc7927cd622676a7",
+  "stats": {
+    "name": "Victor Altamirano",
+    "record": "12-5-0",
+    "wins": 12,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "125 lbs.",
+    "reach": "70\"",
+    "stance": "Switch",
+    "dob": "Jan 23, 1991",
+    "strikes_landed_per_min": 4.58,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.82,
+    "striking_defense": 0.53,
+    "takedown_average": null,
+    "takedown_accuracy": 0.38,
+    "takedown_defense": 0.63,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Daniel Barez",
+      "result": "loss",
+      "date": "Sep. 28, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Felipe dos Santos",
+      "result": "loss",
+      "date": "Feb. 24, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tim Elliott",
+      "result": "loss",
+      "date": "Jun. 03, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vinicius Salvador",
+      "result": "win",
+      "date": "Mar. 25, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daniel Lacerda",
+      "result": "win",
+      "date": "Aug. 20, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Carlos Hernandez",
+      "result": "loss",
+      "date": "Feb. 26, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carlos Candelario",
+      "result": "win",
+      "date": "Aug. 31, 2021",
+      "method": "N/A"
+    }
+  ]
+}

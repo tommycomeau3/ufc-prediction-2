@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/862b0b3375aa4b6e",
+  "stats": {
+    "name": "Zarah Fairn",
+    "record": "6-6-0",
+    "wins": 6,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Dec 10, 1983",
+    "strikes_landed_per_min": 4.55,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.4,
+    "striking_defense": 0.45,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.6,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jacqueline Cavalcanti",
+      "result": "loss",
+      "date": "Sep. 02, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josiane Nunes",
+      "result": "loss",
+      "date": "Jan. 21, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Felicia Spencer",
+      "result": "loss",
+      "date": "Feb. 29, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Megan Anderson",
+      "result": "loss",
+      "date": "Oct. 05, 2019",
+      "method": "Submission (Triangle Choke)"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "url": "http://ufcstats.com/fighter-details/31bb0772f21cabd8",
+  "stats": {
+    "name": "Daniel Lacerda",
+    "record": "11-6-0 (1 NC)",
+    "wins": 11,
+    "losses": 6
+  },
+  "fight_history": [
+    {
+      "opponent": "Edgar Chairez",
+      "result": "loss",
+      "date": "Feb. 24, 2024",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Edgar Chairez",
+      "result": "nc",
+      "date": "Sep. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "CJ Vergara",
+      "result": "loss",
+      "date": "Mar. 25, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Victor Altamirano",
+      "result": "loss",
+      "date": "Aug. 20, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Francisco Figueiredo",
+      "result": "loss",
+      "date": "Apr. 30, 2022",
+      "method": "Submission (Kneebar)"
+    },
+    {
+      "opponent": "Jeff Molina",
+      "result": "loss",
+      "date": "Oct. 23, 2021",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

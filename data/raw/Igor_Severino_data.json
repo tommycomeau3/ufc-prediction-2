@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/6ad8e4296f7522d9",
+  "stats": {
+    "name": "Igor Severino",
+    "record": "8-1-0",
+    "wins": 8,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "Apr 21, 2003",
+    "strikes_landed_per_min": 7.17,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.33,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.71,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Andre Lima",
+      "result": "loss",
+      "date": "Mar. 23, 2024",
+      "method": "DQ"
+    },
+    {
+      "opponent": "Jhonata Silva",
+      "result": "win",
+      "date": "Sep. 19, 2023",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

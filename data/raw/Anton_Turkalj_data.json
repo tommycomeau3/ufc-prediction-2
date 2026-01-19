@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/82529ce93cd9a2cf",
+  "stats": {
+    "name": "Anton Turkalj",
+    "record": "8-4-0",
+    "wins": 8,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 4\"",
+    "weight": "205 lbs.",
+    "reach": "78\"",
+    "stance": "Orthodox",
+    "dob": "Jun 10, 1996",
+    "strikes_landed_per_min": 2.45,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.42,
+    "striking_defense": 0.54,
+    "takedown_average": null,
+    "takedown_accuracy": 0.41,
+    "takedown_defense": 0.16,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ibo Aslan",
+      "result": "loss",
+      "date": "Mar. 30, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Tyson Pedro",
+      "result": "loss",
+      "date": "Sep. 09, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Vitor Petrino",
+      "result": "loss",
+      "date": "Mar. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jailton Almeida",
+      "result": "loss",
+      "date": "Sep. 10, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Acacio Dos Santos",
+      "result": "win",
+      "date": "Jul. 26, 2022",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/814ff3018127e8fc",
+  "stats": {
+    "name": "Ricky Glenn",
+    "record": "22-9-2",
+    "wins": 22,
+    "losses": 9,
+    "draws": 2,
+    "height": "6' 0\"",
+    "weight": "170 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Apr 12, 1989",
+    "strikes_landed_per_min": 3.79,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.3,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.13,
+    "takedown_defense": 0.69,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Song Kenan",
+      "result": "loss",
+      "date": "Aug. 17, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Drew Dober",
+      "result": "loss",
+      "date": "Oct. 07, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Christos Giagos",
+      "result": "loss",
+      "date": "Apr. 22, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Grant Dawson",
+      "result": "draw",
+      "date": "Oct. 23, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joaquim Silva",
+      "result": "win",
+      "date": "UFC Fight Night: Jung vs. Ige",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Kevin Aguilar",
+      "result": "loss",
+      "date": "Nov. 30, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Dennis Bermudez",
+      "result": "win",
+      "date": "Jul. 14, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Myles Jury",
+      "result": "loss",
+      "date": "Dec. 30, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gavin Tucker",
+      "result": "win",
+      "date": "Sep. 09, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Phillipe Nover",
+      "result": "win",
+      "date": "Feb. 11, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Evan Dunham",
+      "result": "loss",
+      "date": "Sep. 17, 2016",
+      "method": "N/A"
+    }
+  ]
+}

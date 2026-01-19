@@ -1,0 +1,107 @@
+{
+  "url": "http://ufcstats.com/fighter-details/634e2fb70bde3fd5",
+  "stats": {
+    "name": "Holly Holm",
+    "record": "15-7-0 (1 NC)",
+    "wins": 15,
+    "losses": 7
+  },
+  "fight_history": [
+    {
+      "opponent": "Kayla Harrison",
+      "result": "loss",
+      "date": "Apr. 13, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Mayra Bueno Silva",
+      "result": "nc",
+      "date": "Jul. 15, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yana Santos",
+      "result": "win",
+      "date": "Mar. 25, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ketlen Vieira",
+      "result": "loss",
+      "date": "May. 21, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Irene Aldana",
+      "result": "win",
+      "date": "Oct. 03, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Raquel Pennington",
+      "result": "win",
+      "date": "Jan. 18, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amanda Nunes",
+      "result": "loss",
+      "date": "Jul. 06, 2019",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Megan Anderson",
+      "result": "win",
+      "date": "Jun. 09, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cristiane Justino",
+      "result": "loss",
+      "date": "Dec. 30, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bethe Correia",
+      "result": "win",
+      "date": "Jun. 17, 2017",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Germaine de Randamie",
+      "result": "loss",
+      "date": "Feb. 11, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Valentina Shevchenko",
+      "result": "loss",
+      "date": "Jul. 23, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Miesha Tate",
+      "result": "loss",
+      "date": "Mar. 05, 2016",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Ronda Rousey",
+      "result": "win",
+      "date": "Nov. 14, 2015",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Marion Reneau",
+      "result": "win",
+      "date": "Jul. 15, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Raquel Pennington",
+      "result": "win",
+      "date": "Feb. 28, 2015",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "url": "http://ufcstats.com/fighter-details/33efaf2d0941cfcf",
+  "stats": {
+    "name": "Andre Fialho",
+    "record": "16-8-0 (1 NC)",
+    "wins": 16,
+    "losses": 8
+  },
+  "fight_history": [
+    {
+      "opponent": "Tim Means",
+      "result": "loss",
+      "date": "Sep. 23, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Joaquin Buckley",
+      "result": "loss",
+      "date": "May. 20, 2023",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Muslim Salikhov",
+      "result": "loss",
+      "date": "Nov. 19, 2022",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Jake Matthews",
+      "result": "loss",
+      "date": "Jun. 11, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Cameron VanCamp",
+      "result": "win",
+      "date": "May. 07, 2022",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Miguel Baeza",
+      "result": "win",
+      "date": "Apr. 16, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Michel Pereira",
+      "result": "loss",
+      "date": "Jan. 22, 2022",
+      "method": "N/A"
+    }
+  ]
+}

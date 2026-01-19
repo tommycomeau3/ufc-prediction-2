@@ -1,0 +1,169 @@
+{
+  "url": "http://ufcstats.com/fighter-details/22a92d7f62195791",
+  "stats": {
+    "name": "Tony Ferguson",
+    "record": "26-11-0",
+    "wins": 26,
+    "losses": 11,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "170 lbs.",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "dob": "Feb 12, 1984",
+    "strikes_landed_per_min": 4.91,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.37,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Michael Chiesa",
+      "result": "loss",
+      "date": "Aug. 03, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Paddy Pimblett",
+      "result": "loss",
+      "date": "Dec. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "King Green",
+      "result": "loss",
+      "date": "Jul. 29, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Nate Diaz",
+      "result": "loss",
+      "date": "Sep. 10, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Michael Chandler",
+      "result": "loss",
+      "date": "May. 07, 2022",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Beneil Dariush",
+      "result": "loss",
+      "date": "May. 15, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Oliveira",
+      "result": "loss",
+      "date": "Dec. 12, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Justin Gaethje",
+      "result": "loss",
+      "date": "May. 09, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Donald Cerrone",
+      "result": "win",
+      "date": "Jun. 08, 2019",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Anthony Pettis",
+      "result": "win",
+      "date": "Oct. 06, 2018",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Kevin Lee",
+      "result": "win",
+      "date": "Oct. 07, 2017",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Rafael Dos Anjos",
+      "result": "win",
+      "date": "Nov. 05, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lando Vannata",
+      "result": "win",
+      "date": "Jul. 13, 2016",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Edson Barboza",
+      "result": "win",
+      "date": "Dec. 11, 2015",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Josh Thomson",
+      "result": "win",
+      "date": "Jul. 15, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gleison Tibau",
+      "result": "win",
+      "date": "Feb. 28, 2015",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Abel Trujillo",
+      "result": "win",
+      "date": "Dec. 06, 2014",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Danny Castillo",
+      "result": "win",
+      "date": "Aug. 30, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Katsunori Kikuno",
+      "result": "win",
+      "date": "May. 24, 2014",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mike Rio",
+      "result": "win",
+      "date": "Oct. 19, 2013",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Michael Johnson",
+      "result": "loss",
+      "date": "May. 05, 2012",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yves Edwards",
+      "result": "win",
+      "date": "Dec. 03, 2011",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Aaron Riley",
+      "result": "win",
+      "date": "Sep. 24, 2011",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Ramsey Nijem",
+      "result": "win",
+      "date": "Jun. 04, 2011",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

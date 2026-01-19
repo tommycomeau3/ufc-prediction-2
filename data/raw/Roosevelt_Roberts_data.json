@@ -1,0 +1,77 @@
+{
+  "url": "http://ufcstats.com/fighter-details/37c5366d18ed6c05",
+  "stats": {
+    "name": "Roosevelt Roberts",
+    "record": "12-6-0 (1 NC)",
+    "wins": 12,
+    "losses": 6
+  },
+  "fight_history": [
+    {
+      "opponent": "Ludovit Klein",
+      "result": "loss",
+      "date": "Sep. 28, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mateusz Rebecki",
+      "result": "loss",
+      "date": "Nov. 11, 2023",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Ignacio Bahamondes",
+      "result": "loss",
+      "date": "Aug. 21, 2021",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Kevin Croom",
+      "result": "nc",
+      "date": "Sep. 12, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jim Miller",
+      "result": "loss",
+      "date": "Jun. 20, 2020",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Brok Weaver",
+      "result": "win",
+      "date": "May. 30, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Alexander Yakovlev",
+      "result": "win",
+      "date": "Nov. 09, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Vinc Pichel",
+      "result": "loss",
+      "date": "Jun. 29, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Thomas Gifford",
+      "result": "win",
+      "date": "Apr. 27, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Darrell Horcher",
+      "result": "win",
+      "date": "Nov. 30, 2018",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Garrett Gross",
+      "result": "win",
+      "date": "Jul. 31, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

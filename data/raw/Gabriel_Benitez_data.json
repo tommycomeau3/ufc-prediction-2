@@ -1,0 +1,115 @@
+{
+  "url": "http://ufcstats.com/fighter-details/436f970c9ea9169c",
+  "stats": {
+    "name": "Gabriel Benitez",
+    "record": "23-13-0",
+    "wins": 23,
+    "losses": 13,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Southpaw",
+    "dob": "Jun 15, 1988",
+    "strikes_landed_per_min": 5.26,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.49,
+    "striking_defense": 0.63,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.55,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Maheshate",
+      "result": "loss",
+      "date": "Apr. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jim Miller",
+      "result": "loss",
+      "date": "Jan. 13, 2024",
+      "method": "Submission (Neck Crank)"
+    },
+    {
+      "opponent": "Charlie Ontiveros",
+      "result": "win",
+      "date": "Aug. 13, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "David Onama",
+      "result": "loss",
+      "date": "Feb. 19, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Billy Quarantillo",
+      "result": "loss",
+      "date": "Jul. 17, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Justin Jaynes",
+      "result": "win",
+      "date": "Dec. 05, 2020",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Omar Morales",
+      "result": "loss",
+      "date": "May. 13, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sodiq Yusuff",
+      "result": "loss",
+      "date": "Aug. 17, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Humberto Bandenay",
+      "result": "win",
+      "date": "May. 19, 2018",
+      "method": "KO/TKO (Slam)"
+    },
+    {
+      "opponent": "Jason Knight",
+      "result": "win",
+      "date": "Dec. 09, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Enrique Barzola",
+      "result": "loss",
+      "date": "May. 13, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sam Sicilia",
+      "result": "win",
+      "date": "Sep. 17, 2016",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Andre Fili",
+      "result": "loss",
+      "date": "Nov. 21, 2015",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Clay Collard",
+      "result": "win",
+      "date": "Jun. 13, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Humberto Brown Morrison",
+      "result": "win",
+      "date": "Nov. 15, 2014",
+      "method": "Submission (Guillotine Choke)"
+    }
+  ]
+}

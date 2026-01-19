@@ -1,0 +1,127 @@
+{
+  "url": "http://ufcstats.com/fighter-details/eb04b9d31e938edb",
+  "stats": {
+    "name": "Michelle Waterson-Gomez",
+    "record": "18-13-0",
+    "wins": 18,
+    "losses": 13,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "115 lbs.",
+    "reach": "62\"",
+    "stance": "Orthodox",
+    "dob": "Jan 06, 1986",
+    "strikes_landed_per_min": 3.42,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.25,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.69,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Gillian Robertson",
+      "result": "loss",
+      "date": "Jun. 29, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marina Rodriguez",
+      "result": "loss",
+      "date": "Sep. 23, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Luana Pinheiro",
+      "result": "loss",
+      "date": "Apr. 08, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amanda Lemos",
+      "result": "loss",
+      "date": "Jul. 16, 2022",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Marina Rodriguez",
+      "result": "loss",
+      "date": "May. 08, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Angela Hill",
+      "result": "win",
+      "date": "Sep. 12, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carla Esparza",
+      "result": "loss",
+      "date": "May. 09, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joanna Jedrzejczyk",
+      "result": "loss",
+      "date": "Oct. 12, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Karolina Kowalkiewicz",
+      "result": "win",
+      "date": "Mar. 30, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Felice Herrig",
+      "result": "win",
+      "date": "Oct. 06, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cortney Casey",
+      "result": "win",
+      "date": "Apr. 14, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tecia Pennington",
+      "result": "loss",
+      "date": "Dec. 02, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rose Namajunas",
+      "result": "loss",
+      "date": "Apr. 15, 2017",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Paige VanZant",
+      "result": "win",
+      "date": "Dec. 17, 2016",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Angela Magana",
+      "result": "win",
+      "date": "Jul. 12, 2015",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jessica Penne",
+      "result": "win",
+      "date": "Apr. 05, 2013",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Tyra Parker",
+      "result": "win",
+      "date": "Oct. 03, 2008",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

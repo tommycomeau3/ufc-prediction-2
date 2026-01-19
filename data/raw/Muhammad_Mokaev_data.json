@@ -1,0 +1,53 @@
+{
+  "url": "http://ufcstats.com/fighter-details/75353550928a7921",
+  "stats": {
+    "name": "Muhammad Mokaev",
+    "record": "13-0-0 (1 NC)",
+    "wins": 13,
+    "losses": 0
+  },
+  "fight_history": [
+    {
+      "opponent": "Manel Kape",
+      "result": "win",
+      "date": "Jul. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Perez",
+      "result": "win",
+      "date": "Mar. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tim Elliott",
+      "result": "win",
+      "date": "Oct. 21, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Jafel Filho",
+      "result": "win",
+      "date": "Mar. 18, 2023",
+      "method": "Submission (Neck Crank)"
+    },
+    {
+      "opponent": "Malcolm Gordon",
+      "result": "win",
+      "date": "Oct. 22, 2022",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Charles Johnson",
+      "result": "win",
+      "date": "Jul. 23, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody Durden",
+      "result": "win",
+      "date": "Mar. 19, 2022",
+      "method": "Submission (Guillotine Choke)"
+    }
+  ]
+}

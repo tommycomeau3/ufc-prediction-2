@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/ec0dcceace7d25a3",
+  "stats": {
+    "name": "Liang Na",
+    "record": "19-8-0",
+    "wins": 19,
+    "losses": 8,
+    "draws": 0,
+    "height": "5' 5\"",
+    "weight": "125 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Jul 27, 1996",
+    "strikes_landed_per_min": 1.99,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.95,
+    "striking_defense": 0.36,
+    "takedown_average": null,
+    "takedown_accuracy": 0.58,
+    "takedown_defense": 0.25,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ivana Petrovic",
+      "result": "loss",
+      "date": "Apr. 27, 2024",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "JJ Aldrich",
+      "result": "loss",
+      "date": "Aug. 26, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Silvana Gomez Juarez",
+      "result": "loss",
+      "date": "Jun. 11, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ariane Carnelossi",
+      "result": "loss",
+      "date": "Apr. 24, 2021",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

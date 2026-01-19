@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/02f8fedc18cbd26c",
+  "stats": {
+    "name": "Emily Ducote",
+    "record": "13-9-0",
+    "wins": 13,
+    "losses": 9,
+    "draws": 0,
+    "height": "5' 2\"",
+    "weight": "115 lbs.",
+    "reach": "63\"",
+    "stance": "Orthodox",
+    "dob": "Jan 01, 1994",
+    "strikes_landed_per_min": 7.45,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.84,
+    "striking_defense": 0.57,
+    "takedown_average": null,
+    "takedown_accuracy": 0.14,
+    "takedown_defense": 0.94,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Vanessa Demopoulos",
+      "result": "loss",
+      "date": "May. 18, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ashley Yoder",
+      "result": "win",
+      "date": "Oct. 14, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Loopy Godinez",
+      "result": "loss",
+      "date": "May. 20, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Angela Hill",
+      "result": "loss",
+      "date": "Dec. 03, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jessica Penne",
+      "result": "win",
+      "date": "Jul. 16, 2022",
+      "method": "N/A"
+    }
+  ]
+}

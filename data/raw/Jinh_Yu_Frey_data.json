@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d05cb1e8d1b885d8",
+  "stats": {
+    "name": "Jinh Yu Frey",
+    "record": "11-10-0",
+    "wins": 11,
+    "losses": 10,
+    "draws": 0,
+    "height": "5' 3\"",
+    "weight": "115 lbs.",
+    "reach": "65\"",
+    "stance": "Southpaw",
+    "dob": "May 20, 1985",
+    "strikes_landed_per_min": 2.97,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.23,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.9,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Viktoriia Dudakova",
+      "result": "loss",
+      "date": "Oct. 21, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Elise Reed",
+      "result": "loss",
+      "date": "Jun. 03, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Polyana Viana",
+      "result": "loss",
+      "date": "Nov. 05, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Vanessa Demopoulos",
+      "result": "loss",
+      "date": "Jun. 25, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ashley Yoder",
+      "result": "win",
+      "date": "Jul. 31, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gloria de Paula",
+      "result": "win",
+      "date": "Mar. 13, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Loma Lookboonmee",
+      "result": "loss",
+      "date": "Oct. 03, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kay Hansen",
+      "result": "loss",
+      "date": "Jun. 27, 2020",
+      "method": "Submission (Armbar)"
+    }
+  ]
+}

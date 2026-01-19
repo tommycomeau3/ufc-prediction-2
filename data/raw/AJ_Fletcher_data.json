@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/725b1abc9a39d873",
+  "stats": {
+    "name": "AJ Fletcher",
+    "record": "10-3-0",
+    "wins": 10,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "170 lbs.",
+    "reach": "67\"",
+    "stance": "Switch",
+    "dob": "Feb 18, 1997",
+    "strikes_landed_per_min": 3.36,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.61,
+    "striking_defense": 0.46,
+    "takedown_average": null,
+    "takedown_accuracy": 0.35,
+    "takedown_defense": 0.33,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Bryan Battle",
+      "result": "loss",
+      "date": "Sep. 23, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Themba Gorimbo",
+      "result": "win",
+      "date": "Feb. 18, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Ange Loosa",
+      "result": "loss",
+      "date": "Aug. 20, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Matthew Semelsberger",
+      "result": "loss",
+      "date": "Mar. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Leonardo Damiani",
+      "result": "win",
+      "date": "Aug. 31, 2021",
+      "method": "KO/TKO (Flying Knee)"
+    }
+  ]
+}

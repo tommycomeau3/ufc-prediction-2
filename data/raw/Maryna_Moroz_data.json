@@ -1,0 +1,97 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b4192a975027aab6",
+  "stats": {
+    "name": "Maryna Moroz",
+    "record": "11-6-0",
+    "wins": 11,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "125 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Sep 08, 1991",
+    "strikes_landed_per_min": 4.42,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.89,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.24,
+    "takedown_defense": 0.42,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Joanne Wood",
+      "result": "loss",
+      "date": "Mar. 09, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Karine Silva",
+      "result": "loss",
+      "date": "Aug. 19, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Jennifer Maia",
+      "result": "loss",
+      "date": "Nov. 19, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mariya Agapova",
+      "result": "win",
+      "date": "Mar. 05, 2022",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Mayra Bueno Silva",
+      "result": "win",
+      "date": "Mar. 14, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sabina Mazo",
+      "result": "win",
+      "date": "Mar. 30, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Angela Hill",
+      "result": "loss",
+      "date": "Feb. 24, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carla Esparza",
+      "result": "loss",
+      "date": "Jun. 25, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Danielle Taylor",
+      "result": "win",
+      "date": "Aug. 06, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cristina Stanciu",
+      "result": "win",
+      "date": "Apr. 10, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Valerie Letourneau",
+      "result": "loss",
+      "date": "Aug. 23, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joanne Wood",
+      "result": "win",
+      "date": "Apr. 11, 2015",
+      "method": "Submission (Armbar)"
+    }
+  ]
+}

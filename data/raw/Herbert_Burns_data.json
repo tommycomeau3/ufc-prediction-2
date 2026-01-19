@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4f140403000158b5",
+  "stats": {
+    "name": "Herbert Burns",
+    "record": "11-6-0",
+    "wins": 11,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "dob": "Feb 02, 1988",
+    "strikes_landed_per_min": 1.86,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.17,
+    "striking_defense": 0.41,
+    "takedown_average": null,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jack Jenkins",
+      "result": "loss",
+      "date": "Aug. 17, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Julio Arce",
+      "result": "loss",
+      "date": "Mar. 30, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Bill Algeo",
+      "result": "loss",
+      "date": "Jul. 16, 2022",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Daniel Pineda",
+      "result": "loss",
+      "date": "Aug. 15, 2020",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Evan Dunham",
+      "result": "win",
+      "date": "Jun. 06, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Nate Landwehr",
+      "result": "win",
+      "date": "Jan. 25, 2020",
+      "method": "KO/TKO (Knee)"
+    },
+    {
+      "opponent": "Darrick Minner",
+      "result": "win",
+      "date": "Aug. 06, 2019",
+      "method": "Submission (Armbar)"
+    }
+  ]
+}

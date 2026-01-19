@@ -1,0 +1,109 @@
+{
+  "url": "http://ufcstats.com/fighter-details/578ef12674df1e6a",
+  "stats": {
+    "name": "Irene Aldana",
+    "record": "15-8-0",
+    "wins": 15,
+    "losses": 8,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "135 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Mar 26, 1988",
+    "strikes_landed_per_min": 5.19,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.64,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.77,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Norma Dumont",
+      "result": "loss",
+      "date": "Sep. 14, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Karol Rosa",
+      "result": "win",
+      "date": "Dec. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amanda Nunes",
+      "result": "loss",
+      "date": "Jun. 10, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Macy Chiasson",
+      "result": "win",
+      "date": "Sep. 10, 2022",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Yana Santos",
+      "result": "win",
+      "date": "Jul. 10, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Holly Holm",
+      "result": "loss",
+      "date": "Oct. 03, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ketlen Vieira",
+      "result": "win",
+      "date": "Dec. 14, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Vanessa Melo",
+      "result": "win",
+      "date": "Sep. 21, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Raquel Pennington",
+      "result": "loss",
+      "date": "Jul. 20, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bethe Correia",
+      "result": "win",
+      "date": "May. 11, 2019",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Lucie Pudilova",
+      "result": "win",
+      "date": "Sep. 08, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Talita Bernardo",
+      "result": "win",
+      "date": "Jan. 14, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Katlyn Cerminara",
+      "result": "loss",
+      "date": "Apr. 08, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Leslie Smith",
+      "result": "loss",
+      "date": "Dec. 17, 2016",
+      "method": "N/A"
+    }
+  ]
+}

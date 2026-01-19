@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f998f5c102250d6e",
+  "stats": {
+    "name": "Yohan Lainesse",
+    "record": "9-3-0",
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "170 lbs.",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "dob": "Aug 14, 1992",
+    "strikes_landed_per_min": 2.22,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.38,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.28,
+    "takedown_defense": 0.72,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Sam Patterson",
+      "result": "loss",
+      "date": "Jan. 20, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Mike Malott",
+      "result": "loss",
+      "date": "Feb. 25, 2023",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Darian Weeks",
+      "result": "win",
+      "date": "Sep. 10, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gabe Green",
+      "result": "loss",
+      "date": "Apr. 30, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Justin Burlinson",
+      "result": "win",
+      "date": "Nov. 02, 2021",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

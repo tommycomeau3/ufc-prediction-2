@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7debc13b36343605",
+  "stats": {
+    "name": "Cristian Quinonez",
+    "record": "18-5-0",
+    "wins": 18,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Apr 26, 1996",
+    "strikes_landed_per_min": 4.19,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.55,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.37,
+    "takedown_defense": 0.84,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Kris Moutinho",
+      "result": "next",
+      "date": "Feb. 28, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Raoni Barcelos",
+      "result": "loss",
+      "date": "Feb. 24, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Kyung Ho Kang",
+      "result": "loss",
+      "date": "Jun. 17, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Khalid Taha",
+      "result": "win",
+      "date": "Sep. 03, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Xiao Long",
+      "result": "win",
+      "date": "Oct. 26, 2021",
+      "method": "N/A"
+    }
+  ]
+}

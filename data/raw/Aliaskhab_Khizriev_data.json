@@ -1,0 +1,29 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7ab478c397cd68ef",
+  "stats": {
+    "name": "Aliaskhab Khizriev",
+    "record": "14-0-0 (1 NC)",
+    "wins": 14,
+    "losses": 0
+  },
+  "fight_history": [
+    {
+      "opponent": "Makhmud Muradov",
+      "result": "nc",
+      "date": "Feb. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Denis Tiuliulin",
+      "result": "win",
+      "date": "Mar. 26, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Henrique Shiguemoto",
+      "result": "win",
+      "date": "Sep. 08, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

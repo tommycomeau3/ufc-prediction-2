@@ -1,0 +1,191 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4b47e71384a9522f",
+  "stats": {
+    "name": "Tim Means",
+    "record": "33-17-1 (1 NC)",
+    "wins": 33,
+    "losses": 17
+  },
+  "fight_history": [
+    {
+      "opponent": "Court McGee",
+      "result": "loss",
+      "date": "Oct. 05, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Uros Medic",
+      "result": "loss",
+      "date": "Apr. 27, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Andre Fialho",
+      "result": "win",
+      "date": "Sep. 23, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alex Morono",
+      "result": "loss",
+      "date": "May. 13, 2023",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Max Griffin",
+      "result": "loss",
+      "date": "Oct. 29, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kevin Holland",
+      "result": "loss",
+      "date": "Jun. 18, 2022",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Nicolas Dalby",
+      "result": "win",
+      "date": "Jun. 26, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mike Perry",
+      "result": "win",
+      "date": "Nov. 21, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Laureano Staropoli",
+      "result": "win",
+      "date": "Aug. 08, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daniel Rodriguez",
+      "result": "loss",
+      "date": "Feb. 15, 2020",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Thiago Alves",
+      "result": "win",
+      "date": "Dec. 07, 2019",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Niko Price",
+      "result": "loss",
+      "date": "Mar. 09, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ricky Rainey",
+      "result": "win",
+      "date": "Nov. 30, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Sergio Moraes",
+      "result": "loss",
+      "date": "Feb. 03, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Belal Muhammad",
+      "result": "loss",
+      "date": "Nov. 18, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Garcia",
+      "result": "win",
+      "date": "Jun. 25, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alex Oliveira",
+      "result": "loss",
+      "date": "Mar. 11, 2017",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Alex Oliveira",
+      "result": "nc",
+      "date": "Dec. 30, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sabah Homasi",
+      "result": "win",
+      "date": "Aug. 20, 2016",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "John Howard",
+      "result": "win",
+      "date": "Dec. 10, 2015",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Matt Brown",
+      "result": "loss",
+      "date": "Jul. 11, 2015",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "George Sullivan",
+      "result": "win",
+      "date": "Apr. 18, 2015",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Dhiego Lima",
+      "result": "win",
+      "date": "Feb. 28, 2015",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Marcio Alexandre Junior",
+      "result": "win",
+      "date": "Dec. 20, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hernani Perpetuo",
+      "result": "win",
+      "date": "Jul. 26, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Neil Magny",
+      "result": "loss",
+      "date": "May. 10, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Danny Castillo",
+      "result": "loss",
+      "date": "Jul. 27, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jorge Masvidal",
+      "result": "loss",
+      "date": "Apr. 20, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Justin Salas",
+      "result": "win",
+      "date": "Jun. 08, 2012",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Bernardo Magalhaes",
+      "result": "win",
+      "date": "Feb. 15, 2012",
+      "method": "N/A"
+    }
+  ]
+}

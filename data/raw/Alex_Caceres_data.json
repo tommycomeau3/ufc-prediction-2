@@ -1,0 +1,191 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7aa3d6964eff4877",
+  "stats": {
+    "name": "Alex Caceres",
+    "record": "21-15-0 (1 NC)",
+    "wins": 21,
+    "losses": 15
+  },
+  "fight_history": [
+    {
+      "opponent": "Sean Woodson",
+      "result": "loss",
+      "date": "May. 11, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Giga Chikadze",
+      "result": "loss",
+      "date": "Aug. 26, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Daniel Pineda",
+      "result": "win",
+      "date": "Jun. 03, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julian Erosa",
+      "result": "win",
+      "date": "Dec. 17, 2022",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Sodiq Yusuff",
+      "result": "loss",
+      "date": "Mar. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "SeungWoo Choi",
+      "result": "win",
+      "date": "Oct. 23, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Kevin Croom",
+      "result": "win",
+      "date": "Feb. 27, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Austin Springer",
+      "result": "win",
+      "date": "Aug. 29, 2020",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Chase Hooper",
+      "result": "win",
+      "date": "Jun. 06, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Steven Peterson",
+      "result": "win",
+      "date": "Jul. 20, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kron Gracie",
+      "result": "loss",
+      "date": "Feb. 17, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Martin Bravo",
+      "result": "win",
+      "date": "Jul. 06, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Wang Guan",
+      "result": "loss",
+      "date": "Nov. 25, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rolando Dy",
+      "result": "win",
+      "date": "Jun. 17, 2017",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Jason Knight",
+      "result": "loss",
+      "date": "Jan. 28, 2017",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Yair Rodriguez",
+      "result": "loss",
+      "date": "Aug. 06, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cole Miller",
+      "result": "win",
+      "date": "Jun. 04, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Masio Fullen",
+      "result": "win",
+      "date": "Jan. 30, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Francisco Rivera",
+      "result": "loss",
+      "date": "Jun. 06, 2015",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Masanori Kanehara",
+      "result": "loss",
+      "date": "Sep. 20, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Urijah Faber",
+      "result": "loss",
+      "date": "Jul. 05, 2014",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Sergio Pettis",
+      "result": "win",
+      "date": "Jan. 25, 2014",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Roland Delorme",
+      "result": "win",
+      "date": "Sep. 21, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kyung Ho Kang",
+      "result": "nc",
+      "date": "Mar. 02, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Motonobu Tezuka",
+      "result": "win",
+      "date": "Nov. 10, 2012",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Damacio Page",
+      "result": "win",
+      "date": "Jul. 11, 2012",
+      "method": "Submission (Triangle Choke)"
+    },
+    {
+      "opponent": "Edwin Figueroa",
+      "result": "loss",
+      "date": "Feb. 04, 2012",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cole Escovedo",
+      "result": "win",
+      "date": "Nov. 12, 2011",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jimy Hettes",
+      "result": "loss",
+      "date": "Aug. 14, 2011",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Mackens Semerzier",
+      "result": "loss",
+      "date": "Mar. 26, 2011",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

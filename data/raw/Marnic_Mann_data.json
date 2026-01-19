@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b6203e0492a9336c",
+  "stats": {
+    "name": "Marnic Mann",
+    "record": "6-3-0",
+    "wins": 6,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 0\"",
+    "weight": "115 lbs.",
+    "reach": "64\"",
+    "stance": "Southpaw",
+    "dob": "Mar 05, 1993",
+    "strikes_landed_per_min": 1.47,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.08,
+    "striking_defense": 0.31,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.25,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ketlen Souza",
+      "result": "loss",
+      "date": "Apr. 27, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josefine Knutsson",
+      "result": "loss",
+      "date": "Sep. 16, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bruna Brasil",
+      "result": "loss",
+      "date": "Sep. 13, 2022",
+      "method": "KO/TKO (Kick)"
+    }
+  ]
+}

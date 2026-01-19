@@ -1,0 +1,41 @@
+{
+  "url": "http://ufcstats.com/fighter-details/009c4420727149ea",
+  "stats": {
+    "name": "AJ Dobson",
+    "record": "7-3-0 (1 NC)",
+    "wins": 7,
+    "losses": 3
+  },
+  "fight_history": [
+    {
+      "opponent": "Edmen Shahbazyan",
+      "result": "loss",
+      "date": "Mar. 23, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Tafon Nchukwi",
+      "result": "win",
+      "date": "Aug. 12, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Armen Petrosyan",
+      "result": "loss",
+      "date": "Oct. 22, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jacob Malkoun",
+      "result": "loss",
+      "date": "Feb. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Hashem Arkhagha",
+      "result": "win",
+      "date": "Sep. 21, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "url": "http://ufcstats.com/fighter-details/ea7e5bc78d9de658",
+  "stats": {
+    "name": "Makhmud Muradov",
+    "record": "26-8-0 (1 NC)",
+    "wins": 26,
+    "losses": 8
+  },
+  "fight_history": [
+    {
+      "opponent": "Aliaskhab Khizriev",
+      "result": "nc",
+      "date": "Feb. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bryan Barberena",
+      "result": "win",
+      "date": "Jul. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Caio Borralho",
+      "result": "loss",
+      "date": "Oct. 22, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gerald Meerschaert",
+      "result": "loss",
+      "date": "Aug. 28, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Andrew Sanchez",
+      "result": "win",
+      "date": "Jan. 23, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Trevor Smith",
+      "result": "win",
+      "date": "Dec. 07, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Alessio Di Chirico",
+      "result": "win",
+      "date": "Sep. 28, 2019",
+      "method": "N/A"
+    }
+  ]
+}

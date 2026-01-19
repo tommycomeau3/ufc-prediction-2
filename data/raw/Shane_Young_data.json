@@ -1,0 +1,67 @@
+{
+  "url": "http://ufcstats.com/fighter-details/4cd8b03aee1d0138",
+  "stats": {
+    "name": "Shane Young",
+    "record": "13-8-0",
+    "wins": 13,
+    "losses": 8,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Jul 31, 1993",
+    "strikes_landed_per_min": 5.19,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.46,
+    "striking_defense": 0.52,
+    "takedown_average": null,
+    "takedown_accuracy": 0.18,
+    "takedown_defense": 0.64,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Gabriel Miranda",
+      "result": "loss",
+      "date": "Sep. 09, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Blake Bilder",
+      "result": "loss",
+      "date": "Feb. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Omar Morales",
+      "result": "loss",
+      "date": "Mar. 27, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ludovit Klein",
+      "result": "loss",
+      "date": "Sep. 26, 2020",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Austin Arnett",
+      "result": "win",
+      "date": "Feb. 09, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rolando Dy",
+      "result": "win",
+      "date": "Jun. 23, 2018",
+      "method": "KO/TKO (Elbow)"
+    },
+    {
+      "opponent": "Alexander Volkanovski",
+      "result": "loss",
+      "date": "Nov. 18, 2017",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "url": "http://ufcstats.com/fighter-details/641ca2c2ed91b93c",
+  "stats": {
+    "name": "Zygimantas Ramaska",
+    "record": "9-3-0",
+    "wins": 9,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "145 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Dec 27, 1996",
+    "strikes_landed_per_min": 0.96,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.25,
+    "striking_defense": 0.3,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.33,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Nathan Fletcher",
+      "result": "loss",
+      "date": "Sep. 07, 2024",
+      "method": "Submission (Arm Triangle)"
+    }
+  ]
+}

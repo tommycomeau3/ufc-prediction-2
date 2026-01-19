@@ -1,0 +1,61 @@
+{
+  "url": "http://ufcstats.com/fighter-details/26e3f3928b1891d9",
+  "stats": {
+    "name": "Hannah Goldy",
+    "record": "6-4-0",
+    "wins": 6,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 4\"",
+    "weight": "115 lbs.",
+    "reach": "61\"",
+    "stance": "Orthodox",
+    "dob": "May 18, 1992",
+    "strikes_landed_per_min": 5.19,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.67,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.12,
+    "takedown_defense": 0.54,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Mizuki",
+      "result": "loss",
+      "date": "Sep. 23, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Molly McCann",
+      "result": "loss",
+      "date": "Jul. 23, 2022",
+      "method": "KO/TKO (Spinning Back Elbow)"
+    },
+    {
+      "opponent": "Emily Whitmire",
+      "result": "win",
+      "date": "Sep. 18, 2021",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Diana Belbita",
+      "result": "loss",
+      "date": "Jul. 24, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Miranda Granger",
+      "result": "loss",
+      "date": "Aug. 03, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kali Robbins",
+      "result": "win",
+      "date": "Jun. 18, 2019",
+      "method": "N/A"
+    }
+  ]
+}

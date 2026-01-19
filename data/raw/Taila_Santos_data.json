@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f7467152fd9f18a2",
+  "stats": {
+    "name": "Taila Santos",
+    "record": "19-3-0",
+    "wins": 19,
+    "losses": 3,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "125 lbs.",
+    "reach": "68\"",
+    "stance": "Orthodox",
+    "dob": "Jun 22, 1993",
+    "strikes_landed_per_min": 3.39,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.64,
+    "striking_defense": 0.58,
+    "takedown_average": null,
+    "takedown_accuracy": 0.76,
+    "takedown_defense": 0.86,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Erin Blanchfield",
+      "result": "loss",
+      "date": "Aug. 26, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Valentina Shevchenko",
+      "result": "loss",
+      "date": "Jun. 11, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joanne Wood",
+      "result": "win",
+      "date": "Nov. 20, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Roxanne Modafferi",
+      "result": "win",
+      "date": "Sep. 25, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Gillian Robertson",
+      "result": "win",
+      "date": "Dec. 19, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Molly McCann",
+      "result": "win",
+      "date": "Jul. 15, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mara Romero Borella",
+      "result": "loss",
+      "date": "Feb. 02, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Estefani Almeida",
+      "result": "win",
+      "date": "Aug. 11, 2018",
+      "method": "N/A"
+    }
+  ]
+}

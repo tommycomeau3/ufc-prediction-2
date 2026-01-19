@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/49e96ff8ab781589",
+  "stats": {
+    "name": "Tyson Pedro",
+    "record": "10-5-0",
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "205 lbs.",
+    "reach": "79\"",
+    "stance": "Orthodox",
+    "dob": "Sep 17, 1991",
+    "strikes_landed_per_min": 2.9,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.39,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Vitor Petrino",
+      "result": "loss",
+      "date": "Mar. 02, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Anton Turkalj",
+      "result": "win",
+      "date": "Sep. 09, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Modestas Bukauskas",
+      "result": "loss",
+      "date": "Feb. 11, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Harry Hunsucker",
+      "result": "win",
+      "date": "Aug. 20, 2022",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Ike Villanueva",
+      "result": "win",
+      "date": "Apr. 23, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Mauricio Rua",
+      "result": "loss",
+      "date": "Dec. 01, 2018",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ovince Saint Preux",
+      "result": "loss",
+      "date": "Jun. 23, 2018",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Saparbeg Safarov",
+      "result": "win",
+      "date": "Feb. 10, 2018",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Ilir Latifi",
+      "result": "loss",
+      "date": "Sep. 09, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Paul Craig",
+      "result": "win",
+      "date": "Mar. 04, 2017",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Khalil Rountree Jr.",
+      "result": "win",
+      "date": "Nov. 26, 2016",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

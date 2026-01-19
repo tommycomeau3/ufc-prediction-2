@@ -1,0 +1,299 @@
+{
+  "url": "http://ufcstats.com/fighter-details/3738e68d2261e60f",
+  "stats": {
+    "name": "Andrei Arlovski",
+    "record": "34-24-0 (2 NC)",
+    "wins": 34,
+    "losses": 24
+  },
+  "fight_history": [
+    {
+      "opponent": "Martin Buday",
+      "result": "loss",
+      "date": "Jun. 29, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Waldo Cortes Acosta",
+      "result": "loss",
+      "date": "Jan. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Don'Tale Mayes",
+      "result": "loss",
+      "date": "Jun. 03, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Marcos Rogerio de Lima",
+      "result": "loss",
+      "date": "Oct. 29, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jake Collier",
+      "result": "win",
+      "date": "Apr. 30, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jared Vanderaa",
+      "result": "win",
+      "date": "Feb. 12, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Carlos Felipe",
+      "result": "win",
+      "date": "Oct. 16, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chase Sherman",
+      "result": "win",
+      "date": "Apr. 17, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tom Aspinall",
+      "result": "loss",
+      "date": "Feb. 20, 2021",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Tanner Boser",
+      "result": "win",
+      "date": "Nov. 07, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Philipe Lins",
+      "result": "win",
+      "date": "May. 13, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jairzinho Rozenstruik",
+      "result": "loss",
+      "date": "Nov. 02, 2019",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ben Rothwell",
+      "result": "win",
+      "date": "Jul. 20, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Augusto Sakai",
+      "result": "loss",
+      "date": "Apr. 27, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Walt Harris",
+      "result": "nc",
+      "date": "Dec. 29, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shamil Abdurakhimov",
+      "result": "loss",
+      "date": "Sep. 15, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tai Tuivasa",
+      "result": "loss",
+      "date": "Jun. 09, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Stefan Struve",
+      "result": "win",
+      "date": "Mar. 03, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Junior Albini",
+      "result": "win",
+      "date": "Nov. 11, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marcin Tybura",
+      "result": "loss",
+      "date": "Jun. 17, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Francis Ngannou",
+      "result": "loss",
+      "date": "Jan. 28, 2017",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Josh Barnett",
+      "result": "loss",
+      "date": "Sep. 03, 2016",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Alistair Overeem",
+      "result": "loss",
+      "date": "May. 08, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Stipe Miocic",
+      "result": "loss",
+      "date": "Jan. 02, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Frank Mir",
+      "result": "win",
+      "date": "Sep. 05, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Travis Browne",
+      "result": "win",
+      "date": "May. 23, 2015",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Antonio Silva",
+      "result": "win",
+      "date": "Sep. 13, 2014",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Brendan Schaub",
+      "result": "win",
+      "date": "Jun. 14, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sergei Kharitonov",
+      "result": "loss",
+      "date": "Feb. 12, 2011",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Antonio Silva",
+      "result": "loss",
+      "date": "May. 15, 2010",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brett Rogers",
+      "result": "loss",
+      "date": "Jun. 06, 2009",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Fedor Emelianenko",
+      "result": "loss",
+      "date": "Jan. 24, 2009",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Roy Nelson",
+      "result": "win",
+      "date": "Oct. 04, 2008",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ben Rothwell",
+      "result": "win",
+      "date": "Jul. 19, 2008",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jake O'Brien",
+      "result": "win",
+      "date": "Mar. 01, 2008",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Fabricio Werdum",
+      "result": "win",
+      "date": "Apr. 21, 2007",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Marcio Cruz",
+      "result": "win",
+      "date": "Dec. 30, 2006",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Tim Sylvia",
+      "result": "loss",
+      "date": "Jul. 08, 2006",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tim Sylvia",
+      "result": "loss",
+      "date": "Apr. 15, 2006",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Paul Buentello",
+      "result": "win",
+      "date": "Oct. 07, 2005",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Justin Eilers",
+      "result": "win",
+      "date": "Jun. 04, 2005",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Tim Sylvia",
+      "result": "win",
+      "date": "Feb. 05, 2005",
+      "method": "Submission (Ankle Lock)"
+    },
+    {
+      "opponent": "Wesley Correira",
+      "result": "win",
+      "date": "Apr. 02, 2004",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Vladimir Matyushenko",
+      "result": "win",
+      "date": "Sep. 26, 2003",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Ian Freeman",
+      "result": "win",
+      "date": "Nov. 22, 2002",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Pedro Rizzo",
+      "result": "loss",
+      "date": "Mar. 22, 2002",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ricco Rodriguez",
+      "result": "loss",
+      "date": "Jun. 29, 2001",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Aaron Brink",
+      "result": "win",
+      "date": "Nov. 17, 2000",
+      "method": "Submission (Armbar)"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d80ee110748171ac",
+  "stats": {
+    "name": "Mike Breeden",
+    "record": "11-6-0",
+    "wins": 11,
+    "losses": 6,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "dob": "Apr 21, 1989",
+    "strikes_landed_per_min": 5.75,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 7.28,
+    "striking_defense": 0.42,
+    "takedown_average": null,
+    "takedown_accuracy": 0.3,
+    "takedown_defense": 0.67,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Anshul Jubli",
+      "result": "win",
+      "date": "Oct. 21, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Terrance McKinney",
+      "result": "loss",
+      "date": "Aug. 12, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Natan Levy",
+      "result": "loss",
+      "date": "Apr. 30, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexander Hernandez",
+      "result": "loss",
+      "date": "Oct. 02, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Anthony Romero",
+      "result": "loss",
+      "date": "Aug. 25, 2020",
+      "method": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "url": "http://ufcstats.com/fighter-details/de45aaae23dfa392",
+  "stats": {
+    "name": "Christos Giagos",
+    "record": "20-12-0",
+    "wins": 20,
+    "losses": 12,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Jan 23, 1990",
+    "strikes_landed_per_min": 3.03,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.21,
+    "striking_defense": 0.5,
+    "takedown_average": null,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.52,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ignacio Bahamondes",
+      "result": "loss",
+      "date": "Apr. 06, 2024",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Daniel Zellhuber",
+      "result": "loss",
+      "date": "Sep. 16, 2023",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Ricky Glenn",
+      "result": "win",
+      "date": "Apr. 22, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Thiago Moises",
+      "result": "loss",
+      "date": "Jun. 25, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Arman Tsarukyan",
+      "result": "loss",
+      "date": "Sep. 18, 2021",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Sean Soriano",
+      "result": "win",
+      "date": "May. 15, 2021",
+      "method": "Submission (D'Arce Choke)"
+    },
+    {
+      "opponent": "Carlton Minus",
+      "result": "win",
+      "date": "Dec. 19, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Drakkar Klose",
+      "result": "loss",
+      "date": "Aug. 17, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Damir Hadzovic",
+      "result": "win",
+      "date": "Jun. 01, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mizuto Hirota",
+      "result": "win",
+      "date": "Dec. 01, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Oliveira",
+      "result": "loss",
+      "date": "UFC Fight Night: Marreta vs. Anders",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Chris Wade",
+      "result": "loss",
+      "date": "Jun. 06, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jorge de Oliveira",
+      "result": "win",
+      "date": "Mar. 21, 2015",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Gilbert Burns",
+      "result": "loss",
+      "date": "Oct. 25, 2014",
+      "method": "Submission (Armbar)"
+    }
+  ]
+}

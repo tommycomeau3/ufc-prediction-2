@@ -1,0 +1,73 @@
+{
+  "url": "http://ufcstats.com/fighter-details/8b1ed83b02303075",
+  "stats": {
+    "name": "Taylor Lapilus",
+    "record": "21-4-0",
+    "wins": 21,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 6\"",
+    "weight": "135 lbs.",
+    "reach": "73\"",
+    "stance": "Southpaw",
+    "dob": "Apr 08, 1992",
+    "strikes_landed_per_min": 4.59,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.61,
+    "striking_defense": 0.62,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.77,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Vince Morales",
+      "result": "win",
+      "date": "Sep. 28, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Cody Stamann",
+      "result": "win",
+      "date": "Jun. 08, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Farid Basharat",
+      "result": "loss",
+      "date": "Jan. 13, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Caolan Loughran",
+      "result": "win",
+      "date": "Sep. 02, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Leandro Issa",
+      "result": "win",
+      "date": "Sep. 03, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Erik Perez",
+      "result": "loss",
+      "date": "Nov. 21, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yuta Sasaki",
+      "result": "win",
+      "date": "Jun. 20, 2015",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Rocky Lee",
+      "result": "win",
+      "date": "Apr. 11, 2015",
+      "method": "N/A"
+    }
+  ]
+}

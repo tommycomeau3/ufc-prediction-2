@@ -1,0 +1,179 @@
+{
+  "url": "http://ufcstats.com/fighter-details/94527830000ab715",
+  "stats": {
+    "name": "Rani Yahya",
+    "record": "28-12-1 (1 NC)",
+    "wins": 28,
+    "losses": 12
+  },
+  "fight_history": [
+    {
+      "opponent": "Victor Henry",
+      "result": "loss",
+      "date": "Apr. 27, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Montel Jackson",
+      "result": "loss",
+      "date": "Apr. 22, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Kyung Ho Kang",
+      "result": "win",
+      "date": "Nov. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ray Rodriguez",
+      "result": "win",
+      "date": "Mar. 13, 2021",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Enrique Barzola",
+      "result": "draw",
+      "date": "Mar. 14, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ricky Simon",
+      "result": "loss",
+      "date": "Feb. 09, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Luke Sanders",
+      "result": "win",
+      "date": "Aug. 25, 2018",
+      "method": "Submission (Heel Hook)"
+    },
+    {
+      "opponent": "Russell Doane",
+      "result": "win",
+      "date": "Feb. 24, 2018",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Henry Briones",
+      "result": "win",
+      "date": "Aug. 05, 2017",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Joe Soto",
+      "result": "loss",
+      "date": "Mar. 11, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michinori Tanaka",
+      "result": "win",
+      "date": "Sep. 24, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Matthew Lopez",
+      "result": "win",
+      "date": "Jul. 13, 2016",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Masanori Kanehara",
+      "result": "win",
+      "date": "Jul. 15, 2015",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Johnny Bedford",
+      "result": "win",
+      "date": "Sep. 13, 2014",
+      "method": "Submission (Kimura)"
+    },
+    {
+      "opponent": "Johnny Bedford",
+      "result": "nc",
+      "date": "Apr. 11, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tom Niinimaki",
+      "result": "loss",
+      "date": "Nov. 30, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Clopton",
+      "result": "win",
+      "date": "UFC 163: Aldo vs Jung",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mizuto Hirota",
+      "result": "win",
+      "date": "Mar. 02, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Josh Grispi",
+      "result": "win",
+      "date": "Aug. 04, 2012",
+      "method": "Submission (North-South Choke)"
+    },
+    {
+      "opponent": "Chad Mendes",
+      "result": "loss",
+      "date": "Aug. 06, 2011",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mike Brown",
+      "result": "win",
+      "date": "Jan. 22, 2011",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Takeya Mizugaki",
+      "result": "loss",
+      "date": "Apr. 24, 2010",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joseph Benavidez",
+      "result": "loss",
+      "date": "Dec. 19, 2009",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "John Hosman",
+      "result": "win",
+      "date": "Aug. 09, 2009",
+      "method": "Submission (North-South Choke)"
+    },
+    {
+      "opponent": "Eddie Wineland",
+      "result": "win",
+      "date": "Apr. 05, 2009",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Yoshiro Maeda",
+      "result": "win",
+      "date": "Nov. 05, 2008",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Chase Beebe",
+      "result": "loss",
+      "date": "Sep. 05, 2007",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mark Hominick",
+      "result": "win",
+      "date": "Jun. 03, 2007",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/b4c6c904a9ffc5e8",
+  "stats": {
+    "name": "Ashley Yoder",
+    "record": "8-9-0",
+    "wins": 8,
+    "losses": 9,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "115 lbs.",
+    "reach": "69\"",
+    "stance": "Southpaw",
+    "dob": "Oct 20, 1987",
+    "strikes_landed_per_min": 3.42,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.13,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.27,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Emily Ducote",
+      "result": "loss",
+      "date": "Oct. 14, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jinh Yu Frey",
+      "result": "loss",
+      "date": "Jul. 31, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Angela Hill",
+      "result": "loss",
+      "date": "Mar. 13, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Miranda Granger",
+      "result": "win",
+      "date": "Nov. 14, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Livinha Souza",
+      "result": "loss",
+      "date": "Aug. 15, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Randa Markos",
+      "result": "loss",
+      "date": "Oct. 26, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Syuri Kondo",
+      "result": "win",
+      "date": "Jun. 22, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Amanda Cooper",
+      "result": "win",
+      "date": "Nov. 10, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Mackenzie Dern",
+      "result": "loss",
+      "date": "Mar. 03, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Angela Hill",
+      "result": "loss",
+      "date": "Jul. 07, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Justine Kish",
+      "result": "loss",
+      "date": "Dec. 09, 2016",
+      "method": "N/A"
+    }
+  ]
+}

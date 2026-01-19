@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/f3ca6908f78efebe",
+  "stats": {
+    "name": "Terrence Mitchell",
+    "record": "14-4-0",
+    "wins": 14,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 10\"",
+    "weight": "135 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Dec 30, 1989",
+    "strikes_landed_per_min": 2.21,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 8.85,
+    "striking_defense": 0.41,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Raul Rosas Jr.",
+      "result": "loss",
+      "date": "Sep. 16, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Cameron Saaiman",
+      "result": "loss",
+      "date": "Jul. 08, 2023",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

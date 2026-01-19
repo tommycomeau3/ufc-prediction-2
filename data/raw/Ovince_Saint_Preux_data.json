@@ -1,0 +1,235 @@
+{
+  "url": "http://ufcstats.com/fighter-details/50db8711c70196cd",
+  "stats": {
+    "name": "Ovince Saint Preux",
+    "record": "27-18-0",
+    "wins": 27,
+    "losses": 18,
+    "draws": 0,
+    "height": "6' 3\"",
+    "weight": "205 lbs.",
+    "reach": "80\"",
+    "stance": "Southpaw",
+    "dob": "Apr 08, 1983",
+    "strikes_landed_per_min": 3.03,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.33,
+    "striking_defense": 0.47,
+    "takedown_average": null,
+    "takedown_accuracy": 0.36,
+    "takedown_defense": 0.67,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ryan Spann",
+      "result": "loss",
+      "date": "Oct. 05, 2024",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Kennedy Nzechukwu",
+      "result": "win",
+      "date": "Mar. 16, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Philipe Lins",
+      "result": "loss",
+      "date": "Feb. 18, 2023",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mauricio Rua",
+      "result": "win",
+      "date": "May. 07, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tanner Boser",
+      "result": "loss",
+      "date": "Jun. 26, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jamahal Hill",
+      "result": "loss",
+      "date": "Dec. 05, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Alonzo Menifield",
+      "result": "win",
+      "date": "Sep. 05, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ben Rothwell",
+      "result": "loss",
+      "date": "May. 13, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Michal Oleksiejczuk",
+      "result": "win",
+      "date": "Sep. 28, 2019",
+      "method": "Submission (Von Flue Choke)"
+    },
+    {
+      "opponent": "Nikita Krylov",
+      "result": "loss",
+      "date": "Apr. 13, 2019",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Dominick Reyes",
+      "result": "loss",
+      "date": "Oct. 06, 2018",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Tyson Pedro",
+      "result": "win",
+      "date": "Jun. 23, 2018",
+      "method": "Submission (Armbar)"
+    },
+    {
+      "opponent": "Ilir Latifi",
+      "result": "loss",
+      "date": "Feb. 24, 2018",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Corey Anderson",
+      "result": "win",
+      "date": "Nov. 04, 2017",
+      "method": "KO/TKO (Kick)"
+    },
+    {
+      "opponent": "Yushin Okami",
+      "result": "win",
+      "date": "Sep. 22, 2017",
+      "method": "Submission (Von Flue Choke)"
+    },
+    {
+      "opponent": "Marcos Rogerio de Lima",
+      "result": "win",
+      "date": "Apr. 22, 2017",
+      "method": "Submission (Von Flue Choke)"
+    },
+    {
+      "opponent": "Volkan Oezdemir",
+      "result": "loss",
+      "date": "Feb. 04, 2017",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jimi Manuwa",
+      "result": "loss",
+      "date": "Oct. 08, 2016",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Jon Jones",
+      "result": "loss",
+      "date": "Apr. 23, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Rafael Cavalcante",
+      "result": "win",
+      "date": "Feb. 06, 2016",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Glover Teixeira",
+      "result": "loss",
+      "date": "Aug. 08, 2015",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Patrick Cummins",
+      "result": "win",
+      "date": "Apr. 18, 2015",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Mauricio Rua",
+      "result": "win",
+      "date": "Nov. 08, 2014",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ryan Bader",
+      "result": "loss",
+      "date": "Aug. 16, 2014",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ryan Jimmo",
+      "result": "win",
+      "date": "Jun. 14, 2014",
+      "method": "KO/TKO"
+    },
+    {
+      "opponent": "Nikita Krylov",
+      "result": "win",
+      "date": "Mar. 15, 2014",
+      "method": "Submission (Von Flue Choke)"
+    },
+    {
+      "opponent": "Cody Donovan",
+      "result": "win",
+      "date": "Aug. 17, 2013",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Gian Villante",
+      "result": "win",
+      "date": "Apr. 27, 2013",
+      "method": "N/A"
+    },
+    {
+      "opponent": "TJ Cook",
+      "result": "win",
+      "date": "Aug. 18, 2012",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Gegard Mousasi",
+      "result": "loss",
+      "date": "Dec. 17, 2011",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joe Cason",
+      "result": "win",
+      "date": "Jul. 22, 2011",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Abongo Humphrey",
+      "result": "win",
+      "date": "Jan. 07, 2011",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Benji Radach",
+      "result": "win",
+      "date": "Dec. 04, 2010",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Antwain Britt",
+      "result": "win",
+      "date": "Nov. 19, 2010",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Chris Hawk",
+      "result": "win",
+      "date": "Apr. 17, 2010",
+      "method": "KO/TKO"
+    }
+  ]
+}

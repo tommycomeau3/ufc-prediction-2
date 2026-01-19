@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/7af33fc4435017f1",
+  "stats": {
+    "name": "Brady Hiestand",
+    "record": "9-2-0",
+    "wins": 9,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 8\"",
+    "weight": "135 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Apr 30, 1999",
+    "strikes_landed_per_min": 2.7,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.75,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.46,
+    "takedown_defense": 0.42,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Garrett Armfield",
+      "result": "win",
+      "date": "Jun. 15, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Batgerel Danaa",
+      "result": "win",
+      "date": "Apr. 22, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Fernie Garcia",
+      "result": "win",
+      "date": "Nov. 19, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ricky Turcios",
+      "result": "loss",
+      "date": "Aug. 28, 2021",
+      "method": "N/A"
+    }
+  ]
+}

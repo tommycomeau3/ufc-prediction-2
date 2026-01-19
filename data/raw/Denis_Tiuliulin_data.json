@@ -1,0 +1,47 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0112352cb32f5026",
+  "stats": {
+    "name": "Denis Tiuliulin",
+    "record": "10-10-0 (1 NC)",
+    "wins": 10,
+    "losses": 10
+  },
+  "fight_history": [
+    {
+      "opponent": "Sedriques Dumas",
+      "result": "loss",
+      "date": "Aug. 03, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Christian Leroy Duncan",
+      "result": "loss",
+      "date": "Nov. 18, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Gregory Rodrigues",
+      "result": "loss",
+      "date": "Aug. 19, 2023",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "JunYong Park",
+      "result": "loss",
+      "date": "Feb. 04, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Jamie Pickett",
+      "result": "win",
+      "date": "Sep. 10, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Aliaskhab Khizriev",
+      "result": "loss",
+      "date": "Mar. 26, 2022",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

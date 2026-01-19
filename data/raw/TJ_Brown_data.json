@@ -1,0 +1,79 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d31cbcdd7d69536d",
+  "stats": {
+    "name": "TJ Brown",
+    "record": "17-11-0",
+    "wins": 17,
+    "losses": 11,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Switch",
+    "dob": "May 22, 1990",
+    "strikes_landed_per_min": 3.37,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.89,
+    "striking_defense": 0.49,
+    "takedown_average": null,
+    "takedown_accuracy": 0.57,
+    "takedown_defense": 0.36,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Darren Elkins",
+      "result": "loss",
+      "date": "Oct. 14, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Bill Algeo",
+      "result": "loss",
+      "date": "Apr. 15, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Erik Silva",
+      "result": "win",
+      "date": "Dec. 10, 2022",
+      "method": "Submission (Arm Triangle)"
+    },
+    {
+      "opponent": "Shayilan Nuerdanbieke",
+      "result": "loss",
+      "date": "Jun. 25, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Charles Rosa",
+      "result": "win",
+      "date": "Jan. 15, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kai Kamaka",
+      "result": "win",
+      "date": "May. 01, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Danny Chavez",
+      "result": "loss",
+      "date": "Aug. 15, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jordan Griffin",
+      "result": "loss",
+      "date": "Feb. 29, 2020",
+      "method": "Submission (Guillotine Choke)"
+    },
+    {
+      "opponent": "Dylan Lockard",
+      "result": "win",
+      "date": "Aug. 27, 2019",
+      "method": "Submission (Arm Triangle)"
+    }
+  ]
+}

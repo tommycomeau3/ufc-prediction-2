@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/9e92e1ca498d7244",
+  "stats": {
+    "name": "Fernie Garcia",
+    "record": "10-5-0",
+    "wins": 10,
+    "losses": 5,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "67\"",
+    "stance": "Orthodox",
+    "dob": "Apr 12, 1992",
+    "strikes_landed_per_min": 2.04,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.79,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.5,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Hyder Amil",
+      "result": "loss",
+      "date": "Feb. 10, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Rinya Nakamura",
+      "result": "loss",
+      "date": "Aug. 26, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Brady Hiestand",
+      "result": "loss",
+      "date": "Nov. 19, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Journey Newson",
+      "result": "loss",
+      "date": "May. 07, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Joshua Weems",
+      "result": "win",
+      "date": "Oct. 05, 2021",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

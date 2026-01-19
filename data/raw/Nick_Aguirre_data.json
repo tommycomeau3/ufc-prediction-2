@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/0978385b2bd9ef9b",
+  "stats": {
+    "name": "Nick Aguirre",
+    "record": "7-2-0",
+    "wins": 7,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "135 lbs.",
+    "reach": "74\"",
+    "stance": "Southpaw",
+    "dob": "Jan 15, 1996",
+    "strikes_landed_per_min": 0.73,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.89,
+    "striking_defense": 0.45,
+    "takedown_average": null,
+    "takedown_accuracy": 0.2,
+    "takedown_defense": 0.33,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Payton Talbott",
+      "result": "loss",
+      "date": "Nov. 18, 2023",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Dan Argueta",
+      "result": "loss",
+      "date": "Jan. 14, 2023",
+      "method": "N/A"
+    }
+  ]
+}

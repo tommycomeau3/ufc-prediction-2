@@ -1,0 +1,49 @@
+{
+  "url": "http://ufcstats.com/fighter-details/65cdf4ec31143d86",
+  "stats": {
+    "name": "Vinicius Salvador",
+    "record": "14-7-0",
+    "wins": 14,
+    "losses": 7,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "70\"",
+    "stance": "Southpaw",
+    "dob": "Jul 24, 1996",
+    "strikes_landed_per_min": 5.48,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 6.5,
+    "striking_defense": 0.48,
+    "takedown_average": null,
+    "takedown_accuracy": 0.11,
+    "takedown_defense": 0.86,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Adrian Yanez",
+      "result": "loss",
+      "date": "May. 18, 2024",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "CJ Vergara",
+      "result": "loss",
+      "date": "Jul. 29, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Victor Altamirano",
+      "result": "loss",
+      "date": "Mar. 25, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Shannon Ross",
+      "result": "win",
+      "date": "Aug. 02, 2022",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

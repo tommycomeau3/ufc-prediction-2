@@ -1,0 +1,85 @@
+{
+  "url": "http://ufcstats.com/fighter-details/547afe1017e72dbe",
+  "stats": {
+    "name": "Phil Hawes",
+    "record": "12-6-0",
+    "wins": 12,
+    "losses": 6,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "185 lbs.",
+    "reach": "77\"",
+    "stance": "Orthodox",
+    "dob": "Jan 08, 1989",
+    "strikes_landed_per_min": 5.33,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.72,
+    "striking_defense": 0.55,
+    "takedown_average": null,
+    "takedown_accuracy": 0.34,
+    "takedown_defense": 0.9,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Brunno Ferreira",
+      "result": "loss",
+      "date": "Jan. 13, 2024",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Ikram Aliskerov",
+      "result": "loss",
+      "date": "May. 06, 2023",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Roman Dolidze",
+      "result": "loss",
+      "date": "Oct. 29, 2022",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Deron Winn",
+      "result": "win",
+      "date": "Jun. 18, 2022",
+      "method": "KO/TKO (Elbows)"
+    },
+    {
+      "opponent": "Chris Curtis",
+      "result": "loss",
+      "date": "Nov. 06, 2021",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Kyle Daukaus",
+      "result": "win",
+      "date": "May. 08, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nassourdine Imavov",
+      "result": "win",
+      "date": "Feb. 20, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jacob Malkoun",
+      "result": "win",
+      "date": "Oct. 24, 2020",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Khadzhi Bestaev",
+      "result": "win",
+      "date": "Sep. 08, 2020",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Julian Marquez",
+      "result": "loss",
+      "date": "Aug. 01, 2017",
+      "method": "KO/TKO (Kick)"
+    }
+  ]
+}

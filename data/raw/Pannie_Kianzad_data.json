@@ -1,0 +1,91 @@
+{
+  "url": "http://ufcstats.com/fighter-details/91dac5e69e28d5b5",
+  "stats": {
+    "name": "Pannie Kianzad",
+    "record": "17-9-0",
+    "wins": 17,
+    "losses": 9,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "66\"",
+    "stance": "Orthodox",
+    "dob": "Dec 08, 1991",
+    "strikes_landed_per_min": 4.88,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.09,
+    "striking_defense": 0.51,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.65,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Karol Rosa",
+      "result": "loss",
+      "date": "Aug. 10, 2024",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Macy Chiasson",
+      "result": "loss",
+      "date": "Mar. 16, 2024",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Ketlen Vieira",
+      "result": "loss",
+      "date": "Jul. 22, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Lina Lansberg",
+      "result": "win",
+      "date": "Apr. 16, 2022",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Raquel Pennington",
+      "result": "loss",
+      "date": "Sep. 18, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Alexis Davis",
+      "result": "win",
+      "date": "Jun. 12, 2021",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sijara Eubanks",
+      "result": "win",
+      "date": "Dec. 19, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Bethe Correia",
+      "result": "win",
+      "date": "Jul. 25, 2020",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jessica-Rose Clark",
+      "result": "win",
+      "date": "Nov. 09, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Julia Avila",
+      "result": "loss",
+      "date": "Jul. 06, 2019",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Macy Chiasson",
+      "result": "loss",
+      "date": "Nov. 30, 2018",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}
