@@ -24,7 +24,7 @@ logger = logging.getLogger(__name__)
 
 
 def predict_fight(fighter1_name: str, fighter2_name: str, fight_date: str, 
-                  model_name: str = 'logistic_regression') -> dict:
+                  model_name: str = 'xgboost') -> dict:
     """Predict the outcome of a future fight.
     
     Args:
@@ -183,10 +183,10 @@ def main():
     parser.add_argument(
         '--model',
         type=str,
-        default='logistic_regression',
-        choices=['random_forest', 'gradient_boosting', 'logistic_regression', 
+        default='xgboost',
+        choices=['random_forest', 'gradient_boosting', 'logistic_regression',
                  'svm', 'xgboost', 'lightgbm'],
-        help='Model to use for prediction (default: logistic_regression)'
+        help='Model to use for prediction (default: xgboost - best accuracy 78.56%%)'
     )
     
     args = parser.parse_args()
