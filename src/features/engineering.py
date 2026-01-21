@@ -275,6 +275,41 @@ class FeatureEngineer:
         
         return days_since if days_since > 0 else None
     
+    def _calculate_layoff_penalty(self, days_since: Optional[int], optimal_days: int = 150, 
+                                   min_days: int = 120, max_days: int = 180) -> float:
+        """Calculate penalty for layoff time (both too short and too long are disadvantages).
+        
+        Args:
+            days_since: Days since last fight (None if no previous fights)
+            optimal_days: Optimal rest period (default: 150 days = 5 months)
+            min_days: Minimum acceptable rest (default: 120 days = 4 months)
+            max_days: Maximum acceptable rest before rust sets in (default: 180 days = 6 months)
+            
+        Returns:
+            Penalty score: 0 = optimal, higher = worse (both too short and too long increase penalty)
+        """
+        if days_since is None:
+            return 0.0  # No previous fights, no penalty
+        
+        # Calculate deviation from optimal
+        if days_since < min_days:
+            # Too short: insufficient recovery time (< 4 months)
+            # Penalty increases as you get closer to 0
+            penalty = (min_days - days_since) / min_days
+        elif days_since > max_days:
+            # Too long: rust/inactivity (> 6 months)
+            # Penalty increases as layoff gets longer
+            penalty = (days_since - max_days) / max_days
+        else:
+            # Within optimal range (4-6 months): minimal penalty
+            # Calculate distance from optimal (150 days = 5 months)
+            deviation = abs(days_since - optimal_days)
+            # Normalize to 0-1 scale (max deviation in range is max_days - min_days)
+            max_deviation = max(optimal_days - min_days, max_days - optimal_days)
+            penalty = deviation / max_deviation if max_deviation > 0 else 0
+        
+        return penalty
+    
     def _extract_finish_types(self, fighter_name: str, fight_date: pd.Timestamp) -> Dict:
         """Extract finish type counts from fight history.
         
@@ -491,8 +526,14 @@ class FeatureEngineer:
             
             # Days since last fight
             if self.include_fight_frequency:
-                features['f1_days_since_last_fight'] = self._calculate_days_since_last_fight(fighter1_name, fight_date) or 0
-                features['f2_days_since_last_fight'] = self._calculate_days_since_last_fight(fighter2_name, fight_date) or 0
+                f1_days = self._calculate_days_since_last_fight(fighter1_name, fight_date)
+                f2_days = self._calculate_days_since_last_fight(fighter2_name, fight_date)
+                features['f1_days_since_last_fight'] = f1_days or 0
+                features['f2_days_since_last_fight'] = f2_days or 0
+                # Layoff penalty: both too short and too long are disadvantages
+                # Optimal range: 4-6 months (120-180 days), optimal: 5 months (150 days)
+                features['f1_layoff_penalty'] = self._calculate_layoff_penalty(f1_days)
+                features['f2_layoff_penalty'] = self._calculate_layoff_penalty(f2_days)
             
             # Strength of schedule
             if self.include_strength_of_schedule:
@@ -801,8 +842,14 @@ class FeatureEngineer:
         
         # Days since last fight (up to fight date)
         if self.include_fight_frequency:
-            features['f1_days_since_last_fight'] = self._calculate_days_since_last_fight(fighter1_name, fight_date_dt) or 0
-            features['f2_days_since_last_fight'] = self._calculate_days_since_last_fight(fighter2_name, fight_date_dt) or 0
+            f1_days = self._calculate_days_since_last_fight(fighter1_name, fight_date_dt)
+            f2_days = self._calculate_days_since_last_fight(fighter2_name, fight_date_dt)
+            features['f1_days_since_last_fight'] = f1_days or 0
+            features['f2_days_since_last_fight'] = f2_days or 0
+            # Layoff penalty: both too short and too long are disadvantages
+            # Optimal range: 4-6 months (120-180 days), optimal: 5 months (150 days)
+            features['f1_layoff_penalty'] = self._calculate_layoff_penalty(f1_days)
+            features['f2_layoff_penalty'] = self._calculate_layoff_penalty(f2_days)
         
         # Strength of schedule (up to fight date)
         if self.include_strength_of_schedule:
