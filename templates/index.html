@@ -13,7 +13,7 @@
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #0a0a0a;
             min-height: 100vh;
             padding: 20px;
             display: flex;
@@ -22,75 +22,110 @@
         }
 
         .container {
-            background: white;
-            border-radius: 20px;
-            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
-            max-width: 600px;
+            background: #ffffff;
+            border-radius: 16px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+            max-width: 700px;
             width: 100%;
-            padding: 40px;
+            padding: 50px 40px;
+            position: relative;
+        }
+
+        .logo-container {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .logo {
+            max-width: 120px;
+            height: auto;
+            margin-bottom: 15px;
         }
 
         h1 {
-            color: #333;
+            color: #d20a0a;
             text-align: center;
-            margin-bottom: 10px;
-            font-size: 2.5em;
+            margin-bottom: 8px;
+            font-size: 2em;
+            font-weight: 700;
+            letter-spacing: -0.5px;
         }
 
         .subtitle {
             text-align: center;
             color: #666;
-            margin-bottom: 30px;
-            font-size: 1.1em;
+            margin-bottom: 35px;
+            font-size: 0.95em;
+            font-weight: 400;
         }
 
         .form-group {
-            margin-bottom: 20px;
+            margin-bottom: 24px;
         }
 
         label {
             display: block;
             margin-bottom: 8px;
-            color: #333;
+            color: #1a1a1a;
             font-weight: 600;
-            font-size: 0.95em;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
 
         input[type="text"],
         input[type="date"],
         select {
             width: 100%;
-            padding: 12px 16px;
-            border: 2px solid #e0e0e0;
-            border-radius: 8px;
+            padding: 14px 18px;
+            border: 2px solid #e5e5e5;
+            border-radius: 10px;
             font-size: 16px;
-            transition: border-color 0.3s;
+            transition: all 0.2s;
+            background: #fafafa;
+            color: #1a1a1a;
         }
 
         input[type="text"]:focus,
         input[type="date"]:focus,
         select:focus {
             outline: none;
-            border-color: #667eea;
+            border-color: #d20a0a;
+            background: #fff;
+            box-shadow: 0 0 0 3px rgba(210, 10, 10, 0.1);
+        }
+
+        input::placeholder {
+            color: #999;
+        }
+
+        .form-hint {
+            color: #888;
+            font-size: 0.8em;
+            margin-top: 6px;
+            font-style: italic;
         }
 
         .submit-btn {
             width: 100%;
-            padding: 14px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 16px;
+            background: linear-gradient(135deg, #d20a0a 0%, #a00808 100%);
             color: white;
             border: none;
-            border-radius: 8px;
-            font-size: 18px;
-            font-weight: 600;
+            border-radius: 10px;
+            font-size: 17px;
+            font-weight: 700;
             cursor: pointer;
-            transition: transform 0.2s, box-shadow 0.2s;
+            transition: all 0.2s;
             margin-top: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            box-shadow: 0 4px 12px rgba(210, 10, 10, 0.3);
         }
 
         .submit-btn:hover {
             transform: translateY(-2px);
-            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+            box-shadow: 0 6px 20px rgba(210, 10, 10, 0.4);
         }
 
         .submit-btn:active {
@@ -104,46 +139,55 @@
         }
 
         .result {
-            margin-top: 30px;
-            padding: 25px;
+            margin-top: 35px;
+            padding: 30px;
             border-radius: 12px;
             display: none;
         }
 
         .result.success {
-            background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%);
-            border: 2px solid #4caf50;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
+            border: 2px solid #d20a0a;
             display: block;
+            color: white;
         }
 
         .result.error {
-            background: #ffebee;
-            border: 2px solid #f44336;
-            color: #c62828;
+            background: #fff5f5;
+            border: 2px solid #e53e3e;
+            color: #c53030;
             display: block;
         }
 
         .winner {
-            font-size: 1.8em;
-            font-weight: bold;
-            color: #1a237e;
+            font-size: 1.6em;
+            font-weight: 700;
+            color: #fff;
             text-align: center;
-            margin-bottom: 15px;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .winner-icon {
+            font-size: 1.2em;
+            margin-right: 8px;
         }
 
         .details {
-            background: rgba(255, 255, 255, 0.7);
-            padding: 15px;
-            border-radius: 8px;
-            margin-top: 15px;
+            background: rgba(255, 255, 255, 0.05);
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
         }
 
         .details-row {
             display: flex;
             justify-content: space-between;
-            margin-bottom: 10px;
-            padding-bottom: 8px;
-            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+            align-items: center;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
         }
 
         .details-row:last-child {
@@ -151,31 +195,62 @@
             margin-bottom: 0;
         }
 
+        .details-label {
+            color: rgba(255, 255, 255, 0.7);
+            font-weight: 500;
+        }
+
+        .details-value {
+            color: #fff;
+            font-weight: 600;
+            font-size: 1.05em;
+        }
+
+        .prob-container {
+            margin-top: 12px;
+        }
+
+        .prob-label {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 6px;
+            font-size: 0.9em;
+            color: rgba(255, 255, 255, 0.8);
+        }
+
         .prob-bar {
-            height: 25px;
-            background: #e0e0e0;
-            border-radius: 12px;
-            margin-top: 5px;
+            height: 30px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
             overflow: hidden;
             position: relative;
+            margin-bottom: 12px;
         }
 
         .prob-fill {
             height: 100%;
-            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
-            transition: width 0.5s ease;
+            background: linear-gradient(90deg, #d20a0a 0%, #ff1a1a 100%);
+            transition: width 0.6s ease;
             display: flex;
             align-items: center;
-            justify-content: center;
+            justify-content: flex-end;
+            padding-right: 12px;
             color: white;
-            font-weight: 600;
-            font-size: 0.9em;
+            font-weight: 700;
+            font-size: 0.95em;
+            min-width: 50px;
+        }
+
+        .prob-fill.low {
+            justify-content: flex-start;
+            padding-left: 12px;
+            padding-right: 0;
         }
 
         .loading {
             display: none;
             text-align: center;
-            margin-top: 20px;
+            margin-top: 30px;
         }
 
         .loading.show {
@@ -183,13 +258,13 @@
         }
 
         .spinner {
-            border: 4px solid #f3f3f3;
-            border-top: 4px solid #667eea;
+            border: 4px solid rgba(210, 10, 10, 0.1);
+            border-top: 4px solid #d20a0a;
             border-radius: 50%;
-            width: 40px;
-            height: 40px;
+            width: 50px;
+            height: 50px;
             animation: spin 1s linear infinite;
-            margin: 0 auto;
+            margin: 0 auto 15px;
         }
 
         @keyframes spin {
@@ -197,41 +272,73 @@
             100% { transform: rotate(360deg); }
         }
 
+        .loading-text {
+            color: #666;
+            font-weight: 500;
+        }
+
         .error-message {
-            color: #c62828;
+            color: #c53030;
+            font-weight: 700;
+            font-size: 1.1em;
+            margin-bottom: 10px;
+        }
+
+        .model-badge {
+            background: rgba(210, 10, 10, 0.1);
+            color: #d20a0a;
+            padding: 4px 12px;
+            border-radius: 6px;
+            font-size: 0.85em;
             font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 30px 20px;
+            }
+
+            h1 {
+                font-size: 1.6em;
+            }
+
+            .winner {
+                font-size: 1.3em;
+            }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>🥊 UFC Fight Predictor</h1>
-        <p class="subtitle">Predict fight outcomes using machine learning</p>
+        <div class="logo-container">
+            <img src="{{ url_for('static', filename='images/ufc-logo.png') }}" alt="UFC Logo" class="logo" onerror="this.style.display='none'">
+            <h1>Fight Predictor</h1>
+            <p class="subtitle">AI-Powered Fight Outcome Prediction</p>
+        </div>
         
         <form id="predictionForm">
             <div class="form-group">
-                <label for="fighter1">Fighter 1 Name</label>
+                <label for="fighter1">Fighter 1</label>
                 <input type="text" id="fighter1" name="fighter1" required 
-                       placeholder="e.g., Jon Jones">
+                       placeholder="Enter fighter name">
             </div>
             
             <div class="form-group">
-                <label for="fighter2">Fighter 2 Name</label>
+                <label for="fighter2">Fighter 2</label>
                 <input type="text" id="fighter2" name="fighter2" required 
-                       placeholder="e.g., Daniel Cormier">
+                       placeholder="Enter fighter name">
             </div>
             
             <div class="form-group">
                 <label for="fight_date">Fight Date</label>
-                <input type="date" id="fight_date" name="fight_date" 
-                       placeholder="YYYY-MM-DD">
-                <small style="color: #666; font-size: 0.85em;">
-                    Leave empty for today's date
-                </small>
+                <input type="date" id="fight_date" name="fight_date">
+                <div class="form-hint">Leave empty to use today's date</div>
             </div>
             
             <div class="form-group">
-                <label for="model">Model</label>
+                <label for="model">Prediction Model</label>
                 <select id="model" name="model">
                     {% for model in models %}
                     <option value="{{ model }}" {% if model == 'xgboost' %}selected{% endif %}>
@@ -248,7 +355,7 @@
         
         <div class="loading" id="loading">
             <div class="spinner"></div>
-            <p style="margin-top: 10px; color: #666;">Processing prediction...</p>
+            <p class="loading-text">Analyzing fighters...</p>
         </div>
         
         <div class="result" id="result"></div>
@@ -287,40 +394,49 @@
                 if (data.success) {
                     // Display success result
                     result.className = 'result success';
+                    const fighter1Prob = (data.fighter1_win_probability * 100).toFixed(1);
+                    const fighter2Prob = (data.fighter2_win_probability * 100).toFixed(1);
+                    const isFighter1Winner = data.predicted_winner === data.fighter1;
+                    
                     result.innerHTML = `
                         <div class="winner">
-                            🏆 Predicted Winner: ${data.predicted_winner}
+                            <span class="winner-icon">🏆</span>
+                            ${data.predicted_winner}
                         </div>
                         <div class="details">
                             <div class="details-row">
-                                <span><strong>Confidence:</strong></span>
-                                <span>${(data.confidence * 100).toFixed(2)}%</span>
+                                <span class="details-label">Confidence</span>
+                                <span class="details-value">${(data.confidence * 100).toFixed(2)}%</span>
                             </div>
-                            <div class="details-row">
-                                <span><strong>${data.fighter1} win probability:</strong></span>
-                                <span>${(data.fighter1_win_probability * 100).toFixed(2)}%</span>
-                            </div>
-                            <div class="prob-bar">
-                                <div class="prob-fill" style="width: ${data.fighter1_win_probability * 100}%">
-                                    ${(data.fighter1_win_probability * 100).toFixed(1)}%
+                            <div class="prob-container">
+                                <div class="prob-label">
+                                    <span>${data.fighter1}</span>
+                                    <span>${fighter1Prob}%</span>
+                                </div>
+                                <div class="prob-bar">
+                                    <div class="prob-fill ${fighter1Prob < 50 ? 'low' : ''}" style="width: ${fighter1Prob}%">
+                                        ${fighter1Prob}%
+                                    </div>
                                 </div>
                             </div>
-                            <div class="details-row" style="margin-top: 15px;">
-                                <span><strong>${data.fighter2} win probability:</strong></span>
-                                <span>${(data.fighter2_win_probability * 100).toFixed(2)}%</span>
-                            </div>
-                            <div class="prob-bar">
-                                <div class="prob-fill" style="width: ${data.fighter2_win_probability * 100}%">
-                                    ${(data.fighter2_win_probability * 100).toFixed(1)}%
+                            <div class="prob-container">
+                                <div class="prob-label">
+                                    <span>${data.fighter2}</span>
+                                    <span>${fighter2Prob}%</span>
+                                </div>
+                                <div class="prob-bar">
+                                    <div class="prob-fill ${fighter2Prob < 50 ? 'low' : ''}" style="width: ${fighter2Prob}%">
+                                        ${fighter2Prob}%
+                                    </div>
                                 </div>
                             </div>
-                            <div class="details-row" style="margin-top: 15px; padding-top: 15px; border-top: 2px solid rgba(0,0,0,0.2);">
-                                <span><strong>Model Used:</strong></span>
-                                <span>${data.model_used.replace('_', ' ').replace(/\b\w/g, l => l.toUpperCase())}</span>
+                            <div class="details-row" style="margin-top: 20px; padding-top: 16px; border-top: 2px solid rgba(255,255,255,0.2);">
+                                <span class="details-label">Model</span>
+                                <span class="model-badge">${data.model_used.replace('_', ' ').replace(/\b\w/g, l => l.toUpperCase())}</span>
                             </div>
                             <div class="details-row">
-                                <span><strong>Fight Date:</strong></span>
-                                <span>${data.fight_date}</span>
+                                <span class="details-label">Fight Date</span>
+                                <span class="details-value">${data.fight_date}</span>
                             </div>
                         </div>
                     `;
@@ -330,7 +446,7 @@
                     result.className = 'result error';
                     result.innerHTML = `
                         <div class="error-message">Error</div>
-                        <p style="margin-top: 10px;">${data.error}</p>
+                        <p>${data.error}</p>
                     `;
                     result.style.display = 'block';
                 }
@@ -340,7 +456,7 @@
                 result.className = 'result error';
                 result.innerHTML = `
                     <div class="error-message">Error</div>
-                    <p style="margin-top: 10px;">An error occurred: ${error.message}</p>
+                    <p>An error occurred: ${error.message}</p>
                 `;
                 result.style.display = 'block';
             }
@@ -348,4 +464,3 @@
     </script>
 </body>
 </html>
-

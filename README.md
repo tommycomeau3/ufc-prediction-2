@@ -168,24 +168,6 @@ python main.py --steps preprocess features
 python main.py --skip-preprocessing --skip-features
 ```
 
-### Web Interface
-
-Launch the web interface for easy fight predictions:
-
-```bash
-python app.py
-```
-
-Then open your browser and navigate to: `http://localhost:5001`
-
-**Features:**
-- Simple form to input fighter names and fight date
-- Select from available models (XGBoost, LightGBM, etc.)
-- View prediction results with confidence scores and win probabilities
-- Visual probability bars for each fighter
-
-**Note:** Make sure you have Flask installed: `pip install flask`
-
 ## Configuration
 
 Edit `config/config.yaml` to customize the following settings:

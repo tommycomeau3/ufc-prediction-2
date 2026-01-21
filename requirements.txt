@@ -37,6 +37,3 @@ tqdm>=4.65.0
 # python-dateutil is a library for parsing dates and times
 python-dateutil>=2.8.0
 
-# Flask is a library for creating web applications
-flask>=3.0.0
-

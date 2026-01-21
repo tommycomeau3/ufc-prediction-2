@@ -7,6 +7,8 @@ Uses trained models to predict fight outcomes for fighters who already have hist
 import sys
 import argparse
 from pathlib import Path
+from datetime import datetime
+from typing import Optional
 
 # Add src to path
 sys.path.insert(0, str(Path(__file__).parent / "src"))
@@ -176,17 +178,17 @@ def main():
     parser.add_argument(
         '--date',
         type=str,
-        required=True,
-        help='Date of the fight (YYYY-MM-DD format)'
+        default=None,
+        help='Date of the fight (YYYY-MM-DD format). Defaults to today if not provided.'
     )
     
     parser.add_argument(
         '--model',
         type=str,
         default='xgboost',
-        choices=['random_forest', 'gradient_boosting', 'logistic_regression',
+        choices=['random_forest', 'gradient_boosting', 'logistic_regression', 
                  'svm', 'xgboost', 'lightgbm'],
-        help='Model to use for prediction (default: xgboost - best accuracy 78.56%%)'
+        help='Model to use for prediction (default: xgboost)'
     )
     
     args = parser.parse_args()
