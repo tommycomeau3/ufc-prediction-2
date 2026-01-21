@@ -247,6 +247,34 @@ class FeatureEngineer:
         
         return np.mean(date_diffs)
     
+    def _calculate_days_since_last_fight(self, fighter_name: str, fight_date: pd.Timestamp) -> Optional[int]:
+        """Calculate days since fighter's last fight.
+        
+        Args:
+            fighter_name: Fighter name
+            fight_date: Date of current fight
+            
+        Returns:
+            Number of days since last fight, or None if no previous fights
+        """
+        # Get most recent fight before this date
+        past_fights = self.fight_history_df[
+            (self.fight_history_df['fighter_name'] == fighter_name) &
+            (self.fight_history_df['date'] < fight_date) &
+            (self.fight_history_df['result'].isin(['win', 'loss']))
+        ].sort_values('date', ascending=False)
+        
+        if len(past_fights) == 0:
+            return None  # No previous fights
+        
+        # Get most recent fight date
+        most_recent_fight_date = past_fights.iloc[0]['date']
+        
+        # Calculate days since last fight
+        days_since = (fight_date - most_recent_fight_date).days
+        
+        return days_since if days_since > 0 else None
+    
     def _extract_finish_types(self, fighter_name: str, fight_date: pd.Timestamp) -> Dict:
         """Extract finish type counts from fight history.
         
@@ -460,6 +488,11 @@ class FeatureEngineer:
             if self.include_fight_frequency:
                 features['f1_avg_days_between_fights'] = self._calculate_fight_frequency(fighter1_name, fight_date) or 0
                 features['f2_avg_days_between_fights'] = self._calculate_fight_frequency(fighter2_name, fight_date) or 0
+            
+            # Days since last fight
+            if self.include_fight_frequency:
+                features['f1_days_since_last_fight'] = self._calculate_days_since_last_fight(fighter1_name, fight_date) or 0
+                features['f2_days_since_last_fight'] = self._calculate_days_since_last_fight(fighter2_name, fight_date) or 0
             
             # Strength of schedule
             if self.include_strength_of_schedule:
@@ -765,6 +798,11 @@ class FeatureEngineer:
         if self.include_fight_frequency:
             features['f1_avg_days_between_fights'] = self._calculate_fight_frequency(fighter1_name, fight_date_dt) or 0
             features['f2_avg_days_between_fights'] = self._calculate_fight_frequency(fighter2_name, fight_date_dt) or 0
+        
+        # Days since last fight (up to fight date)
+        if self.include_fight_frequency:
+            features['f1_days_since_last_fight'] = self._calculate_days_since_last_fight(fighter1_name, fight_date_dt) or 0
+            features['f2_days_since_last_fight'] = self._calculate_days_since_last_fight(fighter2_name, fight_date_dt) or 0
         
         # Strength of schedule (up to fight date)
         if self.include_strength_of_schedule:
