@@ -90,6 +90,19 @@ This will execute all steps:
 3. Model training
 4. Model evaluation
 
+### Update & Retrain (after new events)
+
+To refresh fighter data and retrain models after new UFC events:
+
+```bash
+python update_and_retrain.py
+```
+
+This runs: **scrape** (with `--no-skip-existing`) → **preprocess** → **engineer** → **train**. Optional flags:
+
+- `--num-events N` — Number of events for `--build-list` (default: 100)
+- `--skip-scrape` — Skip scraping; only run preprocess → engineer → train (e.g. if you already re-scraped)
+
 ### Step-by-Step Execution
 
 You can also run individual pipeline steps:
