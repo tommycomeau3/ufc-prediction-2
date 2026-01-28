@@ -73,6 +73,11 @@ def main():
         help='Skip fighters that have already been scraped (default: True)'
     )
     parser.add_argument(
+        '--no-skip-existing',
+        action='store_true',
+        help='Re-scrape all fighters, including those already scraped (refresh data for new fights)'
+    )
+    parser.add_argument(
         # Name of the flag
         '--progress-file',
         # Means it must be followed by a string
@@ -154,11 +159,13 @@ def main():
         
         # Determines the save format based on the user's input
         save_format = 'json' if args.format in ['json', 'both'] else 'csv'
-        
+        # --no-skip-existing overrides --skip-existing to refresh all fighter data
+        skip_existing = False if args.no_skip_existing else args.skip_existing
+
         # Prints the starting batch scrape info
-        print(f"Starting batch scrape (format: {save_format}, skip existing: {args.skip_existing})")
+        print(f"Starting batch scrape (format: {save_format}, skip existing: {skip_existing})")
         print()
-        
+
         # Calls scrape_multiple_fighters method to scrape the data
         fighter_data = scraper.scrape_multiple_fighters(
             # List of fighter URLs to scrape
@@ -166,11 +173,11 @@ def main():
             # Save format
             save_format=save_format,
             # Skip existing fighters
-            skip_existing=args.skip_existing,
+            skip_existing=skip_existing,
             # Path to the progress file
             progress_file=args.progress_file
         )
-        
+
         # If both formats requested, scrape again for CSV
         if args.format == 'both' and save_format == 'json':
             print()
@@ -178,7 +185,7 @@ def main():
             scraper.scrape_multiple_fighters(
                 fighter_urls=fighter_urls,
                 save_format='csv',
-                skip_existing=True,  # Only scrape new ones
+                skip_existing=skip_existing,
                 progress_file=args.progress_file
             )
         
@@ -205,6 +212,9 @@ def main():
         print()
         print("  # Build list and scrape in one command")
         print("  python scrape_all_fighters.py --build-list --scrape")
+        print()
+        print("  # Refresh data (re-scrape all fighters, e.g. after new events)")
+        print("  python scrape_all_fighters.py --scrape --no-skip-existing")
 
 
 if __name__ == "__main__":
