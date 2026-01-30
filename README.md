@@ -152,7 +152,7 @@ Train all configured models:
 python train_models.py
 ```
 
-Models are saved to `models/` directory as `.pkl` files.
+Models are saved to `models/` directory as `.pkl` files. Each run appends accuracy, F1, ROC-AUC (and timestamp) to `logs/training_metrics.json` for performance history tracking.
 
 #### 5. Model Evaluation
 

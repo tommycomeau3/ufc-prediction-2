@@ -2,6 +2,7 @@
 """
 Script to train ML models for UFC fight outcome prediction.
 Loads features, trains multiple models with hyperparameter tuning, and saves results.
+Appends accuracy, F1, ROC-AUC (and timestamp) to logs/training_metrics.json for history tracking.
 """
 
 import sys
@@ -10,10 +11,11 @@ from pathlib import Path
 # Add src to path
 sys.path.insert(0, str(Path(__file__).parent / "src"))
 
-from models.trainer import ModelTrainer
-from models.models import get_model_creator
 import yaml
 import logging
+
+from models.trainer import ModelTrainer
+from models.models import get_model_creator
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -105,7 +107,9 @@ def main():
         if scores['roc_auc']:
             print(f"  ROC-AUC:   {scores['roc_auc']:.4f}")
         print()
-    
+
+    trainer.log_metrics_history()
+
     print(f"Models saved to: {trainer.models_path}")
 
 

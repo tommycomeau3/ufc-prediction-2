@@ -99,7 +99,9 @@ def run_training():
         
         except Exception as e:
             logger.error(f"Error training {model_name}: {e}")
-    
+
+    trainer.log_metrics_history()
+
     print(f"Trained {trained_count} models")
     print()
 

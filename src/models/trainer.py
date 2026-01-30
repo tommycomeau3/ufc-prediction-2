@@ -3,14 +3,16 @@ Model training pipeline for UFC fight outcome prediction.
 Handles data loading, train/test splitting, hyperparameter tuning, and model training.
 """
 
-import pandas as pd
-import numpy as np
+import json
+import logging
+from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
-import logging
-import yaml
+
 import joblib
-from datetime import datetime
+import numpy as np
+import pandas as pd
+import yaml
 
 from sklearn.model_selection import train_test_split, RandomizedSearchCV, cross_val_score
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
@@ -223,7 +225,8 @@ class ModelTrainer:
             'roc_auc': roc_auc
         }
         
-        logger.info(f"{model_name} - Accuracy: {accuracy:.4f}, F1: {f1:.4f}, ROC-AUC: {roc_auc:.4f if roc_auc else 'N/A'}")
+        roc_auc_str = f"{roc_auc:.4f}" if roc_auc is not None else "N/A"
+        logger.info(f"{model_name} - Accuracy: {accuracy:.4f}, F1: {f1:.4f}, ROC-AUC: {roc_auc_str}")
         
         self.trained_models[model_name] = model
         return model
@@ -256,6 +259,46 @@ class ModelTrainer:
         model = joblib.load(model_file)
         logger.info(f"Loaded {model_name} model from {model_file}")
         return model
+
+    def log_metrics_history(self, log_path: Optional[Path] = None) -> None:
+        """Append this run's model metrics to the training history JSON."""
+        if not self.model_scores:
+            return
+
+        if log_path is None:
+            log_path = Path(__file__).resolve().parent.parent.parent / "logs" / "training_metrics.json"
+
+        timestamp = datetime.now().isoformat()
+        records = []
+
+        for model_name, scores in self.model_scores.items():
+            record = {
+                "timestamp": timestamp,
+                "model": model_name,
+                "accuracy": round(scores["accuracy"], 4),
+                "precision": round(scores["precision"], 4),
+                "recall": round(scores["recall"], 4),
+                "f1_score": round(scores["f1_score"], 4),
+                "roc_auc": round(scores["roc_auc"], 4) if scores.get("roc_auc") is not None else None,
+            }
+            records.append(record)
+
+        log_path.parent.mkdir(parents=True, exist_ok=True)
+
+        try:
+            existing = []
+            if log_path.exists():
+                with open(log_path) as f:
+                    existing = json.load(f)
+
+            existing.extend(records)
+
+            with open(log_path, "w") as f:
+                json.dump(existing, f, indent=2)
+
+            logger.info(f"Logged metrics to {log_path}")
+        except Exception as e:
+            logger.warning(f"Could not write metrics log: {e}")
 
 
 def main():
