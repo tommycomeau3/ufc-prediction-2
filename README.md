@@ -312,6 +312,13 @@ If scraping fails:
 - Check rate limit settings in `config/config.yaml`
 - Try scraping individual fighters first
 
+### Fighter Not Found
+
+When predicting, if a fighter name is not found:
+- Names are case-insensitive (e.g. "conor mcgregor" matches "Conor McGregor")
+- The system suggests similar names for typos (e.g. "Did you mean: Jon Jones, ...?")
+- Fighters must exist in the scraped dataset; new or lesser-known fighters may not be available
+
 ### Model Training Fails
 
 If model training fails:

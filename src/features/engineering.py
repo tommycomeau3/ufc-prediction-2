@@ -9,6 +9,8 @@ import pandas as pd
 import numpy as np
 # Pathlib for file path manipulation
 from pathlib import Path
+# difflib for fuzzy name matching
+import difflib
 # Type hints for the function arguments and return values
 from typing import Dict, List, Optional, Tuple
 # Logging for error and warning messages
@@ -90,7 +92,63 @@ class FeatureEngineer:
         except Exception as e:
             logger.error(f"Error loading config: {e}")
             return {}
-    
+
+    def _get_similar_fighter_names(self, query: str, n: int = 5) -> List[str]:
+        """Return similar fighter names from the database for 'Did you mean?' suggestions.
+
+        Args:
+            query: The name that was not found
+            n: Maximum number of suggestions to return
+
+        Returns:
+            List of similar names from fighter_stats_df
+        """
+        if self.fighter_stats_df is None:
+            return []
+        choices = self.fighter_stats_df['name'].astype(str).tolist()
+        return difflib.get_close_matches(query.strip(), choices, n=n, cutoff=0.4)
+
+    def _resolve_fighter_name(self, name: str) -> str:
+        """Resolve a fighter name to the canonical database name (handles case/whitespace).
+
+        Returns:
+            Canonical name if found
+        Raises:
+            ValueError: If not found, with suggestions in the message
+        """
+        if self.fighter_stats_df is None:
+            raise ValueError("Data not loaded. Call load_processed_data() first.")
+
+        stripped = name.strip()
+        if not stripped:
+            raise ValueError("Fighter name cannot be empty.")
+
+        # Exact match
+        exact = self.fighter_stats_df[self.fighter_stats_df['name'] == stripped]
+        if len(exact) > 0:
+            return exact.iloc[0]['name']
+
+        # Case-insensitive match
+        lower = stripped.lower()
+        mask = (
+            self.fighter_stats_df['name'].astype(str).str.strip().str.lower() == lower
+        )
+        matches = self.fighter_stats_df[mask]
+        if len(matches) > 0:
+            return matches.iloc[0]['name']
+
+        # Not found - get suggestions
+        suggestions = self._get_similar_fighter_names(stripped, n=5)
+        if suggestions:
+            suggestions_str = ", ".join(suggestions)
+            raise ValueError(
+                f"Fighter '{stripped}' not found. Did you mean: {suggestions_str}?"
+            )
+        raise ValueError(
+            f"Fighter '{stripped}' not found in database. "
+            "Check spelling and try again, or the fighter may not be in our dataset."
+        )
+
     def load_processed_data(self) -> Tuple[pd.DataFrame, pd.DataFrame]:
         """Load processed fighter stats and fight history.
         
@@ -460,21 +518,16 @@ class FeatureEngineer:
         if isinstance(fight_date, str):
             fight_date = pd.to_datetime(fight_date)
         
-        # Get fighter stats
-        fighter1_matches = self.fighter_stats_df[
+        # Resolve fighter names (handles case/whitespace, suggests alternatives if not found)
+        fighter1_name = self._resolve_fighter_name(fighter1_name)
+        fighter2_name = self._resolve_fighter_name(fighter2_name)
+
+        fighter1_stats = self.fighter_stats_df[
             self.fighter_stats_df['name'] == fighter1_name
-        ]
-        fighter2_matches = self.fighter_stats_df[
+        ].iloc[0]
+        fighter2_stats = self.fighter_stats_df[
             self.fighter_stats_df['name'] == fighter2_name
-        ]
-        
-        if len(fighter1_matches) == 0:
-            raise ValueError(f"Fighter '{fighter1_name}' not found in database")
-        if len(fighter2_matches) == 0:
-            raise ValueError(f"Fighter '{fighter2_name}' not found in database")
-        
-        fighter1_stats = fighter1_matches.iloc[0]
-        fighter2_stats = fighter2_matches.iloc[0]
+        ].iloc[0]
         
         # Initialize feature dictionary
         features = {
