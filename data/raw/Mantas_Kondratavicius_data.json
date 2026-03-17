@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/3cc506f115cbb9d5",
+  "stats": {
+    "name": "Mantas Kondratavicius",
+    "record": "8-1-0",
+    "wins": 8,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "185 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Jul 17, 1999",
+    "strikes_landed_per_min": 4.55,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.64,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.1,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Antonio Trocoli",
+      "result": "next",
+      "date": "Mar. 21, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Djani Barbir",
+      "result": "win",
+      "date": "Sep. 23, 2025",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

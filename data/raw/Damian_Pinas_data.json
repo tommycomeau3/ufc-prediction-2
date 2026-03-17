@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/fdd22e895a70e4a8",
+  "stats": {
+    "name": "Damian Pinas",
+    "record": "9-1-0",
+    "wins": 9,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "185 lbs.",
+    "reach": "79\"",
+    "stance": "Orthodox",
+    "dob": "Mar 12, 2002",
+    "strikes_landed_per_min": 7.5,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.75,
+    "striking_defense": 0.56,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Wes Schultz",
+      "result": "win",
+      "date": "Feb. 28, 2026",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Vitor Costa",
+      "result": "win",
+      "date": "Sep. 30, 2025",
+      "method": "KO/TKO (Punch)"
+    }
+  ]
+}

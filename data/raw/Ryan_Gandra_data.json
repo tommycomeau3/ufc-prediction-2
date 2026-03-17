@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/e463ce0a2ca474f4",
+  "stats": {
+    "name": "Ryan Gandra",
+    "record": "9-1-0",
+    "wins": 9,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "185 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "May 08, 1995",
+    "strikes_landed_per_min": 13.02,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.7,
+    "striking_defense": 0.81,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Jose Daniel Medina",
+      "result": "win",
+      "date": "Feb. 28, 2026",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Trent Miller",
+      "result": "win",
+      "date": "Aug. 26, 2025",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

@@ -2,18 +2,18 @@
   "url": "http://ufcstats.com/fighter-details/6e15f63b6c2e2c15",
   "stats": {
     "name": "Brandon Royval",
-    "record": "17-8-0",
+    "record": "17-9-0",
     "wins": 17,
-    "losses": 8,
+    "losses": 9,
     "draws": 0,
     "height": "5' 9\"",
     "weight": "125 lbs.",
     "reach": "68\"",
     "stance": "Southpaw",
     "dob": "Aug 16, 1992",
-    "strikes_landed_per_min": 5.55,
+    "strikes_landed_per_min": 5.54,
     "striking_accuracy": null,
-    "strikes_absorbed_per_min": 4.23,
+    "strikes_absorbed_per_min": 4.25,
     "striking_defense": 0.43,
     "takedown_average": null,
     "takedown_accuracy": 0.75,
@@ -23,9 +23,9 @@
   "fight_history": [
     {
       "opponent": "Manel Kape",
-      "result": "next",
+      "result": "loss",
       "date": "Dec. 13, 2025",
-      "method": "N/A"
+      "method": "KO/TKO (Punches)"
     },
     {
       "opponent": "Joshua Van",

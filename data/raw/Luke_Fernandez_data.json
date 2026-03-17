@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d62e280d0f7b6d6f",
+  "stats": {
+    "name": "Luke Fernandez",
+    "record": "6-1-0",
+    "wins": 6,
+    "losses": 1,
+    "draws": 0,
+    "height": "6' 1\"",
+    "weight": "205 lbs.",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "dob": "Jun 29, 1995",
+    "strikes_landed_per_min": 8.14,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 10.17,
+    "striking_defense": 0.36,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.0,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Rodolfo Bellato",
+      "result": "loss",
+      "date": "Mar. 07, 2026",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Rafael Pergentino",
+      "result": "win",
+      "date": "Oct. 07, 2025",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

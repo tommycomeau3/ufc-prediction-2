@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/530af2900b5a1693",
+  "stats": {
+    "name": "Dom Mar Fan",
+    "record": "9-2-0",
+    "wins": 9,
+    "losses": 2,
+    "draws": 0,
+    "height": "5' 11\"",
+    "weight": "155 lbs.",
+    "reach": "75\"",
+    "stance": "Orthodox",
+    "dob": "Mar 19, 2000",
+    "strikes_landed_per_min": 3.71,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 2.49,
+    "striking_defense": 0.44,
+    "takedown_average": null,
+    "takedown_accuracy": 0.5,
+    "takedown_defense": 0.66,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Sangwook Kim",
+      "result": "win",
+      "date": "Jan. 31, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "JaeHyun Park",
+      "result": "win",
+      "date": "Aug. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Yuji Ephoevi-Ga",
+      "result": "win",
+      "date": "May. 23, 2025",
+      "method": "N/A"
+    }
+  ]
+}

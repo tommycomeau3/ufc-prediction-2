@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a1ad35b98a9136e5",
+  "stats": {
+    "name": "Lawrence Lui",
+    "record": "8-1-0",
+    "wins": 8,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "135 lbs.",
+    "reach": "72\"",
+    "stance": "Orthodox",
+    "dob": "Aug 04, 1996",
+    "strikes_landed_per_min": 3.72,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.32,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Sulangrangbo",
+      "result": "win",
+      "date": "Jan. 31, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Nghiem Van Y",
+      "result": "win",
+      "date": "Aug. 22, 2025",
+      "method": "KO/TKO (Punch)"
+    },
+    {
+      "opponent": "Zhang Qinghe",
+      "result": "win",
+      "date": "May. 23, 2025",
+      "method": "N/A"
+    }
+  ]
+}

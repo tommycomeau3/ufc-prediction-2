@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/d6a8edb7410223a0",
+  "stats": {
+    "name": "Rafael Tobias",
+    "record": "14-2-0",
+    "wins": 14,
+    "losses": 2,
+    "draws": 0,
+    "height": "6' 2\"",
+    "weight": "205 lbs.",
+    "reach": "74\"",
+    "stance": "Orthodox",
+    "dob": "Mar 20, 2003",
+    "strikes_landed_per_min": 2.77,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.81,
+    "striking_defense": 0.35,
+    "takedown_average": null,
+    "takedown_accuracy": 0.33,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Diyar Nurgozhay",
+      "result": "loss",
+      "date": "Mar. 07, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Jair De Oliveira",
+      "result": "win",
+      "date": "Sep. 23, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    }
+  ]
+}

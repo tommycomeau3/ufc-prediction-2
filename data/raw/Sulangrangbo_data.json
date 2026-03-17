@@ -1,0 +1,43 @@
+{
+  "url": "http://ufcstats.com/fighter-details/1dd1a3aacde66f72",
+  "stats": {
+    "name": "Sulangrangbo",
+    "record": "10-4-0",
+    "wins": 10,
+    "losses": 4,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "135 lbs.",
+    "reach": "66\"",
+    "stance": "Southpaw",
+    "dob": "Jul 17, 2005",
+    "strikes_landed_per_min": 3.96,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 3.2,
+    "striking_defense": 0.62,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.72,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Lawrence Lui",
+      "result": "loss",
+      "date": "Jan. 31, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Sim Kai Xiong",
+      "result": "win",
+      "date": "Aug. 22, 2025",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Peter Danesoe",
+      "result": "win",
+      "date": "May. 23, 2025",
+      "method": "KO/TKO (Punches)"
+    }
+  ]
+}

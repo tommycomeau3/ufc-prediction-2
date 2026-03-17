@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/9d51798e61f2e0c7",
+  "stats": {
+    "name": "Kurtis Campbell",
+    "record": "8-0-0",
+    "wins": 8,
+    "losses": 0,
+    "draws": 0,
+    "height": "5' 9\"",
+    "weight": "145 lbs.",
+    "reach": "72\"",
+    "stance": "Switch",
+    "dob": "Jul 29, 2002",
+    "strikes_landed_per_min": 5.25,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 1.5,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.4,
+    "takedown_defense": 0.1,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Danny Silva",
+      "result": "next",
+      "date": "Mar. 21, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Demba Seck",
+      "result": "win",
+      "date": "Sep. 30, 2025",
+      "method": "KO/TKO (Knee)"
+    }
+  ]
+}

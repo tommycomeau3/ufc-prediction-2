@@ -1,0 +1,37 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a112097ad877a48f",
+  "stats": {
+    "name": "Alberto Montes",
+    "record": "12-1-0",
+    "wins": 12,
+    "losses": 1,
+    "draws": 0,
+    "height": "5' 7\"",
+    "weight": "145 lbs.",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "dob": "May 31, 1994",
+    "strikes_landed_per_min": 5.26,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 4.44,
+    "striking_defense": 0.6,
+    "takedown_average": null,
+    "takedown_accuracy": 0.0,
+    "takedown_defense": 0.77,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Ricky Turcios",
+      "result": "win",
+      "date": "Mar. 07, 2026",
+      "method": "Submission (Anaconda Choke)"
+    },
+    {
+      "opponent": "Carlos Calderon",
+      "result": "win",
+      "date": "Oct. 01, 2024",
+      "method": "Submission (Anaconda Choke)"
+    }
+  ]
+}

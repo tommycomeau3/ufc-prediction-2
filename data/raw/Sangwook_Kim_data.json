@@ -1,0 +1,55 @@
+{
+  "url": "http://ufcstats.com/fighter-details/a264d4e9a4d6bfe4",
+  "stats": {
+    "name": "Sangwook Kim",
+    "record": "13-4-0",
+    "wins": 13,
+    "losses": 4,
+    "draws": 0,
+    "height": "6' 0\"",
+    "weight": "155 lbs.",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "dob": "Oct 17, 1993",
+    "strikes_landed_per_min": 5.11,
+    "striking_accuracy": null,
+    "strikes_absorbed_per_min": 5.82,
+    "striking_defense": 0.44,
+    "takedown_average": null,
+    "takedown_accuracy": 0.22,
+    "takedown_defense": 0.72,
+    "submission_average": null
+  },
+  "fight_history": [
+    {
+      "opponent": "Dom Mar Fan",
+      "result": "loss",
+      "date": "Jan. 31, 2026",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Ren Yawei",
+      "result": "win",
+      "date": "Aug. 22, 2025",
+      "method": "Submission (Rear Naked Choke)"
+    },
+    {
+      "opponent": "Daichi Kamiya",
+      "result": "win",
+      "date": "May. 23, 2025",
+      "method": "KO/TKO (Punches)"
+    },
+    {
+      "opponent": "Rongzhu",
+      "result": "loss",
+      "date": "Aug. 27, 2023",
+      "method": "N/A"
+    },
+    {
+      "opponent": "Kazuma Maruyama",
+      "result": "win",
+      "date": "May. 28, 2023",
+      "method": "Submission (D'Arce Choke)"
+    }
+  ]
+}
