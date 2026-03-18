@@ -101,6 +101,13 @@
             font-weight: 400;
         }
 
+        .helper-text {
+            text-align: center;
+            color: #888;
+            font-size: 0.85em;
+            margin-bottom: 18px;
+        }
+
         .form-group {
             margin-bottom: 14px;
         }
@@ -473,6 +480,8 @@
             <h1>Fight Predictor</h1>
             <p class="subtitle">AI-Powered Fight Outcome Prediction</p>
         </div>
+
+        <p class="helper-text">Enter two fighters to get an AI prediction.</p>
         
         <form id="predictionForm">
             <div class="form-group">
@@ -498,7 +507,7 @@
                 <select id="model" name="model">
                     {% for model in models %}
                     <option value="{{ model }}" {% if model == 'xgboost' %}selected{% endif %}>
-                        {{ model.replace('_', ' ').title() }}
+                        {{ model.replace('_', ' ').title() }}{% if model == 'xgboost' %} (recommended){% endif %}
                     </option>
                     {% endfor %}
                 </select>
