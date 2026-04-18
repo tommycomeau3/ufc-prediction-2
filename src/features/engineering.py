@@ -12,7 +12,7 @@ from pathlib import Path
 # difflib for fuzzy name matching
 import difflib
 # Type hints for the function arguments and return values
-from typing import Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional, Tuple, cast
 # Logging for error and warning messages
 import logging
 # Datetime for date and time operations
@@ -29,6 +29,11 @@ warnings.filterwarnings('ignore')
 # Sets up logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
+
+def _coerce_timestamp(value: object) -> pd.Timestamp:
+    """Build a Timestamp from values pandas may type as object/Series/ndarray."""
+    return cast(pd.Timestamp, pd.Timestamp(cast(Any, value)))
 
 
 class FeatureEngineer:
@@ -69,9 +74,9 @@ class FeatureEngineer:
         self.include_avg_fight_duration = features_config.get('include_avg_fight_duration', True)
         
         # Data storage
-        self.fighter_stats_df = None
-        self.fight_history_df = None
-        self.feature_matrix_df = None
+        self.fighter_stats_df: Optional[pd.DataFrame] = None
+        self.fight_history_df: Optional[pd.DataFrame] = None
+        self.feature_matrix_df: Optional[pd.DataFrame] = None
         self.scaler = None
         
     def _load_config(self, config_path: str) -> Dict:
@@ -92,6 +97,16 @@ class FeatureEngineer:
         except Exception as e:
             logger.error(f"Error loading config: {e}")
             return {}
+
+    def _fighter_stats(self) -> pd.DataFrame:
+        if self.fighter_stats_df is None:
+            raise ValueError("Data not loaded. Call load_processed_data() first.")
+        return self.fighter_stats_df
+
+    def _fight_history(self) -> pd.DataFrame:
+        if self.fight_history_df is None:
+            raise ValueError("Data not loaded. Call load_processed_data() first.")
+        return self.fight_history_df
 
     def _get_similar_fighter_names(self, query: str, n: int = 5) -> List[str]:
         """Return similar fighter names from the database for 'Did you mean?' suggestions.
@@ -180,7 +195,7 @@ class FeatureEngineer:
         
         return fighter_stats_df, fight_history_df
     
-    def _calculate_age_at_fight(self, dob: pd.Timestamp, fight_date: pd.Timestamp) -> Optional[float]:
+    def _calculate_age_at_fight(self, dob: object, fight_date: object) -> Optional[float]:
         """Calculate fighter age at time of fight.
         
         Args:
@@ -190,15 +205,20 @@ class FeatureEngineer:
         Returns:
             Age in years or None
         """
-        if pd.isna(dob) or pd.isna(fight_date):
+        try:
+            dob_ts = _coerce_timestamp(dob)
+            fight_ts = _coerce_timestamp(fight_date)
+        except (ValueError, TypeError, OverflowError):
+            return None
+        if pd.isna(dob_ts) or pd.isna(fight_ts):
             return None
         try:
-            age_delta = fight_date - dob
-            return age_delta.days / 365.25
-        except:
+            age_delta = fight_ts - dob_ts
+            return float(age_delta.days / 365.25)
+        except Exception:
             return None
     
-    def _calculate_recent_form(self, fighter_name: str, fight_date: pd.Timestamp, 
+    def _calculate_recent_form(self, fighter_name: str, fight_date: object,
                                window: int = 5) -> Dict:
         """Calculate recent form metrics for a fighter.
         
@@ -210,12 +230,17 @@ class FeatureEngineer:
         Returns:
             Dictionary with recent form metrics
         """
+        fh = self._fight_history()
+        fight_ts = _coerce_timestamp(fight_date)
         # Get fights before this date
-        past_fights = self.fight_history_df[
-            (self.fight_history_df['fighter_name'] == fighter_name) &
-            (self.fight_history_df['date'] < fight_date) &
-            (self.fight_history_df['result'].isin(['win', 'loss']))
-        ].sort_values('date', ascending=False).head(window)
+        past_fights = cast(
+            pd.DataFrame,
+            fh[
+                (fh['fighter_name'] == fighter_name) &
+                (fh['date'] < fight_ts) &
+                (fh['result'].isin(['win', 'loss']))
+            ],
+        ).sort_values(by='date', ascending=False).head(window)
         
         if len(past_fights) == 0:
             return {
@@ -236,7 +261,7 @@ class FeatureEngineer:
             'recent_fight_count': len(past_fights)
         }
     
-    def _calculate_streak(self, fighter_name: str, fight_date: pd.Timestamp) -> Dict:
+    def _calculate_streak(self, fighter_name: str, fight_date: object) -> Dict:
         """Calculate current win/loss streak for a fighter.
         
         Args:
@@ -246,12 +271,17 @@ class FeatureEngineer:
         Returns:
             Dictionary with streak information
         """
+        fh = self._fight_history()
+        fight_ts = _coerce_timestamp(fight_date)
         # Get most recent fights before this date
-        past_fights = self.fight_history_df[
-            (self.fight_history_df['fighter_name'] == fighter_name) &
-            (self.fight_history_df['date'] < fight_date) &
-            (self.fight_history_df['result'].isin(['win', 'loss']))
-        ].sort_values('date', ascending=False)
+        past_fights = cast(
+            pd.DataFrame,
+            fh[
+                (fh['fighter_name'] == fighter_name) &
+                (fh['date'] < fight_ts) &
+                (fh['result'].isin(['win', 'loss']))
+            ],
+        ).sort_values(by='date', ascending=False)
         
         if len(past_fights) == 0:
             return {'win_streak': 0, 'loss_streak': 0}
@@ -272,7 +302,7 @@ class FeatureEngineer:
         
         return {'win_streak': win_streak, 'loss_streak': loss_streak}
     
-    def _calculate_fight_frequency(self, fighter_name: str, fight_date: pd.Timestamp) -> Optional[float]:
+    def _calculate_fight_frequency(self, fighter_name: str, fight_date: object) -> Optional[float]:
         """Calculate average days between fights.
         
         Args:
@@ -282,10 +312,15 @@ class FeatureEngineer:
         Returns:
             Average days between fights or None
         """
-        past_fights = self.fight_history_df[
-            (self.fight_history_df['fighter_name'] == fighter_name) &
-            (self.fight_history_df['date'] < fight_date)
-        ].sort_values('date', ascending=False)
+        fh = self._fight_history()
+        fight_ts = _coerce_timestamp(fight_date)
+        past_fights = cast(
+            pd.DataFrame,
+            fh[
+                (fh['fighter_name'] == fighter_name) &
+                (fh['date'] < fight_ts)
+            ],
+        ).sort_values(by='date', ascending=False)
         
         if len(past_fights) < 2:
             return None
@@ -300,9 +335,9 @@ class FeatureEngineer:
         if len(date_diffs) == 0:
             return None
         
-        return np.mean(date_diffs)
+        return float(np.mean(date_diffs))
     
-    def _extract_finish_types(self, fighter_name: str, fight_date: pd.Timestamp) -> Dict:
+    def _extract_finish_types(self, fighter_name: str, fight_date: object) -> Dict:
         """Extract finish type counts from fight history.
         
         Args:
@@ -312,15 +347,21 @@ class FeatureEngineer:
         Returns:
             Dictionary with finish type counts
         """
-        past_fights = self.fight_history_df[
-            (self.fight_history_df['fighter_name'] == fighter_name) &
-            (self.fight_history_df['date'] < fight_date) &
-            (self.fight_history_df['result'] == 'win')
-        ]
+        fh = self._fight_history()
+        fight_ts = _coerce_timestamp(fight_date)
+        past_fights = cast(
+            pd.DataFrame,
+            fh[
+                (fh['fighter_name'] == fighter_name) &
+                (fh['date'] < fight_ts) &
+                (fh['result'] == 'win')
+            ],
+        )
         
-        ko_tko_count = past_fights['method'].str.contains('KO/TKO', case=False, na=False).sum()
-        submission_count = past_fights['method'].str.contains('Submission', case=False, na=False).sum()
-        decision_count = past_fights['method'].str.contains('Decision', case=False, na=False).sum()
+        method_col = pd.Series(past_fights['method'], dtype=object)
+        ko_tko_count = method_col.str.contains('KO/TKO', case=False, na=False).sum()
+        submission_count = method_col.str.contains('Submission', case=False, na=False).sum()
+        decision_count = method_col.str.contains('Decision', case=False, na=False).sum()
         
         return {
             'ko_tko_wins': ko_tko_count,
@@ -349,10 +390,10 @@ class FeatureEngineer:
         fight_features = []
         
         for idx, fight in completed_fights.iterrows():
-            fighter1_name = fight['fighter_name']
-            fighter2_name = fight['opponent']
-            fight_date = fight['date']
-            result = fight['result']  # 'win' means fighter1 won
+            fighter1_name = str(fight['fighter_name'])
+            fighter2_name = str(fight['opponent'])
+            fight_date = _coerce_timestamp(fight['date'])
+            result = str(fight['result'])  # 'win' means fighter1 won
             
             # Get fighter stats
             fighter1_stats = self.fighter_stats_df[
@@ -498,8 +539,8 @@ class FeatureEngineer:
         
         return self.feature_matrix_df
     
-    def create_single_fight_features(self, fighter1_name: str, fighter2_name: str, 
-                                     fight_date: str) -> pd.DataFrame:
+    def create_single_fight_features(self, fighter1_name: str, fighter2_name: str,
+                                     fight_date: str | pd.Timestamp) -> pd.DataFrame:
         """Create features for a single future fight between two fighters.
         
         Args:
@@ -514,24 +555,19 @@ class FeatureEngineer:
         if self.fighter_stats_df is None or self.fight_history_df is None:
             self.load_processed_data()
         
-        # Parse fight date
-        if isinstance(fight_date, str):
-            fight_date = pd.to_datetime(fight_date)
+        fight_dt = _coerce_timestamp(fight_date)
         
         # Resolve fighter names (handles case/whitespace, suggests alternatives if not found)
         fighter1_name = self._resolve_fighter_name(fighter1_name)
         fighter2_name = self._resolve_fighter_name(fighter2_name)
 
-        fighter1_stats = self.fighter_stats_df[
-            self.fighter_stats_df['name'] == fighter1_name
-        ].iloc[0]
-        fighter2_stats = self.fighter_stats_df[
-            self.fighter_stats_df['name'] == fighter2_name
-        ].iloc[0]
+        stats = self._fighter_stats()
+        fighter1_stats = stats[stats['name'] == fighter1_name].iloc[0]
+        fighter2_stats = stats[stats['name'] == fighter2_name].iloc[0]
         
         # Initialize feature dictionary
         features = {
-            'fight_date': fight_date,
+            'fight_date': fight_dt,
             'fighter1_name': fighter1_name,
             'fighter2_name': fighter2_name,
             'target': 0  # No target for future fights
@@ -563,8 +599,8 @@ class FeatureEngineer:
             features['weight_diff'] = features.get('f1_weight', 0) - features.get('f2_weight', 0)
             
             # Age at fight
-            f1_age = self._calculate_age_at_fight(fighter1_stats.get('dob_parsed'), fight_date)
-            f2_age = self._calculate_age_at_fight(fighter2_stats.get('dob_parsed'), fight_date)
+            f1_age = self._calculate_age_at_fight(fighter1_stats.get('dob_parsed'), fight_dt)
+            f2_age = self._calculate_age_at_fight(fighter2_stats.get('dob_parsed'), fight_dt)
             features['f1_age'] = f1_age if f1_age else 0
             features['f2_age'] = f2_age if f2_age else 0
             features['age_diff'] = features.get('f1_age', 0) - features.get('f2_age', 0)
@@ -591,8 +627,8 @@ class FeatureEngineer:
         
         # Recent form
         if self.include_recent_form:
-            f1_form = self._calculate_recent_form(fighter1_name, fight_date, self.recent_form_window)
-            f2_form = self._calculate_recent_form(fighter2_name, fight_date, self.recent_form_window)
+            f1_form = self._calculate_recent_form(fighter1_name, fight_dt, self.recent_form_window)
+            f2_form = self._calculate_recent_form(fighter2_name, fight_dt, self.recent_form_window)
             
             features['f1_recent_win_rate'] = f1_form['recent_win_rate']
             features['f2_recent_win_rate'] = f2_form['recent_win_rate']
@@ -601,8 +637,8 @@ class FeatureEngineer:
         
         # Streaks
         if self.include_streaks:
-            f1_streak = self._calculate_streak(fighter1_name, fight_date)
-            f2_streak = self._calculate_streak(fighter2_name, fight_date)
+            f1_streak = self._calculate_streak(fighter1_name, fight_dt)
+            f2_streak = self._calculate_streak(fighter2_name, fight_dt)
             
             features['f1_win_streak'] = f1_streak['win_streak']
             features['f2_win_streak'] = f2_streak['win_streak']
@@ -611,8 +647,8 @@ class FeatureEngineer:
         
         # Finish types
         if self.include_finish_types:
-            f1_finishes = self._extract_finish_types(fighter1_name, fight_date)
-            f2_finishes = self._extract_finish_types(fighter2_name, fight_date)
+            f1_finishes = self._extract_finish_types(fighter1_name, fight_dt)
+            f2_finishes = self._extract_finish_types(fighter2_name, fight_dt)
             
             features['f1_ko_tko_wins'] = f1_finishes['ko_tko_wins']
             features['f2_ko_tko_wins'] = f2_finishes['ko_tko_wins']
@@ -621,12 +657,12 @@ class FeatureEngineer:
         
         # Fight frequency
         if self.include_fight_frequency:
-            features['f1_avg_days_between_fights'] = self._calculate_fight_frequency(fighter1_name, fight_date) or 0
-            features['f2_avg_days_between_fights'] = self._calculate_fight_frequency(fighter2_name, fight_date) or 0
+            features['f1_avg_days_between_fights'] = self._calculate_fight_frequency(fighter1_name, fight_dt) or 0
+            features['f2_avg_days_between_fights'] = self._calculate_fight_frequency(fighter2_name, fight_dt) or 0
         
         # Days since last fight
-        f1_days = self._calculate_days_since_last_fight(fighter1_name, fight_date)
-        f2_days = self._calculate_days_since_last_fight(fighter2_name, fight_date)
+        f1_days = self._calculate_days_since_last_fight(fighter1_name, fight_dt)
+        f2_days = self._calculate_days_since_last_fight(fighter2_name, fight_dt)
         features['f1_days_since_last_fight'] = f1_days if f1_days is not None else 0
         features['f2_days_since_last_fight'] = f2_days if f2_days is not None else 0
         
@@ -635,8 +671,8 @@ class FeatureEngineer:
         features['f2_layoff_penalty'] = self._calculate_layoff_penalty(f2_days)
         
         # Strength of schedule
-        f1_sos = self._calculate_strength_of_schedule(fighter1_name, fight_date)
-        f2_sos = self._calculate_strength_of_schedule(fighter2_name, fight_date)
+        f1_sos = self._calculate_strength_of_schedule(fighter1_name, fight_dt)
+        f2_sos = self._calculate_strength_of_schedule(fighter2_name, fight_dt)
         features['f1_strength_of_schedule'] = f1_sos if f1_sos is not None else 0
         features['f2_strength_of_schedule'] = f2_sos if f2_sos is not None else 0
         
@@ -659,7 +695,7 @@ class FeatureEngineer:
         
         return features_df
     
-    def _calculate_days_since_last_fight(self, fighter_name: str, fight_date: pd.Timestamp) -> Optional[int]:
+    def _calculate_days_since_last_fight(self, fighter_name: str, fight_date: object) -> Optional[int]:
         """Calculate days since last fight.
         
         Args:
@@ -669,17 +705,24 @@ class FeatureEngineer:
         Returns:
             Days since last fight or None
         """
-        past_fights = self.fight_history_df[
-            (self.fight_history_df['fighter_name'] == fighter_name) &
-            (self.fight_history_df['date'] < fight_date)
-        ].sort_values('date', ascending=False)
+        fh = self._fight_history()
+        fight_ts = _coerce_timestamp(fight_date)
+        past_fights = cast(
+            pd.DataFrame,
+            fh[
+                (fh['fighter_name'] == fighter_name) &
+                (fh['date'] < fight_ts)
+            ],
+        ).sort_values(by='date', ascending=False)
         
         if len(past_fights) == 0:
             return None
         
-        last_fight_date = past_fights.iloc[0]['date']
-        days_diff = (fight_date - last_fight_date).days
-        return days_diff if days_diff >= 0 else None
+        last_fight_date = _coerce_timestamp(past_fights.iloc[0]['date'])
+        days_diff = (fight_ts - last_fight_date).days
+        if days_diff is None or days_diff < 0:
+            return None
+        return int(days_diff)
     
     def _calculate_layoff_penalty(self, days_since_last_fight: Optional[int]) -> float:
         """Calculate layoff penalty based on days since last fight.
@@ -717,7 +760,7 @@ class FeatureEngineer:
         
         return max(0.0, penalty)  # Ensure non-negative
     
-    def _calculate_strength_of_schedule(self, fighter_name: str, fight_date: pd.Timestamp) -> Optional[float]:
+    def _calculate_strength_of_schedule(self, fighter_name: str, fight_date: object) -> Optional[float]:
         """Calculate strength of schedule (average opponent win percentage).
         
         Args:
@@ -727,30 +770,34 @@ class FeatureEngineer:
         Returns:
             Average opponent win percentage or None
         """
-        past_fights = self.fight_history_df[
-            (self.fight_history_df['fighter_name'] == fighter_name) &
-            (self.fight_history_df['date'] < fight_date)
-        ]
+        fh = self._fight_history()
+        stats = self._fighter_stats()
+        fight_ts = _coerce_timestamp(fight_date)
+        past_fights = cast(
+            pd.DataFrame,
+            fh[
+                (fh['fighter_name'] == fighter_name) &
+                (fh['date'] < fight_ts)
+            ],
+        )
         
         if len(past_fights) == 0:
             return None
         
-        opponent_win_pcts = []
+        opponent_win_pcts: List[float] = []
         for _, fight in past_fights.iterrows():
             opponent_name = fight['opponent']
-            opponent_stats = self.fighter_stats_df[
-                self.fighter_stats_df['name'] == opponent_name
-            ]
+            opponent_stats = stats[stats['name'] == opponent_name]
             
             if len(opponent_stats) > 0:
                 win_pct = opponent_stats.iloc[0].get('win_percentage', 0)
                 if win_pct is not None and not np.isnan(win_pct):
-                    opponent_win_pcts.append(win_pct)
+                    opponent_win_pcts.append(float(win_pct))
         
         if len(opponent_win_pcts) == 0:
             return None
         
-        return np.mean(opponent_win_pcts)
+        return float(np.mean(opponent_win_pcts))
     
     def scale_features(self, features_df: pd.DataFrame, method: str = 'standard') -> pd.DataFrame:
         """Scale/standardize features for ML models.
